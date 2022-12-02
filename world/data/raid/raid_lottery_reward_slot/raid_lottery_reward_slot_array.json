@@ -1,0 +1,158 @@
+{
+  "Table": [
+    {
+      "Slot01": {
+        "SlotNum": 4,
+        "Rate": 10
+      },
+      "Slot02": {
+        "SlotNum": 5,
+        "Rate": 30
+      },
+      "Slot03": {
+        "SlotNum": 6,
+        "Rate": 30
+      },
+      "Slot04": {
+        "SlotNum": 7,
+        "Rate": 20
+      },
+      "Slot05": {
+        "SlotNum": 8,
+        "Rate": 10
+      }
+    },
+    {
+      "Slot01": {
+        "SlotNum": 4,
+        "Rate": 10
+      },
+      "Slot02": {
+        "SlotNum": 5,
+        "Rate": 30
+      },
+      "Slot03": {
+        "SlotNum": 6,
+        "Rate": 30
+      },
+      "Slot04": {
+        "SlotNum": 7,
+        "Rate": 20
+      },
+      "Slot05": {
+        "SlotNum": 8,
+        "Rate": 10
+      }
+    },
+    {
+      "Slot01": {
+        "SlotNum": 5,
+        "Rate": 10
+      },
+      "Slot02": {
+        "SlotNum": 6,
+        "Rate": 30
+      },
+      "Slot03": {
+        "SlotNum": 7,
+        "Rate": 30
+      },
+      "Slot04": {
+        "SlotNum": 8,
+        "Rate": 20
+      },
+      "Slot05": {
+        "SlotNum": 9,
+        "Rate": 10
+      }
+    },
+    {
+      "Slot01": {
+        "SlotNum": 5,
+        "Rate": 10
+      },
+      "Slot02": {
+        "SlotNum": 6,
+        "Rate": 30
+      },
+      "Slot03": {
+        "SlotNum": 7,
+        "Rate": 30
+      },
+      "Slot04": {
+        "SlotNum": 8,
+        "Rate": 20
+      },
+      "Slot05": {
+        "SlotNum": 9,
+        "Rate": 10
+      }
+    },
+    {
+      "Slot01": {
+        "SlotNum": 6,
+        "Rate": 10
+      },
+      "Slot02": {
+        "SlotNum": 7,
+        "Rate": 30
+      },
+      "Slot03": {
+        "SlotNum": 8,
+        "Rate": 30
+      },
+      "Slot04": {
+        "SlotNum": 9,
+        "Rate": 20
+      },
+      "Slot05": {
+        "SlotNum": 10,
+        "Rate": 10
+      }
+    },
+    {
+      "Slot01": {
+        "SlotNum": 7,
+        "Rate": 10
+      },
+      "Slot02": {
+        "SlotNum": 8,
+        "Rate": 30
+      },
+      "Slot03": {
+        "SlotNum": 9,
+        "Rate": 30
+      },
+      "Slot04": {
+        "SlotNum": 10,
+        "Rate": 20
+      },
+      "Slot05": {
+        "SlotNum": 11,
+        "Rate": 10
+      }
+    },
+    {
+      "Slot01": {
+        "SlotNum": 7,
+        "Rate": 10
+      },
+      "Slot02": {
+        "SlotNum": 8,
+        "Rate": 30
+      },
+      "Slot03": {
+        "SlotNum": 9,
+        "Rate": 30
+      },
+      "Slot04": {
+        "SlotNum": 10,
+        "Rate": 20
+      },
+      "Slot05": {
+        "SlotNum": 11,
+        "Rate": 10
+      }
+    }
+  ]
+}

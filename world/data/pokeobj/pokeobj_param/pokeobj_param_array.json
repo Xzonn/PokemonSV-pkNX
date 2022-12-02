@@ -1,0 +1,2188 @@
+{
+  "Table": [
+    {
+      "Devid": 0,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0.3,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 55,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0.3,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 81,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 82,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0.3,
+        "Radius": 0.5
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 94,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.7,
+          "Z": 0
+        },
+        "Radius": 0.8
+      },
+      "Grasscollision": {
+        "Offsety": 0.7,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 96,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 129,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
+        },
+        "Radius": 0.4
+      },
+      "Grasscollision": {
+        "Offsety": 0.4,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0.2,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 130,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 1.5,
+          "Z": 0
+        },
+        "Radius": 1.5
+      },
+      "Grasscollision": {
+        "Offsety": 1.5,
+        "Radius": 2
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 156,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0.15,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 198,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 278,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0,
+        "Radius": 0
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 286,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 340,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.3
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 361,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 362,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 396,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 397,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
+        },
+        "Radius": 0.3
+      },
+      "Grasscollision": {
+        "Offsety": 0.3,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 398,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.5,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0.5,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 403,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 405,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.6,
+          "Z": 0
+        },
+        "Radius": 0.6
+      },
+      "Grasscollision": {
+        "Offsety": 0.6,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 415,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 0.5
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 417,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 418,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
+        },
+        "Radius": 0.4
+      },
+      "Grasscollision": {
+        "Offsety": 0.3,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 425,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 0.5
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 426,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.6,
+          "Z": 0
+        },
+        "Radius": 0.6
+      },
+      "Grasscollision": {
+        "Offsety": 0.6,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 430,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0.5,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 436,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 437,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Grasscollision": {
+        "Offsety": 0,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 445,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
+        },
+        "Radius": 0.3
+      },
+      "Grasscollision": {
+        "Offsety": 0.5,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 447,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 448,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 11,
+          "Z": -90
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0.3,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 459,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.5,
+          "Z": 0
+        },
+        "Radius": 0.6
+      },
+      "Grasscollision": {
+        "Offsety": 0.5,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 470,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
+        },
+        "Radius": 0.4
+      },
+      "Grasscollision": {
+        "Offsety": 0.4,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 501,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.25,
+          "Z": 0
+        },
+        "Radius": 0.25
+      },
+      "Grasscollision": {
+        "Offsety": 0.25,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 548,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.2,
+        "Radius": 0.2
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 571,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
+        },
+        "Radius": 0.5
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.5,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0,
+        "AcceleStartDistance": 0,
+        "DeceleStartDistance": 0,
+        "MoveAccele": 0,
+        "RotationSpeed": 0,
+        "MinWaterDepthThreshold": 0,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 906,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 11,
+          "Z": -90
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0.3,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 909,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 11,
+          "Z": -90
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0.3,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    },
+    {
+      "Devid": 912,
+      "Bodycollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Characollision": {
+        "Shape": 1,
+        "Pos": {
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
+        },
+        "Radius": 0.2
+      },
+      "Grasscollision": {
+        "Offsety": 0.1,
+        "Radius": 1
+      },
+      "FlatBuffer": {
+        "FileName": "DEFAULT"
+      },
+      "Gemparam": {
+        "Pos": {
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 11,
+          "Z": -90
+        },
+        "Scale": {
+          "X": 1,
+          "Y": 1,
+          "Z": 1
+        }
+      },
+      "Poke": {
+        "ReachDistance": 0.5,
+        "AcceleStartDistance": 4,
+        "DeceleStartDistance": 3,
+        "MoveAccele": 3,
+        "RotationSpeed": 10,
+        "MinWaterDepthThreshold": 0.3,
+        "MaxWaterDepthThreshold": 0,
+        "MinAltitudeThreshold": 0,
+        "MaxAltitudeThreshold": 0
+      }
+    }
+  ]
+}

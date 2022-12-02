@@ -1,0 +1,12 @@
+{
+  "Table": [
+    {
+      "AutoReturnFallTime": 5,
+      "AutoReturnSlideTime": 5,
+      "AutoReturnMoveAmount": 5,
+      "AutoReturnTiltAngle": 30,
+      "CliffReturnHeavyLandingHeight": 10,
+      "CliffReturnInvalidDistance": 15
+    }
+  ]
+}

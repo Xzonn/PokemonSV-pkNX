@@ -1,0 +1,84 @@
+{
+  "Table": [
+    {
+      "Biome": "bamboo_forest",
+      "WeightHiddenItem": 50,
+      "WeightRummagingItem": 50
+    },
+    {
+      "Biome": "beach",
+      "WeightHiddenItem": 30,
+      "WeightRummagingItem": 70
+    },
+    {
+      "Biome": "cave",
+      "WeightHiddenItem": 40,
+      "WeightRummagingItem": 60
+    },
+    {
+      "Biome": "desert",
+      "WeightHiddenItem": 40,
+      "WeightRummagingItem": 60
+    },
+    {
+      "Biome": "flower_field",
+      "WeightHiddenItem": 50,
+      "WeightRummagingItem": 50
+    },
+    {
+      "Biome": "forest",
+      "WeightHiddenItem": 50,
+      "WeightRummagingItem": 50
+    },
+    {
+      "Biome": "lake",
+      "WeightHiddenItem": 60,
+      "WeightRummagingItem": 40
+    },
+    {
+      "Biome": "mountain",
+      "WeightHiddenItem": 70,
+      "WeightRummagingItem": 30
+    },
+    {
+      "Biome": "ocean",
+      "WeightHiddenItem": 50,
+      "WeightRummagingItem": 50
+    },
+    {
+      "Biome": "prairie",
+      "WeightHiddenItem": 60,
+      "WeightRummagingItem": 40
+    },
+    {
+      "Biome": "riverside",
+      "WeightHiddenItem": 50,
+      "WeightRummagingItem": 50
+    },
+    {
+      "Biome": "rocky_area",
+      "WeightHiddenItem": 60,
+      "WeightRummagingItem": 40
+    },
+    {
+      "Biome": "snowfield",
+      "WeightHiddenItem": 40,
+      "WeightRummagingItem": 60
+    },
+    {
+      "Biome": "swamp",
+      "WeightHiddenItem": 60,
+      "WeightRummagingItem": 40
+    },
+    {
+      "Biome": "town",
+      "WeightHiddenItem": 50,
+      "WeightRummagingItem": 50
+    },
+    {
+      "Biome": "underground",
+      "WeightHiddenItem": 50,
+      "WeightRummagingItem": 50
+    }
+  ]
+}

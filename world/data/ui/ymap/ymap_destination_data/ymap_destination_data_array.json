@@ -1,0 +1,1282 @@
+{
+  "Table": [
+    {
+      "EventID": "common_0060",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0060",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0060",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0070",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0060",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0060",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0088",
+      "MapIconMode": 1,
+      "IconID": "COMMON_00",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_01_00",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0090",
+      "MapIconMode": 0,
+      "IconID": "COMMON_00",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_01_00",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0090",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0090",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0090",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0095",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0090",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0090",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0095",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0095",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0095",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0100",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0095",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0095",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0100",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0100",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0100",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0130",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0100",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0100",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0130",
+      "MapIconMode": 1,
+      "IconID": "COMMON_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0130",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0135",
+      "MapIconMode": 0,
+      "IconID": "COMMON_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0130",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0170",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0170",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0170",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0185",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0170",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0170",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0185",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0185",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0185",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0190",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0185",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0185",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0190",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0190",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0190",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0210",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0190",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0190",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0210",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0210",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0210",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0220",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0210",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0210",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0220",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0220",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0220",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0225",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0220",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0220",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0225",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0225",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0225",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0230",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0225",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_00",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0225",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0990",
+      "MapIconMode": 1,
+      "IconID": "COMMON_0990",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0990",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_1010",
+      "MapIconMode": 0,
+      "IconID": "COMMON_0990",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_0990",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_1010",
+      "MapIconMode": 1,
+      "IconID": "COMMON_1010",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_1010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_1050",
+      "MapIconMode": 0,
+      "IconID": "COMMON_1010",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_1010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2000",
+      "MapIconMode": 1,
+      "IconID": "COMMON_2000",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 0,
+      "IconID": "COMMON_2000",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2030",
+      "MapIconMode": 1,
+      "IconID": "COMMON_2030",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2030",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2050",
+      "MapIconMode": 0,
+      "IconID": "COMMON_2030",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2030",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2070",
+      "MapIconMode": 1,
+      "IconID": "COMMON_2070",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2070",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2080",
+      "MapIconMode": 0,
+      "IconID": "COMMON_2070",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2070",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2080",
+      "MapIconMode": 1,
+      "IconID": "COMMON_2080",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2080",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2090",
+      "MapIconMode": 0,
+      "IconID": "COMMON_2080",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2080",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "DAN_AKU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_aku",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "ajito_aku_040",
+      "MapIconMode": 0,
+      "IconID": "DAN_AKU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_aku",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "DAN_DOKU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_doku",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "ajito_doku_040",
+      "MapIconMode": 0,
+      "IconID": "DAN_DOKU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_doku",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "DAN_FAIRY",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_fairy",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "ajito_fairy_040",
+      "MapIconMode": 0,
+      "IconID": "DAN_FAIRY",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_fairy",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "team_0110",
+      "MapIconMode": 1,
+      "IconID": "DAN_FINAL",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_final",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "team_0160",
+      "MapIconMode": 0,
+      "IconID": "DAN_FINAL",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_final",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "team_0160",
+      "MapIconMode": 1,
+      "IconID": "DAN_FINAL_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "team_0170",
+      "MapIconMode": 0,
+      "IconID": "DAN_FINAL_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_SCENARIO_COMMON_2000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "team_0180",
+      "MapIconMode": 1,
+      "IconID": "DAN_FINAL_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_final_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "team_0190",
+      "MapIconMode": 0,
+      "IconID": "DAN_FINAL_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_final_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "DAN_HONOO",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_honoo",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "ajito_honoo_040",
+      "MapIconMode": 0,
+      "IconID": "DAN_HONOO",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_honoo",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "DAN_KAKUTOU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_kakutou",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "ajito_kakutou_040",
+      "MapIconMode": 0,
+      "IconID": "DAN_KAKUTOU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_02",
+      "DestinationName": "ymap_title_DAN_kakutou",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_DENKI",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_denki",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_denki_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_DENKI",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_denki",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_denki_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_DENKI_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_denki_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_denki_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_DENKI_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_denki_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_denki_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_DENKI_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_denki_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_denki_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_DENKI_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_denki_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_DENKI_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_denki",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_denki_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_DENKI_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_denki",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_ESPER",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_esper",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_esper_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_ESPER",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_esper",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_esper_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_ESPER_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_esper_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_esper_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_ESPER_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_esper_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_esper_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_ESPER_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_esper_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_esper_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_ESPER_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_esper_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_ESPER_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_esper",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_esper_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_ESPER_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_esper",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "champ_0150",
+      "MapIconMode": 1,
+      "IconID": "GYM_FINAL",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_final",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "champ_0270",
+      "MapIconMode": 0,
+      "IconID": "GYM_FINAL",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_final",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "champ_0270",
+      "MapIconMode": 1,
+      "IconID": "GYM_FINAL_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_final_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "champ_0290",
+      "MapIconMode": 0,
+      "IconID": "GYM_FINAL_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_final_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_GHOST",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_ghost",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_ghost_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_GHOST",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_ghost",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_ghost_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_GHOST_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_ghost_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_ghost_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_GHOST_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_ghost_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_ghost_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_GHOST_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_ghost_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_ghost_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_GHOST_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_ghost_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_GHOST_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_ghost",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_ghost_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_GHOST_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_ghost",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_KOORI",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_koori",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_koori_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_KOORI",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_koori",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_koori_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_KOORI_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_koori_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_koori_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_KOORI_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_koori_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_koori_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_KOORI_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_koori_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_koori_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_KOORI_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_koori_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_KOORI_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_koori",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_koori_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_KOORI_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_koori",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_KUSA",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_kusa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_kusa_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_KUSA",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_kusa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_kusa_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_KUSA_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_kusa_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_kusa_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_KUSA_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_kusa_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_kusa_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_KUSA_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_kusa_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_kusa_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_KUSA_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_kusa_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_KUSA_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_kusa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_kusa_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_KUSA_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_kusa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_MIZU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_mizu",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mizu_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_MIZU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_mizu",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mizu_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_MIZU_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_mizu_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mizu_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_MIZU_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_mizu_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mizu_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_MIZU_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_mizu_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mizu_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_MIZU_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_mizu_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_MIZU_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_mizu",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_mizu_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_MIZU_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_mizu",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_MUSI",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_musi",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mushi_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_MUSI",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_musi",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mushi_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_MUSI_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_musi_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mushi_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_MUSI_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_musi_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mushi_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_MUSI_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_musi_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_mushi_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_MUSI_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_musi_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_MUSI_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_mushi",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_mushi_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_MUSI_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_mushi",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "GYM_NORMAL",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_normal",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_normal_010",
+      "MapIconMode": 0,
+      "IconID": "GYM_NORMAL",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_normal",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_normal_010",
+      "MapIconMode": 1,
+      "IconID": "GYM_NORMAL_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_normal_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_normal_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_NORMAL_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_normal_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_normal_020",
+      "MapIconMode": 1,
+      "IconID": "GYM_NORMAL_03",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_normal_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "gym_normal_040",
+      "MapIconMode": 0,
+      "IconID": "GYM_NORMAL_03",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_01",
+      "DestinationName": "ymap_title_GYM_normal_03",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2010",
+      "MapIconMode": 1,
+      "IconID": "GYM_NORMAL_CLEAR",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_normal",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_2020_normal_020",
+      "MapIconMode": 0,
+      "IconID": "GYM_NORMAL_CLEAR",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_05",
+      "DestinationName": "ymap_title_GYM_clear_normal",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "NUSI_DRAGON",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_dragon",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_dragon_010",
+      "MapIconMode": 0,
+      "IconID": "NUSI_DRAGON",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_dragon",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_dragon_010",
+      "MapIconMode": 1,
+      "IconID": "NUSI_DRAGON_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_dragon",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_dragon_030",
+      "MapIconMode": 0,
+      "IconID": "NUSI_DRAGON_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_dragon",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "legend_0080",
+      "MapIconMode": 1,
+      "IconID": "NUSI_FINAL",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSHI_final",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "legend_0110",
+      "MapIconMode": 0,
+      "IconID": "NUSI_FINAL",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSHI_final",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "legend_0110",
+      "MapIconMode": 1,
+      "IconID": "NUSI_FINAL_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSHI_final_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "legend_0120",
+      "MapIconMode": 0,
+      "IconID": "NUSI_FINAL_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSHI_final_02",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "NUSI_HAGANE",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_hagane",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_hagane_010",
+      "MapIconMode": 0,
+      "IconID": "NUSI_HAGANE",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_hagane",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_hagane_010",
+      "MapIconMode": 1,
+      "IconID": "NUSI_HAGANE_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_hagane",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_hagane_030",
+      "MapIconMode": 0,
+      "IconID": "NUSI_HAGANE_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_hagane",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "NUSI_HIKOU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_hikou",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_hikou_030",
+      "MapIconMode": 0,
+      "IconID": "NUSI_HIKOU",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_hikou",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "NUSI_IWA",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_iwa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_iwa_010",
+      "MapIconMode": 0,
+      "IconID": "NUSI_IWA",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_iwa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_iwa_010",
+      "MapIconMode": 1,
+      "IconID": "NUSI_IWA_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_iwa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_iwa_030",
+      "MapIconMode": 0,
+      "IconID": "NUSI_IWA_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_iwa",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "common_0310",
+      "MapIconMode": 1,
+      "IconID": "NUSI_JIMEN",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_jimen",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_jimen_010",
+      "MapIconMode": 0,
+      "IconID": "NUSI_JIMEN",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_jimen",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_jimen_010",
+      "MapIconMode": 1,
+      "IconID": "NUSI_JIMEN_02",
+      "IsNotice": true,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_jimen",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "nushi_jimen_030",
+      "MapIconMode": 0,
+      "IconID": "NUSI_JIMEN_02",
+      "IsNotice": false,
+      "ChapterTitle": "ymap_title_00_03",
+      "DestinationName": "ymap_title_NUSI_jimen",
+      "SubDestinationName": ""
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "WalkFetchRange": 100,
+  "WalkReleaseRange": 120,
+  "BoxFetchRange": 100,
+  "BoxReleaseRange": 120,
+  "BoxRevival": {
+    "RevivalRate": 500,
+    "QuantityData": {
+      "Lottery00": {
+        "Rate": 7000,
+        "Num": 1
+      },
+      "Lottery01": {
+        "Rate": 2900,
+        "Num": 5
+      },
+      "Lottery02": {
+        "Rate": 90,
+        "Num": 10
+      },
+      "Lottery03": {
+        "Rate": 10,
+        "Num": -1
+      },
+      "Lottery04": {
+        "Rate": 0,
+        "Num": 0
+      }
+    },
+    "NumData": {
+      "Lottery00": {
+        "Rate": 2500,
+        "Num": 10
+      },
+      "Lottery01": {
+        "Rate": 3900,
+        "Num": 30
+      },
+      "Lottery02": {
+        "Rate": 3000,
+        "Num": 50
+      },
+      "Lottery03": {
+        "Rate": 500,
+        "Num": 100
+      },
+      "Lottery04": {
+        "Rate": 90,
+        "Num": 200
+      },
+      "Lottery05": {
+        "Rate": 10,
+        "Num": 777
+      },
+      "Lottery06": {
+        "Rate": 0,
+        "Num": 0
+      },
+      "Lottery07": {
+        "Rate": 0,
+        "Num": 0
+      },
+      "Lottery08": {
+        "Rate": 0,
+        "Num": 0
+      }
+    }
+  },
+  "WalkRevival": {
+    "RevivalRate": 5000,
+    "QuantityData": {
+      "Lottery00": {
+        "Rate": 90,
+        "Num": 1
+      },
+      "Lottery01": {
+        "Rate": 2500,
+        "Num": 5
+      },
+      "Lottery02": {
+        "Rate": 6000,
+        "Num": 10
+      },
+      "Lottery03": {
+        "Rate": 1400,
+        "Num": 20
+      },
+      "Lottery04": {
+        "Rate": 10,
+        "Num": -1
+      }
+    },
+    "NumData": {
+      "Lottery00": {
+        "Rate": 5000,
+        "Num": 1
+      },
+      "Lottery01": {
+        "Rate": 2000,
+        "Num": 3
+      },
+      "Lottery02": {
+        "Rate": 2000,
+        "Num": 5
+      },
+      "Lottery03": {
+        "Rate": 700,
+        "Num": 10
+      },
+      "Lottery04": {
+        "Rate": 200,
+        "Num": 30
+      },
+      "Lottery05": {
+        "Rate": 90,
+        "Num": 50
+      },
+      "Lottery06": {
+        "Rate": 9,
+        "Num": 100
+      },
+      "Lottery07": {
+        "Rate": 1,
+        "Num": 200
+      },
+      "Lottery08": {
+        "Rate": 0,
+        "Num": 0
+      }
+    }
+  },
+  "WalkVoiceLength": 10,
+  "WalkVoiceIntervalMin": 30,
+  "WalkVoiceIntervalMax": 90
+}

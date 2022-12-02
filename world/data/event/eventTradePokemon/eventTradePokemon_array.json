@@ -1,0 +1,184 @@
+{
+  "Table": [
+    {
+      "Label": "trade_c02_0194",
+      "PokeData": {
+        "DevId": 194,
+        "FormId": 0,
+        "Level": 18,
+        "Sex": 1,
+        "Tokusei": 3,
+        "GemType": 12,
+        "RareType": 1,
+        "ScaleType": 3,
+        "ScaleValue": 0,
+        "WeightType": 3,
+        "WeightValue": 0,
+        "TalentType": 2,
+        "TalentVnum": 0,
+        "TalentValue": {
+          "HP": 27,
+          "ATK": 18,
+          "DEF": 25,
+          "SPA": 16,
+          "SPD": 31,
+          "SPE": 13
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 50,
+        "Seikaku": 8,
+        "SeikakuHosei": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "BallId": 4,
+        "UseNickName": true,
+        "NicknameLabel": 13962955351347520314,
+        "ParentNameLabel": 4703637244338590224,
+        "TrainerId": 33081,
+        "ParentSex": 2
+      }
+    },
+    {
+      "Label": "trade_c03_0093",
+      "PokeData": {
+        "DevId": 93,
+        "FormId": 0,
+        "Level": 25,
+        "Sex": 2,
+        "Tokusei": 2,
+        "GemType": 9,
+        "RareType": 1,
+        "ScaleType": 2,
+        "ScaleValue": 0,
+        "WeightType": 2,
+        "WeightValue": 0,
+        "TalentType": 2,
+        "TalentVnum": 0,
+        "TalentValue": {
+          "HP": 14,
+          "ATK": 20,
+          "DEF": 25,
+          "SPA": 28,
+          "SPD": 16,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "BallId": 4,
+        "UseNickName": true,
+        "NicknameLabel": 10803929472845007775,
+        "ParentNameLabel": 3481721597248392323,
+        "TrainerId": 16519,
+        "ParentSex": 2
+      }
+    },
+    {
+      "Label": "trade_t03_0872",
+      "PokeData": {
+        "DevId": 872,
+        "FormId": 0,
+        "Level": 10,
+        "Sex": 2,
+        "Tokusei": 0,
+        "GemType": 16,
+        "RareType": 1,
+        "ScaleType": 4,
+        "ScaleValue": 0,
+        "WeightType": 4,
+        "WeightValue": 0,
+        "TalentType": 2,
+        "TalentVnum": 0,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 18,
+          "DEF": 13,
+          "SPA": 28,
+          "SPD": 26,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "Seikaku": 19,
+        "SeikakuHosei": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "BallId": 4,
+        "UseNickName": true,
+        "NicknameLabel": 11786297947786292489,
+        "ParentNameLabel": 14931681408943467341,
+        "TrainerId": 50724,
+        "ParentSex": 1
+      }
+    }
+  ]
+}

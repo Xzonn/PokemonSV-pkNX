@@ -1,0 +1,19 @@
+{
+  "Yaw": {
+    "Origin": 0,
+    "Max": 25,
+    "Min": 25
+  },
+  "Pitch": {
+    "Origin": -20,
+    "Max": 15,
+    "Min": 10
+  },
+  "Distance": 3.9,
+  "DelayFactor": 0.4,
+  "Offset": {
+    "X": 0,
+    "Y": 1.1,
+    "Z": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Table": [
+    {
+      "BattleRuleId": 1,
+      "BattleteamPokeMin": 3,
+      "BattleteamPokeMax": 6,
+      "SelectPokeMin": 3,
+      "SelectPokeMax": 3,
+      "JoinLevel": 50,
+      "LevelRateRule": 4,
+      "SamePokeCheck": 1,
+      "SameItemCheck": 1,
+      "TimelimitType": 0,
+      "LimitTime": 60,
+      "WaitTime": 1,
+      "DecideTime": 1,
+      "PokeShowType": 1,
+      "PokeShowTime": 1,
+      "GemModeFlag": 0
+    },
+    {
+      "BattleRuleId": 2,
+      "BattleteamPokeMin": 1,
+      "BattleteamPokeMax": 3,
+      "SelectPokeMin": 1,
+      "SelectPokeMax": 3,
+      "JoinLevel": 100,
+      "LevelRateRule": 5,
+      "SamePokeCheck": 0,
+      "SameItemCheck": 0,
+      "TimelimitType": 2,
+      "LimitTime": 20,
+      "WaitTime": 1,
+      "DecideTime": 2,
+      "PokeShowType": 0,
+      "PokeShowTime": 2,
+      "GemModeFlag": 1
+    },
+    {
+      "BattleRuleId": 3,
+      "BattleteamPokeMin": 6,
+      "BattleteamPokeMax": 6,
+      "SelectPokeMin": 3,
+      "SelectPokeMax": 6,
+      "JoinLevel": 70,
+      "LevelRateRule": 1,
+      "SamePokeCheck": 0,
+      "SameItemCheck": 1,
+      "TimelimitType": 1,
+      "LimitTime": 90,
+      "WaitTime": 20,
+      "DecideTime": 10,
+      "PokeShowType": 1,
+      "PokeShowTime": 35,
+      "GemModeFlag": 1
+    }
+  ]
+}

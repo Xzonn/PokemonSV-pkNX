@@ -1,0 +1,739 @@
+{
+  "Objects": [
+    {
+      "Name": "DressupItemData",
+      "Fields": [
+        {
+          "Key": "bland",
+          "Value": {
+            "Name": "bland",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 2,
+            "Offset": 8,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "dressup",
+          "Value": {
+            "Name": "dressup",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "dressup_itemid",
+          "Value": {
+            "Name": "dressup_itemid",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "modelLabel",
+          "Value": {
+            "Name": "modelLabel",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 7,
+            "Offset": 18,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "name",
+          "Value": {
+            "Name": "name",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 3,
+            "Offset": 10,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "price",
+          "Value": {
+            "Name": "price",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 5,
+            "Offset": 14,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "sortnum",
+          "Value": {
+            "Name": "sortnum",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 6,
+            "Offset": 16,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "soundTag",
+          "Value": {
+            "Name": "soundTag",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 8,
+            "Offset": 20,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "subname",
+          "Value": {
+            "Name": "subname",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 4,
+            "Offset": 12,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "DressupItemDataArray",
+      "Fields": [
+        {
+          "Key": "values",
+          "Value": {
+            "Name": "values",
+            "Type": {
+              "BaseType": 14,
+              "ElementType": 15,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "DressupBlandType",
+      "Values": [
+        {
+          "Key": -1,
+          "Value": {
+            "Key": "DUMMY",
+            "Value": -1,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 0,
+          "Value": {
+            "Key": "BROTHERFOOT",
+            "Value": 0,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1,
+          "Value": {
+            "Key": "chica",
+            "Value": 1,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2,
+          "Value": {
+            "Key": "DOPEGRANMA",
+            "Value": 2,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 3,
+          "Value": {
+            "Key": "MOTHAT",
+            "Value": 3,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 4,
+          "Value": {
+            "Key": "DENSOKU",
+            "Value": 4,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 5,
+          "Value": {
+            "Key": "ALL_AGES",
+            "Value": 5,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 6,
+          "Value": {
+            "Key": "SO_ATUMORI",
+            "Value": 6,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 7,
+          "Value": {
+            "Key": "ULINGEAR",
+            "Value": 7,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 8,
+          "Value": {
+            "Key": "STARCRAZY",
+            "Value": 8,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 9,
+          "Value": {
+            "Key": "DEFOG",
+            "Value": 9,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 10,
+          "Value": {
+            "Key": "YOCINOSOMEI",
+            "Value": 10,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 11,
+          "Value": {
+            "Key": "DECA_SPORTS",
+            "Value": 11,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 12,
+          "Value": {
+            "Key": "Ruggle",
+            "Value": 12,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 13,
+          "Value": {
+            "Key": "Ortiga",
+            "Value": 13,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 14,
+          "Value": {
+            "Key": "ROTOM",
+            "Value": 14,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        }
+      ],
+      "IsUnion": false,
+      "UnderlyingType": {
+        "BaseType": 7,
+        "ElementType": 0,
+        "Index": 0,
+        "FixedLength": 0,
+        "BaseSize": 4,
+        "ElementSize": 0
+      },
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "DressupItemType",
+      "Values": [
+        {
+          "Key": 0,
+          "Value": {
+            "Key": "UNIFORM",
+            "Value": 0,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1,
+          "Value": {
+            "Key": "LEG",
+            "Value": 1,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2,
+          "Value": {
+            "Key": "FOOT",
+            "Value": 2,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 3,
+          "Value": {
+            "Key": "GLOVE",
+            "Value": 3,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 4,
+          "Value": {
+            "Key": "BAG",
+            "Value": 4,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 5,
+          "Value": {
+            "Key": "HEAD",
+            "Value": 5,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 6,
+          "Value": {
+            "Key": "EYE",
+            "Value": 6,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 7,
+          "Value": {
+            "Key": "ROTOM",
+            "Value": 7,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        }
+      ],
+      "IsUnion": false,
+      "UnderlyingType": {
+        "BaseType": 7,
+        "ElementType": 0,
+        "Index": 1,
+        "FixedLength": 0,
+        "BaseSize": 4,
+        "ElementSize": 0
+      },
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "FileIdentifier": "",
+  "FileExtension": "",
+  "RootTable": {
+    "Name": "DressupItemDataArray",
+    "Fields": [
+      {
+        "Key": "values",
+        "Value": {
+          "Name": "values",
+          "Type": {
+            "BaseType": 14,
+            "ElementType": 15,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 0,
+          "Offset": 4,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": null,
+          "Documentation": null
+        }
+      }
+    ],
+    "IsStruct": false,
+    "MinAlign": 1,
+    "ByteSize": 0,
+    "Attributes": null,
+    "Documentation": null,
+    "DeclarationFile": null
+  },
+  "Services": [],
+  "AdvancedFeatures": 0,
+  "FbsFiles": null
+}

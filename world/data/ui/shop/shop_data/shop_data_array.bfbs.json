@@ -1,0 +1,408 @@
+{
+  "Objects": [
+    {
+      "Name": "shopData",
+      "Fields": [
+        {
+          "Key": "shopid",
+          "Value": {
+            "Name": "shopid",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "shopkind",
+          "Value": {
+            "Name": "shopkind",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "shopDataArray",
+      "Fields": [
+        {
+          "Key": "values",
+          "Value": {
+            "Name": "values",
+            "Type": {
+              "BaseType": 14,
+              "ElementType": 15,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "ShopKind",
+      "Values": [
+        {
+          "Key": 0,
+          "Value": {
+            "Key": "NONE",
+            "Value": 0,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1,
+          "Value": {
+            "Key": "FRIENDLYSHOP",
+            "Value": 1,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2,
+          "Value": {
+            "Key": "RESTAURANT",
+            "Value": 2,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 3,
+          "Value": {
+            "Key": "HAIRMAKE",
+            "Value": 3,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 4,
+          "Value": {
+            "Key": "WAZAMACHINEMACHINE",
+            "Value": 4,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 5,
+          "Value": {
+            "Key": "DRESSUP",
+            "Value": 5,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 6,
+          "Value": {
+            "Key": "LUXURYRESTAURANT",
+            "Value": 6,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 7,
+          "Value": {
+            "Key": "DELIBIRD",
+            "Value": 7,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 8,
+          "Value": {
+            "Key": "DELICATESSEN",
+            "Value": 8,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 9,
+          "Value": {
+            "Key": "DRUG_STORE",
+            "Value": 9,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 10,
+          "Value": {
+            "Key": "KANZUME",
+            "Value": 10,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 11,
+          "Value": {
+            "Key": "BAKERY",
+            "Value": 11,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 12,
+          "Value": {
+            "Key": "SUPERMARKET",
+            "Value": 12,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 13,
+          "Value": {
+            "Key": "KOUBAI",
+            "Value": 13,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 14,
+          "Value": {
+            "Key": "PICNIC",
+            "Value": 14,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        }
+      ],
+      "IsUnion": false,
+      "UnderlyingType": {
+        "BaseType": 7,
+        "ElementType": 0,
+        "Index": 0,
+        "FixedLength": 0,
+        "BaseSize": 4,
+        "ElementSize": 0
+      },
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "FileIdentifier": "",
+  "FileExtension": "",
+  "RootTable": {
+    "Name": "shopDataArray",
+    "Fields": [
+      {
+        "Key": "values",
+        "Value": {
+          "Name": "values",
+          "Type": {
+            "BaseType": 14,
+            "ElementType": 15,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 0,
+          "Offset": 4,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": null,
+          "Documentation": null
+        }
+      }
+    ],
+    "IsStruct": false,
+    "MinAlign": 1,
+    "ByteSize": 0,
+    "Attributes": null,
+    "Documentation": null,
+    "DeclarationFile": null
+  },
+  "Services": [],
+  "AdvancedFeatures": 0,
+  "FbsFiles": null
+}

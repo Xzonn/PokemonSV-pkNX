@@ -1,0 +1,4812 @@
+{
+  "Objects": [
+    {
+      "Name": "Vector3",
+      "Fields": [
+        {
+          "Key": "x",
+          "Value": {
+            "Name": "x",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "y",
+          "Value": {
+            "Name": "y",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "z",
+          "Value": {
+            "Name": "z",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 2,
+            "Offset": 8,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "battleConfig",
+      "Fields": [
+        {
+          "Key": "battle_area_size",
+          "Value": {
+            "Name": "battle_area_size",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 63,
+            "Offset": 130,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "AI\u7528\u30D0\u30C8\u30EB\u30A8\u30EA\u30A2\u30B5\u30A4\u30BA"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "battle_heckler_area_size",
+          "Value": {
+            "Name": "battle_heckler_area_size",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 64,
+            "Offset": 132,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "AI\u7528\u30D0\u30C8\u30EB\u30E4\u30B8\u30A8\u30EA\u30A2\u30B5\u30A4\u30BA"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "boss_car_idling_interval_fix",
+          "Value": {
+            "Name": "boss_car_idling_interval_fix",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 59,
+            "Offset": 122,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "150"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u56E3\u30DC\u30B9\u8ECA\u30A2\u30A4\u30C9\u30EA\u30F3\u30B0\u5F85\u3061\u6642\u9593(\u56FA\u5B9A\u5024)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "boss_car_idling_interval_random",
+          "Value": {
+            "Name": "boss_car_idling_interval_random",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 60,
+            "Offset": 124,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "60"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u56E3\u30DC\u30B9\u8ECA\u30A2\u30A4\u30C9\u30EA\u30F3\u30B0\u5F85\u3061\u6642\u9593(\u4E71\u6570\u5E45)\u3000\u3000"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "boss_car_roar_rate",
+          "Value": {
+            "Name": "boss_car_roar_rate",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 62,
+            "Offset": 128,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "25"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u56E3\u30DC\u30B9\u8ECA\u5486\u54EE\u62BD\u9078\u7387"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "boss_car_wait_rate",
+          "Value": {
+            "Name": "boss_car_wait_rate",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 61,
+            "Offset": 126,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "75"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u56E3\u30DC\u30B9\u8ECA\u5F85\u6A5F\u62BD\u9078\u7387"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_lowrig_height",
+          "Value": {
+            "Name": "fcam_cent_lowrig_height",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 17,
+            "Offset": 38,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "-1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "LowRig \u9AD8\u3055\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_lowrig_radius",
+          "Value": {
+            "Name": "fcam_cent_lowrig_radius",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 16,
+            "Offset": 36,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "LowRig \u534A\u5F84 \uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_midrig_height",
+          "Value": {
+            "Name": "fcam_cent_midrig_height",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 15,
+            "Offset": 34,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "0"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "MidRig \u9AD8\u3055\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_midrig_radius",
+          "Value": {
+            "Name": "fcam_cent_midrig_radius",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 14,
+            "Offset": 32,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "MidRig \u534A\u5F84 \uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_start_height_L",
+          "Value": {
+            "Name": "fcam_cent_start_height_L",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 37,
+            "Offset": 78,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08L)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_start_height_LL",
+          "Value": {
+            "Name": "fcam_cent_start_height_LL",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 38,
+            "Offset": 80,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08LL)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_start_height_M",
+          "Value": {
+            "Name": "fcam_cent_start_height_M",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 36,
+            "Offset": 76,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08M)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_start_height_S",
+          "Value": {
+            "Name": "fcam_cent_start_height_S",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 35,
+            "Offset": 74,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08S)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_toprig_height",
+          "Value": {
+            "Name": "fcam_cent_toprig_height",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 13,
+            "Offset": 30,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "TopRig \u9AD8\u3055\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_cent_toprig_radius",
+          "Value": {
+            "Name": "fcam_cent_toprig_radius",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 12,
+            "Offset": 28,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "TopRig \u534A\u5F84 \uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_center",
+          "Value": {
+            "Name": "fcam_offset_center",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 18,
+            "Offset": 40,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_poke_0",
+          "Value": {
+            "Name": "fcam_offset_poke_0",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 19,
+            "Offset": 42,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 S)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_poke_1",
+          "Value": {
+            "Name": "fcam_offset_poke_1",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 20,
+            "Offset": 44,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 M)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_poke_2",
+          "Value": {
+            "Name": "fcam_offset_poke_2",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 21,
+            "Offset": 46,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 L)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_poke_3",
+          "Value": {
+            "Name": "fcam_offset_poke_3",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 22,
+            "Offset": 48,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 LL)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_tr_0",
+          "Value": {
+            "Name": "fcam_offset_tr_0",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 23,
+            "Offset": 50,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC S)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_tr_1",
+          "Value": {
+            "Name": "fcam_offset_tr_1",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 24,
+            "Offset": 52,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC M)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_tr_2",
+          "Value": {
+            "Name": "fcam_offset_tr_2",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 25,
+            "Offset": 54,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC L)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_offset_tr_3",
+          "Value": {
+            "Name": "fcam_offset_tr_3",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 26,
+            "Offset": 56,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC LL)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_poke_locator",
+          "Value": {
+            "Name": "fcam_poke_locator",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 39,
+            "Offset": 82,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u7528\u30DD\u30B1\u30E2\u30F3\u30ED\u30B1\u30FC\u30BF\u30FC"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_rot_speed_x",
+          "Value": {
+            "Name": "fcam_rot_speed_x",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 41,
+            "Offset": 86,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u89D2\u5EA6\u5909\u66F4\u901F\u5EA6 (X)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_rot_speed_y",
+          "Value": {
+            "Name": "fcam_rot_speed_y",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 42,
+            "Offset": 88,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u89D2\u5EA6\u5909\u66F4\u901F\u5EA6 (Y)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_start_stick_length",
+          "Value": {
+            "Name": "fcam_start_stick_length",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 43,
+            "Offset": 90,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u8D77\u52D5\u30B9\u30C6\u30A3\u30C3\u30AF\u7BC4\u56F2"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_trainer_locator",
+          "Value": {
+            "Name": "fcam_trainer_locator",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 40,
+            "Offset": 84,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u7528\u30C8\u30EC\u30FC\u30CA\u30FC\u30ED\u30B1\u30FC\u30BF\u30FC"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_lowrig_height",
+          "Value": {
+            "Name": "fcam_zoom_lowrig_height",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 5,
+            "Offset": 14,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "-1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "LowRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E0\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_lowrig_height_2",
+          "Value": {
+            "Name": "fcam_zoom_lowrig_height_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 11,
+            "Offset": 26,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "-1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "LowRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E02\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_lowrig_radius",
+          "Value": {
+            "Name": "fcam_zoom_lowrig_radius",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 4,
+            "Offset": 12,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "LowRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E0\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_lowrig_radius_2",
+          "Value": {
+            "Name": "fcam_zoom_lowrig_radius_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 10,
+            "Offset": 24,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "LowRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E02\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_max_angle",
+          "Value": {
+            "Name": "fcam_zoom_max_angle",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 29,
+            "Offset": 62,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u6700\u5927\u89D2\u5EA6"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_max_angle_2",
+          "Value": {
+            "Name": "fcam_zoom_max_angle_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 33,
+            "Offset": 70,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u6700\u5927\u89D2\u5EA6"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_midrig_height",
+          "Value": {
+            "Name": "fcam_zoom_midrig_height",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 3,
+            "Offset": 10,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "0"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "MidRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E0\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_midrig_height_2",
+          "Value": {
+            "Name": "fcam_zoom_midrig_height_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 9,
+            "Offset": 22,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "0"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "MidRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E02\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_midrig_radius",
+          "Value": {
+            "Name": "fcam_zoom_midrig_radius",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 2,
+            "Offset": 8,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "MidRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E0\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_midrig_radius_2",
+          "Value": {
+            "Name": "fcam_zoom_midrig_radius_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 8,
+            "Offset": 20,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "MidRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E02\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_min_angle",
+          "Value": {
+            "Name": "fcam_zoom_min_angle",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 28,
+            "Offset": 60,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u6700\u4F4E\u89D2\u5EA6"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_min_angle_2",
+          "Value": {
+            "Name": "fcam_zoom_min_angle_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 32,
+            "Offset": 68,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u6700\u4F4E\u89D2\u5EA6"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_start_angle",
+          "Value": {
+            "Name": "fcam_zoom_start_angle",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 27,
+            "Offset": 58,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u521D\u671F\u89D2\u5EA6"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_start_angle_2",
+          "Value": {
+            "Name": "fcam_zoom_start_angle_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 31,
+            "Offset": 66,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u521D\u671F\u89D2\u5EA6"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_start_height",
+          "Value": {
+            "Name": "fcam_zoom_start_height",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 30,
+            "Offset": 64,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_start_height_2",
+          "Value": {
+            "Name": "fcam_zoom_start_height_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 34,
+            "Offset": 72,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_toprig_height",
+          "Value": {
+            "Name": "fcam_zoom_toprig_height",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "TopRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E0\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_toprig_height_2",
+          "Value": {
+            "Name": "fcam_zoom_toprig_height_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 7,
+            "Offset": 18,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "TopRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E02\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_toprig_radius",
+          "Value": {
+            "Name": "fcam_zoom_toprig_radius",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "TopRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E0\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fcam_zoom_toprig_radius_2",
+          "Value": {
+            "Name": "fcam_zoom_toprig_radius_2",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 6,
+            "Offset": 16,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "TopRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E02\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "fieldgem_dropup_rate",
+          "Value": {
+            "Name": "fieldgem_dropup_rate",
+            "Type": {
+              "BaseType": 3,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 44,
+            "Offset": 92,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30D5\u30A3\u30FC\u30EB\u30C9\u5B9D\u306E\u30A2\u30A4\u30C6\u30E0\u500B\u6570\u4E57\u6570"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "poke_move_condition_distance",
+          "Value": {
+            "Name": "poke_move_condition_distance",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 66,
+            "Offset": 136,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30DD\u30B1\u30E2\u30F3TML\u79FB\u52D5\u5224\u5B9A\u8DDD\u96E2"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "poke_roar_interval_fix",
+          "Value": {
+            "Name": "poke_roar_interval_fix",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 57,
+            "Offset": 118,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "300"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30DD\u30B1\u30E2\u30F3\u5486\u54EE\u5F85\u3061\u6642\u9593(\u56FA\u5B9A\u5024)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "poke_roar_interval_random",
+          "Value": {
+            "Name": "poke_roar_interval_random",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 58,
+            "Offset": 120,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "400"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30DD\u30B1\u30E2\u30F3\u5486\u54EE\u5F85\u3061\u6642\u9593(\u4E71\u6570\u5E45)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "raid_powercharge_message_time",
+          "Value": {
+            "Name": "raid_powercharge_message_time",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 65,
+            "Offset": 134,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "3.0"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30EC\u30A4\u30C9\u30DC\u30B9\u30D1\u30EF\u30FC\u30C1\u30E3\u30FC\u30B8\u958B\u59CB\u6642\u306E\u30C6\u30AD\u30B9\u30C8\u8868\u793A\u79D2\u6570"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "random_camera_start_frames",
+          "Value": {
+            "Name": "random_camera_start_frames",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 54,
+            "Offset": 112,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "\u30E9\u30F3\u30C0\u30E0\u5F85\u6A5F\u30AB\u30E1\u30E9\u5F85\u3061\u30D5\u30EC\u30FC\u30E0\u6570"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30E9\u30F3\u30C0\u30E0\u5F85\u6A5F\u30AB\u30E1\u30E9\u5F85\u3061\u30D5\u30EC\u30FC\u30E0\u6570"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "trainer_wait_interval_fix",
+          "Value": {
+            "Name": "trainer_wait_interval_fix",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 55,
+            "Offset": 114,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "400"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30C8\u30EC\u30FC\u30CA\u30FC\u5F85\u6A5F\u5F85\u3061\u6642\u9593(\u56FA\u5B9A\u5024)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "trainer_wait_interval_random",
+          "Value": {
+            "Name": "trainer_wait_interval_random",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 56,
+            "Offset": 116,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "500"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30C8\u30EC\u30FC\u30CA\u30FC\u5F85\u6A5F\u5F85\u3061\u6642\u9593(\u4E71\u6570\u5E45)"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_is_post_msg_time",
+          "Value": {
+            "Name": "wazamsg_is_post_msg_time",
+            "Type": {
+              "BaseType": 2,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 47,
+            "Offset": 98,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "True"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u5F8CMsg\u8868\u793A"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_is_pre_msg_time",
+          "Value": {
+            "Name": "wazamsg_is_pre_msg_time",
+            "Type": {
+              "BaseType": 2,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 45,
+            "Offset": 94,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "True"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u524DMsg\u8868\u793A"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_is_sub_msg_close_time",
+          "Value": {
+            "Name": "wazamsg_is_sub_msg_close_time",
+            "Type": {
+              "BaseType": 2,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 51,
+            "Offset": 106,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "True"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u30B5\u30D6Msg\u9589\u3058\u5F85\u3061"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_is_sub_msg_time",
+          "Value": {
+            "Name": "wazamsg_is_sub_msg_time",
+            "Type": {
+              "BaseType": 2,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 49,
+            "Offset": 102,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "True"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u30B5\u30D6Msg\u8868\u793A"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_post_msg_time",
+          "Value": {
+            "Name": "wazamsg_post_msg_time",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 48,
+            "Offset": 100,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1.5"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u5F8CMsg\u6642\u9593\uFF08\u79D2\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_pre_msg_time",
+          "Value": {
+            "Name": "wazamsg_pre_msg_time",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 46,
+            "Offset": 96,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "0"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u524DMsg\u6642\u9593\uFF08\u79D2\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_sub_msg_close_time",
+          "Value": {
+            "Name": "wazamsg_sub_msg_close_time",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 52,
+            "Offset": 108,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1.5"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u30B5\u30D6Msg\u9589\u3058\u5F85\u3061\u6642\u9593\uFF08\u79D2\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazamsg_sub_msg_time",
+          "Value": {
+            "Name": "wazamsg_sub_msg_time",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 50,
+            "Offset": 104,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1.5"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u6280\u30B5\u30D6Msg\u6642\u9593\uFF08\u79D2\uFF09"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wild_trpos_check_size",
+          "Value": {
+            "Name": "wild_trpos_check_size",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 53,
+            "Offset": 110,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1.5"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u91CE\u751F\u3067\u30C8\u30EC\u30FC\u30CA\u30FC\u3092\u8FD1\u3065\u3051\u308B\u30DD\u30B1\u30E2\u30F3\u306E\u30B5\u30A4\u30BA"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "Enums": [],
+  "FileIdentifier": "",
+  "FileExtension": "",
+  "RootTable": {
+    "Name": "battleConfig",
+    "Fields": [
+      {
+        "Key": "battle_area_size",
+        "Value": {
+          "Name": "battle_area_size",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 63,
+          "Offset": 130,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "AI\u7528\u30D0\u30C8\u30EB\u30A8\u30EA\u30A2\u30B5\u30A4\u30BA"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "battle_heckler_area_size",
+        "Value": {
+          "Name": "battle_heckler_area_size",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 64,
+          "Offset": 132,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "AI\u7528\u30D0\u30C8\u30EB\u30E4\u30B8\u30A8\u30EA\u30A2\u30B5\u30A4\u30BA"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "boss_car_idling_interval_fix",
+        "Value": {
+          "Name": "boss_car_idling_interval_fix",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 59,
+          "Offset": 122,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "150"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u56E3\u30DC\u30B9\u8ECA\u30A2\u30A4\u30C9\u30EA\u30F3\u30B0\u5F85\u3061\u6642\u9593(\u56FA\u5B9A\u5024)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "boss_car_idling_interval_random",
+        "Value": {
+          "Name": "boss_car_idling_interval_random",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 60,
+          "Offset": 124,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "60"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u56E3\u30DC\u30B9\u8ECA\u30A2\u30A4\u30C9\u30EA\u30F3\u30B0\u5F85\u3061\u6642\u9593(\u4E71\u6570\u5E45)\u3000\u3000"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "boss_car_roar_rate",
+        "Value": {
+          "Name": "boss_car_roar_rate",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 62,
+          "Offset": 128,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "25"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u56E3\u30DC\u30B9\u8ECA\u5486\u54EE\u62BD\u9078\u7387"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "boss_car_wait_rate",
+        "Value": {
+          "Name": "boss_car_wait_rate",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 61,
+          "Offset": 126,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "75"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u56E3\u30DC\u30B9\u8ECA\u5F85\u6A5F\u62BD\u9078\u7387"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_lowrig_height",
+        "Value": {
+          "Name": "fcam_cent_lowrig_height",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 17,
+          "Offset": 38,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "-1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "LowRig \u9AD8\u3055\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_lowrig_radius",
+        "Value": {
+          "Name": "fcam_cent_lowrig_radius",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 16,
+          "Offset": 36,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "LowRig \u534A\u5F84 \uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_midrig_height",
+        "Value": {
+          "Name": "fcam_cent_midrig_height",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 15,
+          "Offset": 34,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "0"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "MidRig \u9AD8\u3055\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_midrig_radius",
+        "Value": {
+          "Name": "fcam_cent_midrig_radius",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 14,
+          "Offset": 32,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "MidRig \u534A\u5F84 \uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_start_height_L",
+        "Value": {
+          "Name": "fcam_cent_start_height_L",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 37,
+          "Offset": 78,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08L)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_start_height_LL",
+        "Value": {
+          "Name": "fcam_cent_start_height_LL",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 38,
+          "Offset": 80,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08LL)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_start_height_M",
+        "Value": {
+          "Name": "fcam_cent_start_height_M",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 36,
+          "Offset": 76,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08M)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_start_height_S",
+        "Value": {
+          "Name": "fcam_cent_start_height_S",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 35,
+          "Offset": 74,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D0\u30C8\u30EB\u4E2D\u5FC3\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055\uFF08S)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_toprig_height",
+        "Value": {
+          "Name": "fcam_cent_toprig_height",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 13,
+          "Offset": 30,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "TopRig \u9AD8\u3055\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_cent_toprig_radius",
+        "Value": {
+          "Name": "fcam_cent_toprig_radius",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 12,
+          "Offset": 28,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "TopRig \u534A\u5F84 \uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_center",
+        "Value": {
+          "Name": "fcam_offset_center",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 18,
+          "Offset": 40,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30D0\u30C8\u30EB\u4E2D\u5FC3)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_poke_0",
+        "Value": {
+          "Name": "fcam_offset_poke_0",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 19,
+          "Offset": 42,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 S)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_poke_1",
+        "Value": {
+          "Name": "fcam_offset_poke_1",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 20,
+          "Offset": 44,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 M)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_poke_2",
+        "Value": {
+          "Name": "fcam_offset_poke_2",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 21,
+          "Offset": 46,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 L)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_poke_3",
+        "Value": {
+          "Name": "fcam_offset_poke_3",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 22,
+          "Offset": 48,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30DD\u30B1\u30E2\u30F3 LL)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_tr_0",
+        "Value": {
+          "Name": "fcam_offset_tr_0",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 23,
+          "Offset": 50,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC S)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_tr_1",
+        "Value": {
+          "Name": "fcam_offset_tr_1",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 24,
+          "Offset": 52,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC M)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_tr_2",
+        "Value": {
+          "Name": "fcam_offset_tr_2",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 25,
+          "Offset": 54,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC L)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_offset_tr_3",
+        "Value": {
+          "Name": "fcam_offset_tr_3",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 26,
+          "Offset": 56,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30AB\u30E1\u30E9\u30AA\u30D5\u30BB\u30C3\u30C8\uFF08\u30C8\u30EC\u30FC\u30CA\u30FC LL)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_poke_locator",
+        "Value": {
+          "Name": "fcam_poke_locator",
+          "Type": {
+            "BaseType": 13,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 39,
+          "Offset": 82,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u7528\u30DD\u30B1\u30E2\u30F3\u30ED\u30B1\u30FC\u30BF\u30FC"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_rot_speed_x",
+        "Value": {
+          "Name": "fcam_rot_speed_x",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 41,
+          "Offset": 86,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u89D2\u5EA6\u5909\u66F4\u901F\u5EA6 (X)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_rot_speed_y",
+        "Value": {
+          "Name": "fcam_rot_speed_y",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 42,
+          "Offset": 88,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u89D2\u5EA6\u5909\u66F4\u901F\u5EA6 (Y)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_start_stick_length",
+        "Value": {
+          "Name": "fcam_start_stick_length",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 43,
+          "Offset": 90,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u8D77\u52D5\u30B9\u30C6\u30A3\u30C3\u30AF\u7BC4\u56F2"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_trainer_locator",
+        "Value": {
+          "Name": "fcam_trainer_locator",
+          "Type": {
+            "BaseType": 13,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 40,
+          "Offset": 84,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D5\u30EA\u30FC\u30AB\u30E1\u30E9\u7528\u30C8\u30EC\u30FC\u30CA\u30FC\u30ED\u30B1\u30FC\u30BF\u30FC"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_lowrig_height",
+        "Value": {
+          "Name": "fcam_zoom_lowrig_height",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 5,
+          "Offset": 14,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "-1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "LowRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E0\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_lowrig_height_2",
+        "Value": {
+          "Name": "fcam_zoom_lowrig_height_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 11,
+          "Offset": 26,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "-1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "LowRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E02\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_lowrig_radius",
+        "Value": {
+          "Name": "fcam_zoom_lowrig_radius",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 4,
+          "Offset": 12,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "LowRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E0\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_lowrig_radius_2",
+        "Value": {
+          "Name": "fcam_zoom_lowrig_radius_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 10,
+          "Offset": 24,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "LowRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E02\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_max_angle",
+        "Value": {
+          "Name": "fcam_zoom_max_angle",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 29,
+          "Offset": 62,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u6700\u5927\u89D2\u5EA6"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_max_angle_2",
+        "Value": {
+          "Name": "fcam_zoom_max_angle_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 33,
+          "Offset": 70,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u6700\u5927\u89D2\u5EA6"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_midrig_height",
+        "Value": {
+          "Name": "fcam_zoom_midrig_height",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 3,
+          "Offset": 10,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "0"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "MidRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E0\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_midrig_height_2",
+        "Value": {
+          "Name": "fcam_zoom_midrig_height_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 9,
+          "Offset": 22,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "0"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "MidRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E02\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_midrig_radius",
+        "Value": {
+          "Name": "fcam_zoom_midrig_radius",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 2,
+          "Offset": 8,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "MidRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E0\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_midrig_radius_2",
+        "Value": {
+          "Name": "fcam_zoom_midrig_radius_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 8,
+          "Offset": 20,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "MidRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E02\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_min_angle",
+        "Value": {
+          "Name": "fcam_zoom_min_angle",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 28,
+          "Offset": 60,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u6700\u4F4E\u89D2\u5EA6"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_min_angle_2",
+        "Value": {
+          "Name": "fcam_zoom_min_angle_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 32,
+          "Offset": 68,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u6700\u4F4E\u89D2\u5EA6"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_start_angle",
+        "Value": {
+          "Name": "fcam_zoom_start_angle",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 27,
+          "Offset": 58,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u521D\u671F\u89D2\u5EA6"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_start_angle_2",
+        "Value": {
+          "Name": "fcam_zoom_start_angle_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 31,
+          "Offset": 66,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u521D\u671F\u89D2\u5EA6"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_start_height",
+        "Value": {
+          "Name": "fcam_zoom_start_height",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 30,
+          "Offset": 64,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E0\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_start_height_2",
+        "Value": {
+          "Name": "fcam_zoom_start_height_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 34,
+          "Offset": 72,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30BA\u30FC\u30E02\u30AB\u30E1\u30E9\u521D\u671F\u9AD8\u3055"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_toprig_height",
+        "Value": {
+          "Name": "fcam_zoom_toprig_height",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 1,
+          "Offset": 6,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "TopRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E0\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_toprig_height_2",
+        "Value": {
+          "Name": "fcam_zoom_toprig_height_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 7,
+          "Offset": 18,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "TopRig \u9AD8\u3055\uFF08\u30BA\u30FC\u30E02\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_toprig_radius",
+        "Value": {
+          "Name": "fcam_zoom_toprig_radius",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 0,
+          "Offset": 4,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "TopRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E0\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fcam_zoom_toprig_radius_2",
+        "Value": {
+          "Name": "fcam_zoom_toprig_radius_2",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 6,
+          "Offset": 16,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "TopRig \u534A\u5F84 \uFF08\u30BA\u30FC\u30E02\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "fieldgem_dropup_rate",
+        "Value": {
+          "Name": "fieldgem_dropup_rate",
+          "Type": {
+            "BaseType": 3,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 44,
+          "Offset": 92,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30D5\u30A3\u30FC\u30EB\u30C9\u5B9D\u306E\u30A2\u30A4\u30C6\u30E0\u500B\u6570\u4E57\u6570"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "poke_move_condition_distance",
+        "Value": {
+          "Name": "poke_move_condition_distance",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 66,
+          "Offset": 136,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30DD\u30B1\u30E2\u30F3TML\u79FB\u52D5\u5224\u5B9A\u8DDD\u96E2"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "poke_roar_interval_fix",
+        "Value": {
+          "Name": "poke_roar_interval_fix",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 57,
+          "Offset": 118,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "300"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30DD\u30B1\u30E2\u30F3\u5486\u54EE\u5F85\u3061\u6642\u9593(\u56FA\u5B9A\u5024)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "poke_roar_interval_random",
+        "Value": {
+          "Name": "poke_roar_interval_random",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 58,
+          "Offset": 120,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "400"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30DD\u30B1\u30E2\u30F3\u5486\u54EE\u5F85\u3061\u6642\u9593(\u4E71\u6570\u5E45)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "raid_powercharge_message_time",
+        "Value": {
+          "Name": "raid_powercharge_message_time",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 65,
+          "Offset": 134,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "3.0"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30EC\u30A4\u30C9\u30DC\u30B9\u30D1\u30EF\u30FC\u30C1\u30E3\u30FC\u30B8\u958B\u59CB\u6642\u306E\u30C6\u30AD\u30B9\u30C8\u8868\u793A\u79D2\u6570"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "random_camera_start_frames",
+        "Value": {
+          "Name": "random_camera_start_frames",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 54,
+          "Offset": 112,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "\u30E9\u30F3\u30C0\u30E0\u5F85\u6A5F\u30AB\u30E1\u30E9\u5F85\u3061\u30D5\u30EC\u30FC\u30E0\u6570"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30E9\u30F3\u30C0\u30E0\u5F85\u6A5F\u30AB\u30E1\u30E9\u5F85\u3061\u30D5\u30EC\u30FC\u30E0\u6570"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "trainer_wait_interval_fix",
+        "Value": {
+          "Name": "trainer_wait_interval_fix",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 55,
+          "Offset": 114,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "400"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30C8\u30EC\u30FC\u30CA\u30FC\u5F85\u6A5F\u5F85\u3061\u6642\u9593(\u56FA\u5B9A\u5024)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "trainer_wait_interval_random",
+        "Value": {
+          "Name": "trainer_wait_interval_random",
+          "Type": {
+            "BaseType": 7,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 56,
+          "Offset": 116,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "500"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u30C8\u30EC\u30FC\u30CA\u30FC\u5F85\u6A5F\u5F85\u3061\u6642\u9593(\u4E71\u6570\u5E45)"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_is_post_msg_time",
+        "Value": {
+          "Name": "wazamsg_is_post_msg_time",
+          "Type": {
+            "BaseType": 2,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 47,
+          "Offset": 98,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "True"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u5F8CMsg\u8868\u793A"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_is_pre_msg_time",
+        "Value": {
+          "Name": "wazamsg_is_pre_msg_time",
+          "Type": {
+            "BaseType": 2,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 45,
+          "Offset": 94,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "True"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u524DMsg\u8868\u793A"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_is_sub_msg_close_time",
+        "Value": {
+          "Name": "wazamsg_is_sub_msg_close_time",
+          "Type": {
+            "BaseType": 2,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 51,
+          "Offset": 106,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "True"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u30B5\u30D6Msg\u9589\u3058\u5F85\u3061"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_is_sub_msg_time",
+        "Value": {
+          "Name": "wazamsg_is_sub_msg_time",
+          "Type": {
+            "BaseType": 2,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 49,
+          "Offset": 102,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "True"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u30B5\u30D6Msg\u8868\u793A"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_post_msg_time",
+        "Value": {
+          "Name": "wazamsg_post_msg_time",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 48,
+          "Offset": 100,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1.5"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u5F8CMsg\u6642\u9593\uFF08\u79D2\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_pre_msg_time",
+        "Value": {
+          "Name": "wazamsg_pre_msg_time",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 46,
+          "Offset": 96,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "0"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u524DMsg\u6642\u9593\uFF08\u79D2\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_sub_msg_close_time",
+        "Value": {
+          "Name": "wazamsg_sub_msg_close_time",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 52,
+          "Offset": 108,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1.5"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u30B5\u30D6Msg\u9589\u3058\u5F85\u3061\u6642\u9593\uFF08\u79D2\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wazamsg_sub_msg_time",
+        "Value": {
+          "Name": "wazamsg_sub_msg_time",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 50,
+          "Offset": 104,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1.5"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u6280\u30B5\u30D6Msg\u6642\u9593\uFF08\u79D2\uFF09"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      },
+      {
+        "Key": "wild_trpos_check_size",
+        "Value": {
+          "Name": "wild_trpos_check_size",
+          "Type": {
+            "BaseType": 11,
+            "ElementType": 0,
+            "Index": -1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 53,
+          "Offset": 110,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": [
+            {
+              "Key": "fbe_default_value",
+              "Value": {
+                "Key": "fbe_default_value",
+                "Value": "1.5"
+              }
+            },
+            {
+              "Key": "fbe_display_name",
+              "Value": {
+                "Key": "fbe_display_name",
+                "Value": "\u91CE\u751F\u3067\u30C8\u30EC\u30FC\u30CA\u30FC\u3092\u8FD1\u3065\u3051\u308B\u30DD\u30B1\u30E2\u30F3\u306E\u30B5\u30A4\u30BA"
+              }
+            }
+          ],
+          "Documentation": null
+        }
+      }
+    ],
+    "IsStruct": false,
+    "MinAlign": 1,
+    "ByteSize": 0,
+    "Attributes": null,
+    "Documentation": null,
+    "DeclarationFile": null
+  },
+  "Services": [],
+  "AdvancedFeatures": 0,
+  "FbsFiles": null
+}

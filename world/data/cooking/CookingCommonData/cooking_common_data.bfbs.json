@@ -1,0 +1,112 @@
+{
+  "Objects": [
+    {
+      "Name": "CookingCommonData",
+      "Fields": [
+        {
+          "Key": "PopParam",
+          "Value": {
+            "Name": "PopParam",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "PopWildPokemonParam",
+      "Fields": [
+        {
+          "Key": "OccurrenceProb",
+          "Value": {
+            "Name": "OccurrenceProb",
+            "Type": {
+              "BaseType": 17,
+              "ElementType": 11,
+              "Index": -1,
+              "FixedLength": 4,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 0,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": true,
+      "MinAlign": 4,
+      "ByteSize": 16,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "Enums": [],
+  "FileIdentifier": "",
+  "FileExtension": "",
+  "RootTable": {
+    "Name": "CookingCommonData",
+    "Fields": [
+      {
+        "Key": "PopParam",
+        "Value": {
+          "Name": "PopParam",
+          "Type": {
+            "BaseType": 15,
+            "ElementType": 0,
+            "Index": 1,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 0,
+          "Offset": 4,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": null,
+          "Documentation": null
+        }
+      }
+    ],
+    "IsStruct": false,
+    "MinAlign": 1,
+    "ByteSize": 0,
+    "Attributes": null,
+    "Documentation": null,
+    "DeclarationFile": null
+  },
+  "Services": [],
+  "AdvancedFeatures": 0,
+  "FbsFiles": null
+}

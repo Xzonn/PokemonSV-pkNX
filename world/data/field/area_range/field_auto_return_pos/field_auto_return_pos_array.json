@@ -1,0 +1,40 @@
+{
+  "Table": [
+    {
+      "Name": "a_t01_i02",
+      "PosX": 0,
+      "PosY": 0.34,
+      "PosZ": -4.875
+    },
+    {
+      "Name": "first_boot_pos",
+      "PosX": 2310.346,
+      "PosY": 50.531,
+      "PosZ": -744.183
+    },
+    {
+      "Name": "gym_koori",
+      "PosX": 0,
+      "PosY": 0,
+      "PosZ": 0
+    },
+    {
+      "Name": "gym_kusa",
+      "PosX": 3756.918,
+      "PosY": 153.024,
+      "PosZ": -1723.392
+    },
+    {
+      "Name": "gym_mushi",
+      "PosX": 0,
+      "PosY": 0,
+      "PosZ": 0
+    },
+    {
+      "Name": "my_home_bed",
+      "PosX": 11.64,
+      "PosY": 4.25,
+      "PosZ": -0.87
+    }
+  ]
+}

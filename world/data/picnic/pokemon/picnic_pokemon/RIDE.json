@@ -1,0 +1,301 @@
+{
+  "Petting": {
+    "HappyBoneInfoList": {
+      "Value0": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value1": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value2": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value3": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value4": {
+        "Name": "",
+        "CollisionRad": 0
+      }
+    },
+    "HateBoneInfoList": {
+      "Value0": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value1": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value2": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value3": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value4": {
+        "Name": "",
+        "CollisionRad": 0
+      }
+    }
+  },
+  "Wash": {
+    "HappyBoneInfoList": {
+      "Value0": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value1": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value2": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value3": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value4": {
+        "Name": "",
+        "CollisionRad": 0
+      }
+    },
+    "HateBoneInfoList": {
+      "Value0": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value1": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value2": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value3": {
+        "Name": "",
+        "CollisionRad": 0
+      },
+      "Value4": {
+        "Name": "",
+        "CollisionRad": 0
+      }
+    },
+    "UseUniqueData": false,
+    "UniqueData": {
+      "Joint0": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint1": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint2": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint3": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint4": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint5": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint6": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint7": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint8": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint9": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint10": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint11": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint12": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint13": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint14": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint15": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint16": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint17": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint18": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      },
+      "Joint19": {
+        "Valid": false,
+        "JointName": "",
+        "Offset": {
+          "X": 0,
+          "Y": 0,
+          "Z": 0
+        }
+      }
+    },
+    "DisableEraseFaceEffect": false,
+    "DisableWink": false,
+    "DisableAwaJoints": {
+      "Joint0": "",
+      "Joint1": "",
+      "Joint2": "",
+      "Joint3": "",
+      "Joint4": "",
+      "Joint5": "",
+      "Joint6": "",
+      "Joint7": "",
+      "Joint8": "",
+      "Joint9": "",
+      "Joint10": "",
+      "Joint11": "",
+      "Joint12": "",
+      "Joint13": "",
+      "Joint14": "",
+      "Joint15": "",
+      "Joint16": "",
+      "Joint17": "",
+      "Joint18": "",
+      "Joint19": ""
+    }
+  }
+}

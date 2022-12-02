@@ -1,0 +1,154 @@
+{
+  "Table": [
+    {
+      "Id": "all_exclusion",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": true,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": true,
+        "Picnic": true,
+        "Rotom": true,
+        "OtherPlayerThings": true
+      }
+    },
+    {
+      "Id": "dan_battle",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": false,
+        "CoinPokemon": true,
+        "PartnerPokemon": false,
+        "Picnic": true,
+        "Rotom": true,
+        "OtherPlayerThings": true
+      }
+    },
+    {
+      "Id": "default",
+      "Content": {
+        "RaidGem": false,
+        "Item": false,
+        "SymbolPokemon": true,
+        "CommonNpc": true,
+        "TrafficNpc": true,
+        "CoinPokemon": false,
+        "PartnerPokemon": false,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    },
+    {
+      "Id": "gym_koori",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": true,
+        "TrafficNpc": true,
+        "CoinPokemon": false,
+        "PartnerPokemon": false,
+        "Picnic": true,
+        "Rotom": false,
+        "OtherPlayerThings": true
+      }
+    },
+    {
+      "Id": "gym_kusa",
+      "Content": {
+        "RaidGem": true,
+        "Item": false,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": false,
+        "CoinPokemon": false,
+        "PartnerPokemon": false,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    },
+    {
+      "Id": "gym_mushi",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": false,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    },
+    {
+      "Id": "gym_mushi_base",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": true,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": true
+      }
+    },
+    {
+      "Id": "hiko_nushi_area",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": true,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": true,
+        "Picnic": true,
+        "Rotom": false,
+        "OtherPlayerThings": true
+      }
+    },
+    {
+      "Id": "nushi_area",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": false,
+        "Picnic": true,
+        "Rotom": false,
+        "OtherPlayerThings": true
+      }
+    },
+    {
+      "Id": "pokemoncenter",
+      "Content": {
+        "RaidGem": true,
+        "Item": false,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": false,
+        "CoinPokemon": false,
+        "PartnerPokemon": false,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    }
+  ]
+}

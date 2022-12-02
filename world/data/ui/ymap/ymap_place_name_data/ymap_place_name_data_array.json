@@ -1,0 +1,484 @@
+{
+  "Table": [
+    {
+      "ID": "a_d01",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_d01",
+      "Field3DPos": {
+        "X": 2524.284,
+        "Y": 0,
+        "Z": 835.691
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "a_w01",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w01",
+      "Field3DPos": {
+        "X": 2841.846,
+        "Y": 0,
+        "Z": 986.019
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w04",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w04",
+      "Field3DPos": {
+        "X": 1748,
+        "Y": 0,
+        "Z": 1728
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w05",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w05",
+      "Field3DPos": {
+        "X": 1818,
+        "Y": 0,
+        "Z": 992
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w06",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w06",
+      "Field3DPos": {
+        "X": 1048,
+        "Y": 0,
+        "Z": 1232
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w07",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w07",
+      "Field3DPos": {
+        "X": 3167,
+        "Y": 0,
+        "Z": 1305
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w08",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w08",
+      "Field3DPos": {
+        "X": 3028,
+        "Y": 0,
+        "Z": 1840
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w09",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w09",
+      "Field3DPos": {
+        "X": 986,
+        "Y": 0,
+        "Z": 2139
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w10",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w10",
+      "Field3DPos": {
+        "X": 955,
+        "Y": 0,
+        "Z": 2823
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w11",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w11",
+      "Field3DPos": {
+        "X": 894,
+        "Y": 0,
+        "Z": 3278
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w12",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w12",
+      "Field3DPos": {
+        "X": 1870,
+        "Y": 0,
+        "Z": 3455
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w13",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w13",
+      "Field3DPos": {
+        "X": 3284,
+        "Y": 0,
+        "Z": 3362
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w14",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w14",
+      "Field3DPos": {
+        "X": 3759,
+        "Y": 0,
+        "Z": 3025
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w15",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w15",
+      "Field3DPos": {
+        "X": 3564,
+        "Y": 0,
+        "Z": 2057
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w16",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w16",
+      "Field3DPos": {
+        "X": 3818,
+        "Y": 0,
+        "Z": 2409
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w17",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w17",
+      "Field3DPos": {
+        "X": 3000,
+        "Y": 0,
+        "Z": 3914
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w18",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w18",
+      "Field3DPos": {
+        "X": 1247,
+        "Y": 0,
+        "Z": 3949
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w20",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w20",
+      "Field3DPos": {
+        "X": 2246,
+        "Y": 0,
+        "Z": 4753
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w21",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w21",
+      "Field3DPos": {
+        "X": 3630,
+        "Y": 0,
+        "Z": 4053
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w22",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w22",
+      "Field3DPos": {
+        "X": 4219,
+        "Y": 0,
+        "Z": 3375
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w23",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w23",
+      "Field3DPos": {
+        "X": 2400,
+        "Y": 0,
+        "Z": 2450
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "a_w24",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w24",
+      "Field3DPos": {
+        "X": 2379,
+        "Y": 0,
+        "Z": 540
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w25",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w25",
+      "Field3DPos": {
+        "X": 335,
+        "Y": 0,
+        "Z": 1769
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w26",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w26",
+      "Field3DPos": {
+        "X": 4636,
+        "Y": 0,
+        "Z": 1730
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "a_w27",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_a_w27",
+      "Field3DPos": {
+        "X": 360,
+        "Y": 0,
+        "Z": 4655
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "c01",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_c01",
+      "Field3DPos": {
+        "X": 2392.5,
+        "Y": 131,
+        "Z": 1687.5
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "c02",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_c02",
+      "Field3DPos": {
+        "X": 1490,
+        "Y": 174.5,
+        "Z": 2858
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "c03",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_c03",
+      "Field3DPos": {
+        "X": 4103,
+        "Y": 45,
+        "Z": 2635
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "subarea_area18forest",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_subarea_area18forest",
+      "Field3DPos": {
+        "X": 1127,
+        "Y": 0,
+        "Z": 4661
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "subarea_c01school",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_subarea_c01school_A",
+      "Field3DPos": {
+        "X": 2389.642,
+        "Y": 0,
+        "Z": 1891.591
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "subarea_r01",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_subarea_r01",
+      "Field3DPos": {
+        "X": 2385,
+        "Y": 0,
+        "Z": 804
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "t01",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t01",
+      "Field3DPos": {
+        "X": 2380,
+        "Y": 41.5,
+        "Z": 742
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t02",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t02",
+      "Field3DPos": {
+        "X": 2400,
+        "Y": 60.5,
+        "Z": 1145
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t03",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t03",
+      "Field3DPos": {
+        "X": 1421,
+        "Y": 106.5,
+        "Z": 1675
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t04",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t04",
+      "Field3DPos": {
+        "X": 3735,
+        "Y": 155.5,
+        "Z": 1777
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t05",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t05",
+      "Field3DPos": {
+        "X": 481,
+        "Y": 35.5,
+        "Z": 3048
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t06",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t06",
+      "Field3DPos": {
+        "X": 2002,
+        "Y": 154.5,
+        "Z": 3205
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t07",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t07",
+      "Field3DPos": {
+        "X": 3118,
+        "Y": 151.5,
+        "Z": 2800
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t08",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t08",
+      "Field3DPos": {
+        "X": 2718,
+        "Y": 484.5,
+        "Z": 4078
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "t09",
+      "PlaceNameMstxtLabl": "ymap_mission_place_name_t09",
+      "Field3DPos": {
+        "X": 842,
+        "Y": 302,
+        "Z": 1065
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    }
+  ]
+}

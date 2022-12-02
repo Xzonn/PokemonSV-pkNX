@@ -1,0 +1,22 @@
+{
+  "Table": [
+    {
+      "Label": "trade_c02",
+      "ReceivePoke": "trade_c02_0194",
+      "SendPokeDevId": 194,
+      "SendPokeFormId": 1
+    },
+    {
+      "Label": "trade_c03",
+      "ReceivePoke": "trade_c03_0093",
+      "SendPokeDevId": 871,
+      "SendPokeFormId": -1
+    },
+    {
+      "Label": "trade_t03",
+      "ReceivePoke": "trade_t03_0872",
+      "SendPokeDevId": 669,
+      "SendPokeFormId": -1
+    }
+  ]
+}

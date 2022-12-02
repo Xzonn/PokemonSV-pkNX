@@ -1,0 +1,19 @@
+{
+  "Table": [
+    {
+      "BattleRuleId": 1,
+      "BattleType": 0,
+      "LevelType": 0
+    },
+    {
+      "BattleRuleId": 2,
+      "BattleType": 1,
+      "LevelType": 1
+    },
+    {
+      "BattleRuleId": 3,
+      "BattleType": 2,
+      "LevelType": 2
+    }
+  ]
+}

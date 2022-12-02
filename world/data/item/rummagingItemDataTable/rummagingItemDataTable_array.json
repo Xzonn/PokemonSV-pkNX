@@ -1,0 +1,76 @@
+{
+  "Table": [
+    {
+      "Category": 1,
+      "Pattern": 1,
+      "Item00": 158,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    },
+    {
+      "Category": 1,
+      "Pattern": 3,
+      "Item00": 25,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    },
+    {
+      "Category": 2,
+      "Pattern": 1,
+      "Item00": 31,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    },
+    {
+      "Category": 2,
+      "Pattern": 3,
+      "Item00": 32,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    },
+    {
+      "Category": 3,
+      "Pattern": 1,
+      "Item00": 30,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    },
+    {
+      "Category": 3,
+      "Pattern": 3,
+      "Item00": 2,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    },
+    {
+      "Category": 4,
+      "Pattern": 1,
+      "Item00": 4,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    },
+    {
+      "Category": 5,
+      "Pattern": 1,
+      "Item00": 26,
+      "Item01": 0,
+      "Item02": 0,
+      "Item03": 0,
+      "Item04": 0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Table": [
+    {
+      "DevId": 136,
+      "Formno": 0,
+      "DefaultBattleState": 1
+    },
+    {
+      "DevId": 212,
+      "Formno": 0,
+      "DefaultBattleState": 1
+    },
+    {
+      "DevId": 445,
+      "Formno": 0,
+      "DefaultBattleState": 1
+    },
+    {
+      "DevId": 985,
+      "Formno": 0,
+      "DefaultBattleState": 3
+    }
+  ]
+}

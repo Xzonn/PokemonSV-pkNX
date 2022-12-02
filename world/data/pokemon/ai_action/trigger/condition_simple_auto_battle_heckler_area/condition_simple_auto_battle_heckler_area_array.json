@@ -1,0 +1,12 @@
+{
+  "Table": [
+    {
+      "TriggerID": 81,
+      "ComparisonOperatorType": 0
+    },
+    {
+      "TriggerID": 82,
+      "ComparisonOperatorType": 1
+    }
+  ]
+}

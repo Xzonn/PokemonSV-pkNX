@@ -1,0 +1,15 @@
+{
+  "Table": [
+    {
+      "LhLadderWait": 0.5,
+      "LhLadderFadeDuration": 0.5,
+      "MapChangeSingleDoorAngle": 45,
+      "MapChangeDoubleDoorAngle": 45,
+      "MapChangeAutoDoorAngle": 45,
+      "MapChangePosAngle": 90,
+      "MapChangeCampusDoorAngle": 90,
+      "MapChangeAtlantisDoorAngle": 90,
+      "MapChangeStickAngle": 0.1
+    }
+  ]
+}

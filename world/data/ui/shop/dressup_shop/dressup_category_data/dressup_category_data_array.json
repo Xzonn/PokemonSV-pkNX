@@ -1,0 +1,290 @@
+{
+  "Table": [
+    {
+      "Shopid": "shop_bag_00",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": true,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_bag_01",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": true,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_bag_02",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": true,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_delibird_00_lineup4",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": true
+    },
+    {
+      "Shopid": "shop_delibird_01_lineup4",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": true
+    },
+    {
+      "Shopid": "shop_delibird_02_lineup4",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": true
+    },
+    {
+      "Shopid": "shop_eye_00",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": true,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_eye_01",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": true,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_eye_02",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": true,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_foot_00",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": true,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_foot_01",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": true,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_foot_02",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": true,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_head_00",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": true,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_head_01",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": true,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_head_02",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": true,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_high_price_00",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_high_price_01",
+      "Uniform": false,
+      "Leg": true,
+      "Foot": false,
+      "Glove": false,
+      "Bag": true,
+      "Head": true,
+      "Eye": true,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_high_price_02",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": true,
+      "Glove": true,
+      "Bag": true,
+      "Head": true,
+      "Eye": true,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_leg_00",
+      "Uniform": false,
+      "Leg": true,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_leg_01",
+      "Uniform": false,
+      "Leg": true,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_leg_02",
+      "Uniform": false,
+      "Leg": true,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_low_price_00",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": true,
+      "Bag": false,
+      "Head": true,
+      "Eye": true,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_low_price_01",
+      "Uniform": false,
+      "Leg": true,
+      "Foot": true,
+      "Glove": true,
+      "Bag": true,
+      "Head": true,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_low_price_02",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": true,
+      "Glove": true,
+      "Bag": true,
+      "Head": true,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_ride_01",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": true,
+      "Bag": false,
+      "Head": true,
+      "Eye": false,
+      "Rotom": false
+    },
+    {
+      "Shopid": "shop_ride_02",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": true,
+      "Bag": false,
+      "Head": true,
+      "Eye": false,
+      "Rotom": false
+    }
+  ]
+}

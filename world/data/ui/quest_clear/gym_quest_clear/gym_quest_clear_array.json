@@ -1,0 +1,52 @@
+{
+  "Table": [
+    {
+      "ID": 4,
+      "EventNpcSceneName": "gym_denki_040_main",
+      "EventNpcObjName": "event_npc_gym_denki_040_denki",
+      "GymClearQuestType": "Denki"
+    },
+    {
+      "ID": 8,
+      "EventNpcSceneName": "gym_esper_040_main",
+      "EventNpcObjName": "event_npc_gym_esper_040_esper",
+      "GymClearQuestType": "Esper"
+    },
+    {
+      "ID": 7,
+      "EventNpcSceneName": "gym_ghost_040_main",
+      "EventNpcObjName": "event_npc_gym_ghost_040_ghost",
+      "GymClearQuestType": "Ghost"
+    },
+    {
+      "ID": 6,
+      "EventNpcSceneName": "gym_koori_040_main",
+      "EventNpcObjName": "event_npc_gym_koori_040_koori",
+      "GymClearQuestType": "Koori"
+    },
+    {
+      "ID": 2,
+      "EventNpcSceneName": "gym_kusa_040_main",
+      "EventNpcObjName": "event_npc_gym_kusa_040_kusa",
+      "GymClearQuestType": "Kusa"
+    },
+    {
+      "ID": 3,
+      "EventNpcSceneName": "gym_mizu_040_main",
+      "EventNpcObjName": "event_npc_gym_mizu_040_mizu",
+      "GymClearQuestType": "Mizu"
+    },
+    {
+      "ID": 1,
+      "EventNpcSceneName": "gym_mushi_040_main",
+      "EventNpcObjName": "event_npc_gym_mushi_040_mushi",
+      "GymClearQuestType": "Musi"
+    },
+    {
+      "ID": 5,
+      "EventNpcSceneName": "gym_normal_040_main",
+      "EventNpcObjName": "event_npc_gym_normal_040_normal",
+      "GymClearQuestType": "Normal"
+    }
+  ]
+}

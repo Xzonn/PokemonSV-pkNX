@@ -1,0 +1,940 @@
+{
+  "Table": [
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "effect/battle_ee/ee003/ee003",
+      "TemplatePath": "effect/battle_ee/ee003/ee003",
+      "RaidFrameLength": 101
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee004/ee004",
+      "TemplatePath": "effect/battle_ee/ee004/ee004",
+      "RaidFrameLength": 150
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee005/ee005",
+      "TemplatePath": "effect/battle_ee/ee005/ee005",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee006/ee006",
+      "TemplatePath": "effect/battle_ee/ee006/ee006",
+      "RaidFrameLength": 132
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee008/ee008",
+      "TemplatePath": "effect/battle_ee/ee008/ee008",
+      "RaidFrameLength": 70
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee008/ee008",
+      "TemplatePath": "effect/battle_ee/ee008/ee008",
+      "RaidFrameLength": 70
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee008/ee008",
+      "TemplatePath": "effect/battle_ee/ee008/ee008",
+      "RaidFrameLength": 70
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee015/ee015",
+      "TemplatePath": "effect/battle_ee/ee015/ee015",
+      "RaidFrameLength": 49
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee017/ee017",
+      "TemplatePath": "effect/battle_ee/ee017/ee017",
+      "RaidFrameLength": 200
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee018/ee018",
+      "TemplatePath": "effect/battle_ee/ee018/ee018",
+      "RaidFrameLength": 200
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee019/ee019",
+      "TemplatePath": "effect/battle_ee/ee019/ee019",
+      "RaidFrameLength": 200
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee020/ee020",
+      "TemplatePath": "effect/battle_ee/ee020/ee020",
+      "RaidFrameLength": 40
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es001/es001",
+      "TemplatePath": "effect/field/status/es001/es001",
+      "RaidFrameLength": 130
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es002/es002",
+      "TemplatePath": "effect/field/status/es002/es002",
+      "RaidFrameLength": 130
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es003/es003",
+      "TemplatePath": "effect/field/status/es003/es003",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es004/es004",
+      "TemplatePath": "effect/field/status/es004/es004",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es005/es005",
+      "TemplatePath": "effect/field/status/es005/es005",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es006/es006",
+      "TemplatePath": "effect/battle_es/es006/es006",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es007/es007",
+      "TemplatePath": "effect/battle_es/es007/es007",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es008/es008",
+      "TemplatePath": "effect/battle_es/es008/es008",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es009/es009",
+      "TemplatePath": "effect/battle_es/es009/es009",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es010/es010",
+      "TemplatePath": "effect/battle_es/es010/es010",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es015/es015",
+      "TemplatePath": "effect/battle_es/es015/es015",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es016/es016",
+      "TemplatePath": "effect/battle_es/es016/es016",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "effect/battle_etb/etb001/etb001_rain",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "effect/battle_etb/etb002/etb002_snow",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "effect/battle_etb/etb003/etb003_sandstorm",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "effect/battle_etb/etb004/etb004_sun",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "demo/ee/ee610/ee610",
+      "TemplatePath": "effect/battle_ee/ee610/ee610",
+      "RaidFrameLength": 220
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "demo/ee/ee630/ee630",
+      "TemplatePath": "effect/battle_ee/ee630/ee630",
+      "RaidFrameLength": 270
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es017/es017",
+      "TemplatePath": "effect/battle_es/es017/es017",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es018/es018",
+      "TemplatePath": "effect/battle_es/es018/es018",
+      "RaidFrameLength": 119
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0264/ew0264_charge",
+      "TemplatePath": "effect/battle_ew/ew0264/ew0264",
+      "RaidFrameLength": 171
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0174/ew0174_ghost_turn",
+      "TemplatePath": "effect/battle_ew/ew0174/ew0174",
+      "RaidFrameLength": 150
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0073/ew0073_turn",
+      "TemplatePath": "effect/battle_ew/ew0073/ew0073",
+      "RaidFrameLength": 171
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0020/ew0020_turn",
+      "TemplatePath": "effect/battle_ew/ew0020/ew0020",
+      "RaidFrameLength": 117
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0035/ew0035_turn",
+      "TemplatePath": "effect/battle_ew/ew0035/ew0035",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0083/ew0083_turn",
+      "TemplatePath": "effect/battle_ew/ew0083/ew0083",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0463/ew0463_turn",
+      "TemplatePath": "effect/battle_ew/ew0463/ew0463",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0250/ew0250_turn",
+      "TemplatePath": "effect/battle_ew/ew0250/ew0250",
+      "RaidFrameLength": 130
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0328/ew0328_turn",
+      "TemplatePath": "effect/battle_ew/ew0328/ew0328",
+      "RaidFrameLength": 130
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0611/ew0611_turn",
+      "TemplatePath": "effect/battle_ew/ew0611/ew0611",
+      "RaidFrameLength": 140
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0361/ew0361_heal",
+      "TemplatePath": "effect/battle_ew/ew0361/ew0361",
+      "RaidFrameLength": 230
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0461/ew0461_heal",
+      "TemplatePath": "effect/battle_ew/ew0461/ew0461",
+      "RaidFrameLength": 135
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0369/ew0369_back",
+      "TemplatePath": "effect/battle_ew/ew0369/ew0369",
+      "RaidFrameLength": 0
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0521/ew0521_back",
+      "TemplatePath": "effect/battle_ew/ew0521/ew0521",
+      "RaidFrameLength": 0
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0509/ew0509_back",
+      "TemplatePath": "effect/battle_ew/ew0509/ew0509",
+      "RaidFrameLength": 0
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0525/ew0525_back",
+      "TemplatePath": "effect/battle_ew/ew0525/ew0525",
+      "RaidFrameLength": 0
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0046/ew0046_back",
+      "TemplatePath": "effect/battle_ew/ew0046/ew0046",
+      "RaidFrameLength": 0
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0018/ew0018_back",
+      "TemplatePath": "effect/battle_ew/ew0018/ew0018",
+      "RaidFrameLength": 0
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es062/es062",
+      "TemplatePath": "effect/battle_es/es062/es062",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es062/es062",
+      "TemplatePath": "effect/battle_es/es062/es062",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee050/ee050",
+      "TemplatePath": "effect/battle_ee/ee050/ee050",
+      "RaidFrameLength": 50
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee051/ee051",
+      "TemplatePath": "effect/battle_ee/ee051/ee051",
+      "RaidFrameLength": 50
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee052/ee052",
+      "TemplatePath": "effect/battle_ee/ee052/ee052",
+      "RaidFrameLength": 50
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee053/ee053",
+      "TemplatePath": "effect/battle_ee/ee053/ee053",
+      "RaidFrameLength": 50
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee008/ee008",
+      "TemplatePath": "effect/battle_ee/ee008/ee008",
+      "RaidFrameLength": 70
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee008/ee008",
+      "TemplatePath": "effect/battle_ee/ee008/ee008",
+      "RaidFrameLength": 70
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee008/ee008",
+      "TemplatePath": "effect/battle_ee/ee008/ee008",
+      "RaidFrameLength": 70
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee008/ee008",
+      "TemplatePath": "effect/battle_ee/ee008/ee008",
+      "RaidFrameLength": 70
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee033/ee033",
+      "TemplatePath": "",
+      "RaidFrameLength": 91
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es012/es012",
+      "TemplatePath": "effect/battle_es/es012/es012",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es011/es011",
+      "TemplatePath": "effect/battle_es/es011/es011",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee036/ee036",
+      "TemplatePath": "",
+      "RaidFrameLength": 138
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee036_1/ee036_1",
+      "TemplatePath": "",
+      "RaidFrameLength": 200
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0819/ew0819_turn",
+      "TemplatePath": "effect/battle_ew/ew0819/ew0819",
+      "RaidFrameLength": 90
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0812/ew0812_back",
+      "TemplatePath": "effect/battle_ew/ew0812/ew0812",
+      "RaidFrameLength": 0
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_es/es063/es063",
+      "TemplatePath": "effect/battle_es/es063/es063",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": false,
+      "TimelinePath": "",
+      "TemplatePath": "",
+      "RaidFrameLength": -1
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee035/ee035",
+      "TemplatePath": "",
+      "RaidFrameLength": 200
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0864/ew0864_turn",
+      "TemplatePath": "effect/battle_ew/ew0864/ew0864",
+      "RaidFrameLength": 160
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee040/ee040",
+      "TemplatePath": "effect/battle_ee/ee040/ee040",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee041/ee041",
+      "TemplatePath": "effect/battle_ee/ee041/ee041",
+      "RaidFrameLength": 120
+    },
+    {
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee042/ee042",
+      "TemplatePath": "effect/battle_ee/ee042/ee042",
+      "RaidFrameLength": 120
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+{
+  "Table": [
+    {
+      "Label": "common_0065_hono",
+      "PokeData": {
+        "DevId": 909,
+        "FormId": 0,
+        "Item": 0,
+        "Level": 5,
+        "Sex": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "RareType": 1,
+        "RareTryCount": 0,
+        "TalentType": 0,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "TalentVnum": 0,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 50,
+        "HeightType": 6,
+        "HeightValue": 128,
+        "WeightType": 6,
+        "WeightValue": 128,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 4,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 0,
+        "WazaConfirmLevel": 5,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": false
+    },
+    {
+      "Label": "common_0065_kusa",
+      "PokeData": {
+        "DevId": 906,
+        "FormId": 0,
+        "Item": 0,
+        "Level": 5,
+        "Sex": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "RareType": 1,
+        "RareTryCount": 0,
+        "TalentType": 0,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "TalentVnum": 0,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 50,
+        "HeightType": 6,
+        "HeightValue": 128,
+        "WeightType": 6,
+        "WeightValue": 128,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 4,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 0,
+        "WazaConfirmLevel": 5,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": false
+    },
+    {
+      "Label": "common_0065_mizu",
+      "PokeData": {
+        "DevId": 912,
+        "FormId": 0,
+        "Item": 0,
+        "Level": 5,
+        "Sex": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "RareType": 1,
+        "RareTryCount": 0,
+        "TalentType": 0,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "TalentVnum": 0,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 50,
+        "HeightType": 6,
+        "HeightValue": 128,
+        "WeightType": 6,
+        "WeightValue": 128,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 4,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 0,
+        "WazaConfirmLevel": 5,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": false
+    },
+    {
+      "Label": "add_0195",
+      "PokeData": {
+        "DevId": 195,
+        "FormId": 0,
+        "Item": 0,
+        "Level": 90,
+        "Sex": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 0,
+        "RareType": 0,
+        "RareTryCount": 0,
+        "TalentType": 0,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "TalentVnum": 0,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 0,
+        "HeightType": 0,
+        "HeightValue": 0,
+        "WeightType": 0,
+        "WeightValue": 0,
+        "ScaleType": 0,
+        "ScaleValue": 0,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 0,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 0,
+        "WazaConfirmLevel": 0,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "Label": "add_0193",
+      "PokeData": {
+        "DevId": 193,
+        "FormId": 0,
+        "Item": 0,
+        "Level": 80,
+        "Sex": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 0,
+        "RareType": 0,
+        "RareTryCount": 0,
+        "TalentType": 0,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "TalentVnum": 0,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 0,
+        "HeightType": 0,
+        "HeightValue": 0,
+        "WeightType": 0,
+        "WeightValue": 0,
+        "ScaleType": 0,
+        "ScaleValue": 0,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 0,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 0,
+        "WazaConfirmLevel": 0,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "Label": "gameclear_AIGUANA",
+      "PokeData": {
+        "DevId": 998,
+        "FormId": 0,
+        "Item": 0,
+        "Level": 68,
+        "Sex": 0,
+        "Seikaku": 25,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "RareType": 1,
+        "RareTryCount": 0,
+        "TalentType": 2,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 28,
+          "SPA": 31,
+          "SPD": 28,
+          "SPE": 31
+        },
+        "TalentVnum": 0,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 255,
+        "HeightType": 6,
+        "HeightValue": 128,
+        "WeightType": 6,
+        "WeightValue": 128,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 53,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 878,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 203,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 851,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 4,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 17,
+        "WazaConfirmLevel": 0,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "Label": "gameclear_BIGUANA",
+      "PokeData": {
+        "DevId": 999,
+        "FormId": 0,
+        "Item": 0,
+        "Level": 68,
+        "Sex": 0,
+        "Seikaku": 25,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "RareType": 1,
+        "RareTryCount": 0,
+        "TalentType": 2,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 28,
+          "SPA": 31,
+          "SPD": 28,
+          "SPE": 31
+        },
+        "TalentVnum": 0,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 255,
+        "HeightType": 6,
+        "HeightValue": 128,
+        "WeightType": 6,
+        "WeightValue": 128,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 408,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 879,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 203,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 851,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 4,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 17,
+        "WazaConfirmLevel": 0,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": true
+    },
+    {
+      "Label": "sub060_gnyasu",
+      "PokeData": {
+        "DevId": 52,
+        "FormId": 2,
+        "Item": 0,
+        "Level": 5,
+        "Sex": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 0,
+        "RareType": 1,
+        "RareTryCount": 0,
+        "TalentType": 1,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "TalentVnum": 3,
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Friendship": 50,
+        "HeightType": 0,
+        "HeightValue": 0,
+        "WeightType": 0,
+        "WeightValue": 0,
+        "ScaleType": 0,
+        "ScaleValue": 0,
+        "SetPersonalRand": false,
+        "PersonalRand": 0,
+        "SetRandSeed": false,
+        "RandSeed": 0,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "UseNickName": false,
+        "NicknameLabel": 14695981039346656837,
+        "ParentNameLabel": 14695981039346656837,
+        "ParentSex": 0,
+        "ParentLangId": 0,
+        "ParentMemoryCode": 0,
+        "ParentMemoryData": 0,
+        "ParentMemoryFeel": 0,
+        "ParentMemoryLevel": 0,
+        "LangId": 0,
+        "BallId": 4,
+        "SetRibbon": 0,
+        "EventFlg": false,
+        "GemType": 0,
+        "WazaConfirmLevel": 5,
+        "PokeMemo": 0,
+        "PokeMemoPlace": 0,
+        "TrainerId": -1
+      },
+      "PokedexRegistration": true
+    }
+  ]
+}

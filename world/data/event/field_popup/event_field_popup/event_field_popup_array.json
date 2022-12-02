@@ -1,0 +1,484 @@
+{
+  "Table": [
+    {
+      "Id": "board_city_c01",
+      "Label": "kanban_c01",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_c02",
+      "Label": "kanban_c02",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_c03",
+      "Label": "kanban_c03",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t01",
+      "Label": "kanban_t01",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t02",
+      "Label": "kanban_t02",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t03",
+      "Label": "kanban_t03",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t04",
+      "Label": "kanban_t04",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t05",
+      "Label": "kanban_t05",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t06",
+      "Label": "kanban_t06",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t07",
+      "Label": "kanban_t07",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t08",
+      "Label": "kanban_t08",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t09",
+      "Label": "kanban_t09",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_city_t0502",
+      "Label": "kanban_t05_02",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_c01",
+      "Label": "arrow_guide_to_C01",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_c02",
+      "Label": "arrow_guide_to_C02",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_c03",
+      "Label": "arrow_guide_to_C03",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_forest",
+      "Label": "arrow_guide_to_Forest",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_ice",
+      "Label": "arrow_guide_to_Ice",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_lake",
+      "Label": "arrow_guide_to_Lake",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_lake02",
+      "Label": "arrow_guide_to_Lake02",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_mountain",
+      "Label": "arrow_guide_to_Mountain",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_spot09",
+      "Label": "arrow_guide_to_Spot09",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t03",
+      "Label": "arrow_guide_to_T03",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t04",
+      "Label": "arrow_guide_to_T04",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t05",
+      "Label": "arrow_guide_to_T05",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t06",
+      "Label": "arrow_guide_to_T06",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t07",
+      "Label": "arrow_guide_to_T07",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t08",
+      "Label": "arrow_guide_to_T08",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t09",
+      "Label": "arrow_guide_to_T09",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0402",
+      "Label": "arrow_guide_to_T0402",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0403",
+      "Label": "arrow_guide_to_T0403",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0404",
+      "Label": "arrow_guide_to_T0404",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0405",
+      "Label": "arrow_guide_to_T0405",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0406",
+      "Label": "arrow_guide_to_T0406",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0407",
+      "Label": "arrow_guide_to_T0407",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0408",
+      "Label": "arrow_guide_to_T0408",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0409",
+      "Label": "arrow_guide_to_T0409",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0410",
+      "Label": "arrow_guide_to_T0410",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0411",
+      "Label": "arrow_guide_to_T0411",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0412",
+      "Label": "arrow_guide_to_T0412",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0413",
+      "Label": "arrow_guide_to_T0413",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0414",
+      "Label": "arrow_guide_to_T0414",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0415",
+      "Label": "arrow_guide_to_T0415",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0416",
+      "Label": "arrow_guide_to_T0416",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0417",
+      "Label": "arrow_guide_to_T0417",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0418",
+      "Label": "arrow_guide_to_T0418",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0419",
+      "Label": "arrow_guide_to_T0419",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0420",
+      "Label": "arrow_guide_to_T0420",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0421",
+      "Label": "arrow_guide_to_T0421",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0422",
+      "Label": "arrow_guide_to_T0422",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0423",
+      "Label": "arrow_guide_to_T0423",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0424",
+      "Label": "arrow_guide_to_T0424",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0425",
+      "Label": "arrow_guide_to_T0425",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0426",
+      "Label": "arrow_guide_to_T0426",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0427",
+      "Label": "arrow_guide_to_T0427",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0428",
+      "Label": "arrow_guide_to_T0428",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0429",
+      "Label": "arrow_guide_to_T0429",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0430",
+      "Label": "arrow_guide_to_T0430",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0431",
+      "Label": "arrow_guide_to_T0431",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0432",
+      "Label": "arrow_guide_to_T0432",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0433",
+      "Label": "arrow_guide_to_T0433",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0434",
+      "Label": "arrow_guide_to_T0434",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0435",
+      "Label": "arrow_guide_to_T0435",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0436",
+      "Label": "arrow_guide_to_T0436",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0437",
+      "Label": "arrow_guide_to_T0437",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_guide_to_t0902",
+      "Label": "arrow_guide_to_T0902",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_01",
+      "Label": "spot_kanban_01",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_02",
+      "Label": "spot_kanban_02",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_03",
+      "Label": "spot_kanban_03",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_04",
+      "Label": "spot_kanban_04",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_05",
+      "Label": "spot_kanban_05",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_06",
+      "Label": "spot_kanban_06",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_07",
+      "Label": "spot_kanban_07",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_08",
+      "Label": "spot_kanban_08",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_09",
+      "Label": "spot_kanban_09",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_10",
+      "Label": "spot_kanban_10",
+      "WindowType": 4
+    },
+    {
+      "Id": "popup_c01_01",
+      "Label": "popup_c01_01",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_c01_01_thinking",
+      "Label": "popup_c01_01",
+      "WindowType": 2
+    },
+    {
+      "Id": "popup_c01_02",
+      "Label": "popup_c01_02",
+      "WindowType": 1
+    },
+    {
+      "Id": "popup_c01_03",
+      "Label": "popup_c01_03",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_c01_04",
+      "Label": "popup_c01_04",
+      "WindowType": 2
+    },
+    {
+      "Id": "popup_c01_05",
+      "Label": "popup_c01_05",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_c01_06",
+      "Label": "popup_c01_06",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_c01_07",
+      "Label": "popup_c01_07",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_c01_08",
+      "Label": "popup_c01_08",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_c01_09",
+      "Label": "popup_c01_09",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_c01_10",
+      "Label": "popup_c01_10",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_normal_020_cook_01",
+      "Label": "popup_normal_020_cook_01",
+      "WindowType": 3
+    },
+    {
+      "Id": "popup_normal_020_cook_02",
+      "Label": "popup_normal_020_cook_02",
+      "WindowType": 3
+    },
+    {
+      "Id": "popup_normal_020_cook_03",
+      "Label": "popup_normal_020_cook_03",
+      "WindowType": 3
+    },
+    {
+      "Id": "popup_normal_020_cook_04",
+      "Label": "popup_normal_020_cook_04",
+      "WindowType": 3
+    },
+    {
+      "Id": "popup_normal_020_cook_05",
+      "Label": "popup_normal_020_cook_05",
+      "WindowType": 3
+    },
+    {
+      "Id": "popup_c01_09",
+      "Label": "popup_c01_09",
+      "WindowType": 0
+    },
+    {
+      "Id": "popup_test1",
+      "Label": "popup_dummy",
+      "WindowType": 1
+    },
+    {
+      "Id": "popup_test2",
+      "Label": "popup_dummy",
+      "WindowType": 2
+    },
+    {
+      "Id": "popup_test3",
+      "Label": "popup_dummy",
+      "WindowType": 3
+    }
+  ]
+}

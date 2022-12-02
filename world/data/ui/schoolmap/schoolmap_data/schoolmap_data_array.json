@@ -1,0 +1,72 @@
+{
+  "Table": [
+    {
+      "MapID": 0,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_ENTRANCE"
+    },
+    {
+      "MapID": 13,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_PLAYER_ROOM"
+    },
+    {
+      "MapID": 14,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_FRIEND_01_ROOM"
+    },
+    {
+      "MapID": 15,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_FRIEND_02_ROOM"
+    },
+    {
+      "MapID": 16,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_FRIEND_03_ROOM"
+    },
+    {
+      "MapID": 10,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_PLAYER_CLASS_ROOM"
+    },
+    {
+      "MapID": 12,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_FRIEND_02_CLASS_ROOM"
+    },
+    {
+      "MapID": 11,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_FRIEND_03_CLASS_ROOM"
+    },
+    {
+      "MapID": 7,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_PRINCIPALS_ROOM"
+    },
+    {
+      "MapID": 6,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_STAFF_ROOM"
+    },
+    {
+      "MapID": 8,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_HEALTH_ROOM"
+    },
+    {
+      "MapID": 2,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_SHOP"
+    },
+    {
+      "MapID": 5,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_HOME_ECONOMICS_ROOM"
+    },
+    {
+      "MapID": 3,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_BIOLOGICAL_ROOM"
+    },
+    {
+      "MapID": 4,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_ART_ROOM"
+    },
+    {
+      "MapID": 1,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_DINING"
+    },
+    {
+      "MapID": 9,
+      "SystemFlagName": "FSYS_UI_SCHOOL_MAP_SCHOOL_YARD"
+    }
+  ]
+}

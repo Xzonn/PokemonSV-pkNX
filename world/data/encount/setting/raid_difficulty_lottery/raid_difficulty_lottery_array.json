@@ -1,0 +1,134 @@
+{
+  "Table": [
+    {
+      "Target01": {
+        "Difficulty": 1,
+        "Rate": 80
+      },
+      "Target02": {
+        "Difficulty": 2,
+        "Rate": 20
+      },
+      "Target03": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target04": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target05": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target06": {
+        "Difficulty": 0,
+        "Rate": 0
+      }
+    },
+    {
+      "Target01": {
+        "Difficulty": 1,
+        "Rate": 30
+      },
+      "Target02": {
+        "Difficulty": 2,
+        "Rate": 40
+      },
+      "Target03": {
+        "Difficulty": 3,
+        "Rate": 30
+      },
+      "Target04": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target05": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target06": {
+        "Difficulty": 0,
+        "Rate": 0
+      }
+    },
+    {
+      "Target01": {
+        "Difficulty": 1,
+        "Rate": 20
+      },
+      "Target02": {
+        "Difficulty": 2,
+        "Rate": 20
+      },
+      "Target03": {
+        "Difficulty": 3,
+        "Rate": 30
+      },
+      "Target04": {
+        "Difficulty": 4,
+        "Rate": 30
+      },
+      "Target05": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target06": {
+        "Difficulty": 0,
+        "Rate": 0
+      }
+    },
+    {
+      "Target01": {
+        "Difficulty": 3,
+        "Rate": 40
+      },
+      "Target02": {
+        "Difficulty": 4,
+        "Rate": 35
+      },
+      "Target03": {
+        "Difficulty": 5,
+        "Rate": 25
+      },
+      "Target04": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target05": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target06": {
+        "Difficulty": 0,
+        "Rate": 0
+      }
+    },
+    {
+      "Target01": {
+        "Difficulty": 3,
+        "Rate": 30
+      },
+      "Target02": {
+        "Difficulty": 4,
+        "Rate": 40
+      },
+      "Target03": {
+        "Difficulty": 5,
+        "Rate": 30
+      },
+      "Target04": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target05": {
+        "Difficulty": 0,
+        "Rate": 0
+      },
+      "Target06": {
+        "Difficulty": 0,
+        "Rate": 0
+      }
+    }
+  ]
+}

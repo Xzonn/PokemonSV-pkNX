@@ -1,0 +1,49 @@
+{
+  "Table": [
+    {
+      "AreaName": "subarea_c02",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_12",
+      "FlyFlag2": "FSYS_YMAP_POKECEN_13"
+    },
+    {
+      "AreaName": "subarea_c03",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_22",
+      "FlyFlag2": "FSYS_YMAP_POKECEN_23"
+    },
+    {
+      "AreaName": "subarea_t03",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_07",
+      "FlyFlag2": "FSYS_YMAP_POKECEN_08"
+    },
+    {
+      "AreaName": "subarea_t04",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_18",
+      "FlyFlag2": "FSYS_YMAP_POKECEN_19"
+    },
+    {
+      "AreaName": "subarea_t05",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_14",
+      "FlyFlag2": ""
+    },
+    {
+      "AreaName": "subarea_t06",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_15",
+      "FlyFlag2": "FSYS_YMAP_POKECEN_34"
+    },
+    {
+      "AreaName": "subarea_t07",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_25",
+      "FlyFlag2": "FSYS_YMAP_POKECEN_26"
+    },
+    {
+      "AreaName": "subarea_t08",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_28",
+      "FlyFlag2": ""
+    },
+    {
+      "AreaName": "subarea_t09",
+      "FlyFlag1": "FSYS_YMAP_POKECEN_10",
+      "FlyFlag2": ""
+    }
+  ]
+}

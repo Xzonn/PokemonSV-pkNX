@@ -1,0 +1,3428 @@
+{
+  "Table": [
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 1,
+      "Item": 17,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 2,
+      "Item": 26,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 3,
+      "Item": 25,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 4,
+      "Item": 24,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 5,
+      "Item": 23,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 6,
+      "Item": 4,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 7,
+      "Item": 3,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 8,
+      "Item": 2,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 9,
+      "Item": 14,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 10,
+      "Item": 6,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 11,
+      "Item": 9,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 12,
+      "Item": 8,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 13,
+      "Item": 11,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 14,
+      "Item": 7,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 15,
+      "Item": 15,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 16,
+      "Item": 13,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 17,
+      "Item": 10,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 18,
+      "Item": 18,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 19,
+      "Item": 19,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 20,
+      "Item": 20,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 21,
+      "Item": 21,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 22,
+      "Item": 22,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 23,
+      "Item": 27,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 24,
+      "Item": 28,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_00_lineup",
+      "Sortnum": 25,
+      "Item": 63,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 1,
+      "Item": 239,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 2,
+      "Item": 249,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 3,
+      "Item": 243,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 4,
+      "Item": 251,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 5,
+      "Item": 244,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 6,
+      "Item": 222,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 7,
+      "Item": 266,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 8,
+      "Item": 267,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 9,
+      "Item": 1884,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 10,
+      "Item": 268,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 11,
+      "Item": 230,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 12,
+      "Item": 275,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 13,
+      "Item": 220,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 14,
+      "Item": 297,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 15,
+      "Item": 287,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 16,
+      "Item": 270,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 17,
+      "Item": 1881,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 18,
+      "Item": 1882,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 19,
+      "Item": 540,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 20,
+      "Item": 538,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 21,
+      "Item": 640,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 22,
+      "Item": 217,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 23,
+      "Item": 326,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 24,
+      "Item": 286,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 25,
+      "Item": 221,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 26,
+      "Item": 639,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 27,
+      "Item": 1121,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 28,
+      "Item": 1118,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup1",
+      "Sortnum": 29,
+      "Item": 280,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 1,
+      "Item": 795,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 2,
+      "Item": 82,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 3,
+      "Item": 83,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 4,
+      "Item": 85,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 5,
+      "Item": 84,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 6,
+      "Item": 1116,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 7,
+      "Item": 1117,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 8,
+      "Item": 853,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 9,
+      "Item": 854,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 10,
+      "Item": 855,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 11,
+      "Item": 856,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 12,
+      "Item": 228,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 13,
+      "Item": 218,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 14,
+      "Item": 229,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 15,
+      "Item": 294,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 16,
+      "Item": 289,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 17,
+      "Item": 290,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 18,
+      "Item": 291,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 19,
+      "Item": 292,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup2",
+      "Sortnum": 20,
+      "Item": 293,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 1,
+      "Item": 4,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 2,
+      "Item": 3,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 3,
+      "Item": 2,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 4,
+      "Item": 14,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 5,
+      "Item": 6,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 6,
+      "Item": 9,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 7,
+      "Item": 8,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 8,
+      "Item": 11,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 9,
+      "Item": 7,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 10,
+      "Item": 15,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 11,
+      "Item": 13,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_delibird_00_lineup3",
+      "Sortnum": 12,
+      "Item": 10,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 1,
+      "Item": 242,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 2,
+      "Item": 238,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 3,
+      "Item": 245,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 4,
+      "Item": 247,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 5,
+      "Item": 250,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 6,
+      "Item": 564,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 7,
+      "Item": 234,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 8,
+      "Item": 296,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 9,
+      "Item": 213,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 10,
+      "Item": 269,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 11,
+      "Item": 1123,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 13,
+      "Item": 879,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 14,
+      "Item": 541,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 15,
+      "Item": 295,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 16,
+      "Item": 214,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 17,
+      "Item": 219,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 18,
+      "Item": 271,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 19,
+      "Item": 1883,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 20,
+      "Item": 545,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 21,
+      "Item": 546,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 22,
+      "Item": 648,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 23,
+      "Item": 649,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 24,
+      "Item": 284,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 25,
+      "Item": 285,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 26,
+      "Item": 283,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 27,
+      "Item": 282,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 28,
+      "Item": 881,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 29,
+      "Item": 882,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 30,
+      "Item": 883,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup1",
+      "Sortnum": 31,
+      "Item": 884,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 1,
+      "Item": 795,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 2,
+      "Item": 82,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 3,
+      "Item": 83,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 4,
+      "Item": 85,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 5,
+      "Item": 84,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 6,
+      "Item": 1116,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 7,
+      "Item": 1117,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 8,
+      "Item": 853,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 9,
+      "Item": 854,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 10,
+      "Item": 855,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 11,
+      "Item": 856,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 12,
+      "Item": 228,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 13,
+      "Item": 218,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 14,
+      "Item": 229,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 15,
+      "Item": 294,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 16,
+      "Item": 289,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 17,
+      "Item": 290,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 18,
+      "Item": 291,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 19,
+      "Item": 292,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup2",
+      "Sortnum": 20,
+      "Item": 293,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 1,
+      "Item": 4,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 2,
+      "Item": 3,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 3,
+      "Item": 2,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 4,
+      "Item": 14,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 5,
+      "Item": 6,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 6,
+      "Item": 9,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 7,
+      "Item": 8,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 8,
+      "Item": 11,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 9,
+      "Item": 7,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 10,
+      "Item": 15,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 11,
+      "Item": 13,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_delibird_01_lineup3",
+      "Sortnum": 12,
+      "Item": 10,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 1,
+      "Item": 237,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 2,
+      "Item": 240,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 3,
+      "Item": 241,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 4,
+      "Item": 246,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 5,
+      "Item": 248,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 6,
+      "Item": 233,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 7,
+      "Item": 1886,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 8,
+      "Item": 253,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 9,
+      "Item": 277,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 10,
+      "Item": 232,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 11,
+      "Item": 265,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 12,
+      "Item": 276,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 13,
+      "Item": 650,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 14,
+      "Item": 880,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 15,
+      "Item": 1120,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 16,
+      "Item": 1885,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 17,
+      "Item": 542,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 18,
+      "Item": 547,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 19,
+      "Item": 1119,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 20,
+      "Item": 846,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 21,
+      "Item": 1122,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 22,
+      "Item": 278,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 23,
+      "Item": 272,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 24,
+      "Item": 273,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 25,
+      "Item": 279,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 26,
+      "Item": 281,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 27,
+      "Item": 288,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 28,
+      "Item": 543,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup1",
+      "Sortnum": 29,
+      "Item": 544,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 1,
+      "Item": 795,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 2,
+      "Item": 82,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 3,
+      "Item": 83,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 4,
+      "Item": 85,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 5,
+      "Item": 84,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 6,
+      "Item": 1116,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 7,
+      "Item": 1117,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 8,
+      "Item": 853,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 9,
+      "Item": 854,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 10,
+      "Item": 855,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 11,
+      "Item": 856,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 12,
+      "Item": 228,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 13,
+      "Item": 218,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 14,
+      "Item": 229,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 15,
+      "Item": 294,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 16,
+      "Item": 289,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 17,
+      "Item": 290,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 18,
+      "Item": 291,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 19,
+      "Item": 292,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup2",
+      "Sortnum": 20,
+      "Item": 293,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 1,
+      "Item": 4,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 2,
+      "Item": 3,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 3,
+      "Item": 2,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 4,
+      "Item": 14,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 5,
+      "Item": 6,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 6,
+      "Item": 9,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 7,
+      "Item": 8,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 8,
+      "Item": 11,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 9,
+      "Item": 7,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 10,
+      "Item": 15,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 11,
+      "Item": 13,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_delibird_02_lineup3",
+      "Sortnum": 12,
+      "Item": 10,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 1,
+      "Item": 1936,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 2,
+      "Item": 1937,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 3,
+      "Item": 1910,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 4,
+      "Item": 1913,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 5,
+      "Item": 1938,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 6,
+      "Item": 1911,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 7,
+      "Item": 1939,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 8,
+      "Item": 1941,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 9,
+      "Item": 1940,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 10,
+      "Item": 1933,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_kanzume_00_lineup",
+      "Sortnum": 11,
+      "Item": 1932,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 1,
+      "Item": 30,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 2,
+      "Item": 31,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 3,
+      "Item": 32,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 4,
+      "Item": 33,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 5,
+      "Item": 17,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 6,
+      "Item": 26,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 7,
+      "Item": 25,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 8,
+      "Item": 24,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 9,
+      "Item": 23,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 10,
+      "Item": 4,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 11,
+      "Item": 3,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 12,
+      "Item": 2,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 13,
+      "Item": 14,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 14,
+      "Item": 6,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 15,
+      "Item": 9,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 16,
+      "Item": 8,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 17,
+      "Item": 11,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 18,
+      "Item": 7,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 19,
+      "Item": 15,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 20,
+      "Item": 13,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 21,
+      "Item": 10,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 22,
+      "Item": 18,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 23,
+      "Item": 19,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 24,
+      "Item": 20,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 25,
+      "Item": 21,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 26,
+      "Item": 22,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 27,
+      "Item": 27,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 28,
+      "Item": 28,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_koubai_00_lineup",
+      "Sortnum": 29,
+      "Item": 63,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 1,
+      "Item": 51,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 2,
+      "Item": 645,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE9",
+      "GymBadgeNum": 9
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 3,
+      "Item": 45,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 4,
+      "Item": 46,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 5,
+      "Item": 47,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 6,
+      "Item": 49,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 7,
+      "Item": 52,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 8,
+      "Item": 48,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 9,
+      "Item": 57,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 10,
+      "Item": 58,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 11,
+      "Item": 61,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 12,
+      "Item": 62,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 13,
+      "Item": 59,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 14,
+      "Item": 60,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 15,
+      "Item": 56,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 16,
+      "Item": 55,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 17,
+      "Item": 34,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 18,
+      "Item": 35,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 19,
+      "Item": 36,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 20,
+      "Item": 37,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 21,
+      "Item": 1251,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 22,
+      "Item": 1231,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 23,
+      "Item": 1232,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 24,
+      "Item": 1233,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 25,
+      "Item": 1234,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 26,
+      "Item": 1235,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 27,
+      "Item": 1236,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 28,
+      "Item": 1237,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 29,
+      "Item": 1238,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 30,
+      "Item": 1239,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 31,
+      "Item": 1240,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 32,
+      "Item": 1241,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 33,
+      "Item": 1242,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 34,
+      "Item": 1243,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 35,
+      "Item": 1244,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 36,
+      "Item": 1245,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 37,
+      "Item": 1246,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 38,
+      "Item": 1247,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 39,
+      "Item": 1248,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 40,
+      "Item": 1249,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_kusuriya_00_lineup",
+      "Sortnum": 41,
+      "Item": 1250,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 1,
+      "Item": 1921,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 2,
+      "Item": 1909,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 3,
+      "Item": 1914,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 4,
+      "Item": 1889,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 5,
+      "Item": 1890,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 6,
+      "Item": 1891,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 7,
+      "Item": 1895,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 8,
+      "Item": 1896,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 9,
+      "Item": 1892,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 10,
+      "Item": 1899,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 11,
+      "Item": 1900,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 12,
+      "Item": 1902,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 13,
+      "Item": 1935,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 14,
+      "Item": 1897,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 15,
+      "Item": 1898,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 16,
+      "Item": 1893,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 17,
+      "Item": 1901,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 18,
+      "Item": 2335,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 19,
+      "Item": 2336,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 20,
+      "Item": 2338,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 21,
+      "Item": 2340,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 22,
+      "Item": 2342,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 23,
+      "Item": 2385,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 24,
+      "Item": 2386,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 25,
+      "Item": 2334,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 26,
+      "Item": 2337,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 27,
+      "Item": 2388,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 28,
+      "Item": 2389,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 29,
+      "Item": 2390,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 30,
+      "Item": 2391,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 31,
+      "Item": 2339,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 32,
+      "Item": 2341,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 33,
+      "Item": 2387,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 34,
+      "Item": 2392,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 35,
+      "Item": 2393,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_pan_00_lineup",
+      "Sortnum": 36,
+      "Item": 2394,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 1,
+      "Item": 2375,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 2,
+      "Item": 2376,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 3,
+      "Item": 2377,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 4,
+      "Item": 2372,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 5,
+      "Item": 2325,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 6,
+      "Item": 2326,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 7,
+      "Item": 2371,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 8,
+      "Item": 2316,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 9,
+      "Item": 2355,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 10,
+      "Item": 2320,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 11,
+      "Item": 2351,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 12,
+      "Item": 2352,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 13,
+      "Item": 2353,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 14,
+      "Item": 2322,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 15,
+      "Item": 2357,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_00_lineup",
+      "Sortnum": 16,
+      "Item": 2332,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 1,
+      "Item": 2368,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 2,
+      "Item": 2367,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 3,
+      "Item": 2366,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 4,
+      "Item": 2374,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 5,
+      "Item": 2370,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 6,
+      "Item": 2315,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 7,
+      "Item": 2321,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 8,
+      "Item": 2348,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 9,
+      "Item": 2358,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 10,
+      "Item": 2349,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 11,
+      "Item": 2359,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 12,
+      "Item": 2350,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 13,
+      "Item": 2360,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 14,
+      "Item": 2362,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_01_lineup",
+      "Sortnum": 15,
+      "Item": 2331,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 1,
+      "Item": 2378,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 2,
+      "Item": 2379,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 3,
+      "Item": 2380,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 4,
+      "Item": 2373,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 5,
+      "Item": 2327,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 6,
+      "Item": 2317,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 7,
+      "Item": 2356,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 8,
+      "Item": 2382,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 9,
+      "Item": 2384,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 10,
+      "Item": 2354,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 11,
+      "Item": 2364,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 12,
+      "Item": 2381,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 13,
+      "Item": 2383,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 14,
+      "Item": 2361,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 15,
+      "Item": 2333,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_picnic_02_lineup",
+      "Sortnum": 16,
+      "Item": 2365,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 1,
+      "Item": 1929,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 2,
+      "Item": 1934,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 3,
+      "Item": 1923,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 4,
+      "Item": 1920,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 5,
+      "Item": 1930,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 6,
+      "Item": 1922,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 7,
+      "Item": 1912,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 8,
+      "Item": 1919,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 9,
+      "Item": 1915,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 10,
+      "Item": 1925,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 11,
+      "Item": 1927,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 12,
+      "Item": 1945,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 13,
+      "Item": 1903,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 14,
+      "Item": 1894,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 15,
+      "Item": 1946,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 16,
+      "Item": 1916,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 17,
+      "Item": 1917,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 18,
+      "Item": 1918,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 19,
+      "Item": 1928,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_souzai_00_lineup",
+      "Sortnum": 20,
+      "Item": 1924,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 1,
+      "Item": 1889,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 2,
+      "Item": 1890,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 3,
+      "Item": 1891,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 4,
+      "Item": 1895,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 5,
+      "Item": 1896,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 6,
+      "Item": 1892,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 7,
+      "Item": 1909,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 8,
+      "Item": 1910,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 9,
+      "Item": 1914,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 10,
+      "Item": 1913,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 11,
+      "Item": 1921,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 12,
+      "Item": 1899,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 13,
+      "Item": 1900,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 14,
+      "Item": 1902,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 15,
+      "Item": 1935,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 16,
+      "Item": 1897,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 17,
+      "Item": 1898,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 18,
+      "Item": 1911,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 19,
+      "Item": 1912,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 20,
+      "Item": 1919,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 21,
+      "Item": 1915,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 22,
+      "Item": 1903,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 23,
+      "Item": 1945,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 24,
+      "Item": 1894,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 25,
+      "Item": 1946,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 26,
+      "Item": 1916,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 27,
+      "Item": 1917,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 28,
+      "Item": 1918,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 29,
+      "Item": 1901,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 30,
+      "Item": 1893,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 31,
+      "Item": 1944,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 32,
+      "Item": 1931,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 33,
+      "Item": 1942,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 34,
+      "Item": 1943,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_suupaa_00_lineup",
+      "Sortnum": 35,
+      "Item": 1926,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "Table": [
+    {
+      "Id": "shop00",
+      "ShopName": "shop_name_0",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 0,
+      "PayKind": 0,
+      "Lineup": "shop_00_lineup",
+      "Clerktype": 0
+    },
+    {
+      "Id": "shop_delibird_00_lineup1",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_00_lineup1",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_00_lineup2",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_00_lineup2",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_00_lineup3",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_00_lineup3",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_01_lineup1",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_01_lineup1",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_01_lineup2",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_01_lineup2",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_01_lineup3",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_01_lineup3",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_02_lineup1",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_02_lineup1",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_02_lineup2",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_02_lineup2",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_02_lineup3",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_02_lineup3",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_c01_1_lineup1",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subname_0",
+      "SellType": 1,
+      "PayKind": 1,
+      "Lineup": "shop_delibird_01_lineup1",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_c01_1_lineup2",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subname_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_01_lineup2",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delibird_c01_1_lineup3",
+      "ShopName": "shop_name_1",
+      "ShopSubName": "shop_subname_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_delibird_01_lineup3",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_delicatessen_c01_1",
+      "ShopName": "shop_name_3",
+      "ShopSubName": "shop_subname_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_souzai_00_lineup",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_kanzume_00",
+      "ShopName": "shop_name_4",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_kanzume_00_lineup",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_koubai_00",
+      "ShopName": "shop_name_7",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_koubai_00_lineup",
+      "Clerktype": 0
+    },
+    {
+      "Id": "shop_kusuriya_00",
+      "ShopName": "shop_name_2",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_kusuriya_00_lineup",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_pan_00",
+      "ShopName": "shop_name_5",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_pan_00_lineup",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_picnic_00",
+      "ShopName": "shop_name_8",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_picnic_00_lineup",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_picnic_01",
+      "ShopName": "shop_name_8",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_picnic_01_lineup",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_picnic_02",
+      "ShopName": "shop_name_8",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_picnic_02_lineup",
+      "Clerktype": 1
+    },
+    {
+      "Id": "shop_souzai_00",
+      "ShopName": "shop_name_3",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_souzai_00_lineup",
+      "Clerktype": 0
+    },
+    {
+      "Id": "shop_suupaa_00",
+      "ShopName": "shop_name_6",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_suupaa_00_lineup",
+      "Clerktype": 1
+    }
+  ]
+}

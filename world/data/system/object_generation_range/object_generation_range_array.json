@@ -1,0 +1,76 @@
+{
+  "Table": [
+    {
+      "Type": 5,
+      "MinCreateDistance": 100,
+      "MaxCreateDistance": 100,
+      "MinDestroyDistance": 120,
+      "MaxDestroyDistance": 120,
+      "MaxGenerationNum": 0
+    },
+    {
+      "Type": 2,
+      "MinCreateDistance": 500,
+      "MaxCreateDistance": 500,
+      "MinDestroyDistance": 600,
+      "MaxDestroyDistance": 600,
+      "MaxGenerationNum": 0
+    },
+    {
+      "Type": 1,
+      "MinCreateDistance": 25,
+      "MaxCreateDistance": 40,
+      "MinDestroyDistance": 45,
+      "MaxDestroyDistance": 45,
+      "MaxGenerationNum": 15
+    },
+    {
+      "Type": 7,
+      "MinCreateDistance": 0,
+      "MaxCreateDistance": 60,
+      "MinDestroyDistance": 0,
+      "MaxDestroyDistance": 0,
+      "MaxGenerationNum": 12
+    },
+    {
+      "Type": 8,
+      "MinCreateDistance": 0,
+      "MaxCreateDistance": 0,
+      "MinDestroyDistance": 0,
+      "MaxDestroyDistance": 0,
+      "MaxGenerationNum": 5
+    },
+    {
+      "Type": 3,
+      "MinCreateDistance": 0,
+      "MaxCreateDistance": 0,
+      "MinDestroyDistance": 0,
+      "MaxDestroyDistance": 0,
+      "MaxGenerationNum": 0
+    },
+    {
+      "Type": 4,
+      "MinCreateDistance": 30,
+      "MaxCreateDistance": 30,
+      "MinDestroyDistance": 40,
+      "MaxDestroyDistance": 40,
+      "MaxGenerationNum": 0
+    },
+    {
+      "Type": 0,
+      "MinCreateDistance": 0,
+      "MaxCreateDistance": 0,
+      "MinDestroyDistance": 0,
+      "MaxDestroyDistance": 0,
+      "MaxGenerationNum": 10
+    },
+    {
+      "Type": 6,
+      "MinCreateDistance": 0,
+      "MaxCreateDistance": 0,
+      "MinDestroyDistance": 0,
+      "MaxDestroyDistance": 0,
+      "MaxGenerationNum": 3
+    }
+  ]
+}

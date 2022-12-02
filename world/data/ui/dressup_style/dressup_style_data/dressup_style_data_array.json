@@ -1,0 +1,1492 @@
+{
+  "Table": [
+    {
+      "DressupStyleId": 1000,
+      "DressupStyleType": 0,
+      "Sortnum": 0,
+      "Name": "face_eye_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1001,
+      "DressupStyleType": 0,
+      "Sortnum": 1,
+      "Name": "face_eye_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1002,
+      "DressupStyleType": 0,
+      "Sortnum": 2,
+      "Name": "face_eye_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1003,
+      "DressupStyleType": 0,
+      "Sortnum": 3,
+      "Name": "face_eye_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1004,
+      "DressupStyleType": 0,
+      "Sortnum": 4,
+      "Name": "face_eye_04",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1005,
+      "DressupStyleType": 0,
+      "Sortnum": 5,
+      "Name": "face_eye_05",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1006,
+      "DressupStyleType": 0,
+      "Sortnum": 6,
+      "Name": "face_eye_06",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1007,
+      "DressupStyleType": 0,
+      "Sortnum": 7,
+      "Name": "face_eye_07",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 1008,
+      "DressupStyleType": 0,
+      "Sortnum": 8,
+      "Name": "face_eye_08",
+      "PatternNum": 8,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2001,
+      "DressupStyleType": 1,
+      "Sortnum": 9,
+      "Name": "colorPalette_eye_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2002,
+      "DressupStyleType": 1,
+      "Sortnum": 10,
+      "Name": "colorPalette_eye_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2003,
+      "DressupStyleType": 1,
+      "Sortnum": 11,
+      "Name": "colorPalette_eye_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2004,
+      "DressupStyleType": 1,
+      "Sortnum": 12,
+      "Name": "colorPalette_eye_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2005,
+      "DressupStyleType": 1,
+      "Sortnum": 13,
+      "Name": "colorPalette_eye_04",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2006,
+      "DressupStyleType": 1,
+      "Sortnum": 14,
+      "Name": "colorPalette_eye_05",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2007,
+      "DressupStyleType": 1,
+      "Sortnum": 15,
+      "Name": "colorPalette_eye_06",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2008,
+      "DressupStyleType": 1,
+      "Sortnum": 16,
+      "Name": "colorPalette_eye_07",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2009,
+      "DressupStyleType": 1,
+      "Sortnum": 17,
+      "Name": "colorPalette_eye_08",
+      "PatternNum": 8,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2010,
+      "DressupStyleType": 1,
+      "Sortnum": 18,
+      "Name": "colorPalette_eye_09",
+      "PatternNum": 9,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2011,
+      "DressupStyleType": 1,
+      "Sortnum": 19,
+      "Name": "colorPalette_eye_10",
+      "PatternNum": 10,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2012,
+      "DressupStyleType": 1,
+      "Sortnum": 20,
+      "Name": "colorPalette_eye_11",
+      "PatternNum": 11,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2013,
+      "DressupStyleType": 1,
+      "Sortnum": 21,
+      "Name": "colorPalette_eye_12",
+      "PatternNum": 12,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2014,
+      "DressupStyleType": 1,
+      "Sortnum": 22,
+      "Name": "colorPalette_eye_13",
+      "PatternNum": 13,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2015,
+      "DressupStyleType": 1,
+      "Sortnum": 23,
+      "Name": "colorPalette_eye_14",
+      "PatternNum": 14,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2016,
+      "DressupStyleType": 1,
+      "Sortnum": 24,
+      "Name": "colorPalette_eye_15",
+      "PatternNum": 15,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2017,
+      "DressupStyleType": 1,
+      "Sortnum": 25,
+      "Name": "colorPalette_eye_16",
+      "PatternNum": 16,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2018,
+      "DressupStyleType": 1,
+      "Sortnum": 26,
+      "Name": "colorPalette_eye_17",
+      "PatternNum": 17,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2019,
+      "DressupStyleType": 1,
+      "Sortnum": 27,
+      "Name": "colorPalette_eye_18",
+      "PatternNum": 18,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2020,
+      "DressupStyleType": 1,
+      "Sortnum": 28,
+      "Name": "colorPalette_eye_19",
+      "PatternNum": 19,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2021,
+      "DressupStyleType": 1,
+      "Sortnum": 29,
+      "Name": "colorPalette_eye_20",
+      "PatternNum": 20,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2022,
+      "DressupStyleType": 1,
+      "Sortnum": 30,
+      "Name": "colorPalette_eye_21",
+      "PatternNum": 21,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2023,
+      "DressupStyleType": 1,
+      "Sortnum": 31,
+      "Name": "colorPalette_eye_22",
+      "PatternNum": 22,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2024,
+      "DressupStyleType": 1,
+      "Sortnum": 32,
+      "Name": "colorPalette_eye_23",
+      "PatternNum": 23,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2025,
+      "DressupStyleType": 1,
+      "Sortnum": 33,
+      "Name": "colorPalette_eye_24",
+      "PatternNum": 24,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2026,
+      "DressupStyleType": 1,
+      "Sortnum": 34,
+      "Name": "colorPalette_eye_25",
+      "PatternNum": 25,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2027,
+      "DressupStyleType": 1,
+      "Sortnum": 35,
+      "Name": "colorPalette_eye_26",
+      "PatternNum": 26,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2028,
+      "DressupStyleType": 1,
+      "Sortnum": 36,
+      "Name": "colorPalette_eye_27",
+      "PatternNum": 27,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2029,
+      "DressupStyleType": 1,
+      "Sortnum": 37,
+      "Name": "colorPalette_eye_28",
+      "PatternNum": 28,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2030,
+      "DressupStyleType": 1,
+      "Sortnum": 38,
+      "Name": "colorPalette_eye_29",
+      "PatternNum": 29,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 2031,
+      "DressupStyleType": 1,
+      "Sortnum": 39,
+      "Name": "colorPalette_eye_30",
+      "PatternNum": 30,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3000,
+      "DressupStyleType": 2,
+      "Sortnum": 40,
+      "Name": "face_eyelash_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3001,
+      "DressupStyleType": 2,
+      "Sortnum": 41,
+      "Name": "face_eyelash_01",
+      "PatternNum": 0,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3002,
+      "DressupStyleType": 2,
+      "Sortnum": 42,
+      "Name": "face_eyelash_02",
+      "PatternNum": 0,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 3003,
+      "DressupStyleType": 2,
+      "Sortnum": 43,
+      "Name": "face_eyelash_03",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3004,
+      "DressupStyleType": 2,
+      "Sortnum": 44,
+      "Name": "face_eyelash_04",
+      "PatternNum": 1,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3005,
+      "DressupStyleType": 2,
+      "Sortnum": 45,
+      "Name": "face_eyelash_05",
+      "PatternNum": 1,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 3006,
+      "DressupStyleType": 2,
+      "Sortnum": 46,
+      "Name": "face_eyelash_06",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3007,
+      "DressupStyleType": 2,
+      "Sortnum": 47,
+      "Name": "face_eyelash_07",
+      "PatternNum": 2,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3008,
+      "DressupStyleType": 2,
+      "Sortnum": 48,
+      "Name": "face_eyelash_08",
+      "PatternNum": 2,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 3009,
+      "DressupStyleType": 2,
+      "Sortnum": 49,
+      "Name": "face_eyelash_09",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3010,
+      "DressupStyleType": 2,
+      "Sortnum": 50,
+      "Name": "face_eyelash_10",
+      "PatternNum": 3,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3011,
+      "DressupStyleType": 2,
+      "Sortnum": 51,
+      "Name": "face_eyelash_11",
+      "PatternNum": 3,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 3012,
+      "DressupStyleType": 2,
+      "Sortnum": 52,
+      "Name": "face_eyelash_12",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3013,
+      "DressupStyleType": 2,
+      "Sortnum": 53,
+      "Name": "face_eyelash_13",
+      "PatternNum": 4,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3014,
+      "DressupStyleType": 2,
+      "Sortnum": 54,
+      "Name": "face_eyelash_14",
+      "PatternNum": 4,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 3015,
+      "DressupStyleType": 2,
+      "Sortnum": 55,
+      "Name": "face_eyelash_15",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3016,
+      "DressupStyleType": 2,
+      "Sortnum": 56,
+      "Name": "face_eyelash_16",
+      "PatternNum": 5,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3017,
+      "DressupStyleType": 2,
+      "Sortnum": 57,
+      "Name": "face_eyelash_17",
+      "PatternNum": 5,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 3018,
+      "DressupStyleType": 2,
+      "Sortnum": 58,
+      "Name": "face_eyelash_18",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3019,
+      "DressupStyleType": 2,
+      "Sortnum": 59,
+      "Name": "face_eyelash_19",
+      "PatternNum": 6,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3020,
+      "DressupStyleType": 2,
+      "Sortnum": 60,
+      "Name": "face_eyelash_20",
+      "PatternNum": 6,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 3021,
+      "DressupStyleType": 2,
+      "Sortnum": 61,
+      "Name": "face_eyelash_21",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 3022,
+      "DressupStyleType": 2,
+      "Sortnum": 62,
+      "Name": "face_eyelash_22",
+      "PatternNum": 7,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 3023,
+      "DressupStyleType": 2,
+      "Sortnum": 63,
+      "Name": "face_eyelash_23",
+      "PatternNum": 7,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 4000,
+      "DressupStyleType": 3,
+      "Sortnum": 64,
+      "Name": "colorPalette_eyebrow_eyelash_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4001,
+      "DressupStyleType": 3,
+      "Sortnum": 65,
+      "Name": "colorPalette_eyebrow_eyelash_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4002,
+      "DressupStyleType": 3,
+      "Sortnum": 66,
+      "Name": "colorPalette_eyebrow_eyelash_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4003,
+      "DressupStyleType": 3,
+      "Sortnum": 67,
+      "Name": "colorPalette_eyebrow_eyelash_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4004,
+      "DressupStyleType": 3,
+      "Sortnum": 68,
+      "Name": "colorPalette_eyebrow_eyelash_04",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4005,
+      "DressupStyleType": 3,
+      "Sortnum": 69,
+      "Name": "colorPalette_eyebrow_eyelash_05",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4006,
+      "DressupStyleType": 3,
+      "Sortnum": 70,
+      "Name": "colorPalette_eyebrow_eyelash_06",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4007,
+      "DressupStyleType": 3,
+      "Sortnum": 71,
+      "Name": "colorPalette_eyebrow_eyelash_07",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4008,
+      "DressupStyleType": 3,
+      "Sortnum": 72,
+      "Name": "colorPalette_eyebrow_eyelash_08",
+      "PatternNum": 8,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4009,
+      "DressupStyleType": 3,
+      "Sortnum": 73,
+      "Name": "colorPalette_eyebrow_eyelash_09",
+      "PatternNum": 9,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4010,
+      "DressupStyleType": 3,
+      "Sortnum": 74,
+      "Name": "colorPalette_eyebrow_eyelash_10",
+      "PatternNum": 10,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4011,
+      "DressupStyleType": 3,
+      "Sortnum": 75,
+      "Name": "colorPalette_eyebrow_eyelash_11",
+      "PatternNum": 11,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4012,
+      "DressupStyleType": 3,
+      "Sortnum": 76,
+      "Name": "colorPalette_eyebrow_eyelash_12",
+      "PatternNum": 12,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4013,
+      "DressupStyleType": 3,
+      "Sortnum": 77,
+      "Name": "colorPalette_eyebrow_eyelash_13",
+      "PatternNum": 13,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4014,
+      "DressupStyleType": 3,
+      "Sortnum": 78,
+      "Name": "colorPalette_eyebrow_eyelash_14",
+      "PatternNum": 14,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4015,
+      "DressupStyleType": 3,
+      "Sortnum": 79,
+      "Name": "colorPalette_eyebrow_eyelash_15",
+      "PatternNum": 15,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4016,
+      "DressupStyleType": 3,
+      "Sortnum": 80,
+      "Name": "colorPalette_eyebrow_eyelash_16",
+      "PatternNum": 16,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4017,
+      "DressupStyleType": 3,
+      "Sortnum": 81,
+      "Name": "colorPalette_eyebrow_eyelash_17",
+      "PatternNum": 17,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4018,
+      "DressupStyleType": 3,
+      "Sortnum": 82,
+      "Name": "colorPalette_eyebrow_eyelash_18",
+      "PatternNum": 18,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4019,
+      "DressupStyleType": 3,
+      "Sortnum": 83,
+      "Name": "colorPalette_eyebrow_eyelash_19",
+      "PatternNum": 19,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4020,
+      "DressupStyleType": 3,
+      "Sortnum": 84,
+      "Name": "colorPalette_eyebrow_eyelash_20",
+      "PatternNum": 20,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4021,
+      "DressupStyleType": 3,
+      "Sortnum": 85,
+      "Name": "colorPalette_eyebrow_eyelash_21",
+      "PatternNum": 21,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4022,
+      "DressupStyleType": 3,
+      "Sortnum": 86,
+      "Name": "colorPalette_eyebrow_eyelash_22",
+      "PatternNum": 22,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4023,
+      "DressupStyleType": 3,
+      "Sortnum": 87,
+      "Name": "colorPalette_eyebrow_eyelash_23",
+      "PatternNum": 23,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4024,
+      "DressupStyleType": 3,
+      "Sortnum": 88,
+      "Name": "colorPalette_eyebrow_eyelash_24",
+      "PatternNum": 24,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 4025,
+      "DressupStyleType": 3,
+      "Sortnum": 89,
+      "Name": "colorPalette_eyebrow_eyelash_25",
+      "PatternNum": 25,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5000,
+      "DressupStyleType": 4,
+      "Sortnum": 90,
+      "Name": "face_eyebrow_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5001,
+      "DressupStyleType": 4,
+      "Sortnum": 91,
+      "Name": "face_eyebrow_01",
+      "PatternNum": 0,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5002,
+      "DressupStyleType": 4,
+      "Sortnum": 92,
+      "Name": "face_eyebrow_02",
+      "PatternNum": 0,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 5003,
+      "DressupStyleType": 4,
+      "Sortnum": 93,
+      "Name": "face_eyebrow_03",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5004,
+      "DressupStyleType": 4,
+      "Sortnum": 94,
+      "Name": "face_eyebrow_04",
+      "PatternNum": 1,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5005,
+      "DressupStyleType": 4,
+      "Sortnum": 95,
+      "Name": "face_eyebrow_05",
+      "PatternNum": 1,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 5006,
+      "DressupStyleType": 4,
+      "Sortnum": 96,
+      "Name": "face_eyebrow_06",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5007,
+      "DressupStyleType": 4,
+      "Sortnum": 97,
+      "Name": "face_eyebrow_07",
+      "PatternNum": 2,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5008,
+      "DressupStyleType": 4,
+      "Sortnum": 98,
+      "Name": "face_eyebrow_08",
+      "PatternNum": 2,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 5009,
+      "DressupStyleType": 4,
+      "Sortnum": 99,
+      "Name": "face_eyebrow_09",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5010,
+      "DressupStyleType": 4,
+      "Sortnum": 100,
+      "Name": "face_eyebrow_10",
+      "PatternNum": 3,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5011,
+      "DressupStyleType": 4,
+      "Sortnum": 101,
+      "Name": "face_eyebrow_11",
+      "PatternNum": 3,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 5012,
+      "DressupStyleType": 4,
+      "Sortnum": 102,
+      "Name": "face_eyebrow_12",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5013,
+      "DressupStyleType": 4,
+      "Sortnum": 103,
+      "Name": "face_eyebrow_13",
+      "PatternNum": 4,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5014,
+      "DressupStyleType": 4,
+      "Sortnum": 104,
+      "Name": "face_eyebrow_14",
+      "PatternNum": 4,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 5015,
+      "DressupStyleType": 4,
+      "Sortnum": 105,
+      "Name": "face_eyebrow_15",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5016,
+      "DressupStyleType": 4,
+      "Sortnum": 106,
+      "Name": "face_eyebrow_16",
+      "PatternNum": 5,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5017,
+      "DressupStyleType": 4,
+      "Sortnum": 107,
+      "Name": "face_eyebrow_17",
+      "PatternNum": 5,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 5018,
+      "DressupStyleType": 4,
+      "Sortnum": 108,
+      "Name": "face_eyebrow_18",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5019,
+      "DressupStyleType": 4,
+      "Sortnum": 109,
+      "Name": "face_eyebrow_19",
+      "PatternNum": 6,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5020,
+      "DressupStyleType": 4,
+      "Sortnum": 110,
+      "Name": "face_eyebrow_20",
+      "PatternNum": 6,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 5021,
+      "DressupStyleType": 4,
+      "Sortnum": 111,
+      "Name": "face_eyebrow_21",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 5022,
+      "DressupStyleType": 4,
+      "Sortnum": 112,
+      "Name": "face_eyebrow_22",
+      "PatternNum": 7,
+      "MultiplePatternNum": 1
+    },
+    {
+      "DressupStyleId": 5023,
+      "DressupStyleType": 4,
+      "Sortnum": 113,
+      "Name": "face_eyebrow_23",
+      "PatternNum": 7,
+      "MultiplePatternNum": 2
+    },
+    {
+      "DressupStyleId": 6000,
+      "DressupStyleType": 5,
+      "Sortnum": 114,
+      "Name": "colorPalette_eyebrow_eyelash_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6001,
+      "DressupStyleType": 5,
+      "Sortnum": 115,
+      "Name": "colorPalette_eyebrow_eyelash_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6002,
+      "DressupStyleType": 5,
+      "Sortnum": 116,
+      "Name": "colorPalette_eyebrow_eyelash_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6003,
+      "DressupStyleType": 5,
+      "Sortnum": 117,
+      "Name": "colorPalette_eyebrow_eyelash_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6004,
+      "DressupStyleType": 5,
+      "Sortnum": 118,
+      "Name": "colorPalette_eyebrow_eyelash_04",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6005,
+      "DressupStyleType": 5,
+      "Sortnum": 119,
+      "Name": "colorPalette_eyebrow_eyelash_05",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6006,
+      "DressupStyleType": 5,
+      "Sortnum": 120,
+      "Name": "colorPalette_eyebrow_eyelash_06",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6007,
+      "DressupStyleType": 5,
+      "Sortnum": 121,
+      "Name": "colorPalette_eyebrow_eyelash_07",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6008,
+      "DressupStyleType": 5,
+      "Sortnum": 122,
+      "Name": "colorPalette_eyebrow_eyelash_08",
+      "PatternNum": 8,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6009,
+      "DressupStyleType": 5,
+      "Sortnum": 123,
+      "Name": "colorPalette_eyebrow_eyelash_09",
+      "PatternNum": 9,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6010,
+      "DressupStyleType": 5,
+      "Sortnum": 124,
+      "Name": "colorPalette_eyebrow_eyelash_10",
+      "PatternNum": 10,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6011,
+      "DressupStyleType": 5,
+      "Sortnum": 125,
+      "Name": "colorPalette_eyebrow_eyelash_11",
+      "PatternNum": 11,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6012,
+      "DressupStyleType": 5,
+      "Sortnum": 126,
+      "Name": "colorPalette_eyebrow_eyelash_12",
+      "PatternNum": 12,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6013,
+      "DressupStyleType": 5,
+      "Sortnum": 127,
+      "Name": "colorPalette_eyebrow_eyelash_13",
+      "PatternNum": 13,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6014,
+      "DressupStyleType": 5,
+      "Sortnum": 128,
+      "Name": "colorPalette_eyebrow_eyelash_14",
+      "PatternNum": 14,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6015,
+      "DressupStyleType": 5,
+      "Sortnum": 129,
+      "Name": "colorPalette_eyebrow_eyelash_15",
+      "PatternNum": 15,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6016,
+      "DressupStyleType": 5,
+      "Sortnum": 130,
+      "Name": "colorPalette_eyebrow_eyelash_16",
+      "PatternNum": 16,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6017,
+      "DressupStyleType": 5,
+      "Sortnum": 131,
+      "Name": "colorPalette_eyebrow_eyelash_17",
+      "PatternNum": 17,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6018,
+      "DressupStyleType": 5,
+      "Sortnum": 132,
+      "Name": "colorPalette_eyebrow_eyelash_18",
+      "PatternNum": 18,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6019,
+      "DressupStyleType": 5,
+      "Sortnum": 133,
+      "Name": "colorPalette_eyebrow_eyelash_19",
+      "PatternNum": 19,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6020,
+      "DressupStyleType": 5,
+      "Sortnum": 134,
+      "Name": "colorPalette_eyebrow_eyelash_20",
+      "PatternNum": 20,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6021,
+      "DressupStyleType": 5,
+      "Sortnum": 135,
+      "Name": "colorPalette_eyebrow_eyelash_21",
+      "PatternNum": 21,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6022,
+      "DressupStyleType": 5,
+      "Sortnum": 136,
+      "Name": "colorPalette_eyebrow_eyelash_22",
+      "PatternNum": 22,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6023,
+      "DressupStyleType": 5,
+      "Sortnum": 137,
+      "Name": "colorPalette_eyebrow_eyelash_23",
+      "PatternNum": 23,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6024,
+      "DressupStyleType": 5,
+      "Sortnum": 138,
+      "Name": "colorPalette_eyebrow_eyelash_24",
+      "PatternNum": 24,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 6025,
+      "DressupStyleType": 5,
+      "Sortnum": 139,
+      "Name": "colorPalette_eyebrow_eyelash_25",
+      "PatternNum": 25,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7000,
+      "DressupStyleType": 6,
+      "Sortnum": 140,
+      "Name": "face_mouth_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7001,
+      "DressupStyleType": 6,
+      "Sortnum": 141,
+      "Name": "face_mouth_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7002,
+      "DressupStyleType": 6,
+      "Sortnum": 142,
+      "Name": "face_mouth_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7003,
+      "DressupStyleType": 6,
+      "Sortnum": 143,
+      "Name": "face_mouth_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7004,
+      "DressupStyleType": 6,
+      "Sortnum": 144,
+      "Name": "face_mouth_04",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7005,
+      "DressupStyleType": 6,
+      "Sortnum": 145,
+      "Name": "face_mouth_05",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7006,
+      "DressupStyleType": 6,
+      "Sortnum": 146,
+      "Name": "face_mouth_06",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7007,
+      "DressupStyleType": 6,
+      "Sortnum": 147,
+      "Name": "face_mouth_07",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7008,
+      "DressupStyleType": 6,
+      "Sortnum": 148,
+      "Name": "face_mouth_08",
+      "PatternNum": 8,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7009,
+      "DressupStyleType": 6,
+      "Sortnum": 149,
+      "Name": "face_mouth_09",
+      "PatternNum": 9,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7010,
+      "DressupStyleType": 6,
+      "Sortnum": 150,
+      "Name": "face_mouth_10",
+      "PatternNum": 10,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7011,
+      "DressupStyleType": 6,
+      "Sortnum": 151,
+      "Name": "face_mouth_11",
+      "PatternNum": 11,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7012,
+      "DressupStyleType": 6,
+      "Sortnum": 152,
+      "Name": "face_mouth_12",
+      "PatternNum": 12,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7013,
+      "DressupStyleType": 6,
+      "Sortnum": 153,
+      "Name": "face_mouth_13",
+      "PatternNum": 13,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 7014,
+      "DressupStyleType": 6,
+      "Sortnum": 154,
+      "Name": "face_mouth_14",
+      "PatternNum": 14,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8000,
+      "DressupStyleType": 7,
+      "Sortnum": 155,
+      "Name": "colorPalette_lip_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8001,
+      "DressupStyleType": 7,
+      "Sortnum": 156,
+      "Name": "colorPalette_lip_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8002,
+      "DressupStyleType": 7,
+      "Sortnum": 157,
+      "Name": "colorPalette_lip_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8003,
+      "DressupStyleType": 7,
+      "Sortnum": 158,
+      "Name": "colorPalette_lip_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8004,
+      "DressupStyleType": 7,
+      "Sortnum": 159,
+      "Name": "colorPalette_lip_04",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8005,
+      "DressupStyleType": 7,
+      "Sortnum": 160,
+      "Name": "colorPalette_lip_05",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8006,
+      "DressupStyleType": 7,
+      "Sortnum": 161,
+      "Name": "colorPalette_lip_06",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8007,
+      "DressupStyleType": 7,
+      "Sortnum": 162,
+      "Name": "colorPalette_lip_07",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8008,
+      "DressupStyleType": 7,
+      "Sortnum": 163,
+      "Name": "colorPalette_lip_08",
+      "PatternNum": 8,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8009,
+      "DressupStyleType": 7,
+      "Sortnum": 164,
+      "Name": "colorPalette_lip_09",
+      "PatternNum": 9,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8010,
+      "DressupStyleType": 7,
+      "Sortnum": 165,
+      "Name": "colorPalette_lip_10",
+      "PatternNum": 10,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8011,
+      "DressupStyleType": 7,
+      "Sortnum": 166,
+      "Name": "colorPalette_lip_11",
+      "PatternNum": 11,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 8012,
+      "DressupStyleType": 7,
+      "Sortnum": 167,
+      "Name": "colorPalette_lip_12",
+      "PatternNum": 12,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9000,
+      "DressupStyleType": 8,
+      "Sortnum": 168,
+      "Name": "face_mole_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9001,
+      "DressupStyleType": 8,
+      "Sortnum": 169,
+      "Name": "face_mole_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9002,
+      "DressupStyleType": 8,
+      "Sortnum": 170,
+      "Name": "face_mole_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9003,
+      "DressupStyleType": 8,
+      "Sortnum": 171,
+      "Name": "face_mole_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9004,
+      "DressupStyleType": 8,
+      "Sortnum": 172,
+      "Name": "face_mole_04",
+      "PatternNum": 4,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9005,
+      "DressupStyleType": 8,
+      "Sortnum": 173,
+      "Name": "face_mole_05",
+      "PatternNum": 5,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9006,
+      "DressupStyleType": 8,
+      "Sortnum": 174,
+      "Name": "face_mole_06",
+      "PatternNum": 6,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9007,
+      "DressupStyleType": 8,
+      "Sortnum": 175,
+      "Name": "face_mole_07",
+      "PatternNum": 7,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9008,
+      "DressupStyleType": 8,
+      "Sortnum": 176,
+      "Name": "face_mole_08",
+      "PatternNum": 8,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9009,
+      "DressupStyleType": 8,
+      "Sortnum": 177,
+      "Name": "face_mole_09",
+      "PatternNum": 9,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9010,
+      "DressupStyleType": 8,
+      "Sortnum": 178,
+      "Name": "face_mole_10",
+      "PatternNum": 10,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9011,
+      "DressupStyleType": 8,
+      "Sortnum": 179,
+      "Name": "face_mole_11",
+      "PatternNum": 11,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9012,
+      "DressupStyleType": 8,
+      "Sortnum": 180,
+      "Name": "face_mole_12",
+      "PatternNum": 12,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 9013,
+      "DressupStyleType": 8,
+      "Sortnum": 181,
+      "Name": "face_mole_13",
+      "PatternNum": 13,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 10000,
+      "DressupStyleType": 9,
+      "Sortnum": 182,
+      "Name": "face_freckles_00",
+      "PatternNum": 0,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 10001,
+      "DressupStyleType": 9,
+      "Sortnum": 183,
+      "Name": "face_freckles_01",
+      "PatternNum": 1,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 10002,
+      "DressupStyleType": 9,
+      "Sortnum": 184,
+      "Name": "face_freckles_02",
+      "PatternNum": 2,
+      "MultiplePatternNum": 0
+    },
+    {
+      "DressupStyleId": 10003,
+      "DressupStyleType": 9,
+      "Sortnum": 185,
+      "Name": "face_freckles_03",
+      "PatternNum": 3,
+      "MultiplePatternNum": 0
+    }
+  ]
+}

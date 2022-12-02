@@ -1,0 +1,145 @@
+{
+  "Gravity": {
+    "Accel": 14,
+    "SpeedMax": 30
+  },
+  "Input": {
+    "StickTolerance": 0.1,
+    "SpinThreshold": 720
+  },
+  "Move": {
+    "PitchFactor": 0.4,
+    "LeanAngle": 3,
+    "LeanFactor": 0.25,
+    "RotationFactor": 0.32,
+    "ReverseSpeedFactor": 0.75,
+    "ReverseTurnAngle": 150,
+    "ReverseFrictionFactor": 0.25,
+    "LightLandingHeight": 5,
+    "HeavyLandingHeight": 10,
+    "DynamicsResetCount": 30,
+    "SpinCount": 3,
+    "SpinMaxSpeed": 2000,
+    "SpinMaxAnimationSpeed": 3,
+    "SpinInterpolation": 0.2,
+    "SlideDropToleranceTime": 0.15,
+    "StopToleranceTime": 0.05,
+    "TurnStickDiffThreashold": 0.35,
+    "SliderModeRate": 0.01,
+    "BallThrowFrictionFactor": 0.5,
+    "BallThrowBackFrictionFactor": 0.8,
+    "UnlandablePushVelocity": 1
+  },
+  "Totter": {
+    "Interval": 1,
+    "Height": 8,
+    "DistanceMax": 10,
+    "BackDistance": 1
+  },
+  "Ground": {
+    "SlideDropThreshold": 45,
+    "VerticalMargin": 0.3,
+    "WallHitAngle": 15,
+    "WaterDraftLine": 0.6,
+    "WaterSurfaceMargin": 0.75,
+    "WaterWithstandLine": 0.4,
+    "UnderWaterThreshold": 0.65,
+    "ShallowWaterThreshold": 0.4,
+    "AcceptableRadiusRate": 0.5
+  },
+  "SlideDrop": {
+    "ForwardDirFactor": 0.1,
+    "BackwardDirFactor": 0.2,
+    "UpwardDirFactor": 0.1,
+    "BackwardTime": 0.5,
+    "LeanFactor": 0.4
+  },
+  "Ladder": {
+    "LowerCorrectRate": 1,
+    "UpperCorrectRate": 1,
+    "UpperLaunchAngle": 15,
+    "LowerLaunchAngle": 15,
+    "UpperForwardAngle": 75,
+    "LowerForwardAngle": 75
+  },
+  "Facial": {
+    "AutoBlinkIntervalMin": 1,
+    "AutoBlinkIntervalMax": 5
+  },
+  "Unique": {
+    "IdlingIntervalMin": 0.5,
+    "IdlingIntervalMax": 1,
+    "FacialIdlingCountMin": 1,
+    "FacialIdlingCountMax": 3,
+    "RunFacialIntervalMin": 5,
+    "RunFacialIntervalMax": 7,
+    "RunMouthIntervalMin": 3,
+    "RunMouthIntervalMax": 5,
+    "SlideDropLeanAngle": 12,
+    "SlideDropFwdAngle": 10,
+    "SquatRate": 1.4,
+    "RideChangeCheckHeight": 2.5,
+    "RideChangeBottomOffset": 0.3,
+    "RideChangeRadiusScale": 1.05,
+    "HiddenMargin": 1
+  },
+  "GroundKinesis": {
+    "FirstSpeedMax": 2,
+    "SecondSpeedMax": 6.5,
+    "SlowSpeedMax": 1,
+    "FirstAccel": 8,
+    "SecondAccel": 24,
+    "SlowAccel": 4,
+    "Friction": 24,
+    "SlipFriction": 15.15,
+    "SlipFrictionExp": 0.9,
+    "MaxGripFactor": 1,
+    "MinGripFactor": 1,
+    "RunStickThreshold": 0.7
+  },
+  "AerialKinesis": {
+    "Accel": 8,
+    "Friction": 18,
+    "SelfSpeedMax": 7,
+    "BackwardAngle": 120,
+    "GripAngle": 90
+  },
+  "SlideDropKinesis": {
+    "ForwardGripFactor": 0.1,
+    "BackwardGripFactor": 0.1,
+    "Accel": 9.8,
+    "Friction": 9,
+    "SpeedMax": 7,
+    "CurveAngle": 45,
+    "SpeedUpInputThreshold": 0.85,
+    "SideInputTolerance": 0.05,
+    "SideMaxVelocityRate": 0.6,
+    "SideFriction": 1.5,
+    "SpeedUpRate": 2.3,
+    "SpeedDownRate": 0.5,
+    "ForwardSideAccel": 5,
+    "BackwardSideAccel": 1.5
+  },
+  "SquatKinesis": {
+    "SpeedFixed": 1.9,
+    "SlipFriction": 7.5,
+    "GripFactor": 0.1
+  },
+  "SlidingKinesis": {
+    "Friction": 13,
+    "SlipFriction": 22,
+    "InitVelocityRate": 1.6,
+    "BreakDecrease": 0.85,
+    "BreakIncrease": 1.3
+  },
+  "Selfie": {
+    "MaxFactor": 0.5,
+    "RotAngleMax": 90
+  },
+  "Floatation": {
+    "Floatage": 0,
+    "Dumping": 0,
+    "SpeedMax": 0,
+    "SurfaceDumpingRate": 0
+  }
+}

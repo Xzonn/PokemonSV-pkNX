@@ -1,0 +1,13 @@
+{
+  "WagonSize": 10,
+  "EggCommonData": {
+    "CreateEggTimer": 60,
+    "CreateEggTimerShort": 10,
+    "CreateEggProb": {
+      "Good": 8,
+      "Normal": 6,
+      "Bad": 3,
+      "Worst": 0
+    }
+  }
+}

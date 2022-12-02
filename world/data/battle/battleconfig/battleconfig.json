@@ -1,0 +1,105 @@
+{
+  "FcamZoomToprigRadius": 4.5,
+  "FcamZoomToprigHeight": 4,
+  "FcamZoomMidrigRadius": 3,
+  "FcamZoomMidrigHeight": 1,
+  "FcamZoomLowrigRadius": 2,
+  "FcamZoomLowrigHeight": -0.3,
+  "FcamZoomToprigRadius2": 4.5,
+  "FcamZoomToprigHeight2": 4,
+  "FcamZoomMidrigRadius2": 3,
+  "FcamZoomMidrigHeight2": 1,
+  "FcamZoomLowrigRadius2": 2,
+  "FcamZoomLowrigHeight2": -0.3,
+  "FcamCentToprigRadius": 8,
+  "FcamCentToprigHeight": 7,
+  "FcamCentMidrigRadius": 4.5,
+  "FcamCentMidrigHeight": 1,
+  "FcamCentLowrigRadius": 3,
+  "FcamCentLowrigHeight": -0.5,
+  "FcamOffsetCenter": {
+    "X": 0,
+    "Y": 0.5,
+    "Z": 1
+  },
+  "FcamOffsetPoke0": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamOffsetPoke1": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamOffsetPoke2": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamOffsetPoke3": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamOffsetTr0": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamOffsetTr1": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamOffsetTr2": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamOffsetTr3": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "FcamZoomStartAngle": 30,
+  "FcamZoomMinAngle": -60,
+  "FcamZoomMaxAngle": 60,
+  "FcamZoomStartHeight": 0.7,
+  "FcamZoomStartAngle2": 30,
+  "FcamZoomMinAngle2": -60,
+  "FcamZoomMaxAngle2": 60,
+  "FcamZoomStartHeight2": 0.7,
+  "FcamCentStartHeightS": 0.7,
+  "FcamCentStartHeightM": 0.7,
+  "FcamCentStartHeightL": 0.7,
+  "FcamCentStartHeightLL": 0.7,
+  "FcamPokeLocator": "eff_front01",
+  "FcamTrainerLocator": "loc_eff_head",
+  "FcamRotSpeedX": -0.03,
+  "FcamRotSpeedY": 0.03,
+  "FcamStartStickLength": 0.5,
+  "FieldgemDropupRate": 3,
+  "WazamsgIsPreMsgTime": true,
+  "WazamsgPreMsgTime": 0,
+  "WazamsgIsPostMsgTime": true,
+  "WazamsgPostMsgTime": 1.5,
+  "WazamsgIsSubMsgTime": true,
+  "WazamsgSubMsgTime": 1.5,
+  "WazamsgIsSubMsgCloseTime": true,
+  "WazamsgSubMsgCloseTime": 1.5,
+  "WildTrposCheckSize": 1.5,
+  "RandomCameraStartFrames": 120,
+  "TrainerWaitIntervalFix": 400,
+  "TrainerWaitIntervalRandom": 500,
+  "PokeRoarIntervalFix": 300,
+  "PokeRoarIntervalRandom": 400,
+  "BossCarIdlingIntervalFix": 150,
+  "BossCarIdlingIntervalRandom": 60,
+  "BossCarWaitRate": 50,
+  "BossCarRoarRate": 50,
+  "BattleAreaSize": 5,
+  "BattleHecklerAreaSize": 10,
+  "RaidPowerchargeMessageTime": 3,
+  "PokeMoveConditionDistance": 0.5
+}

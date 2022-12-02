@@ -1,0 +1,6 @@
+{
+  "PointFetchRange": 50,
+  "PointReleaseRange": 60,
+  "PointFetchRangeGem": 150,
+  "PointReleaseRangeGem": 160
+}

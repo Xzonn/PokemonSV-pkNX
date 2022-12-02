@@ -1,0 +1,60 @@
+{
+  "CenterDistance": 0,
+  "TopDistance": 0,
+  "BottomDistance": 0,
+  "GazeOffset": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "RotationTurn": 0,
+  "RotationPitch": 0,
+  "PitchCenter": 0,
+  "PitchUpperMax": 0,
+  "PitchLowerMax": 0,
+  "FollowFactor": 0,
+  "WallOffset": 0,
+  "FloorOffset": 0,
+  "DistanceMin": 0,
+  "DistanceMax": 0,
+  "RevertFactor": 0,
+  "DepthFollowFactor": 0,
+  "DepthFollowLerpExponential": 0,
+  "ZoomHoldTime": 0,
+  "ZoomDistance": 0,
+  "StickTolerance": 0,
+  "Hid": {
+    "StickTolerance": 0
+  },
+  "Tracking": {
+    "TrackingOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    }
+  },
+  "Orbit": {
+    "TargetMoveTolerance": 0,
+    "AutoRotationTimeTolerance": 0,
+    "AutoRotationYawSpeed": 0,
+    "AutoRotationPitchSpeed": 0,
+    "RotationYawSpeed": 0,
+    "RotationPitchSpeed": 0,
+    "DefaultResetRotationTime": 0,
+    "DefaultEasingPosTime": 0
+  },
+  "LockOn": {
+    "RotationYawSpeed": 0,
+    "RotationPitchSpeed": 0,
+    "PitchMax": 0,
+    "PitchMin": 0
+  },
+  "Collision": {
+    "ResolveSpeed": 9999999,
+    "ResolveStartMargin": 0,
+    "DistanceLimitMax": 0,
+    "DistanceLimitMin": 0,
+    "DistanceToWater": 0,
+    "CastLengthToWater": 0
+  }
+}

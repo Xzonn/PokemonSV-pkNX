@@ -1,0 +1,36 @@
+{
+  "Table": [
+    {
+      "OutOfRangeLowerX": 1750,
+      "OutOfRangeLowerY": -645,
+      "OutOfRangeLowerZ": -3090,
+      "OutOfRangeUpperX": 3000,
+      "OutOfRangeUpperY": 120,
+      "OutOfRangeUpperZ": -1970
+    },
+    {
+      "OutOfRangeLowerX": 2110,
+      "OutOfRangeLowerY": 100,
+      "OutOfRangeLowerZ": -2030,
+      "OutOfRangeUpperX": 2670,
+      "OutOfRangeUpperY": 211,
+      "OutOfRangeUpperZ": -1460
+    },
+    {
+      "OutOfRangeLowerX": -350,
+      "OutOfRangeLowerY": -50,
+      "OutOfRangeLowerZ": -5500,
+      "OutOfRangeUpperX": 5100,
+      "OutOfRangeUpperY": 1000,
+      "OutOfRangeUpperZ": -300
+    },
+    {
+      "OutOfRangeLowerX": -60,
+      "OutOfRangeLowerY": -10,
+      "OutOfRangeLowerZ": -65,
+      "OutOfRangeUpperX": 60,
+      "OutOfRangeUpperY": 30,
+      "OutOfRangeUpperZ": 65
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "Unique": {
+    "FrontLegDistance": 0.5,
+    "RearLegDistance": 0.5,
+    "GlideTurnCameraFactor": 0.4,
+    "IdlingIntervalMin": 0.5,
+    "IdlingIntervalMax": 1,
+    "ImpactAngle": 30,
+    "TreeImpactRate": 2,
+    "RollbackDepth": 1,
+    "ChangeOffsetA": {
+      "Stand": {
+        "Trans": {
+          "X": 0.002,
+          "Y": 1.037,
+          "Z": 0.076
+        },
+        "Rot": {
+          "X": 1.988,
+          "Y": 5.998,
+          "Z": 0.035
+        }
+      },
+      "Run": {
+        "Trans": {
+          "X": 0,
+          "Y": 1.224,
+          "Z": 0.034
+        },
+        "Rot": {
+          "X": 0.414,
+          "Y": -14.427,
+          "Z": -1.445
+        }
+      }
+    },
+    "ChangeOffsetB": {
+      "Stand": {
+        "Trans": {
+          "X": 0.002,
+          "Y": 1.037,
+          "Z": 0.076
+        },
+        "Rot": {
+          "X": 1.988,
+          "Y": 5.998,
+          "Z": 0.035
+        }
+      },
+      "Run": {
+        "Trans": {
+          "X": 0,
+          "Y": 0.962,
+          "Z": 0.055
+        },
+        "Rot": {
+          "X": 0,
+          "Y": 5.629,
+          "Z": 0
+        }
+      }
+    }
+  },
+  "Gravity": {
+    "Accel": 19,
+    "SpeedMax": 30
+  },
+  "Input": {
+    "StickTolerance": 0.1,
+    "SpinThreshold": 720
+  },
+  "Move": {
+    "PitchFactor": 0.4,
+    "LeanAngle": 3,
+    "LeanFactor": 0.25,
+    "RotationFactor": 0.32,
+    "ReverseSpeedFactor": 0.75,
+    "ReverseTurnAngle": 150,
+    "ReverseFrictionFactor": 0.5,
+    "LightLandingHeight": 15,
+    "HeavyLandingHeight": -1,
+    "DynamicsResetCount": 30,
+    "SpinCount": 3,
+    "SpinMaxSpeed": 2000,
+    "SpinMaxAnimationSpeed": 3,
+    "SpinInterpolation": 0,
+    "SlideDropToleranceTime": 0.15,
+    "StopToleranceTime": 0.05,
+    "TurnStickDiffThreashold": 0.35,
+    "SliderModeRate": 0.01,
+    "BallThrowFrictionFactor": 0.9,
+    "BallThrowBackFrictionFactor": 1.1,
+    "UnlandablePushVelocity": 1
+  },
+  "Jump": {
+    "HeightHi": 7,
+    "HeightLow": 2.2,
+    "TapDuration": 0.15,
+    "WaterHeightHi": 5,
+    "WaterHeightLow": 1.5
+  },
+  "Ground": {
+    "SlideDropThreshold": 45,
+    "VerticalMargin": 0.3,
+    "WallHitAngle": 15,
+    "WaterDraftLine": 0.6,
+    "WaterSurfaceMargin": 0.75,
+    "WaterWithstandLine": 0.4,
+    "UnderWaterThreshold": 0.65,
+    "ShallowWaterThreshold": 0.4,
+    "AcceptableRadiusRate": 0.4375
+  },
+  "Dash": {
+    "SpeedMax": 15,
+    "AccelTime": 10,
+    "AccelRate": 1.15,
+    "AccelAnimationRate": 1.2,
+    "SwimSpeedMax": 15,
+    "SwimAccelTime": 10,
+    "SwimAccelRate": 1.15,
+    "SwimAccelAnimationRate": 1.2,
+    "GripFactor": 0.5
+  },
+  "Climb": {
+    "BackJumpInitialVelocity": 10,
+    "UpStickAngle": 20,
+    "SideUpperStickAngle": 20,
+    "SideLowerStickAngle": 45,
+    "MoveSpeed": 10,
+    "PositionMergeFactor": 0.5,
+    "VertUpMergeFactor": 0.25,
+    "HorzUpMergeFactor": 0.5,
+    "Radius": 0.825,
+    "DownAccel": 12,
+    "ReverseAngle": 140,
+    "FlipEndCheckOffset": 2,
+    "FlipEndCheckLength": 2.5,
+    "JumpChargeExponent": 2.5,
+    "GroundDistanceTolerance": 1.5,
+    "WallHitLength": 0.5,
+    "WallHitOffset": 0.5,
+    "OppositeAngle": 160,
+    "AutoStartToleranceFactor": 1.25
+  },
+  "SlideDrop": {
+    "ForwardDirFactor": 0.1,
+    "BackwardDirFactor": 0.2,
+    "UpwardDirFactor": 0.6,
+    "BackwardTime": 0.5,
+    "LeanFactor": 0.4
+  },
+  "GroundKinesis": {
+    "FirstSpeedMax": 5,
+    "SecondSpeedMax": 11,
+    "SlowSpeedMax": 0,
+    "FirstAccel": 12.5,
+    "SecondAccel": 32,
+    "SlowAccel": 0,
+    "Friction": 24,
+    "SlipFriction": 21.21,
+    "SlipFrictionExp": 0.9,
+    "MaxGripFactor": 1,
+    "MinGripFactor": 1,
+    "RunStickThreshold": 0.7
+  },
+  "AerialKinesis": {
+    "Accel": 14,
+    "Friction": 21,
+    "SelfSpeedMax": 10,
+    "BackwardAngle": 120,
+    "GripAngle": 90
+  },
+  "SlideDropKinesis": {
+    "ForwardGripFactor": 0.1,
+    "BackwardGripFactor": 0.1,
+    "Accel": 9.8,
+    "Friction": 10,
+    "SpeedMax": 10,
+    "CurveAngle": 45,
+    "SpeedUpInputThreshold": 0.85,
+    "SideInputTolerance": 0.3,
+    "SideMaxVelocityRate": 0.55,
+    "SideFriction": 1.5,
+    "SpeedUpRate": 2.3,
+    "SpeedDownRate": 0.6,
+    "ForwardSideAccel": 9,
+    "BackwardSideAccel": 2.5
+  },
+  "GlideKinesis": {
+    "SelfSpeedMax": 10,
+    "Accel": 10,
+    "Friction": 18,
+    "MinGripAngle": 200,
+    "MaxGripAngle": 450,
+    "GravityRate": 0.1,
+    "FlareSpeedMax": 1
+  },
+  "Glide": {
+    "DampingRate": 0.8,
+    "DampingThreshold": 20,
+    "StaminaMax": 40,
+    "StaminaCost": 2,
+    "StaminaGain": 3
+  },
+  "SwimKinesis": {
+    "SelfSpeedMax": 10,
+    "Accel": 10,
+    "Friction": 18,
+    "MinGripAngle": 200,
+    "MaxGripAngle": 450
+  },
+  "BadSwimKinesis": {
+    "SelfSpeedMax": 2,
+    "Accel": 3,
+    "Friction": 18,
+    "MinGripAngle": 50,
+    "MaxGripAngle": 200
+  },
+  "Floatation": {
+    "Floatage": 8,
+    "Dumping": 5.3,
+    "SpeedMax": 8,
+    "SurfaceDumpingRate": 0.5
+  },
+  "Facial": {
+    "AutoBlinkIntervalMin": 1,
+    "AutoBlinkIntervalMax": 5
+  },
+  "Effect": {
+    "Emissive": {
+      "Blend0": {
+        "Time": 0,
+        "Value": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 0
+        },
+        "Ease": 0
+      },
+      "Blend1": {
+        "Time": 0.33,
+        "Value": {
+          "Red": 1,
+          "Green": 0.35,
+          "Blue": 0.1,
+          "Alpha": 0.4
+        },
+        "Ease": 2
+      },
+      "Blend2": {
+        "Time": 1,
+        "Value": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 0
+        },
+        "Ease": 1
+      },
+      "Rim0": {
+        "Time": 0,
+        "Value": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 0
+        },
+        "Ease": 0
+      },
+      "Rim1": {
+        "Time": 0.33,
+        "Value": {
+          "Red": 1,
+          "Green": 0.35,
+          "Blue": 0.1,
+          "Alpha": 0.5
+        },
+        "Ease": 2
+      },
+      "Rim2": {
+        "Time": 1,
+        "Value": {
+          "Red": 0,
+          "Green": 0,
+          "Blue": 0,
+          "Alpha": 0
+        },
+        "Ease": 1
+      },
+      "Power0": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 0
+      },
+      "Power1": {
+        "Time": 0.33,
+        "Value": 4,
+        "Ease": 2
+      },
+      "Power2": {
+        "Time": 1,
+        "Value": 0,
+        "Ease": 1
+      },
+      "Intensity0": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 0
+      },
+      "Intensity1": {
+        "Time": 0.33,
+        "Value": 10,
+        "Ease": 2
+      },
+      "Intensity2": {
+        "Time": 1,
+        "Value": 0,
+        "Ease": 1
+      },
+      "Duration": 1.4
+    },
+    "DashRadialBlur": {
+      "Intensities0": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 30
+      },
+      "Intensities1": {
+        "Time": 0.4,
+        "Value": 0.15,
+        "Ease": 30
+      },
+      "Intensities2": {
+        "Time": 1,
+        "Value": 0,
+        "Ease": 30
+      },
+      "Offsets0": {
+        "Time": 0,
+        "Value": 0.5,
+        "Ease": 0
+      },
+      "Offsets1": {
+        "Time": 0.66,
+        "Value": 1.2,
+        "Ease": 2
+      },
+      "Offsets2": {
+        "Time": 1,
+        "Value": 1.5,
+        "Ease": 1
+      },
+      "Duration": 0.8,
+      "YawLimit": 30,
+      "PitchLimit": 30,
+      "KillTime": 0.5,
+      "KillEase": 0
+    },
+    "SwimRadialBlur": {
+      "Intensities0": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 30
+      },
+      "Intensities1": {
+        "Time": 0.3,
+        "Value": 0.13,
+        "Ease": 30
+      },
+      "Intensities2": {
+        "Time": 1,
+        "Value": 0,
+        "Ease": 30
+      },
+      "Offsets0": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 0
+      },
+      "Offsets1": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 0
+      },
+      "Offsets2": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 0
+      },
+      "Duration": 0.8,
+      "YawLimit": 30,
+      "PitchLimit": 30,
+      "KillTime": 0.5,
+      "KillEase": 0
+    },
+    "GlideRadialBlur": {
+      "Intensities0": {
+        "Time": 0.2,
+        "Value": 0,
+        "Ease": 0
+      },
+      "Intensities1": {
+        "Time": 0.6,
+        "Value": 0,
+        "Ease": 2
+      },
+      "Intensities2": {
+        "Time": 1,
+        "Value": 0,
+        "Ease": 1
+      },
+      "Offsets0": {
+        "Time": 0,
+        "Value": 0,
+        "Ease": 0
+      },
+      "Offsets1": {
+        "Time": 0.8,
+        "Value": 0,
+        "Ease": 2
+      },
+      "Offsets2": {
+        "Time": 1,
+        "Value": 0,
+        "Ease": 1
+      },
+      "Duration": 0,
+      "YawLimit": 30,
+      "PitchLimit": 30,
+      "KillTime": 0.5,
+      "KillEase": 0
+    },
+    "GlideBlurThreshold": 1,
+    "LargeSplayRangeMin": 0,
+    "LargeSplayRangeMax": 1,
+    "SmallSplayRangeMin": 1,
+    "SmallSplayRangeMax": 1.5
+  },
+  "FlightKinesis": {
+    "Accel": 20,
+    "PitchMaxUpAngle": 45,
+    "PitchMaxDownAngle": 45,
+    "PitchMaxTotalAngle": 50,
+    "YawAngleSpeed": 90,
+    "PitchAngleSpeed": 130,
+    "PitchUpSpeedRate": 1.5,
+    "PitchDownSpeedRate": 0.2,
+    "PitchStableSpeedRate": 0.3,
+    "PitchBaseAngle": -5,
+    "RollMaxAngle": 45,
+    "RollFactor": 0.1,
+    "UpAccelRate": 0.7,
+    "DownAccelRate": 2,
+    "MaxSpeed": 25,
+    "MaxDiveSpeed": 50,
+    "PitchUpSpeedThreshold": 5,
+    "PitchRateExp": 0.75,
+    "ReadyScale": 0.35,
+    "FaintThreshold": 1,
+    "AirRegist": 15
+  }
+}

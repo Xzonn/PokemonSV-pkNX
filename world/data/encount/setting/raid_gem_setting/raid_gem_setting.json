@@ -1,0 +1,29 @@
+{
+  "Meteor": {
+    "ShowerInterval": 2,
+    "QuantityMin": 1,
+    "QuantityMax": 3,
+    "DelayMin": 3,
+    "DelayMax": 6
+  },
+  "Gem": {
+    "MaxNumUnexplored": 44,
+    "MaxNumExplored": 3,
+    "MaxNumAnAreaUnexplored": 2,
+    "MaxNumAnAreaExplored": 2,
+    "AreaMax": 30,
+    "GroupMax": 4,
+    "GemMax": 72,
+    "LotteryGroupMax": 3,
+    "LotteryKwmMax": 1,
+    "GemFetchLength": 300,
+    "GemReleaseLength": 320,
+    "LeaguePayDifficulty01": 500,
+    "LeaguePayDifficulty02": 700,
+    "LeaguePayDifficulty03": 1000,
+    "LeaguePayDifficulty04": 1200,
+    "LeaguePayDifficulty05": 1500,
+    "LeaguePayDifficulty06": 1800,
+    "LeaguePayDifficulty07": 2000
+  }
+}

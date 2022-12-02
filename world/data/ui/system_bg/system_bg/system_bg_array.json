@@ -1,0 +1,641 @@
+{
+  "Table": [
+    {
+      "ID": 70,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 21,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 131,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 14,
+      "PtclType": 0
+    },
+    {
+      "ID": 126,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 13,
+      "PtclType": 0
+    },
+    {
+      "ID": 103,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 15,
+      "PtclType": 0
+    },
+    {
+      "ID": 26,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 3,
+      "PtclType": 0
+    },
+    {
+      "ID": 35,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 114,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 101,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 13,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 38,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 57,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 7,
+      "PtclType": 2
+    },
+    {
+      "ID": 110,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 8,
+      "PtclType": 3
+    },
+    {
+      "ID": 111,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 9,
+      "PtclType": 4
+    },
+    {
+      "ID": 112,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 10,
+      "PtclType": 5
+    },
+    {
+      "ID": 58,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 60,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 59,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 63,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 121,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 12,
+      "PtclType": 2
+    },
+    {
+      "ID": 122,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 12,
+      "PtclType": 3
+    },
+    {
+      "ID": 123,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 12,
+      "PtclType": 4
+    },
+    {
+      "ID": 124,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 12,
+      "PtclType": 5
+    },
+    {
+      "ID": 127,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 11,
+      "PtclType": 0
+    },
+    {
+      "ID": 128,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 14,
+      "PtclType": 0
+    },
+    {
+      "ID": 79,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 129,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 11,
+      "PtclType": 0
+    },
+    {
+      "ID": 15,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 106,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 107,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 105,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 90,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 16,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 108,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 78,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 104,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 102,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 30,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 28,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 82,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 130,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 14,
+      "PtclType": 0
+    },
+    {
+      "ID": 133,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 34,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 6,
+      "PtclType": 0
+    },
+    {
+      "ID": 136,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 17,
+      "PtclType": 0
+    },
+    {
+      "ID": 1,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 6,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 4,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 94,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 5,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 7,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 109,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 100,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 2,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 65,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 49,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 4,
+      "PtclType": 0
+    },
+    {
+      "ID": 46,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 4,
+      "PtclType": 0
+    },
+    {
+      "ID": 74,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 116,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 45,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 134,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 11,
+      "PtclType": 0
+    },
+    {
+      "ID": 31,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 6,
+      "PtclType": 0
+    },
+    {
+      "ID": 33,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 19,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 20,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 97,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 96,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 14,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 92,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 91,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 125,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 4,
+      "PtclType": 0
+    },
+    {
+      "ID": 135,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 16,
+      "PtclType": 0
+    },
+    {
+      "ID": 44,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 29,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 75,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 76,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 115,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 11,
+      "PtclType": 0
+    },
+    {
+      "ID": 77,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 22,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 132,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 14,
+      "PtclType": 0
+    },
+    {
+      "ID": 80,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 42,
+      "IsValid": true,
+      "Priority": 2,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 113,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 1,
+      "PtclType": 0
+    },
+    {
+      "ID": 11,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 17,
+      "IsValid": false,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 117,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 7,
+      "PtclType": 6
+    },
+    {
+      "ID": 118,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 8,
+      "PtclType": 7
+    },
+    {
+      "ID": 119,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 9,
+      "PtclType": 8
+    },
+    {
+      "ID": 120,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 10,
+      "PtclType": 9
+    },
+    {
+      "ID": 18,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 0,
+      "PtclType": 0
+    },
+    {
+      "ID": 27,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 6,
+      "PtclType": 0
+    },
+    {
+      "ID": 32,
+      "IsValid": true,
+      "Priority": 1,
+      "BgType": 6,
+      "PtclType": 0
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Table": [
+    {
+      "ItemId": 0,
+      "ItemNum": 1,
+      "LotteryWeight": 1
+    },
+    {
+      "ItemId": 0,
+      "ItemNum": 1,
+      "LotteryWeight": 30
+    },
+    {
+      "ItemId": 0,
+      "ItemNum": 1,
+      "LotteryWeight": 15
+    },
+    {
+      "ItemId": 50,
+      "ItemNum": 1,
+      "LotteryWeight": 7
+    },
+    {
+      "ItemId": 50,
+      "ItemNum": 3,
+      "LotteryWeight": 3
+    },
+    {
+      "ItemId": 50,
+      "ItemNum": 10,
+      "LotteryWeight": 1
+    },
+    {
+      "ItemId": 92,
+      "ItemNum": 1,
+      "LotteryWeight": 7
+    },
+    {
+      "ItemId": 92,
+      "ItemNum": 3,
+      "LotteryWeight": 3
+    },
+    {
+      "ItemId": 581,
+      "ItemNum": 1,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 45,
+      "ItemNum": 3,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 46,
+      "ItemNum": 3,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 47,
+      "ItemNum": 3,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 49,
+      "ItemNum": 3,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 52,
+      "ItemNum": 3,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 48,
+      "ItemNum": 3,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 51,
+      "ItemNum": 1,
+      "LotteryWeight": 8
+    },
+    {
+      "ItemId": 51,
+      "ItemNum": 3,
+      "LotteryWeight": 3
+    },
+    {
+      "ItemId": 53,
+      "ItemNum": 1,
+      "LotteryWeight": 2
+    },
+    {
+      "ItemId": 795,
+      "ItemNum": 1,
+      "LotteryWeight": 5
+    },
+    {
+      "ItemId": 796,
+      "ItemNum": 1,
+      "LotteryWeight": 1
+    }
+  ]
+}
