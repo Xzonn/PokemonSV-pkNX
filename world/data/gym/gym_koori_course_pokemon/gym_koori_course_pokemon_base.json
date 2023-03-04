@@ -1,0 +1,8 @@
+{
+  "MoveSpeed": 1,
+  "IsPathStartPosition": false,
+  "NextMoveDuration": 0.4,
+  "RotationDuration": 0.25,
+  "MoveSpeedChangeDuration": 0.1,
+  "BoundPower": 5
+}

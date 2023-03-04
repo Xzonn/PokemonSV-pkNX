@@ -1,0 +1,399 @@
+{
+  "Objects": [
+    {
+      "Name": "TreeShakePokemon",
+      "Fields": [
+        {
+          "Key": "data_1",
+          "Value": {
+            "Name": "data_1",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_10",
+          "Value": {
+            "Name": "data_10",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 10,
+            "Offset": 24,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_2",
+          "Value": {
+            "Name": "data_2",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 2,
+            "Offset": 8,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_3",
+          "Value": {
+            "Name": "data_3",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 3,
+            "Offset": 10,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_4",
+          "Value": {
+            "Name": "data_4",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 4,
+            "Offset": 12,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_5",
+          "Value": {
+            "Name": "data_5",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 5,
+            "Offset": 14,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_6",
+          "Value": {
+            "Name": "data_6",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 6,
+            "Offset": 16,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_7",
+          "Value": {
+            "Name": "data_7",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 7,
+            "Offset": 18,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_8",
+          "Value": {
+            "Name": "data_8",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 8,
+            "Offset": 20,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "data_9",
+          "Value": {
+            "Name": "data_9",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 9,
+            "Offset": 22,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "id",
+          "Value": {
+            "Name": "id",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "TreeShakePokemonArray",
+      "Fields": [
+        {
+          "Key": "values",
+          "Value": {
+            "Name": "values",
+            "Type": {
+              "BaseType": 14,
+              "ElementType": 15,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "TreeShakePokemonSelect",
+      "Fields": [
+        {
+          "Key": "name",
+          "Value": {
+            "Name": "name",
+            "Type": {
+              "BaseType": 13,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "probability",
+          "Value": {
+            "Name": "probability",
+            "Type": {
+              "BaseType": 8,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "Enums": [],
+  "FileIdentifier": "",
+  "FileExtension": "",
+  "RootTable": {
+    "Name": "TreeShakePokemonArray",
+    "Fields": [
+      {
+        "Key": "values",
+        "Value": {
+          "Name": "values",
+          "Type": {
+            "BaseType": 14,
+            "ElementType": 15,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 0,
+          "Offset": 4,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": null,
+          "Documentation": null
+        }
+      }
+    ],
+    "IsStruct": false,
+    "MinAlign": 1,
+    "ByteSize": 0,
+    "Attributes": null,
+    "Documentation": null,
+    "DeclarationFile": null
+  },
+  "Services": [],
+  "AdvancedFeatures": 0,
+  "FbsFiles": null
+}

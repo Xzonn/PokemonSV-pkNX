@@ -1,0 +1,19 @@
+{
+  "Table": [
+    {
+      "EventShowTime": 3,
+      "EventAppearFirstTime": 0.4,
+      "EventAppearMinTime": 0.3,
+      "EventAppearMaxTime": 0.8,
+      "EventPopup1AreaId": 1,
+      "EventPopup2AreaId": 2,
+      "EventPopup3AreaId": 3,
+      "EventPopup4AreaId": 4,
+      "BossShowTime": 2,
+      "BossPopup1AreaId": 5,
+      "BossPopup2AreaId": 6,
+      "BossPopup3AreaId": 7,
+      "BossPopup4AreaId": 8
+    }
+  ]
+}

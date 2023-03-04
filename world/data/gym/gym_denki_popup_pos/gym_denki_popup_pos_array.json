@@ -1,0 +1,172 @@
+{
+  "Table": [
+    {
+      "AreaId": 1,
+      "PosId": 1,
+      "PosX": 600,
+      "PosY": 300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 1,
+      "PosId": 2,
+      "PosX": 250,
+      "PosY": 400,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 1,
+      "PosId": 3,
+      "PosX": 250,
+      "PosY": 200,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 1,
+      "PosId": 4,
+      "PosX": 600,
+      "PosY": 200,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 1,
+      "PosId": 5,
+      "PosX": 425,
+      "PosY": 300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 2,
+      "PosId": 1,
+      "PosX": -600,
+      "PosY": -300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 2,
+      "PosId": 2,
+      "PosX": -250,
+      "PosY": -400,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 2,
+      "PosId": 3,
+      "PosX": -250,
+      "PosY": -200,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 2,
+      "PosId": 4,
+      "PosX": -600,
+      "PosY": -200,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 2,
+      "PosId": 5,
+      "PosX": -425,
+      "PosY": -300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 3,
+      "PosId": 1,
+      "PosX": 600,
+      "PosY": -120,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 3,
+      "PosId": 2,
+      "PosX": 350,
+      "PosY": -400,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 3,
+      "PosId": 3,
+      "PosX": 425,
+      "PosY": -300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 3,
+      "PosId": 4,
+      "PosX": 370,
+      "PosY": -300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 3,
+      "PosId": 5,
+      "PosX": 300,
+      "PosY": -120,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 4,
+      "PosId": 1,
+      "PosX": -600,
+      "PosY": 230,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 4,
+      "PosId": 2,
+      "PosX": -140,
+      "PosY": 420,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 4,
+      "PosId": 3,
+      "PosX": -425,
+      "PosY": 300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 4,
+      "PosId": 4,
+      "PosX": -600,
+      "PosY": 120,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 4,
+      "PosId": 5,
+      "PosX": -300,
+      "PosY": 300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 5,
+      "PosId": 1,
+      "PosX": 600,
+      "PosY": 120,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 6,
+      "PosId": 1,
+      "PosX": -425,
+      "PosY": -300,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 7,
+      "PosId": 1,
+      "PosX": 350,
+      "PosY": -400,
+      "WindowType": 0
+    },
+    {
+      "AreaId": 8,
+      "PosId": 1,
+      "PosX": -600,
+      "PosY": 200,
+      "WindowType": 0
+    }
+  ]
+}

@@ -8,12 +8,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1484.5,
         "Y": 208,
-        "Z": 2541
+        "Z": 2541,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2950.201,
+        "MagnitudeSqr": 8703685
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_AKU",
@@ -25,7 +33,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_AKU",
@@ -49,12 +61,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3066,
         "Y": 137,
-        "Z": 3199
+        "Z": 3199,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4433.1396,
+        "MagnitudeSqr": 19652726
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_DOKU",
@@ -66,7 +86,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_DOKU",
@@ -90,12 +114,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2285,
         "Y": 201,
-        "Z": 4636
+        "Z": 4636,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5172.4385,
+        "MagnitudeSqr": 26754122
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_FAIRY",
@@ -107,7 +139,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_FAIRY",
@@ -131,12 +167,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2392.5,
         "Y": 165.65,
-        "Z": 1904.4
+        "Z": 1904.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3062.3906,
+        "MagnitudeSqr": 9378236
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_FINAL",
@@ -148,7 +192,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_FINAL",
@@ -172,12 +220,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2392.5,
         "Y": 165.65,
-        "Z": 1904.4
+        "Z": 1904.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3062.3906,
+        "MagnitudeSqr": 9378236
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_FINAL_02",
@@ -189,7 +245,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_FINAL_02",
@@ -213,12 +273,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2391,
         "Y": 171.034,
-        "Z": 1758
+        "Z": 1758,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2972.6584,
+        "MagnitudeSqr": 8836698
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_FINAL_03",
@@ -230,7 +298,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_FINAL_03",
@@ -254,12 +326,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3675,
         "Y": 101,
-        "Z": 2010
+        "Z": 2010,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4189.979,
+        "MagnitudeSqr": 17555926
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_HONOO",
@@ -271,7 +351,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_HONOO",
@@ -295,12 +379,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4179.546,
         "Y": 309,
-        "Z": 3735.685
+        "Z": 3735.685,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5614.217,
+        "MagnitudeSqr": 31519428
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_DAN_KAKUTOU",
@@ -312,7 +404,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "DAN_KAKUTOU",
@@ -336,12 +432,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_01",
@@ -353,7 +457,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_HOUSE",
@@ -377,12 +485,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_03",
@@ -394,7 +510,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_SCHOOL",
@@ -418,12 +538,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_12",
@@ -435,7 +563,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_ZEROGATE",
@@ -459,12 +591,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_02",
@@ -476,7 +616,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_LIGHTHOUSE_01",
@@ -500,12 +644,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_22",
@@ -517,7 +669,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_OLIVE",
@@ -541,12 +697,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_04",
@@ -558,7 +722,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_01",
@@ -582,12 +750,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_05",
@@ -599,7 +775,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_02",
@@ -623,12 +803,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_23",
@@ -640,7 +828,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_SHATOU",
@@ -664,12 +856,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_24",
@@ -681,7 +881,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_BEACH",
@@ -705,12 +909,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_14",
@@ -722,7 +934,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_04",
@@ -746,12 +962,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_15",
@@ -763,7 +987,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_05",
@@ -787,12 +1015,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_07",
@@ -804,7 +1040,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_06",
@@ -828,12 +1068,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_08",
@@ -845,7 +1093,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_07",
@@ -869,12 +1121,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_09",
@@ -886,7 +1146,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_LIGHTHOUSE_02",
@@ -910,12 +1174,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_25",
@@ -927,7 +1199,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_RECCHU",
@@ -951,12 +1227,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_10",
@@ -968,7 +1252,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_08",
@@ -992,12 +1280,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_11",
@@ -1009,7 +1305,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_09",
@@ -1033,12 +1333,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_26",
@@ -1050,7 +1358,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_YAKEI",
@@ -1074,12 +1386,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_18",
@@ -1091,7 +1411,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_10",
@@ -1115,12 +1439,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_16",
@@ -1132,7 +1464,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_11",
@@ -1156,12 +1492,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_17",
@@ -1173,7 +1517,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_LIGHTHOUSE_03",
@@ -1197,12 +1545,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_19",
@@ -1214,7 +1570,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_12",
@@ -1238,12 +1598,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_27",
@@ -1255,7 +1623,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_OOTAKI",
@@ -1279,12 +1651,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_28",
@@ -1296,7 +1676,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_ARIGATAIWA",
@@ -1320,12 +1704,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_13",
@@ -1337,7 +1729,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_13",
@@ -1361,12 +1757,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_29",
@@ -1378,7 +1782,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TE",
@@ -1402,12 +1810,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_30",
@@ -1419,7 +1835,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_SAIKOUHOU",
@@ -1443,12 +1863,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_20",
@@ -1460,7 +1888,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_LIGHTHOUSE_04",
@@ -1484,12 +1916,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_21",
@@ -1501,7 +1941,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_TOWER_14",
@@ -1525,12 +1969,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_31",
@@ -1542,7 +1994,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_MIDAREDUKI",
@@ -1566,12 +2022,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2743.204,
         "Y": 118.995,
-        "Z": 1661.002
+        "Z": 1661.002,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3209.0896,
+        "MagnitudeSqr": 10298256
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_32",
@@ -1583,7 +2047,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_C01_EAST",
@@ -1607,12 +2075,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2060.895,
         "Y": 118.995,
-        "Z": 1659.684
+        "Z": 1659.684,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2648.7732,
+        "MagnitudeSqr": 7015999
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_33",
@@ -1624,7 +2100,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_C01_WEST",
@@ -1648,12 +2128,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1326.177,
         "Y": 67.845,
-        "Z": 4032.664
+        "Z": 4032.664,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4245.672,
+        "MagnitudeSqr": 18025728
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_34",
@@ -1665,7 +2153,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_LAKE",
@@ -1689,12 +2181,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3703.585,
         "Y": 150.001,
-        "Z": 2797.527
+        "Z": 2797.527,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4643.8345,
+        "MagnitudeSqr": 21565200
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_FLY_35",
@@ -1706,7 +2206,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FLY_AREA14_NPC",
@@ -1730,12 +2234,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4072.48,
         "Y": 42.72,
-        "Z": 2539.56
+        "Z": 2539.56,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4799.613,
+        "MagnitudeSqr": 23036284
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_DENKI",
@@ -1747,7 +2259,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_DENKI",
@@ -1771,12 +2287,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4072.48,
         "Y": 42.72,
-        "Z": 2539.56
+        "Z": 2539.56,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4799.613,
+        "MagnitudeSqr": 23036284
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_DENKI_02",
@@ -1788,7 +2312,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_DENKI_02",
@@ -1812,12 +2340,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4072.48,
         "Y": 42.72,
-        "Z": 2539.56
+        "Z": 2539.56,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4799.613,
+        "MagnitudeSqr": 23036284
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_DENKI_03",
@@ -1829,7 +2365,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_DENKI_03",
@@ -1853,12 +2393,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4072.48,
         "Y": 42.72,
-        "Z": 2539.56
+        "Z": 2539.56,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4799.613,
+        "MagnitudeSqr": 23036284
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_DENKI",
@@ -1870,7 +2418,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_DENKI_CLEAR",
@@ -1894,12 +2446,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 910.32,
         "Y": 300.31,
-        "Z": 1102.4
+        "Z": 1102.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1460.8745,
+        "MagnitudeSqr": 2134154.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_ESPER",
@@ -1911,7 +2471,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_ESPER",
@@ -1935,12 +2499,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 927.107,
         "Y": 300.186,
-        "Z": 1095.934
+        "Z": 1095.934,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1466.53,
+        "MagnitudeSqr": 2150710.2
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_ESPER_02",
@@ -1952,7 +2524,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_ESPER_02",
@@ -1976,12 +2552,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 910.32,
         "Y": 300.31,
-        "Z": 1102.4
+        "Z": 1102.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1460.8745,
+        "MagnitudeSqr": 2134154.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_ESPER_03",
@@ -1993,7 +2577,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_ESPER_03",
@@ -2017,12 +2605,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 910.32,
         "Y": 300.31,
-        "Z": 1102.4
+        "Z": 1102.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1460.8745,
+        "MagnitudeSqr": 2134154.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_ESPER",
@@ -2034,7 +2630,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_ESPER_CLEAR",
@@ -2058,12 +2658,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1930,
         "Y": 200,
-        "Z": 2134
+        "Z": 2134,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2884.2427,
+        "MagnitudeSqr": 8318856
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_FINAL",
@@ -2075,7 +2683,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_FINAL",
@@ -2099,12 +2711,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2380.819,
         "Y": 163.686,
-        "Z": 1675.71
+        "Z": 1675.71,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2916.0068,
+        "MagnitudeSqr": 8503096
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_FINAL_02",
@@ -2116,7 +2736,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_FINAL_02",
@@ -2140,12 +2764,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2785.03,
         "Y": 490.11,
-        "Z": 4040.19
+        "Z": 4040.19,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4931.5044,
+        "MagnitudeSqr": 24319736
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_GHOST",
@@ -2157,7 +2789,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_GHOST",
@@ -2181,12 +2817,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2762.284,
         "Y": 490.133,
-        "Z": 4023.417
+        "Z": 4023.417,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4904.9287,
+        "MagnitudeSqr": 24058328
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_GHOST_02",
@@ -2198,7 +2842,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_GHOST_02",
@@ -2222,12 +2870,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2785.03,
         "Y": 490.11,
-        "Z": 4040.19
+        "Z": 4040.19,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4931.5044,
+        "MagnitudeSqr": 24319736
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_GHOST_03",
@@ -2239,7 +2895,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_GHOST_03",
@@ -2263,12 +2923,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2785.03,
         "Y": 490.11,
-        "Z": 4040.19
+        "Z": 4040.19,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4931.5044,
+        "MagnitudeSqr": 24319736
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_GHOST",
@@ -2280,7 +2948,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_GHOST_CLEAR",
@@ -2304,12 +2976,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2834.6,
         "Y": 593.69,
-        "Z": 3749.4
+        "Z": 3749.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4737.66,
+        "MagnitudeSqr": 22445426
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_KOORI",
@@ -2321,7 +3001,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KOORI",
@@ -2345,12 +3029,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2863.956,
         "Y": 604.982,
-        "Z": 3763.583
+        "Z": 3763.583,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4767.893,
+        "MagnitudeSqr": 22732804
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_KOORI_02",
@@ -2362,7 +3054,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KOORI_02",
@@ -2386,12 +3082,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2834.6,
         "Y": 593.69,
-        "Z": 3749.4
+        "Z": 3749.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4737.66,
+        "MagnitudeSqr": 22445426
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_KOORI_03",
@@ -2403,7 +3107,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KOORI_03",
@@ -2427,12 +3135,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2834.6,
         "Y": 593.69,
-        "Z": 3749.4
+        "Z": 3749.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4737.66,
+        "MagnitudeSqr": 22445426
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_KOORI",
@@ -2444,7 +3160,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KOORI_CLEAR",
@@ -2468,12 +3188,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3732.4,
         "Y": 154.779,
-        "Z": 1709.05
+        "Z": 1709.05,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4107.9946,
+        "MagnitudeSqr": 16875618
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_KUSA",
@@ -2485,7 +3213,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KUSA",
@@ -2509,12 +3241,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3764.624,
         "Y": 153.022,
-        "Z": 1727.095
+        "Z": 1727.095,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4144.716,
+        "MagnitudeSqr": 17178668
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_KUSA_02",
@@ -2526,7 +3266,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KUSA_02",
@@ -2550,12 +3294,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3732.4,
         "Y": 154.779,
-        "Z": 1709.05
+        "Z": 1709.05,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4107.9946,
+        "MagnitudeSqr": 16875618
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_KUSA_03",
@@ -2567,7 +3319,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KUSA_03",
@@ -2591,12 +3347,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3742.4,
         "Y": 154.779,
-        "Z": 1709.05
+        "Z": 1709.05,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4117.082,
+        "MagnitudeSqr": 16950366
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_KUSA",
@@ -2608,7 +3372,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_KUSA_CLEAR",
@@ -2632,12 +3400,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1523.86,
         "Y": 200.08,
-        "Z": 2786.27
+        "Z": 2786.27,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3182.0562,
+        "MagnitudeSqr": 10125482
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_MIZU",
@@ -2649,7 +3425,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MIZU",
@@ -2673,12 +3453,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 452.31,
         "Y": 35.851,
-        "Z": 3059.756
+        "Z": 3059.756,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3093.2146,
+        "MagnitudeSqr": 9567977
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_MIZU_02",
@@ -2690,7 +3478,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MIZU_02",
@@ -2714,12 +3506,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1523.86,
         "Y": 200.08,
-        "Z": 2786.27
+        "Z": 2786.27,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3182.0562,
+        "MagnitudeSqr": 10125482
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_MIZU_03",
@@ -2731,7 +3531,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MIZU_03",
@@ -2755,12 +3559,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1523.89,
         "Y": 200.08,
-        "Z": 2786.27
+        "Z": 2786.27,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3182.0706,
+        "MagnitudeSqr": 10125573
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_MIZU",
@@ -2772,7 +3584,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MIZU_CLEAR",
@@ -2796,12 +3612,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1416.354,
         "Y": 106.05,
-        "Z": 1631.87
+        "Z": 1631.87,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2163.4014,
+        "MagnitudeSqr": 4680305
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_MUSI",
@@ -2813,7 +3637,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MUSI",
@@ -2837,12 +3665,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1358.661,
         "Y": 108.986,
-        "Z": 1778.728
+        "Z": 1778.728,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2240.9175,
+        "MagnitudeSqr": 5021711
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_MUSI_02",
@@ -2854,7 +3690,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MUSI_02",
@@ -2878,12 +3718,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1416.354,
         "Y": 106.05,
-        "Z": 1631.87
+        "Z": 1631.87,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2163.4014,
+        "MagnitudeSqr": 4680305
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_MUSI_03",
@@ -2895,7 +3743,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MUSI_03",
@@ -2919,12 +3771,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1416.354,
         "Y": 106.05,
-        "Z": 1631.87
+        "Z": 1631.87,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2163.4014,
+        "MagnitudeSqr": 4680305
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_MUSHI",
@@ -2936,7 +3796,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_MUSI_CLEAR",
@@ -2960,12 +3824,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1985.78,
         "Y": 153.041,
-        "Z": 3231.2
+        "Z": 3231.2,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3795.7078,
+        "MagnitudeSqr": 14407397
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_NORMAL",
@@ -2977,7 +3849,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_NORMAL",
@@ -3001,12 +3877,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2047.594,
         "Y": 154,
-        "Z": 3195.435
+        "Z": 3195.435,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3798.3103,
+        "MagnitudeSqr": 14427162
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_NORMAL_02",
@@ -3018,7 +3902,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_NORMAL_02",
@@ -3042,12 +3930,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2047.594,
         "Y": 154,
-        "Z": 3195.435
+        "Z": 3195.435,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3798.3103,
+        "MagnitudeSqr": 14427162
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_NORMAL_03",
@@ -3059,7 +3955,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_NORMAL_03",
@@ -3083,12 +3983,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1985.78,
         "Y": 153.041,
-        "Z": 3231.2
+        "Z": 3231.2,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3795.7078,
+        "MagnitudeSqr": 14407397
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_GYM_CLEAR_NORMAL",
@@ -3100,7 +4008,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "GYM_NORMAL_CLEAR",
@@ -3124,12 +4036,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4096.53,
         "Y": 310.53,
-        "Z": 3543.61
+        "Z": 3543.61,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5425.4175,
+        "MagnitudeSqr": 29435156
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_MAGATAMA",
@@ -3141,7 +4061,11 @@
       "SkyFlyPointOffset": {
         "X": -4,
         "Y": 0,
-        "Z": 6
+        "Z": 6,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 7.2111025,
+        "MagnitudeSqr": 52
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "MAGATAMA",
@@ -3165,12 +4089,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3112.61,
         "Y": 51.885,
-        "Z": 902.92
+        "Z": 902.92,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3241.342,
+        "MagnitudeSqr": 10506298
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_MOKKAN",
@@ -3182,7 +4114,11 @@
       "SkyFlyPointOffset": {
         "X": -3.8,
         "Y": 0,
-        "Z": -1
+        "Z": -1,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3.9293766,
+        "MagnitudeSqr": 15.44
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "MOKKAN",
@@ -3206,12 +4142,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 389.91,
         "Y": 324.6,
-        "Z": 2275.08
+        "Z": 2275.08,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2330.9622,
+        "MagnitudeSqr": 5433384.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_TSURUGI",
@@ -3223,7 +4167,11 @@
       "SkyFlyPointOffset": {
         "X": -5.3,
         "Y": 0,
-        "Z": -0.42
+        "Z": -0.42,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5.3166156,
+        "MagnitudeSqr": 28.266401
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "TSURUGI",
@@ -3247,12 +4195,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1140,
         "Y": 94.8,
-        "Z": 4518
+        "Z": 4518,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4660.57,
+        "MagnitudeSqr": 21720912
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_UTSUWA",
@@ -3264,7 +4220,11 @@
       "SkyFlyPointOffset": {
         "X": 1,
         "Y": 0,
-        "Z": -7
+        "Z": -7,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 7.071068,
+        "MagnitudeSqr": 50
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "UTSUWA",
@@ -3288,12 +4248,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1652,
         "Y": 54,
-        "Z": 4057
+        "Z": 4057,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4380.784,
+        "MagnitudeSqr": 19191268
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_DRAGON",
@@ -3305,7 +4273,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_DRAGON",
@@ -3329,12 +4301,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1373.979,
         "Y": 49.581,
-        "Z": 4076.589
+        "Z": 4076.589,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4302.192,
+        "MagnitudeSqr": 18508856
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_DRAGON_02",
@@ -3346,7 +4326,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_DRAGON",
@@ -3370,12 +4354,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2590,
         "Y": 78.9,
-        "Z": 920
+        "Z": 920,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2749.6772,
+        "MagnitudeSqr": 7560725
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSHI_FINAL",
@@ -3387,7 +4379,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_FINAL",
@@ -3411,12 +4407,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2565,
         "Y": 112.053,
-        "Z": 921
+        "Z": 921,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2727.6404,
+        "MagnitudeSqr": 7440022
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSHI_FINAL_02",
@@ -3428,7 +4432,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_FINAL_02",
@@ -3452,12 +4460,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3828.134,
         "Y": 159.67,
-        "Z": 2938.596
+        "Z": 2938.596,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4828.608,
+        "MagnitudeSqr": 23315452
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_HAGANE",
@@ -3469,7 +4485,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_HAGANE",
@@ -3493,12 +4513,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3958.64,
         "Y": 129.915,
-        "Z": 3049.313
+        "Z": 3049.313,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4998.6016,
+        "MagnitudeSqr": 24986018
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_HAGANE_02",
@@ -3510,7 +4538,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_HAGANE",
@@ -3534,12 +4566,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 533,
         "Y": 375,
-        "Z": 2302
+        "Z": 2302,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2392.4712,
+        "MagnitudeSqr": 5723918
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_HIKOU",
@@ -3551,7 +4591,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_HIKOU",
@@ -3575,12 +4619,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3386,
         "Y": 142,
-        "Z": 1974
+        "Z": 1974,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3921.9683,
+        "MagnitudeSqr": 15381836
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_IWA",
@@ -3592,7 +4644,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_IWA",
@@ -3616,12 +4672,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3380.883,
         "Y": 135.164,
-        "Z": 1935.891
+        "Z": 1935.891,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3898.2449,
+        "MagnitudeSqr": 15196313
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_IWA_02",
@@ -3633,7 +4697,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_IWA",
@@ -3657,12 +4725,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 670.831,
         "Y": 158.953,
-        "Z": 2828.811
+        "Z": 2828.811,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2911.6064,
+        "MagnitudeSqr": 8477452
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_JIMEN",
@@ -3674,7 +4750,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_JIMEN",
@@ -3698,12 +4778,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 554.225,
         "Y": 162.932,
-        "Z": 2749.762
+        "Z": 2749.762,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2809.787,
+        "MagnitudeSqr": 7894903
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_NUSI_JIMEN_02",
@@ -3715,7 +4803,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "NUSI_JIMEN",
@@ -3739,12 +4831,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2463.41,
         "Y": 59.55,
-        "Z": 1122.34
+        "Z": 1122.34,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2707.6892,
+        "MagnitudeSqr": 7331581.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -3756,7 +4856,11 @@
       "SkyFlyPointOffset": {
         "X": 4.3256774,
         "Y": 0,
-        "Z": -1.2403681
+        "Z": -1.2403681,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.249998
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_02",
@@ -3780,12 +4884,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2417.82,
         "Y": 99.14,
-        "Z": 1384.5
+        "Z": 1384.5,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2787.9246,
+        "MagnitudeSqr": 7772523
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -3797,7 +4909,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": -4.5
+        "Z": -4.5,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_03",
@@ -3821,12 +4937,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2326.6,
         "Y": 128.1,
-        "Z": 1711.4
+        "Z": 1711.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2891.0842,
+        "MagnitudeSqr": 8358367.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -3838,7 +4962,11 @@
       "SkyFlyPointOffset": {
         "X": 3.0295436,
         "Y": 0,
-        "Z": 3.3274412
+        "Z": 3.3274412,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_04",
@@ -3862,12 +4990,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2620.29,
         "Y": 119.17,
-        "Z": 1679.46
+        "Z": 1679.46,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3114.5957,
+        "MagnitudeSqr": 9700707
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -3879,7 +5015,11 @@
       "SkyFlyPointOffset": {
         "X": 4.5,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_05",
@@ -3903,12 +5043,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1845,
         "Y": 147.1,
-        "Z": 1565
+        "Z": 1565,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2423.817,
+        "MagnitudeSqr": 5874888.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -3920,7 +5068,11 @@
       "SkyFlyPointOffset": {
         "X": -3.5460484,
         "Y": 0,
-        "Z": 2.7704766
+        "Z": 2.7704766,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_06",
@@ -3944,12 +5096,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1520,
         "Y": 106,
-        "Z": 1660
+        "Z": 1660,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2253.2722,
+        "MagnitudeSqr": 5077236
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -3961,7 +5121,11 @@
       "SkyFlyPointOffset": {
         "X": 4.279754,
         "Y": 0,
-        "Z": -1.3905765
+        "Z": -1.3905765,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.249998
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_07",
@@ -3985,12 +5149,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1338.727,
         "Y": 106,
-        "Z": 1676.066
+        "Z": 1676.066,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2147.702,
+        "MagnitudeSqr": 4612623.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4002,7 +5174,11 @@
       "SkyFlyPointOffset": {
         "X": -4.279754,
         "Y": 0,
-        "Z": 1.3905765
+        "Z": 1.3905765,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.249998
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_08",
@@ -4026,12 +5202,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 803.671,
         "Y": 250.57,
-        "Z": 1990.726
+        "Z": 1990.726,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2161.4028,
+        "MagnitudeSqr": 4671662
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4043,7 +5227,11 @@
       "SkyFlyPointOffset": {
         "X": 0.9739783,
         "Y": 0,
-        "Z": 4.393332
+        "Z": 4.393332,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_09",
@@ -4067,12 +5255,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 768.291,
         "Y": 300.33,
-        "Z": 1096.45
+        "Z": 1096.45,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1372.1049,
+        "MagnitudeSqr": 1882671.8
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4084,7 +5280,11 @@
       "SkyFlyPointOffset": {
         "X": 4.5,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_10",
@@ -4108,12 +5308,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1032.49,
         "Y": 202.41,
-        "Z": 2463.03
+        "Z": 2463.03,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2678.3433,
+        "MagnitudeSqr": 7173522.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4125,7 +5333,11 @@
       "SkyFlyPointOffset": {
         "X": -3.8971143,
         "Y": 0,
-        "Z": -2.25
+        "Z": -2.25,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_11",
@@ -4149,12 +5361,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1400.761,
         "Y": 174.16,
-        "Z": 2788.32
+        "Z": 2788.32,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3125.2507,
+        "MagnitudeSqr": 9767192
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4166,7 +5386,11 @@
       "SkyFlyPointOffset": {
         "X": -4.078385,
         "Y": 0,
-        "Z": -1.9017822
+        "Z": -1.9017822,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.249998
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_12",
@@ -4190,12 +5414,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1425.351,
         "Y": 150.05,
-        "Z": 2958.882
+        "Z": 2958.882,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3287.7231,
+        "MagnitudeSqr": 10809123
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4207,7 +5439,11 @@
       "SkyFlyPointOffset": {
         "X": -1.9414105,
         "Y": 0,
-        "Z": 4.0596704
+        "Z": 4.0596704,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_13",
@@ -4231,12 +5467,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 627.21,
         "Y": 84.68,
-        "Z": 3144.58
+        "Z": 3144.58,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3207.639,
+        "MagnitudeSqr": 10288947
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4248,7 +5492,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 4.5
+        "Z": 4.5,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_14",
@@ -4272,12 +5520,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1907.54,
         "Y": 153.05,
-        "Z": 3175.83
+        "Z": 3175.83,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3707.8335,
+        "MagnitudeSqr": 13748030
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4289,7 +5545,11 @@
       "SkyFlyPointOffset": {
         "X": -3.5460484,
         "Y": 0,
-        "Z": -2.7704766
+        "Z": -2.7704766,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_15",
@@ -4313,12 +5573,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2997.27,
         "Y": 145.047,
-        "Z": 1737.3
+        "Z": 1737.3,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3467.402,
+        "MagnitudeSqr": 12022878
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4330,7 +5598,11 @@
       "SkyFlyPointOffset": {
         "X": -4.4445977,
         "Y": 0,
-        "Z": -0.7039551
+        "Z": -0.7039551,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.250002
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_16",
@@ -4354,12 +5626,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3430.82,
         "Y": 30.05,
-        "Z": 1035.99
+        "Z": 1035.99,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3583.951,
+        "MagnitudeSqr": 12844704
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4371,7 +5651,11 @@
       "SkyFlyPointOffset": {
         "X": -3.6861842,
         "Y": 0,
-        "Z": 2.581094
+        "Z": 2.581094,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_17",
@@ -4395,12 +5679,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3846.71,
         "Y": 150.16,
-        "Z": 1795.926
+        "Z": 1795.926,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4247.9497,
+        "MagnitudeSqr": 18045076
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4412,7 +5704,11 @@
       "SkyFlyPointOffset": {
         "X": 4.5,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_18",
@@ -4436,12 +5732,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3618.99,
         "Y": 150.44,
-        "Z": 1760.156
+        "Z": 1760.156,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4027.1416,
+        "MagnitudeSqr": 16217870
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4453,7 +5757,11 @@
       "SkyFlyPointOffset": {
         "X": -4.5,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_19",
@@ -4477,12 +5785,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3950.425,
         "Y": 100.07,
-        "Z": 2018.801
+        "Z": 2018.801,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4437.5024,
+        "MagnitudeSqr": 19691430
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4494,7 +5810,11 @@
       "SkyFlyPointOffset": {
         "X": 2.581094,
         "Y": 0,
-        "Z": -3.6861842
+        "Z": -3.6861842,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_20",
@@ -4518,12 +5838,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3599.385,
         "Y": 101.61,
-        "Z": 2252.98
+        "Z": 2252.98,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4247.566,
+        "MagnitudeSqr": 18041816
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4535,7 +5863,11 @@
       "SkyFlyPointOffset": {
         "X": -4.5,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_21",
@@ -4559,12 +5891,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4042.42,
         "Y": 42.83,
-        "Z": 2448.93
+        "Z": 2448.93,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4726.5474,
+        "MagnitudeSqr": 22340252
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4576,7 +5916,11 @@
       "SkyFlyPointOffset": {
         "X": -0.56399953,
         "Y": 0,
-        "Z": -4.464516
+        "Z": -4.464516,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_22",
@@ -4600,12 +5944,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4106.8,
         "Y": 42.84,
-        "Z": 2791
+        "Z": 2791,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4965.614,
+        "MagnitudeSqr": 24657320
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4617,7 +5969,11 @@
       "SkyFlyPointOffset": {
         "X": -0.548412,
         "Y": 0,
-        "Z": -4.466458
+        "Z": -4.466458,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.250002
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_23",
@@ -4641,12 +5997,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3430.63,
         "Y": 150.078,
-        "Z": 3140.615
+        "Z": 3140.615,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4653.5156,
+        "MagnitudeSqr": 21655208
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4658,7 +6022,11 @@
       "SkyFlyPointOffset": {
         "X": 3.6861842,
         "Y": 0,
-        "Z": -2.581094
+        "Z": -2.581094,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_24",
@@ -4682,12 +6050,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3213.16,
         "Y": 150.178,
-        "Z": 2836.12
+        "Z": 2836.12,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4288.418,
+        "MagnitudeSqr": 18390528
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4699,7 +6075,11 @@
       "SkyFlyPointOffset": {
         "X": 4.5,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_25",
@@ -4723,12 +6103,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3041,
         "Y": 160.1,
-        "Z": 2851.4
+        "Z": 2851.4,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4171.7856,
+        "MagnitudeSqr": 17403794
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4740,7 +6128,11 @@
       "SkyFlyPointOffset": {
         "X": -1.0886486,
         "Y": 0,
-        "Z": 4.3663306
+        "Z": 4.3663306,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.249998
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_26",
@@ -4764,12 +6156,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2621.5,
         "Y": 221.47,
-        "Z": 3186.6
+        "Z": 3186.6,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4132.2793,
+        "MagnitudeSqr": 17075732
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4781,7 +6181,11 @@
       "SkyFlyPointOffset": {
         "X": -4.5,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_27",
@@ -4805,12 +6209,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2722.421,
         "Y": 476.579,
-        "Z": 4103.257
+        "Z": 4103.257,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4947.2637,
+        "MagnitudeSqr": 24475420
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4822,7 +6234,11 @@
       "SkyFlyPointOffset": {
         "X": -1.1316518,
         "Y": 0,
-        "Z": -4.3553834
+        "Z": -4.3553834,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_28",
@@ -4846,12 +6262,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3584.742,
         "Y": 250.1,
-        "Z": 3845.166
+        "Z": 3845.166,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5262.9106,
+        "MagnitudeSqr": 27698228
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4863,7 +6287,11 @@
       "SkyFlyPointOffset": {
         "X": -0.8586405,
         "Y": 0,
-        "Z": 4.417322
+        "Z": 4.417322,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.249998
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_29",
@@ -4887,12 +6315,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4078,
         "Y": 244.85,
-        "Z": 3798
+        "Z": 3798,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5578.068,
+        "MagnitudeSqr": 31114840
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4904,7 +6340,11 @@
       "SkyFlyPointOffset": {
         "X": 4.078385,
         "Y": 0,
-        "Z": -1.9017822
+        "Z": -1.9017822,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.249998
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_30",
@@ -4928,12 +6368,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1999.48,
         "Y": 200.1,
-        "Z": 2101.83
+        "Z": 2101.83,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2907.86,
+        "MagnitudeSqr": 8455650
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4945,7 +6393,11 @@
       "SkyFlyPointOffset": {
         "X": 3.4472,
         "Y": 0,
-        "Z": -2.8925443
+        "Z": -2.8925443,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_31",
@@ -4969,12 +6421,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2230.271,
         "Y": 292.65,
-        "Z": 4115.326
+        "Z": 4115.326,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4689.953,
+        "MagnitudeSqr": 21995662
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -4986,7 +6446,11 @@
       "SkyFlyPointOffset": {
         "X": 2.2877789,
         "Y": 0,
-        "Z": 3.8750572
+        "Z": 3.8750572,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_32",
@@ -5010,12 +6474,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2890.06,
         "Y": 605,
-        "Z": 3782.58
+        "Z": 3782.58,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4798.5815,
+        "MagnitudeSqr": 23026384
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -5027,7 +6499,11 @@
       "SkyFlyPointOffset": {
         "X": 2.5239809,
         "Y": 0,
-        "Z": 3.7255228
+        "Z": 3.7255228,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_33",
@@ -5051,12 +6527,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2067.901,
         "Y": 153.05,
-        "Z": 3227.896
+        "Z": 3227.896,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3836.5286,
+        "MagnitudeSqr": 14718952
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -5068,7 +6552,11 @@
       "SkyFlyPointOffset": {
         "X": -3.4971569,
         "Y": 0,
-        "Z": -2.8319418
+        "Z": -2.8319418,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_34",
@@ -5092,12 +6580,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2256.8,
         "Y": 110.54,
-        "Z": 4456.63
+        "Z": 4456.63,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4996.6904,
+        "MagnitudeSqr": 24966916
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -5109,7 +6605,11 @@
       "SkyFlyPointOffset": {
         "X": -1.9492009,
         "Y": 0,
-        "Z": -4.055936
+        "Z": -4.055936,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4.5,
+        "MagnitudeSqr": 20.25
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PC_35",
@@ -5133,12 +6633,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2525,
         "Y": 28,
-        "Z": 737
+        "Z": 737,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2630.509,
+        "MagnitudeSqr": 6919578
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_00",
@@ -5150,7 +6658,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_00",
@@ -5174,12 +6686,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2392,
         "Y": 130,
-        "Z": 1687
+        "Z": 1687,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2929.9373,
+        "MagnitudeSqr": 8584533
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_01",
@@ -5191,7 +6711,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_01",
@@ -5215,12 +6739,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2541.403,
         "Y": 87.471,
-        "Z": 884.393
+        "Z": 884.393,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2692.3098,
+        "MagnitudeSqr": 7248531.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_02",
@@ -5232,7 +6764,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_02",
@@ -5256,12 +6792,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2502,
         "Y": 78,
-        "Z": 908
+        "Z": 908,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2662.809,
+        "MagnitudeSqr": 7090552
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_03",
@@ -5273,7 +6817,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_03",
@@ -5297,12 +6845,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2590,
         "Y": 80,
-        "Z": 920
+        "Z": 920,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2749.709,
+        "MagnitudeSqr": 7560900
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_04",
@@ -5314,7 +6870,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_04",
@@ -5338,12 +6898,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2392,
         "Y": 130,
-        "Z": 1687
+        "Z": 1687,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2929.9373,
+        "MagnitudeSqr": 8584533
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_05",
@@ -5355,7 +6923,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_05",
@@ -5379,12 +6951,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2392,
         "Y": 158,
-        "Z": 1875
+        "Z": 1875,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3043.395,
+        "MagnitudeSqr": 9262253
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_06",
@@ -5396,7 +6976,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_06",
@@ -5420,12 +7004,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3732,
         "Y": 161,
-        "Z": 1778
+        "Z": 1778,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4137.0312,
+        "MagnitudeSqr": 17115028
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_07",
@@ -5437,7 +7029,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_07",
@@ -5461,12 +7057,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2472.84,
         "Y": 37.73,
-        "Z": 731.63
+        "Z": 731.63,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2579.0781,
+        "MagnitudeSqr": 6651644
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0060",
@@ -5478,7 +7082,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0060",
@@ -5502,12 +7110,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2426.706,
         "Y": 33.526,
-        "Z": 730.791
+        "Z": 730.791,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2534.5774,
+        "MagnitudeSqr": 6424082
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0090",
@@ -5519,7 +7135,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0090",
@@ -5543,12 +7163,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2387.23,
         "Y": 45.864,
-        "Z": 782.537
+        "Z": 782.537,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2512.635,
+        "MagnitudeSqr": 6313334.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0095",
@@ -5560,7 +7188,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0095",
@@ -5584,12 +7216,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2590,
         "Y": 78.9,
-        "Z": 920
+        "Z": 920,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2749.6772,
+        "MagnitudeSqr": 7560725
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0100",
@@ -5601,7 +7241,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0100",
@@ -5625,12 +7269,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2590,
         "Y": 78.9,
-        "Z": 920
+        "Z": 920,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2749.6772,
+        "MagnitudeSqr": 7560725
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0130",
@@ -5642,7 +7294,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0100",
@@ -5666,12 +7322,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2590,
         "Y": 78.9,
-        "Z": 920
+        "Z": 920,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2749.6772,
+        "MagnitudeSqr": 7560725
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0170",
@@ -5683,7 +7347,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0170",
@@ -5707,12 +7375,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2590,
         "Y": 78.9,
-        "Z": 920
+        "Z": 920,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2749.6772,
+        "MagnitudeSqr": 7560725
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0185",
@@ -5724,7 +7400,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0185",
@@ -5748,12 +7428,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2400.611,
         "Y": 98.878,
-        "Z": 1140.962
+        "Z": 1140.962,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2659.7942,
+        "MagnitudeSqr": 7074505
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0190",
@@ -5765,7 +7453,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0190",
@@ -5789,12 +7481,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2397.233,
         "Y": 165.267,
-        "Z": 1691.141
+        "Z": 1691.141,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2938.3662,
+        "MagnitudeSqr": 8633996
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0210",
@@ -5806,7 +7506,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0210",
@@ -5830,12 +7534,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2396.149,
         "Y": 213.027,
-        "Z": 1882.504
+        "Z": 1882.504,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3054.6248,
+        "MagnitudeSqr": 9330732
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0220",
@@ -5847,7 +7559,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0220",
@@ -5871,12 +7587,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2396.149,
         "Y": 213.027,
-        "Z": 1882.504
+        "Z": 1882.504,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3054.6248,
+        "MagnitudeSqr": 9330732
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0225",
@@ -5888,7 +7612,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0225",
@@ -5912,12 +7640,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2167.061,
         "Y": 198.5,
-        "Z": 2958.5
+        "Z": 2958.5,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3672.6392,
+        "MagnitudeSqr": 13488278
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_0990",
@@ -5929,7 +7665,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_0990",
@@ -5953,12 +7693,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2167.061,
         "Y": 198.5,
-        "Z": 2958.5
+        "Z": 2958.5,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3672.6392,
+        "MagnitudeSqr": 13488278
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_1010",
@@ -5970,7 +7718,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_1010",
@@ -5994,12 +7746,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2396.149,
         "Y": 213.027,
-        "Z": 1882.504
+        "Z": 1882.504,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3054.6248,
+        "MagnitudeSqr": 9330732
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_2000",
@@ -6011,7 +7771,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_2000",
@@ -6035,12 +7799,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2396.149,
         "Y": 213.027,
-        "Z": 1882.504
+        "Z": 1882.504,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3054.6248,
+        "MagnitudeSqr": 9330732
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_2030",
@@ -6052,7 +7824,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_2030",
@@ -6076,12 +7852,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2396.149,
         "Y": 213.027,
-        "Z": 1882.504
+        "Z": 1882.504,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3054.6248,
+        "MagnitudeSqr": 9330732
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_2070",
@@ -6093,7 +7877,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_2070",
@@ -6117,12 +7905,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2396.149,
         "Y": 213.027,
-        "Z": 1882.504
+        "Z": 1882.504,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3054.6248,
+        "MagnitudeSqr": 9330732
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "FSYS_YMAP_SCENARIO_COMMON_2080",
@@ -6134,7 +7930,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 3,
       "OnCursorDataID": "SCENARIO_COMMON_2080",
@@ -6158,12 +7958,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2354.72,
         "Y": 130.268,
-        "Z": 1713.6
+        "Z": 1713.6,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2915.1501,
+        "MagnitudeSqr": 8498101
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6175,7 +7983,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BAG",
@@ -6199,12 +8011,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2442.747,
         "Y": 122.193,
-        "Z": 1600.361
+        "Z": 1600.361,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2922.858,
+        "MagnitudeSqr": 8543099
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6216,7 +8036,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DELIBIRD",
@@ -6240,12 +8064,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2416.828,
         "Y": 130.313,
-        "Z": 1661.578
+        "Z": 1661.578,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2935.793,
+        "MagnitudeSqr": 8618880
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6257,7 +8089,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DRUG",
@@ -6281,12 +8117,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2432,
         "Y": 130.26,
-        "Z": 1719
+        "Z": 1719,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2981.032,
+        "MagnitudeSqr": 8886552
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6298,7 +8142,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FASHION",
@@ -6322,12 +8170,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2371.61,
         "Y": 130.297,
-        "Z": 1713.6
+        "Z": 1713.6,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2928.8115,
+        "MagnitudeSqr": 8577937
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6339,7 +8195,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "HAIR",
@@ -6363,12 +8223,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2354.27,
         "Y": 130.26,
-        "Z": 1697.33
+        "Z": 1697.33,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2905.2512,
+        "MagnitudeSqr": 8440484
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6380,7 +8248,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PICNIC",
@@ -6404,12 +8276,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2431.681,
         "Y": 130.289,
-        "Z": 1661.578
+        "Z": 1661.578,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2948.0312,
+        "MagnitudeSqr": 8690888
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6421,7 +8301,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SELECT",
@@ -6445,12 +8329,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2449.493,
         "Y": 120.943,
-        "Z": 1646.305
+        "Z": 1646.305,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2953.805,
+        "MagnitudeSqr": 8724963
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6462,7 +8354,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -6486,12 +8382,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2278.731,
         "Y": 127.851,
-        "Z": 1666.57
+        "Z": 1666.57,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2826.025,
+        "MagnitudeSqr": 7986416.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6503,7 +8407,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -6527,12 +8435,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2306.45,
         "Y": 138.38,
-        "Z": 1770.406
+        "Z": 1770.406,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2910.8757,
+        "MagnitudeSqr": 8473198
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6544,7 +8460,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -6568,12 +8488,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2218.47,
         "Y": 121.523,
-        "Z": 1670.66
+        "Z": 1670.66,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2779.835,
+        "MagnitudeSqr": 7727482
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6585,7 +8513,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -6609,12 +8541,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2260.904,
         "Y": 127.774,
-        "Z": 1702.44
+        "Z": 1702.44,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2833.0752,
+        "MagnitudeSqr": 8026315
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6626,7 +8566,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "CAN",
@@ -6650,12 +8594,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2207.931,
         "Y": 122.803,
-        "Z": 1700.552
+        "Z": 1700.552,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2789.6086,
+        "MagnitudeSqr": 7781916.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6667,7 +8619,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DELIBIRD",
@@ -6691,12 +8647,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2227.111,
         "Y": 116.37,
-        "Z": 1614.208
+        "Z": 1614.208,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2753.0408,
+        "MagnitudeSqr": 7579233.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6708,7 +8672,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DELIBIRD",
@@ -6732,12 +8700,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2267.053,
         "Y": 127.779,
-        "Z": 1683.819
+        "Z": 1683.819,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2826.854,
+        "MagnitudeSqr": 7991103
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6749,7 +8725,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -6773,12 +8753,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2221.125,
         "Y": 116.386,
-        "Z": 1632.23
+        "Z": 1632.23,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2758.8252,
+        "MagnitudeSqr": 7611117
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6790,7 +8778,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -6814,12 +8806,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2517.93,
         "Y": 127.124,
-        "Z": 1664.936
+        "Z": 1664.936,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3021.2817,
+        "MagnitudeSqr": 9128144
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6831,7 +8831,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "CAN",
@@ -6855,12 +8859,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2508.631,
         "Y": 127.62,
-        "Z": 1695.131
+        "Z": 1695.131,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3030.3442,
+        "MagnitudeSqr": 9182986
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6872,7 +8884,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DRUG",
@@ -6896,12 +8912,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1434.744,
         "Y": 178.061,
-        "Z": 2802.158
+        "Z": 2802.158,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3153.139,
+        "MagnitudeSqr": 9942285
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6913,7 +8937,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BAG",
@@ -6937,12 +8965,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1431.57,
         "Y": 200.052,
-        "Z": 2769.16
+        "Z": 2769.16,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3123.7253,
+        "MagnitudeSqr": 9757660
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6954,7 +8990,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -6978,12 +9018,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1391.86,
         "Y": 153.8,
-        "Z": 2870.34
+        "Z": 2870.34,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3193.7097,
+        "MagnitudeSqr": 10199781
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -6995,7 +9043,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "CAN",
@@ -7019,12 +9071,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1558.63,
         "Y": 174.1,
-        "Z": 2906.61
+        "Z": 2906.61,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3302.7292,
+        "MagnitudeSqr": 10908020
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7036,7 +9096,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DELIBIRD",
@@ -7060,12 +9124,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1392.833,
         "Y": 153.8,
-        "Z": 2908.584
+        "Z": 2908.584,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3228.5444,
+        "MagnitudeSqr": 10423499
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7077,7 +9149,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DELIBIRD",
@@ -7101,12 +9177,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1531.38,
         "Y": 153.84,
-        "Z": 2962.84
+        "Z": 2962.84,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3338.7441,
+        "MagnitudeSqr": 11147212
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7118,7 +9202,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DRUG",
@@ -7142,12 +9230,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1414.8,
         "Y": 176.345,
-        "Z": 2804.12
+        "Z": 2804.12,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3145.7664,
+        "MagnitudeSqr": 9895846
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7159,7 +9255,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "GLASSES",
@@ -7183,12 +9283,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1447.083,
         "Y": 200.052,
-        "Z": 2763.484
+        "Z": 2763.484,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3125.846,
+        "MagnitudeSqr": 9770913
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7200,7 +9308,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "HAIR",
@@ -7224,12 +9336,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1426.52,
         "Y": 179.776,
-        "Z": 2787.12
+        "Z": 2787.12,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3136.1309,
+        "MagnitudeSqr": 9835317
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7241,7 +9361,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "HAT",
@@ -7265,12 +9389,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1463.123,
         "Y": 200.052,
-        "Z": 2769.094
+        "Z": 2769.094,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3138.253,
+        "MagnitudeSqr": 9848631
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7282,7 +9414,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "LUXURY",
@@ -7306,12 +9442,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1431.98,
         "Y": 174.092,
-        "Z": 2818.54
+        "Z": 2818.54,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3166.2349,
+        "MagnitudeSqr": 10025043
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7323,7 +9467,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PICNIC",
@@ -7347,12 +9495,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1587.113,
         "Y": 200.052,
-        "Z": 2826.954
+        "Z": 2826.954,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3248.1714,
+        "MagnitudeSqr": 10550618
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7364,7 +9520,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "RIDE",
@@ -7388,12 +9548,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1584.53,
         "Y": 179.761,
-        "Z": 2857.754
+        "Z": 2857.754,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3272.5842,
+        "MagnitudeSqr": 10709807
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7405,7 +9573,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SELECT",
@@ -7429,12 +9601,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1545.021,
         "Y": 153.84,
-        "Z": 2941.3
+        "Z": 2941.3,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3325.959,
+        "MagnitudeSqr": 11062003
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7446,7 +9626,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SHOES",
@@ -7470,12 +9654,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1563.316,
         "Y": 177.545,
-        "Z": 2862.785
+        "Z": 2862.785,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3266.6523,
+        "MagnitudeSqr": 10671017
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7487,7 +9679,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOCKS",
@@ -7511,12 +9707,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1385.7,
         "Y": 153.8,
-        "Z": 2882.485
+        "Z": 2882.485,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3201.9587,
+        "MagnitudeSqr": 10252539
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7528,7 +9732,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -7552,12 +9760,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4025,
         "Y": 42.83,
-        "Z": 2511
+        "Z": 2511,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4744.2153,
+        "MagnitudeSqr": 22507580
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7569,7 +9785,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "FASHION",
@@ -7593,12 +9813,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4070.81,
         "Y": 42.83,
-        "Z": 2756.41
+        "Z": 2756.41,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4916.4136,
+        "MagnitudeSqr": 24171124
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7610,7 +9838,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BAG",
@@ -7634,12 +9866,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4128.787,
         "Y": 42.83,
-        "Z": 2794.214
+        "Z": 2794.214,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4985.6143,
+        "MagnitudeSqr": 24856348
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7651,7 +9891,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "CAN",
@@ -7675,12 +9919,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4143.676,
         "Y": 42.83,
-        "Z": 2757.128
+        "Z": 2757.128,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4977.312,
+        "MagnitudeSqr": 24773636
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7692,7 +9944,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DELIBIRD",
@@ -7716,12 +9972,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4184.08,
         "Y": 42.83,
-        "Z": 2768.9
+        "Z": 2768.9,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5017.486,
+        "MagnitudeSqr": 25175166
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7733,7 +9997,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DRUG",
@@ -7757,12 +10025,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4067.479,
         "Y": 42.83,
-        "Z": 2740.411
+        "Z": 2740.411,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4904.6987,
+        "MagnitudeSqr": 24056072
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7774,7 +10050,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "GLASSES",
@@ -7798,12 +10078,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4074.39,
         "Y": 42.86,
-        "Z": 2791.863
+        "Z": 2791.863,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4939.3306,
+        "MagnitudeSqr": 24396988
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7815,7 +10103,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "HAIR",
@@ -7839,12 +10131,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4100.001,
         "Y": 42.83,
-        "Z": 2718.368
+        "Z": 2718.368,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4919.4883,
+        "MagnitudeSqr": 24201366
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7856,7 +10156,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "MARKET",
@@ -7880,12 +10184,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4072.066,
         "Y": 42.78,
-        "Z": 2775.849
+        "Z": 2775.849,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4928.376,
+        "MagnitudeSqr": 24288890
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7897,7 +10209,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "RIDE",
@@ -7921,12 +10237,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4168.082,
         "Y": 42.83,
-        "Z": 2729.274
+        "Z": 2729.274,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4982.3364,
+        "MagnitudeSqr": 24823678
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7938,7 +10262,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SELECT",
@@ -7962,12 +10290,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4065.226,
         "Y": 42.83,
-        "Z": 2457.956
+        "Z": 2457.956,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4750.731,
+        "MagnitudeSqr": 22569444
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -7979,7 +10315,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -8003,12 +10343,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4143.65,
         "Y": 42.73,
-        "Z": 2540.73
+        "Z": 2540.73,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4860.758,
+        "MagnitudeSqr": 23626968
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8020,7 +10368,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "LUXURY",
@@ -8044,12 +10396,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4043.69,
         "Y": 42.83,
-        "Z": 2556.68
+        "Z": 2556.68,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4784.3364,
+        "MagnitudeSqr": 22889874
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8061,7 +10421,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "PICNIC",
@@ -8085,12 +10449,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 4079.109,
         "Y": 42.83,
-        "Z": 2469.184
+        "Z": 2469.184,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4768.4204,
+        "MagnitudeSqr": 22737832
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8102,7 +10474,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -8126,12 +10502,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1495.82,
         "Y": 106.038,
-        "Z": 1658.15
+        "Z": 1658.15,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2235.6616,
+        "MagnitudeSqr": 4998183
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8143,7 +10527,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -8167,12 +10555,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1488.81,
         "Y": 106.05,
-        "Z": 1635.88
+        "Z": 1635.88,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2214.4763,
+        "MagnitudeSqr": 4903905.5
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8184,7 +10580,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -8208,12 +10608,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3677.01,
         "Y": 150.65,
-        "Z": 1765.29
+        "Z": 1765.29,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4081.5864,
+        "MagnitudeSqr": 16659347
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8225,7 +10633,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -8249,12 +10661,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3804.056,
         "Y": 150.65,
-        "Z": 1758.008
+        "Z": 1758.008,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4193.3433,
+        "MagnitudeSqr": 17584128
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8266,7 +10686,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -8290,12 +10714,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3675.682,
         "Y": 150.6,
-        "Z": 1793.125
+        "Z": 1793.125,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4092.507,
+        "MagnitudeSqr": 16748614
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8307,7 +10739,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "CAN",
@@ -8331,12 +10767,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 3661.95,
         "Y": 150.6,
-        "Z": 1799.313
+        "Z": 1799.313,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4082.9014,
+        "MagnitudeSqr": 16670084
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8348,7 +10792,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -8372,12 +10820,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 484,
         "Y": 35.86,
-        "Z": 3067
+        "Z": 3067,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3105.162,
+        "MagnitudeSqr": 9642031
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8389,7 +10845,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "T05MARKET",
@@ -8413,12 +10873,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2005.32,
         "Y": 153,
-        "Z": 3157.06
+        "Z": 3157.06,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3743.2266,
+        "MagnitudeSqr": 14011745
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8430,7 +10898,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",
@@ -8454,12 +10926,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1978.492,
         "Y": 153.031,
-        "Z": 3134.013
+        "Z": 3134.013,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3709.4321,
+        "MagnitudeSqr": 13759886
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8471,7 +10951,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "CAN",
@@ -8495,12 +10979,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 1990.811,
         "Y": 153,
-        "Z": 3144.685
+        "Z": 3144.685,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3725.021,
+        "MagnitudeSqr": 13875782
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8512,7 +11004,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -8536,12 +11032,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2047.594,
         "Y": 154,
-        "Z": 3195.435
+        "Z": 3195.435,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3798.3103,
+        "MagnitudeSqr": 14427162
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8553,7 +11057,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "TAKARA",
@@ -8577,12 +11085,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2692.542,
         "Y": 478.867,
-        "Z": 4076.298
+        "Z": 4076.298,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4908.697,
+        "MagnitudeSqr": 24095302
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8594,7 +11110,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "DRUG",
@@ -8618,12 +11138,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 2741.822,
         "Y": 482.39,
-        "Z": 4071.9
+        "Z": 4071.9,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4932.6113,
+        "MagnitudeSqr": 24330656
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8635,7 +11163,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "SOUZAI",
@@ -8659,12 +11191,20 @@
       "FollowPositionOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "IconPosition": {
         "X": 853.9,
         "Y": 300.356,
-        "Z": 1084.66
+        "Z": 1084.66,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1412.7443,
+        "MagnitudeSqr": 1995846.4
       },
       "EffectRadius": 0,
       "ReleasePointFlagStr": "",
@@ -8676,7 +11216,11 @@
       "SkyFlyPointOffset": {
         "X": 0,
         "Y": 0,
-        "Z": 0
+        "Z": 0,
+        "IsOne": false,
+        "IsZero": true,
+        "Magnitude": 0,
+        "MagnitudeSqr": 0
       },
       "OnCursorDataKind": 2,
       "OnCursorDataID": "BREAD",

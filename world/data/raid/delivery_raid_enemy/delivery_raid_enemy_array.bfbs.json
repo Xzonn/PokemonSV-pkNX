@@ -10,7 +10,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 12,
+              "Index": 13,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -698,7 +698,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -721,7 +721,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -744,7 +744,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -767,7 +767,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -797,6 +797,646 @@
             },
             "Id": 6,
             "Offset": 16,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": [
+        {
+          "Key": "fbe_highlight_item_path",
+          "Value": {
+            "Key": "fbe_highlight_item_path",
+            "Value": "devId"
+          }
+        }
+      ],
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "PokeDataDLCGift",
+      "Fields": [
+        {
+          "Key": "ballId",
+          "Value": {
+            "Name": "ballId",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 23,
+            "Offset": 50,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "devId",
+          "Value": {
+            "Name": "devId",
+            "Type": {
+              "BaseType": 6,
+              "ElementType": 0,
+              "Index": 16,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "effortValue",
+          "Value": {
+            "Name": "effortValue",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 3,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 14,
+            "Offset": 32,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "formId",
+          "Value": {
+            "Name": "formId",
+            "Type": {
+              "BaseType": 5,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "gemType",
+          "Value": {
+            "Name": "gemType",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 5,
+            "Offset": 14,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "item",
+          "Value": {
+            "Name": "item",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 2,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 15,
+            "Offset": 34,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "level",
+          "Value": {
+            "Name": "level",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 2,
+            "Offset": 8,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "nicknameLabel",
+          "Value": {
+            "Name": "nicknameLabel",
+            "Type": {
+              "BaseType": 10,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 25,
+            "Offset": 54,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "parentSex",
+          "Value": {
+            "Name": "parentSex",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 11,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 26,
+            "Offset": 56,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "rareType",
+          "Value": {
+            "Name": "rareType",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 8,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 6,
+            "Offset": 16,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "scaleType",
+          "Value": {
+            "Name": "scaleType",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 12,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 7,
+            "Offset": 18,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "scaleValue",
+          "Value": {
+            "Name": "scaleValue",
+            "Type": {
+              "BaseType": 5,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 8,
+            "Offset": 20,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "seikaku",
+          "Value": {
+            "Name": "seikaku",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 10,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 16,
+            "Offset": 36,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "seikakuHosei",
+          "Value": {
+            "Name": "seikakuHosei",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 10,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 17,
+            "Offset": 38,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "sex",
+          "Value": {
+            "Name": "sex",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 11,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 3,
+            "Offset": 10,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "talentType",
+          "Value": {
+            "Name": "talentType",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 13,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 11,
+            "Offset": 26,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "talentValue",
+          "Value": {
+            "Name": "talentValue",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 3,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 13,
+            "Offset": 30,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "talentVnum",
+          "Value": {
+            "Name": "talentVnum",
+            "Type": {
+              "BaseType": 3,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 12,
+            "Offset": 28,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "tokusei",
+          "Value": {
+            "Name": "tokusei",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 14,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 4,
+            "Offset": 12,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "useNickName",
+          "Value": {
+            "Name": "useNickName",
+            "Type": {
+              "BaseType": 2,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 24,
+            "Offset": 52,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "waightValue",
+          "Value": {
+            "Name": "waightValue",
+            "Type": {
+              "BaseType": 5,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 10,
+            "Offset": 24,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "waza1",
+          "Value": {
+            "Name": "waza1",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 15,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 19,
+            "Offset": 42,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "waza2",
+          "Value": {
+            "Name": "waza2",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 15,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 20,
+            "Offset": 44,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "waza3",
+          "Value": {
+            "Name": "waza3",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 15,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 21,
+            "Offset": 46,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "waza4",
+          "Value": {
+            "Name": "waza4",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 15,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 22,
+            "Offset": 48,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "wazaType",
+          "Value": {
+            "Name": "wazaType",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 15,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 18,
+            "Offset": 40,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "weightType",
+          "Value": {
+            "Name": "weightType",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 12,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 9,
+            "Offset": 22,
             "DefaultInteger": 0,
             "DefaultDouble": 0,
             "Deprecated": false,
@@ -1285,7 +1925,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -1308,7 +1948,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -1331,7 +1971,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -1354,7 +1994,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2386,7 +3026,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2409,7 +3049,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2432,7 +3072,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2455,7 +3095,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2842,7 +3482,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2865,7 +3505,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2888,7 +3528,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -2911,7 +3551,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3521,7 +4161,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3544,7 +4184,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3567,7 +4207,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3590,7 +4230,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 14,
+              "Index": 15,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3771,7 +4411,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 10,
+              "Index": 11,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3794,7 +4434,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 10,
+              "Index": 11,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3817,7 +4457,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 10,
+              "Index": 11,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3840,7 +4480,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 10,
+              "Index": 11,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3863,7 +4503,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 10,
+              "Index": 11,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -3886,7 +4526,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 10,
+              "Index": 11,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -4514,7 +5154,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 9,
+              "Index": 10,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -4560,7 +5200,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 11,
+              "Index": 12,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -4744,7 +5384,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 13,
+              "Index": 14,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0

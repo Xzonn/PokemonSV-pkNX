@@ -34,7 +34,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -71,7 +73,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -108,7 +112,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -145,7 +151,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -182,7 +190,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -219,7 +229,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -256,7 +268,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -293,7 +307,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -330,7 +346,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -367,7 +385,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -404,7 +424,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -441,7 +463,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -478,7 +502,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -515,7 +541,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 2,
+        "ActualMaxLevel": 4
       }
     },
     {
@@ -552,7 +580,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 8
       }
     },
     {
@@ -589,7 +619,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -626,7 +658,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -663,7 +697,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -700,7 +736,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -737,7 +775,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -774,7 +814,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -811,7 +853,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -848,7 +892,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     },
     {
@@ -885,7 +931,9 @@
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        }
+        },
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100
       }
     }
   ]

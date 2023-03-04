@@ -1,0 +1,290 @@
+{
+  "Objects": [
+    {
+      "Name": "gym.denki.PopupPosTable",
+      "Fields": [
+        {
+          "Key": "areaId",
+          "Value": {
+            "Name": "areaId",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "posId",
+          "Value": {
+            "Name": "posId",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "posX",
+          "Value": {
+            "Name": "posX",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 2,
+            "Offset": 8,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "posY",
+          "Value": {
+            "Name": "posY",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 3,
+            "Offset": 10,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "windowType",
+          "Value": {
+            "Name": "windowType",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 4,
+            "Offset": 12,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "gym.denki.PopupPosTableArray",
+      "Fields": [
+        {
+          "Key": "values",
+          "Value": {
+            "Name": "values",
+            "Type": {
+              "BaseType": 14,
+              "ElementType": 15,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "Enums": [
+    {
+      "Name": "gym.denki.WindowType",
+      "Values": [
+        {
+          "Key": 0,
+          "Value": {
+            "Key": "Normal",
+            "Value": 0,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1,
+          "Value": {
+            "Key": "Burst",
+            "Value": 1,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2,
+          "Value": {
+            "Key": "Thinking",
+            "Value": 2,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 3,
+          "Value": {
+            "Key": "SubQuest",
+            "Value": 3,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        }
+      ],
+      "IsUnion": false,
+      "UnderlyingType": {
+        "BaseType": 7,
+        "ElementType": 0,
+        "Index": 0,
+        "FixedLength": 0,
+        "BaseSize": 4,
+        "ElementSize": 0
+      },
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "FileIdentifier": "",
+  "FileExtension": "",
+  "RootTable": {
+    "Name": "gym.denki.PopupPosTableArray",
+    "Fields": [
+      {
+        "Key": "values",
+        "Value": {
+          "Name": "values",
+          "Type": {
+            "BaseType": 14,
+            "ElementType": 15,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 0,
+          "Offset": 4,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": null,
+          "Documentation": null
+        }
+      }
+    ],
+    "IsStruct": false,
+    "MinAlign": 1,
+    "ByteSize": 0,
+    "Attributes": null,
+    "Documentation": null,
+    "DeclarationFile": null
+  },
+  "Services": [],
+  "AdvancedFeatures": 0,
+  "FbsFiles": null
+}

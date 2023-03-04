@@ -6,7 +6,11 @@
       "Field3DPos": {
         "X": 2524.284,
         "Y": 0,
-        "Z": 835.691
+        "Z": 835.691,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2659.0203,
+        "MagnitudeSqr": 7070389
       },
       "IsDisplayInZoomOut": false,
       "IsDisplayInZoomNormal": true,
@@ -18,7 +22,11 @@
       "Field3DPos": {
         "X": 2841.846,
         "Y": 0,
-        "Z": 986.019
+        "Z": 986.019,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3008.043,
+        "MagnitudeSqr": 9048322
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -30,7 +38,11 @@
       "Field3DPos": {
         "X": 1748,
         "Y": 0,
-        "Z": 1728
+        "Z": 1728,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2457.9438,
+        "MagnitudeSqr": 6041488
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -42,7 +54,11 @@
       "Field3DPos": {
         "X": 1818,
         "Y": 0,
-        "Z": 992
+        "Z": 992,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2071.0354,
+        "MagnitudeSqr": 4289188
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -54,7 +70,11 @@
       "Field3DPos": {
         "X": 1048,
         "Y": 0,
-        "Z": 1232
+        "Z": 1232,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1617.445,
+        "MagnitudeSqr": 2616128
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -66,7 +86,11 @@
       "Field3DPos": {
         "X": 3167,
         "Y": 0,
-        "Z": 1305
+        "Z": 1305,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3425.3342,
+        "MagnitudeSqr": 11732914
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -78,7 +102,11 @@
       "Field3DPos": {
         "X": 3028,
         "Y": 0,
-        "Z": 1840
+        "Z": 1840,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3543.2166,
+        "MagnitudeSqr": 12554384
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -90,7 +118,11 @@
       "Field3DPos": {
         "X": 986,
         "Y": 0,
-        "Z": 2139
+        "Z": 2139,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2355.3167,
+        "MagnitudeSqr": 5547517
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -102,7 +134,11 @@
       "Field3DPos": {
         "X": 955,
         "Y": 0,
-        "Z": 2823
+        "Z": 2823,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2980.1602,
+        "MagnitudeSqr": 8881354
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -114,7 +150,11 @@
       "Field3DPos": {
         "X": 894,
         "Y": 0,
-        "Z": 3278
+        "Z": 3278,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3397.7227,
+        "MagnitudeSqr": 11544520
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -126,7 +166,11 @@
       "Field3DPos": {
         "X": 1870,
         "Y": 0,
-        "Z": 3455
+        "Z": 3455,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3928.6035,
+        "MagnitudeSqr": 15433925
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -138,7 +182,11 @@
       "Field3DPos": {
         "X": 3284,
         "Y": 0,
-        "Z": 3362
+        "Z": 3362,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4699.7554,
+        "MagnitudeSqr": 22087700
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -150,7 +198,11 @@
       "Field3DPos": {
         "X": 3759,
         "Y": 0,
-        "Z": 3025
+        "Z": 3025,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4825.0083,
+        "MagnitudeSqr": 23280706
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -162,7 +214,11 @@
       "Field3DPos": {
         "X": 3564,
         "Y": 0,
-        "Z": 2057
+        "Z": 2057,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4115.0146,
+        "MagnitudeSqr": 16933344
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -174,7 +230,11 @@
       "Field3DPos": {
         "X": 3818,
         "Y": 0,
-        "Z": 2409
+        "Z": 2409,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4514.4663,
+        "MagnitudeSqr": 20380404
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -186,7 +246,11 @@
       "Field3DPos": {
         "X": 3000,
         "Y": 0,
-        "Z": 3914
+        "Z": 3914,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4931.4697,
+        "MagnitudeSqr": 24319396
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -198,7 +262,11 @@
       "Field3DPos": {
         "X": 1247,
         "Y": 0,
-        "Z": 3949
+        "Z": 3949,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4141.209,
+        "MagnitudeSqr": 17149610
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -210,7 +278,11 @@
       "Field3DPos": {
         "X": 2246,
         "Y": 0,
-        "Z": 4753
+        "Z": 4753,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5256.95,
+        "MagnitudeSqr": 27635524
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -222,7 +294,11 @@
       "Field3DPos": {
         "X": 3630,
         "Y": 0,
-        "Z": 4053
+        "Z": 4053,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5440.929,
+        "MagnitudeSqr": 29603708
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -234,7 +310,11 @@
       "Field3DPos": {
         "X": 4219,
         "Y": 0,
-        "Z": 3375
+        "Z": 3375,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 5402.831,
+        "MagnitudeSqr": 29190584
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -246,7 +326,11 @@
       "Field3DPos": {
         "X": 2400,
         "Y": 0,
-        "Z": 2450
+        "Z": 2450,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3429.6501,
+        "MagnitudeSqr": 11762500
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -258,7 +342,11 @@
       "Field3DPos": {
         "X": 2379,
         "Y": 0,
-        "Z": 540
+        "Z": 540,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2439.5166,
+        "MagnitudeSqr": 5951241
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -270,7 +358,11 @@
       "Field3DPos": {
         "X": 335,
         "Y": 0,
-        "Z": 1769
+        "Z": 1769,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1800.4406,
+        "MagnitudeSqr": 3241586
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -282,7 +374,11 @@
       "Field3DPos": {
         "X": 4636,
         "Y": 0,
-        "Z": 1730
+        "Z": 1730,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4948.272,
+        "MagnitudeSqr": 24485396
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -294,7 +390,11 @@
       "Field3DPos": {
         "X": 360,
         "Y": 0,
-        "Z": 4655
+        "Z": 4655,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4668.8994,
+        "MagnitudeSqr": 21798624
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": false,
@@ -306,7 +406,11 @@
       "Field3DPos": {
         "X": 2392.5,
         "Y": 131,
-        "Z": 1687.5
+        "Z": 1687.5,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2930.678,
+        "MagnitudeSqr": 8588873
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -318,7 +422,11 @@
       "Field3DPos": {
         "X": 1490,
         "Y": 174.5,
-        "Z": 2858
+        "Z": 2858,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3227.8032,
+        "MagnitudeSqr": 10418714
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -330,7 +438,11 @@
       "Field3DPos": {
         "X": 4103,
         "Y": 45,
-        "Z": 2635
+        "Z": 2635,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4876.4595,
+        "MagnitudeSqr": 23779856
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -342,7 +454,11 @@
       "Field3DPos": {
         "X": 1127,
         "Y": 0,
-        "Z": 4661
+        "Z": 4661,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4795.3154,
+        "MagnitudeSqr": 22995048
       },
       "IsDisplayInZoomOut": false,
       "IsDisplayInZoomNormal": true,
@@ -354,7 +470,11 @@
       "Field3DPos": {
         "X": 2389.642,
         "Y": 0,
-        "Z": 1891.591
+        "Z": 1891.591,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3047.705,
+        "MagnitudeSqr": 9288506
       },
       "IsDisplayInZoomOut": false,
       "IsDisplayInZoomNormal": true,
@@ -366,7 +486,11 @@
       "Field3DPos": {
         "X": 2385,
         "Y": 0,
-        "Z": 804
+        "Z": 804,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2516.8713,
+        "MagnitudeSqr": 6334641
       },
       "IsDisplayInZoomOut": false,
       "IsDisplayInZoomNormal": true,
@@ -378,7 +502,11 @@
       "Field3DPos": {
         "X": 2380,
         "Y": 41.5,
-        "Z": 742
+        "Z": 742,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2493.3284,
+        "MagnitudeSqr": 6216686
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -390,7 +518,11 @@
       "Field3DPos": {
         "X": 2400,
         "Y": 60.5,
-        "Z": 1145
+        "Z": 1145,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2659.828,
+        "MagnitudeSqr": 7074685
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -402,7 +534,11 @@
       "Field3DPos": {
         "X": 1421,
         "Y": 106.5,
-        "Z": 1675
+        "Z": 1675,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2199.138,
+        "MagnitudeSqr": 4836208
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -414,7 +550,11 @@
       "Field3DPos": {
         "X": 3735,
         "Y": 155.5,
-        "Z": 1777
+        "Z": 1777,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4139.098,
+        "MagnitudeSqr": 17132134
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -426,7 +566,11 @@
       "Field3DPos": {
         "X": 481,
         "Y": 35.5,
-        "Z": 3048
+        "Z": 3048,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3085.9236,
+        "MagnitudeSqr": 9522925
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -438,7 +582,11 @@
       "Field3DPos": {
         "X": 2002,
         "Y": 154.5,
-        "Z": 3205
+        "Z": 3205,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 3782.0496,
+        "MagnitudeSqr": 14303899
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -450,7 +598,11 @@
       "Field3DPos": {
         "X": 3118,
         "Y": 151.5,
-        "Z": 2800
+        "Z": 2800,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4193.4326,
+        "MagnitudeSqr": 17584876
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -462,7 +614,11 @@
       "Field3DPos": {
         "X": 2718,
         "Y": 484.5,
-        "Z": 4078
+        "Z": 4078,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 4924.6675,
+        "MagnitudeSqr": 24252348
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,
@@ -474,7 +630,11 @@
       "Field3DPos": {
         "X": 842,
         "Y": 302,
-        "Z": 1065
+        "Z": 1065,
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1390.8246,
+        "MagnitudeSqr": 1934393
       },
       "IsDisplayInZoomOut": true,
       "IsDisplayInZoomNormal": true,

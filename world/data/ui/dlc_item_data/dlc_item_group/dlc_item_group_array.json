@@ -1,0 +1,1486 @@
+{
+  "Table": [
+    {
+      "ItemType": 2,
+      "DataId": 0,
+      "SortId": 0,
+      "GroupNameTextLabel": "dlc_group_000",
+      "ItemGender": 2,
+      "ItemDataList": {
+        "ItemData01": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7008,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData02": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7009,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData03": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7010,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData04": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7011,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData05": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 5413,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData06": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 3093,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData07": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 2097,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData08": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 6107,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData09": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 6108,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData10": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 4144,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData11": {
+          "ItemType": 0,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 0,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData12": {
+          "ItemType": 0,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 0,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        }
+      }
+    },
+    {
+      "ItemType": 2,
+      "DataId": 1,
+      "SortId": 1,
+      "GroupNameTextLabel": "dlc_group_000",
+      "ItemGender": 1,
+      "ItemDataList": {
+        "ItemData01": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7012,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData02": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7013,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData03": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7014,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData04": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 7015,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData05": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 5413,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData06": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 3093,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData07": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 2097,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData08": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 6107,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData09": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 6108,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData10": {
+          "ItemType": 2,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 4144,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData11": {
+          "ItemType": 0,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 0,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        },
+        "ItemData12": {
+          "ItemType": 0,
+          "ItemId": 0,
+          "ItemNum": 0,
+          "DressupItemId": 0,
+          "PokemonData": {
+            "DevId": 0,
+            "FormId": 0,
+            "Level": 0,
+            "Sex": 0,
+            "Tokusei": 0,
+            "GemType": 0,
+            "RareType": 0,
+            "ScaleType": 0,
+            "ScaleValue": 0,
+            "WeightType": 0,
+            "WaightValue": 0,
+            "TalentType": 0,
+            "TalentVnum": 0,
+            "TalentValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "EffortValue": {
+              "HP": 0,
+              "ATK": 0,
+              "DEF": 0,
+              "SPA": 0,
+              "SPD": 0,
+              "SPE": 0
+            },
+            "Item": 0,
+            "Seikaku": 0,
+            "SeikakuHosei": 0,
+            "WazaType": 0,
+            "Waza1": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza2": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza3": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "Waza4": {
+              "WazaId": 0,
+              "PointUp": 0
+            },
+            "BallId": 0,
+            "UseNickName": false,
+            "NicknameLabel": 14695981039346656837,
+            "ParentSex": 0
+          }
+        }
+      }
+    }
+  ]
+}

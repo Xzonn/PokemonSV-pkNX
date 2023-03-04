@@ -1,0 +1,40 @@
+{
+  "Table": [
+    {
+      "ItemID": 1902,
+      "ItemNum": 30,
+      "ClearTimeMinutes": 0,
+      "ClearTimeSeconds": 0,
+      "ClearTimeMillisecond": 0,
+      "ItemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_01",
+      "IsClear": true
+    },
+    {
+      "ItemID": 1938,
+      "ItemNum": 10,
+      "ClearTimeMinutes": 10,
+      "ClearTimeSeconds": 0,
+      "ClearTimeMillisecond": 0,
+      "ItemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_02",
+      "IsClear": false
+    },
+    {
+      "ItemID": 1940,
+      "ItemNum": 10,
+      "ClearTimeMinutes": 5,
+      "ClearTimeSeconds": 0,
+      "ClearTimeMillisecond": 0,
+      "ItemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_03",
+      "IsClear": false
+    },
+    {
+      "ItemID": 2369,
+      "ItemNum": 1,
+      "ClearTimeMinutes": 2,
+      "ClearTimeSeconds": 30,
+      "ClearTimeMillisecond": 0,
+      "ItemReceivedWorkName": "FEVT_SUB_GYM_MUSHI_REWARD_04",
+      "IsClear": false
+    }
+  ]
+}

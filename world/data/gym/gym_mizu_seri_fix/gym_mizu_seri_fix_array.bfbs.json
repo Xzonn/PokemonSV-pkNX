@@ -1,0 +1,273 @@
+{
+  "Objects": [
+    {
+      "Name": "gym.mizu.FixTable",
+      "Fields": [
+        {
+          "Key": "fixTableId",
+          "Value": {
+            "Name": "fixTableId",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "largePrice",
+          "Value": {
+            "Name": "largePrice",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 2,
+            "Offset": 8,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "npcLargeRate",
+          "Value": {
+            "Name": "npcLargeRate",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 4,
+            "Offset": 12,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "npcSmallRate",
+          "Value": {
+            "Name": "npcSmallRate",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 3,
+            "Offset": 10,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "npcWishLargeRate",
+          "Value": {
+            "Name": "npcWishLargeRate",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 6,
+            "Offset": 16,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "npcWishSmallRate",
+          "Value": {
+            "Name": "npcWishSmallRate",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 5,
+            "Offset": 14,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "popupDistance",
+          "Value": {
+            "Name": "popupDistance",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 7,
+            "Offset": 18,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "smallPrice",
+          "Value": {
+            "Name": "smallPrice",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 1,
+            "Offset": 6,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
+      "Name": "gym.mizu.FixTableArray",
+      "Fields": [
+        {
+          "Key": "values",
+          "Value": {
+            "Name": "values",
+            "Type": {
+              "BaseType": 14,
+              "ElementType": 15,
+              "Index": 0,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    }
+  ],
+  "Enums": [],
+  "FileIdentifier": "",
+  "FileExtension": "",
+  "RootTable": {
+    "Name": "gym.mizu.FixTableArray",
+    "Fields": [
+      {
+        "Key": "values",
+        "Value": {
+          "Name": "values",
+          "Type": {
+            "BaseType": 14,
+            "ElementType": 15,
+            "Index": 0,
+            "FixedLength": 0,
+            "BaseSize": 4,
+            "ElementSize": 0
+          },
+          "Id": 0,
+          "Offset": 4,
+          "DefaultInteger": 0,
+          "DefaultDouble": 0,
+          "Deprecated": false,
+          "Required": false,
+          "Key": false,
+          "Attributes": null,
+          "Documentation": null
+        }
+      }
+    ],
+    "IsStruct": false,
+    "MinAlign": 1,
+    "ByteSize": 0,
+    "Attributes": null,
+    "Documentation": null,
+    "DeclarationFile": null
+  },
+  "Services": [],
+  "AdvancedFeatures": 0,
+  "FbsFiles": null
+}

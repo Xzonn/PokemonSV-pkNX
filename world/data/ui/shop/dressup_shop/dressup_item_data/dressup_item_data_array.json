@@ -11681,6 +11681,160 @@
       "Sortnum": 1004,
       "ModelLabel": "p2_drs0000_00_03",
       "SoundTag": ""
+    },
+    {
+      "DressupItemid": 3093,
+      "Dressup": 4,
+      "Bland": -1,
+      "Name": "p0_bag1001_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1061,
+      "ModelLabel": "p0_bag1001_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 4144,
+      "Dressup": 2,
+      "Bland": -1,
+      "Name": "p0_ftw1001_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1062,
+      "ModelLabel": "p0_ftw1001_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 2097,
+      "Dressup": 3,
+      "Bland": -1,
+      "Name": "p0_glv1000_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1060,
+      "ModelLabel": "p0_glv1000_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 5413,
+      "Dressup": 5,
+      "Bland": -1,
+      "Name": "p0_hdw1000_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1063,
+      "ModelLabel": "p0_hdw1000_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 6107,
+      "Dressup": 1,
+      "Bland": -1,
+      "Name": "p0_lgw1000_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1064,
+      "ModelLabel": "p0_lgw1000_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 6108,
+      "Dressup": 1,
+      "Bland": -1,
+      "Name": "p0_lgw1001_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1065,
+      "ModelLabel": "p0_lgw1001_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7012,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1010_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1066,
+      "ModelLabel": "p1_drs1010_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7013,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1011_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1067,
+      "ModelLabel": "p1_drs1011_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7014,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1012_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1068,
+      "ModelLabel": "p1_drs1012_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7015,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1013_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1069,
+      "ModelLabel": "p1_drs1013_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7008,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1010_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1066,
+      "ModelLabel": "p2_drs1010_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7009,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1011_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1067,
+      "ModelLabel": "p2_drs1011_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7010,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1012_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1068,
+      "ModelLabel": "p2_drs1012_00",
+      "SoundTag": ""
+    },
+    {
+      "DressupItemid": 7011,
+      "Dressup": 0,
+      "Bland": -1,
+      "Name": "p2_drs1013_00",
+      "Subname": "0",
+      "Price": 0,
+      "Sortnum": 1069,
+      "ModelLabel": "p2_drs1013_00",
+      "SoundTag": ""
     }
   ]
 }

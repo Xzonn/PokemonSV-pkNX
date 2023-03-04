@@ -1,0 +1,47 @@
+{
+  "Table": [
+    {
+      "Id": "treeshake_poke_test",
+      "Data1": {
+        "Name": "fp_417",
+        "Probability": 100
+      },
+      "Data2": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data3": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data4": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data5": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data6": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data7": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data8": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data9": {
+        "Name": "",
+        "Probability": 0
+      },
+      "Data10": {
+        "Name": "",
+        "Probability": 0
+      }
+    }
+  ]
+}

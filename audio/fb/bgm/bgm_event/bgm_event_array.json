@@ -9247,6 +9247,12 @@
       "WwiseEventName": "PLAY_BGM_TI_EV_EXC_09"
     },
     {
+      "EventName": "EV_COMMON_1260_A",
+      "Type": 8,
+      "LayerName": "",
+      "WwiseEventName": "SET_STATE_VS_INIT"
+    },
+    {
       "EventName": "EV_COMMON_1260_B",
       "Type": 7,
       "LayerName": "EVENT_STOP",
@@ -13333,6 +13339,30 @@
       "WwiseEventName": ""
     },
     {
+      "EventName": "SYS_NET_EXP_SCR_IN",
+      "Type": 7,
+      "LayerName": "SYSTEM_NET",
+      "WwiseEventName": "PLAY_BGM_TI_ST_09"
+    },
+    {
+      "EventName": "SYS_NET_EXP_SCR_IN",
+      "Type": 8,
+      "LayerName": "",
+      "WwiseEventName": "SET_STATE_GAME_CYCLE_NETWORK"
+    },
+    {
+      "EventName": "SYS_NET_EXP_SCR_OUT",
+      "Type": 2,
+      "LayerName": "SYSTEM_NET",
+      "WwiseEventName": ""
+    },
+    {
+      "EventName": "SYS_NET_EXP_SCR_OUT",
+      "Type": 0,
+      "LayerName": "",
+      "WwiseEventName": ""
+    },
+    {
       "EventName": "PICNIC_IN",
       "Type": 8,
       "LayerName": "",
@@ -13963,6 +13993,12 @@
       "WwiseEventName": "PLAY_BGM_D440"
     },
     {
+      "EventName": "VS_BOSS02_START",
+      "Type": 8,
+      "LayerName": "",
+      "WwiseEventName": "SET_STATE_TYPE_SILENCE"
+    },
+    {
       "EventName": "VS_BOSS02_TALK_01",
       "Type": 0,
       "LayerName": "",
@@ -13985,6 +14021,12 @@
       "Type": 8,
       "LayerName": "",
       "WwiseEventName": "SET_STATE_VS_BOSS02_WIN"
+    },
+    {
+      "EventName": "VS_BOSS02_WIN",
+      "Type": 8,
+      "LayerName": "",
+      "WwiseEventName": "SET_STATE_VS_TRAINER_SILENCE"
     },
     {
       "EventName": "VS_BOSS03_ESCAPE",
