@@ -1,7 +1,7 @@
 {
   "Table": [
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4001,
         "DeliveryGroupID": 0,
@@ -80,37 +80,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 85,
             "Wazano": 604
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 25,
             "Wazano": 417
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -119,7 +119,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -131,7 +131,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4002,
         "DeliveryGroupID": 0,
@@ -210,37 +210,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 30,
             "Wazano": 47
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 70,
             "Wazano": 47
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -249,7 +249,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -261,7 +261,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4003,
         "DeliveryGroupID": 0,
@@ -340,37 +340,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 80,
             "Wazano": 0
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 50,
             "Wazano": 201
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -379,7 +379,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -391,7 +391,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4004,
         "DeliveryGroupID": 0,
@@ -470,37 +470,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 50,
             "Wazano": 0
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 90,
             "Wazano": 555
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -509,7 +509,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -521,7 +521,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4005,
         "DeliveryGroupID": 0,
@@ -600,37 +600,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -639,7 +639,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -651,7 +651,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4006,
         "DeliveryGroupID": 0,
@@ -730,37 +730,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 339
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -769,7 +769,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -781,7 +781,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4007,
         "DeliveryGroupID": 0,
@@ -860,37 +860,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 604
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -899,7 +899,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -911,7 +911,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4008,
         "DeliveryGroupID": 0,
@@ -990,37 +990,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 106
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1029,7 +1029,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1041,7 +1041,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4009,
         "DeliveryGroupID": 0,
@@ -1120,37 +1120,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 35,
             "Wazano": 504
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 110
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1159,7 +1159,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1171,7 +1171,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4010,
         "DeliveryGroupID": 0,
@@ -1250,37 +1250,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 113
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1289,7 +1289,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1301,7 +1301,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4011,
         "DeliveryGroupID": 0,
@@ -1380,37 +1380,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 14
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1419,7 +1419,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1431,7 +1431,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4012,
         "DeliveryGroupID": 0,
@@ -1510,37 +1510,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 40,
             "Wazano": 349
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1549,7 +1549,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1561,7 +1561,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4013,
         "DeliveryGroupID": 0,
@@ -1640,37 +1640,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 254
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1679,7 +1679,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1691,7 +1691,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4014,
         "DeliveryGroupID": 0,
@@ -1770,37 +1770,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 106
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 40,
             "Wazano": 106
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1809,7 +1809,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1821,7 +1821,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4015,
         "DeliveryGroupID": 0,
@@ -1900,37 +1900,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 14
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -1939,7 +1939,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -1951,7 +1951,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4016,
         "DeliveryGroupID": 0,
@@ -2030,37 +2030,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 885
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2069,7 +2069,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2081,7 +2081,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4017,
         "DeliveryGroupID": 0,
@@ -2160,37 +2160,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 205
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2199,7 +2199,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2211,7 +2211,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 1,
         "No": 4018,
         "DeliveryGroupID": 0,
@@ -2290,37 +2290,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 90,
             "Wazano": 201
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2329,7 +2329,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2341,7 +2341,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4019,
         "DeliveryGroupID": 0,
@@ -2420,37 +2420,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 483
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2459,7 +2459,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2471,7 +2471,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4020,
         "DeliveryGroupID": 0,
@@ -2550,37 +2550,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 281
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2589,7 +2589,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2601,7 +2601,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4021,
         "DeliveryGroupID": 0,
@@ -2680,37 +2680,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2719,7 +2719,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2731,7 +2731,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4022,
         "DeliveryGroupID": 0,
@@ -2810,37 +2810,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 526
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2849,7 +2849,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2861,7 +2861,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 2,
         "No": 4023,
         "DeliveryGroupID": 0,
@@ -2940,37 +2940,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 254
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -2979,7 +2979,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -2991,7 +2991,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4024,
         "DeliveryGroupID": 0,
@@ -3070,37 +3070,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 35,
             "Wazano": 504
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 110
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -3109,7 +3109,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -3121,7 +3121,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4025,
         "DeliveryGroupID": 0,
@@ -3200,37 +3200,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 113
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -3239,7 +3239,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -3251,7 +3251,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4026,
         "DeliveryGroupID": 0,
@@ -3330,37 +3330,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 90,
             "Wazano": 261
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 50,
             "Wazano": 417
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -3369,7 +3369,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -3381,7 +3381,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4027,
         "DeliveryGroupID": 0,
@@ -3460,37 +3460,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 349
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -3499,7 +3499,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -3511,7 +3511,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 2,
         "No": 4028,
         "DeliveryGroupID": 0,
@@ -3590,37 +3590,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 349
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -3629,7 +3629,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -3641,7 +3641,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4029,
         "DeliveryGroupID": 0,
@@ -3720,37 +3720,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -3759,7 +3759,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -3771,7 +3771,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 1,
         "No": 4030,
         "DeliveryGroupID": 0,
@@ -3850,37 +3850,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 103
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -3889,7 +3889,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -3901,7 +3901,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4031,
         "DeliveryGroupID": 0,
@@ -3980,37 +3980,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 80,
             "Wazano": 0
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 50,
             "Wazano": 201
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4019,7 +4019,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4031,7 +4031,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4032,
         "DeliveryGroupID": 0,
@@ -4110,37 +4110,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 366
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4149,7 +4149,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4161,7 +4161,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4033,
         "DeliveryGroupID": 0,
@@ -4240,37 +4240,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 45,
             "Wazano": 417
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4279,7 +4279,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4291,7 +4291,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4034,
         "DeliveryGroupID": 0,
@@ -4370,37 +4370,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 241
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 483
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4409,7 +4409,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4421,7 +4421,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4035,
         "DeliveryGroupID": 0,
@@ -4500,37 +4500,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 103
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4539,7 +4539,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4551,7 +4551,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4036,
         "DeliveryGroupID": 0,
@@ -4630,37 +4630,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 241
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4669,7 +4669,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4681,7 +4681,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4037,
         "DeliveryGroupID": 0,
@@ -4760,37 +4760,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 489
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4799,7 +4799,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4811,7 +4811,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4038,
         "DeliveryGroupID": 0,
@@ -4890,37 +4890,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 349
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -4929,7 +4929,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -4941,7 +4941,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4039,
         "DeliveryGroupID": 0,
@@ -5020,37 +5020,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 883
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5059,7 +5059,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5071,7 +5071,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4040,
         "DeliveryGroupID": 0,
@@ -5150,37 +5150,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 883
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 50,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 30,
             "Wazano": 694
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5189,7 +5189,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5201,7 +5201,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4041,
         "DeliveryGroupID": 0,
@@ -5280,37 +5280,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 40,
             "Wazano": 334
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5319,7 +5319,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5331,7 +5331,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 1,
         "No": 4042,
         "DeliveryGroupID": 0,
@@ -5410,37 +5410,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 526
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5449,7 +5449,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5461,7 +5461,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4043,
         "DeliveryGroupID": 0,
@@ -5540,37 +5540,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 50,
             "Wazano": 0
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 60,
             "Wazano": 555
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 30,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5579,7 +5579,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5591,7 +5591,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4044,
         "DeliveryGroupID": 0,
@@ -5670,37 +5670,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 580
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5709,7 +5709,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5721,7 +5721,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4045,
         "DeliveryGroupID": 0,
@@ -5800,37 +5800,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 14
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5839,7 +5839,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5851,7 +5851,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4046,
         "DeliveryGroupID": 0,
@@ -5930,37 +5930,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -5969,7 +5969,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -5981,7 +5981,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4047,
         "DeliveryGroupID": 0,
@@ -6060,37 +6060,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 883
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -6099,7 +6099,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -6111,7 +6111,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4048,
         "DeliveryGroupID": 0,
@@ -6190,37 +6190,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 241
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -6229,7 +6229,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -6241,7 +6241,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4049,
         "DeliveryGroupID": 0,
@@ -6320,37 +6320,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 201
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -6359,7 +6359,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -6371,7 +6371,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4050,
         "DeliveryGroupID": 0,
@@ -6450,37 +6450,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 201
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -6489,7 +6489,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -6501,7 +6501,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4051,
         "DeliveryGroupID": 0,
@@ -6580,37 +6580,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 74
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -6619,7 +6619,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -6631,7 +6631,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4052,
         "DeliveryGroupID": 0,
@@ -6710,37 +6710,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 254
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -6749,7 +6749,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -6761,7 +6761,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 1,
         "No": 4053,
         "DeliveryGroupID": 0,
@@ -6840,37 +6840,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 174
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -6879,7 +6879,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -6891,7 +6891,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 2,
         "No": 4054,
         "DeliveryGroupID": 0,
@@ -6970,37 +6970,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 883
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7009,7 +7009,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7021,7 +7021,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4055,
         "DeliveryGroupID": 0,
@@ -7100,37 +7100,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7139,7 +7139,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7151,7 +7151,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4056,
         "DeliveryGroupID": 0,
@@ -7230,37 +7230,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 35,
             "Wazano": 504
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 110
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7269,7 +7269,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7281,7 +7281,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 2,
         "No": 4057,
         "DeliveryGroupID": 0,
@@ -7360,37 +7360,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 80,
             "Wazano": 261
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 349
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7399,7 +7399,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7411,7 +7411,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4058,
         "DeliveryGroupID": 0,
@@ -7490,37 +7490,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7529,7 +7529,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7541,7 +7541,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4059,
         "DeliveryGroupID": 0,
@@ -7620,37 +7620,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 35,
             "Wazano": 868
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 30,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7659,7 +7659,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7671,7 +7671,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4060,
         "DeliveryGroupID": 0,
@@ -7750,37 +7750,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 95,
             "Wazano": 241
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 65,
             "Wazano": 74
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7789,7 +7789,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7801,7 +7801,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4061,
         "DeliveryGroupID": 0,
@@ -7880,37 +7880,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 598
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -7919,7 +7919,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -7931,7 +7931,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4062,
         "DeliveryGroupID": 0,
@@ -8010,37 +8010,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 67
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8049,7 +8049,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8061,7 +8061,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4063,
         "DeliveryGroupID": 0,
@@ -8140,37 +8140,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 260
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8179,7 +8179,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8191,7 +8191,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4064,
         "DeliveryGroupID": 0,
@@ -8270,37 +8270,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 269
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8309,7 +8309,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8321,7 +8321,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4065,
         "DeliveryGroupID": 0,
@@ -8400,37 +8400,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 526
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8439,7 +8439,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8451,7 +8451,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4066,
         "DeliveryGroupID": 0,
@@ -8530,37 +8530,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 74
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8569,7 +8569,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8581,7 +8581,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4067,
         "DeliveryGroupID": 0,
@@ -8660,37 +8660,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 95
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 45,
             "Wazano": 347
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8699,7 +8699,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8711,7 +8711,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4068,
         "DeliveryGroupID": 0,
@@ -8790,37 +8790,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 90,
             "Wazano": 0
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8829,7 +8829,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8841,7 +8841,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 1,
         "No": 4069,
         "DeliveryGroupID": 0,
@@ -8920,37 +8920,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 254
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -8959,7 +8959,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -8971,7 +8971,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 2,
         "No": 4070,
         "DeliveryGroupID": 0,
@@ -9050,37 +9050,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 254
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9089,7 +9089,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -9101,7 +9101,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 1,
         "No": 4071,
         "DeliveryGroupID": 0,
@@ -9180,37 +9180,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 261
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9219,7 +9219,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -9231,7 +9231,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4072,
         "DeliveryGroupID": 0,
@@ -9310,37 +9310,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 92
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9349,7 +9349,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -9361,7 +9361,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4073,
         "DeliveryGroupID": 0,
@@ -9440,37 +9440,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 75,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9479,7 +9479,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -9491,7 +9491,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4074,
         "DeliveryGroupID": 0,
@@ -9570,37 +9570,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9609,7 +9609,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -9621,7 +9621,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4075,
         "DeliveryGroupID": 0,
@@ -9700,37 +9700,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 50,
             "Wazano": 748
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9739,7 +9739,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -9751,7 +9751,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4076,
         "DeliveryGroupID": 0,
@@ -9830,37 +9830,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 489
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9869,7 +9869,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -9881,7 +9881,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4077,
         "DeliveryGroupID": 0,
@@ -9960,37 +9960,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 883
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 50,
             "Wazano": 483
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -9999,7 +9999,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10011,7 +10011,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4078,
         "DeliveryGroupID": 0,
@@ -10090,37 +10090,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 489
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -10129,7 +10129,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10141,7 +10141,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4079,
         "DeliveryGroupID": 0,
@@ -10220,37 +10220,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 489
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -10259,7 +10259,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10271,7 +10271,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4080,
         "DeliveryGroupID": 0,
@@ -10350,37 +10350,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 678
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -10389,7 +10389,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10401,7 +10401,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4081,
         "DeliveryGroupID": 0,
@@ -10480,37 +10480,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 65,
             "Wazano": 204
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -10519,7 +10519,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10531,7 +10531,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4082,
         "DeliveryGroupID": 0,
@@ -10610,37 +10610,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 678
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -10649,7 +10649,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10661,7 +10661,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4083,
         "DeliveryGroupID": 0,
@@ -10740,37 +10740,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 14
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -10779,7 +10779,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10791,7 +10791,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4084,
         "DeliveryGroupID": 0,
@@ -10870,37 +10870,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 40,
             "Wazano": 508
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -10909,7 +10909,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -10921,7 +10921,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4085,
         "DeliveryGroupID": 0,
@@ -11000,37 +11000,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 347
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11039,7 +11039,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11051,7 +11051,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4086,
         "DeliveryGroupID": 0,
@@ -11130,37 +11130,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 80,
             "Wazano": 366
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11169,7 +11169,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11181,7 +11181,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4087,
         "DeliveryGroupID": 0,
@@ -11260,37 +11260,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 92
           },
           "ExtraAction2": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11299,7 +11299,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11311,7 +11311,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4088,
         "DeliveryGroupID": 0,
@@ -11390,37 +11390,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 40,
             "Wazano": 204
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 2,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11429,7 +11429,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11441,7 +11441,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4089,
         "DeliveryGroupID": 0,
@@ -11520,37 +11520,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 85,
             "Wazano": 604
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 25,
             "Wazano": 204
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11559,7 +11559,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11571,7 +11571,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4090,
         "DeliveryGroupID": 0,
@@ -11650,37 +11650,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 65,
             "Wazano": 455
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 60,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 30,
             "Wazano": 455
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11689,7 +11689,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11701,7 +11701,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4091,
         "DeliveryGroupID": 0,
@@ -11780,37 +11780,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 85,
             "Wazano": 604
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 3,
             "Value": 25,
             "Wazano": 538
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11819,7 +11819,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11831,7 +11831,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4092,
         "DeliveryGroupID": 0,
@@ -11910,37 +11910,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 90,
             "Wazano": 201
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 1,
             "Value": 50,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -11949,7 +11949,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,
@@ -11961,7 +11961,7 @@
       }
     },
     {
-      "RaidEnemyInfo": {
+      "Info": {
         "RomVer": 0,
         "No": 4093,
         "DeliveryGroupID": 0,
@@ -12040,37 +12040,37 @@
           "PowerChargeGemDamageRate": 80,
           "PowerChargeChangeGemDamageRate": 40,
           "ExtraAction1": {
-            "Timming": 1,
+            "Timing": 1,
             "Action": 3,
             "Value": 75,
             "Wazano": 240
           },
           "ExtraAction2": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 1,
             "Value": 75,
             "Wazano": 0
           },
           "ExtraAction3": {
-            "Timming": 2,
+            "Timing": 2,
             "Action": 2,
             "Value": 40,
             "Wazano": 0
           },
           "ExtraAction4": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction5": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
           },
           "ExtraAction6": {
-            "Timming": 0,
+            "Timing": 0,
             "Action": 0,
             "Value": 0,
             "Wazano": 0
@@ -12079,7 +12079,7 @@
           "DoubleActionTriggerTime": 0,
           "DoubleActionRate": 0
         },
-        "RaidTimeData": {
+        "TimeDesc": {
           "IsActive": false,
           "GameLimit": 0,
           "ClientLimit": 0,

@@ -1,0 +1,44 @@
+{
+  "Table": [
+    {
+      "RaidTrainerInfo": "area04_trainer_deliverer",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_deliverer_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_karate",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_mania",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_boy",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_girl",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_infant_f",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_infant_m",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    }
+  ]
+}

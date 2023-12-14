@@ -1,0 +1,12 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "OblationPoint": 5,
+        "CrashBalloonPoint": 1,
+        "LevelClearPoint": 500,
+        "RemainTimePoint": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "Table": [
+    {
+      "Name": "a_sch_1_dorm01",
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
+        "Type": 4,
+        "LocationNameMain": "",
+        "LocationNameSub": "",
+        "Bgm": "A_SCH_1_DORM01",
+        "EnvBaseSound": "A_SCH_1_DORM01",
+        "WeatherTable": "weather_table_room_default",
+        "LightFileP1": "fel_interior_24h",
+        "LightFileP2": "",
+        "LightFileP3": "",
+        "ShadowClipHeightOffset": 5,
+        "ShadowClipHeightMinOffset": -5,
+        "DisableLightOffset": false,
+        "NoDisplayLocationName": true,
+        "NoRide": true,
+        "NoFly": true,
+        "NoPicnic": true,
+        "NoPartner": true,
+        "NoSpawnSection": true,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 0,
+        "MaxEncLv": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
+      }
+    },
+    {
+      "Name": "a_t10_i01",
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
+        "Type": 4,
+        "LocationNameMain": "PLACENAME_subarea_su01t10_01",
+        "LocationNameSub": "PLACENAME_subarea_su01t10_02",
+        "Bgm": "A_T10_I01",
+        "EnvBaseSound": "A_T10_I01",
+        "WeatherTable": "weather_table_room_default",
+        "LightFileP1": "fel_interior_24h",
+        "LightFileP2": "fel_su1_a_t10_i01_pointlight",
+        "LightFileP3": "",
+        "ShadowClipHeightOffset": 5,
+        "ShadowClipHeightMinOffset": -5,
+        "DisableLightOffset": false,
+        "NoDisplayLocationName": true,
+        "NoRide": true,
+        "NoFly": true,
+        "NoPicnic": true,
+        "NoPartner": true,
+        "NoSpawnSection": true,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 0,
+        "MaxEncLv": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
+      }
+    }
+  ]
+}

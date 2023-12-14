@@ -1,0 +1,70 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "BaseTransformList": [
+          {
+            "PosX": 1394.1,
+            "PosY": 101.35,
+            "PosZ": -367.7,
+            "RotX": 0.04,
+            "RotY": 0,
+            "RotZ": 0.02,
+            "IsToRadian": false
+          },
+          {
+            "PosX": 788.74,
+            "PosY": 164.44,
+            "PosZ": -489.476,
+            "RotX": -8,
+            "RotY": -90,
+            "RotZ": 3,
+            "IsToRadian": true
+          },
+          {
+            "PosX": 517.5,
+            "PosY": 145.7,
+            "PosZ": -480.9,
+            "RotX": 6.5,
+            "RotY": -30.0337,
+            "RotZ": -3,
+            "IsToRadian": true
+          },
+          {
+            "PosX": 382.462,
+            "PosY": 165.97,
+            "PosZ": -1011.013,
+            "RotX": 6.5,
+            "RotY": -35,
+            "RotZ": -4.9,
+            "IsToRadian": true
+          },
+          {
+            "PosX": 705.784,
+            "PosY": 185.45,
+            "PosZ": -1635.913,
+            "RotX": -0.01,
+            "RotY": 208,
+            "RotZ": 0.01,
+            "IsToRadian": false
+          },
+          {
+            "PosX": 1244.43,
+            "PosY": 185.95,
+            "PosZ": -1563.022,
+            "RotX": 0,
+            "RotY": 0,
+            "RotZ": -0.03,
+            "IsToRadian": false
+          }
+        ]
+      },
+      "PokeObjName0": "pm0446_1",
+      "PokeObjName1": "pm0446_2",
+      "PokeObjName2": "pm0819_1",
+      "PokeObjName3": "pm0819_2",
+      "PokeObjName4": "pm0820_1",
+      "PokeObjName5": "pm0143_1"
+    }
+  ]
+}

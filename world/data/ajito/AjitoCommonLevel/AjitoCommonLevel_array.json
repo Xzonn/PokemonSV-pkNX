@@ -1,9 +1,9 @@
 {
   "Table": [
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "ClearPokemonNum": 30,
         "MinPokemonLv": 10,
         "MaxPokemonLv": 15,
@@ -11,9 +11,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 50,
         "MaxPokemonLv": 65,
@@ -21,9 +21,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 15,
         "MaxPokemonLv": 25,
@@ -31,9 +31,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "ClearPokemonNum": 30,
         "MinPokemonLv": 30,
         "MaxPokemonLv": 40,
@@ -41,9 +41,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 50,
         "MaxPokemonLv": 65,
@@ -51,9 +51,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 45,
         "MaxPokemonLv": 50,
@@ -61,9 +61,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "ClearPokemonNum": 30,
         "MinPokemonLv": 40,
         "MaxPokemonLv": 50,
@@ -71,9 +71,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 50,
         "MaxPokemonLv": 65,
@@ -81,9 +81,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 40,
         "MaxPokemonLv": 50,
@@ -91,9 +91,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "ClearPokemonNum": 30,
         "MinPokemonLv": 15,
         "MaxPokemonLv": 20,
@@ -101,9 +101,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 50,
         "MaxPokemonLv": 65,
@@ -111,9 +111,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 25,
         "MaxPokemonLv": 30,
@@ -121,9 +121,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "ClearPokemonNum": 30,
         "MinPokemonLv": 20,
         "MaxPokemonLv": 30,
@@ -131,9 +131,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 50,
         "MaxPokemonLv": 65,
@@ -141,9 +141,9 @@
       }
     },
     {
-      "AjitoCommonLevelStruct": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "ClearPokemonNum": 50,
         "MinPokemonLv": 35,
         "MaxPokemonLv": 40,

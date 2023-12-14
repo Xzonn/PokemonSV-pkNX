@@ -381,6 +381,36 @@
       "WindowType": 4
     },
     {
+      "Id": "board_spot_su1_01",
+      "Label": "popup_su1_spot_kanban_01",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_su1_02",
+      "Label": "popup_su1_spot_kanban_02",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_su1_03",
+      "Label": "popup_su1_spot_kanban_03",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_su1_04",
+      "Label": "popup_su1_spot_kanban_04",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_su1_05",
+      "Label": "popup_su1_spot_kanban_05",
+      "WindowType": 4
+    },
+    {
+      "Id": "board_spot_su1_06",
+      "Label": "popup_su1_spot_kanban_06",
+      "WindowType": 4
+    },
+    {
       "Id": "popup_c01_01",
       "Label": "popup_c01_01",
       "WindowType": 0
@@ -479,6 +509,61 @@
       "Id": "popup_test3",
       "Label": "popup_dummy",
       "WindowType": 3
+    },
+    {
+      "Id": "su1_board_guide_to_center",
+      "Label": "arrow_guide_to_center",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_d04",
+      "Label": "arrow_guide_to_d04",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_plaza",
+      "Label": "arrow_guide_to_plaza",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_su0105",
+      "Label": "arrow_guide_to_su0105",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_su0106",
+      "Label": "arrow_guide_to_su0106",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_su0107",
+      "Label": "arrow_guide_to_su0107",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_su0109",
+      "Label": "arrow_guide_to_su0109",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_su0109_02",
+      "Label": "arrow_guide_to_su0109_02",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_su0109_03",
+      "Label": "arrow_guide_to_su0109_03",
+      "WindowType": 4
+    },
+    {
+      "Id": "su1_board_guide_to_su0110",
+      "Label": "arrow_guide_to_su0110",
+      "WindowType": 4
+    },
+    {
+      "Id": "su2_board_guide_to_su02d01",
+      "Label": "arrow_guide_to_su2d01",
+      "WindowType": 4
     }
   ]
 }

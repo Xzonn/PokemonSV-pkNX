@@ -1,308 +1,348 @@
 {
   "Table": [
     {
-      "ShopId": "shop00",
-      "ShopKind": 1
+      "Id": "shop00",
+      "Kind": 1
     },
     {
-      "ShopId": "shop_delibird_00",
-      "ShopKind": 7
+      "Id": "shop_delibird_00",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_00_lineup1",
-      "ShopKind": 7
+      "Id": "shop_delibird_00_lineup1",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_00_lineup2",
-      "ShopKind": 7
+      "Id": "shop_delibird_00_lineup2",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_00_lineup3",
-      "ShopKind": 7
+      "Id": "shop_delibird_00_lineup3",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_01",
-      "ShopKind": 7
+      "Id": "shop_delibird_01",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_01_lineup1",
-      "ShopKind": 7
+      "Id": "shop_delibird_01_lineup1",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_01_lineup2",
-      "ShopKind": 7
+      "Id": "shop_delibird_01_lineup2",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_01_lineup3",
-      "ShopKind": 7
+      "Id": "shop_delibird_01_lineup3",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_02",
-      "ShopKind": 7
+      "Id": "shop_delibird_02",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_02_lineup1",
-      "ShopKind": 7
+      "Id": "shop_delibird_02_lineup1",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_02_lineup2",
-      "ShopKind": 7
+      "Id": "shop_delibird_02_lineup2",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_02_lineup3",
-      "ShopKind": 7
+      "Id": "shop_delibird_02_lineup3",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_c01_1",
-      "ShopKind": 7
+      "Id": "shop_delibird_c01_1",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_c01_1_lineup1",
-      "ShopKind": 7
+      "Id": "shop_delibird_c01_1_lineup1",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_c01_1_lineup2",
-      "ShopKind": 7
+      "Id": "shop_delibird_c01_1_lineup2",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delibird_c01_1_lineup3",
-      "ShopKind": 7
+      "Id": "shop_delibird_c01_1_lineup3",
+      "Kind": 7
     },
     {
-      "ShopId": "shop_delicatessen_c01_1",
-      "ShopKind": 8
+      "Id": "shop_delicatessen_c01_1",
+      "Kind": 8
     },
     {
-      "ShopId": "shop_dressup",
-      "ShopKind": 5
+      "Id": "shop_dressup",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_hairsalon",
-      "ShopKind": 3
+      "Id": "shop_hairsalon",
+      "Kind": 3
     },
     {
-      "ShopId": "shop_kanzume_00",
-      "ShopKind": 10
+      "Id": "shop_kanzume_00",
+      "Kind": 10
     },
     {
-      "ShopId": "shop_koubai_00",
-      "ShopKind": 13
+      "Id": "shop_koubai_00",
+      "Kind": 13
     },
     {
-      "ShopId": "shop_kusuriya_00",
-      "ShopKind": 9
+      "Id": "shop_kusuriya_00",
+      "Kind": 9
     },
     {
-      "ShopId": "shop_pan_00",
-      "ShopKind": 11
+      "Id": "shop_pan_00",
+      "Kind": 11
     },
     {
-      "ShopId": "shop_picnic_00",
-      "ShopKind": 14
+      "Id": "shop_picnic_00",
+      "Kind": 14
     },
     {
-      "ShopId": "shop_picnic_01",
-      "ShopKind": 14
+      "Id": "shop_picnic_01",
+      "Kind": 14
     },
     {
-      "ShopId": "shop_picnic_02",
-      "ShopKind": 14
+      "Id": "shop_picnic_02",
+      "Kind": 14
     },
     {
-      "ShopId": "restaurant01",
-      "ShopKind": 2
+      "Id": "restaurant01",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant02",
-      "ShopKind": 2
+      "Id": "restaurant02",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant03",
-      "ShopKind": 2
+      "Id": "restaurant03",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant04",
-      "ShopKind": 2
+      "Id": "restaurant04",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant05",
-      "ShopKind": 6
+      "Id": "restaurant05",
+      "Kind": 6
     },
     {
-      "ShopId": "restaurant06",
-      "ShopKind": 2
+      "Id": "restaurant06",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant07",
-      "ShopKind": 6
+      "Id": "restaurant07",
+      "Kind": 6
     },
     {
-      "ShopId": "restaurant08",
-      "ShopKind": 2
+      "Id": "restaurant08",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant09",
-      "ShopKind": 2
+      "Id": "restaurant09",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant10",
-      "ShopKind": 2
+      "Id": "restaurant10",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant11",
-      "ShopKind": 2
+      "Id": "restaurant11",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant12",
-      "ShopKind": 6
+      "Id": "restaurant12",
+      "Kind": 6
     },
     {
-      "ShopId": "restaurant13",
-      "ShopKind": 2
+      "Id": "restaurant13",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant14",
-      "ShopKind": 2
+      "Id": "restaurant14",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant15",
-      "ShopKind": 2
+      "Id": "restaurant15",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant16",
-      "ShopKind": 2
+      "Id": "restaurant16",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant18",
-      "ShopKind": 2
+      "Id": "restaurant18",
+      "Kind": 2
     },
     {
-      "ShopId": "restaurant01",
-      "ShopKind": 2
+      "Id": "restaurant01",
+      "Kind": 2
     },
     {
-      "ShopId": "shop_restaurant_highprice01",
-      "ShopKind": 6
+      "Id": "shop_restaurant_highprice01",
+      "Kind": 6
     },
     {
-      "ShopId": "shop_bag_00",
-      "ShopKind": 5
+      "Id": "shop_bag_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_bag_01",
-      "ShopKind": 5
+      "Id": "shop_bag_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_bag_02",
-      "ShopKind": 5
+      "Id": "shop_bag_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_delibird_00_lineup4",
-      "ShopKind": 5
+      "Id": "shop_delibird_00_lineup4",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_delibird_01_lineup4",
-      "ShopKind": 5
+      "Id": "shop_delibird_01_lineup4",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_delibird_02_lineup4",
-      "ShopKind": 5
+      "Id": "shop_delibird_02_lineup4",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_eye_00",
-      "ShopKind": 5
+      "Id": "shop_eye_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_eye_01",
-      "ShopKind": 5
+      "Id": "shop_eye_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_eye_02",
-      "ShopKind": 5
+      "Id": "shop_eye_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_foot_00",
-      "ShopKind": 5
+      "Id": "shop_foot_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_foot_01",
-      "ShopKind": 5
+      "Id": "shop_foot_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_foot_02",
-      "ShopKind": 5
+      "Id": "shop_foot_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_head_00",
-      "ShopKind": 5
+      "Id": "shop_head_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_head_01",
-      "ShopKind": 5
+      "Id": "shop_head_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_head_02",
-      "ShopKind": 5
+      "Id": "shop_head_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_high_price_00",
-      "ShopKind": 5
+      "Id": "shop_high_price_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_high_price_01",
-      "ShopKind": 5
+      "Id": "shop_high_price_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_high_price_02",
-      "ShopKind": 5
+      "Id": "shop_high_price_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_leg_00",
-      "ShopKind": 5
+      "Id": "shop_leg_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_leg_01",
-      "ShopKind": 5
+      "Id": "shop_leg_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_leg_02",
-      "ShopKind": 5
+      "Id": "shop_leg_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_low_price_00",
-      "ShopKind": 5
+      "Id": "shop_low_price_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_low_price_01",
-      "ShopKind": 5
+      "Id": "shop_low_price_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_low_price_02",
-      "ShopKind": 5
+      "Id": "shop_low_price_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_ride_01",
-      "ShopKind": 5
+      "Id": "shop_ride_01",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_ride_02",
-      "ShopKind": 5
+      "Id": "shop_ride_02",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_rotom_00",
-      "ShopKind": 5
+      "Id": "shop_rotom_00",
+      "Kind": 5
     },
     {
-      "ShopId": "shop_souzai_00",
-      "ShopKind": 8
+      "Id": "shop_souzai_00",
+      "Kind": 8
     },
     {
-      "ShopId": "shop_suupaa_00",
-      "ShopKind": 12
+      "Id": "shop_suupaa_00",
+      "Kind": 12
     },
     {
-      "ShopId": "shop_999",
-      "ShopKind": 4
+      "Id": "shop_999",
+      "Kind": 4
+    },
+    {
+      "Id": "shop_omen_00",
+      "Kind": 5
+    },
+    {
+      "Id": "restaurant19",
+      "Kind": 2
+    },
+    {
+      "Id": "restaurant20",
+      "Kind": 2
+    },
+    {
+      "Id": "restaurant21",
+      "Kind": 2
+    },
+    {
+      "Id": "restaurant22",
+      "Kind": 2
+    },
+    {
+      "Id": "shop_syouten",
+      "Kind": 15
+    },
+    {
+      "Id": "shop_syouten_01",
+      "Kind": 5
+    },
+    {
+      "Id": "restaurant23",
+      "Kind": 2
+    },
+    {
+      "Id": "shop_bbkoubai",
+      "Kind": 16
+    },
+    {
+      "Id": "shop_bbzihanki",
+      "Kind": 17
     }
   ]
 }

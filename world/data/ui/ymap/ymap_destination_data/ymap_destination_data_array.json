@@ -1277,6 +1277,78 @@
       "ChapterTitle": "ymap_title_00_03",
       "DestinationName": "ymap_title_NUSI_jimen",
       "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0000",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0000",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0010",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0000",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0010",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0010",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0020",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0010",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc02_0000",
+      "MapIconMode": 1,
+      "IconID": "SDC02_0000",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC02_0000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc02_0010",
+      "MapIconMode": 0,
+      "IconID": "SDC02_0000",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC02_0000",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc02_0010",
+      "MapIconMode": 1,
+      "IconID": "SDC02_0010",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC02_0010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc02_0020",
+      "MapIconMode": 0,
+      "IconID": "SDC02_0010",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC02_0010",
+      "SubDestinationName": ""
     }
   ]
 }

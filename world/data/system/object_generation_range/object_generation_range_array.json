@@ -27,7 +27,7 @@
     {
       "Type": 7,
       "MinCreateDistance": 0,
-      "MaxCreateDistance": 60,
+      "MaxCreateDistance": 50,
       "MinDestroyDistance": 0,
       "MaxDestroyDistance": 0,
       "MaxGenerationNum": 12

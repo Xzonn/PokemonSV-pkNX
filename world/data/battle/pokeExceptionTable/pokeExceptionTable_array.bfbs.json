@@ -17406,6 +17406,125 @@
             },
             "Documentation": null
           }
+        },
+        {
+          "Key": 1011,
+          "Value": {
+            "Key": "DEV_KAMENONI",
+            "Value": 1011,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1012,
+          "Value": {
+            "Key": "DEV_KAZITTYU2",
+            "Value": 1012,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1014,
+          "Value": {
+            "Key": "DEV_DOKUINU",
+            "Value": 1014,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1015,
+          "Value": {
+            "Key": "DEV_DOKUZARU",
+            "Value": 1015,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1016,
+          "Value": {
+            "Key": "DEV_DOKUKIZI",
+            "Value": 1016,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1024,
+          "Value": {
+            "Key": "DEV_MATCHA1",
+            "Value": 1024,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1025,
+          "Value": {
+            "Key": "DEV_MATCHA2",
+            "Value": 1025,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
         }
       ],
       "IsUnion": false,

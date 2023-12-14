@@ -1,0 +1,207 @@
+{
+  "Table": [
+    {
+      "Key": {
+        "Area": 1,
+        "Biome": "prairie"
+      },
+      "TableId": "10001"
+    },
+    {
+      "Key": {
+        "Area": 1,
+        "Biome": "riverside"
+      },
+      "TableId": "10002"
+    },
+    {
+      "Key": {
+        "Area": 1,
+        "Biome": "swamp"
+      },
+      "TableId": "10003"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "prairie"
+      },
+      "TableId": "10004"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10005"
+    },
+    {
+      "Key": {
+        "Area": 3,
+        "Biome": "bamboo_forest"
+      },
+      "TableId": "10006"
+    },
+    {
+      "Key": {
+        "Area": 3,
+        "Biome": "prairie"
+      },
+      "TableId": "10007"
+    },
+    {
+      "Key": {
+        "Area": 3,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10008"
+    },
+    {
+      "Key": {
+        "Area": 4,
+        "Biome": "prairie"
+      },
+      "TableId": "10009"
+    },
+    {
+      "Key": {
+        "Area": 4,
+        "Biome": "riverside"
+      },
+      "TableId": "10010"
+    },
+    {
+      "Key": {
+        "Area": 4,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10011"
+    },
+    {
+      "Key": {
+        "Area": 5,
+        "Biome": "riverside"
+      },
+      "TableId": "10012"
+    },
+    {
+      "Key": {
+        "Area": 5,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10013"
+    },
+    {
+      "Key": {
+        "Area": 6,
+        "Biome": "cave"
+      },
+      "TableId": "10014"
+    },
+    {
+      "Key": {
+        "Area": 6,
+        "Biome": "lake"
+      },
+      "TableId": "10015"
+    },
+    {
+      "Key": {
+        "Area": 6,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10016"
+    },
+    {
+      "Key": {
+        "Area": 7,
+        "Biome": "prairie"
+      },
+      "TableId": "10017"
+    },
+    {
+      "Key": {
+        "Area": 7,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10018"
+    },
+    {
+      "Key": {
+        "Area": 8,
+        "Biome": "prairie"
+      },
+      "TableId": "10019"
+    },
+    {
+      "Key": {
+        "Area": 8,
+        "Biome": "riverside"
+      },
+      "TableId": "10020"
+    },
+    {
+      "Key": {
+        "Area": 9,
+        "Biome": "lake"
+      },
+      "TableId": "10021"
+    },
+    {
+      "Key": {
+        "Area": 9,
+        "Biome": "prairie"
+      },
+      "TableId": "10022"
+    },
+    {
+      "Key": {
+        "Area": 9,
+        "Biome": "riverside"
+      },
+      "TableId": "10023"
+    },
+    {
+      "Key": {
+        "Area": 9,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10024"
+    },
+    {
+      "Key": {
+        "Area": 10,
+        "Biome": "desert"
+      },
+      "TableId": "10025"
+    },
+    {
+      "Key": {
+        "Area": 10,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10026"
+    },
+    {
+      "Key": {
+        "Area": 11,
+        "Biome": "lake"
+      },
+      "TableId": "10027"
+    },
+    {
+      "Key": {
+        "Area": 11,
+        "Biome": "prairie"
+      },
+      "TableId": "10028"
+    },
+    {
+      "Key": {
+        "Area": 11,
+        "Biome": "rocky_area"
+      },
+      "TableId": "10029"
+    }
+  ]
+}

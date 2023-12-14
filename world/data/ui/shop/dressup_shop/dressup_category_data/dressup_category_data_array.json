@@ -285,6 +285,28 @@
       "Head": true,
       "Eye": false,
       "Rotom": false
+    },
+    {
+      "Shopid": "shop_omen_00",
+      "Uniform": false,
+      "Leg": false,
+      "Foot": false,
+      "Glove": false,
+      "Bag": false,
+      "Head": true,
+      "Eye": true,
+      "Rotom": true
+    },
+    {
+      "Shopid": "shop_syouten_01",
+      "Uniform": false,
+      "Leg": true,
+      "Foot": false,
+      "Glove": true,
+      "Bag": false,
+      "Head": false,
+      "Eye": false,
+      "Rotom": false
     }
   ]
 }

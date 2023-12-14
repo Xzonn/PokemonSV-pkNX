@@ -1,0 +1,49 @@
+{
+  "Table": [
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_middle_f",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_middle_f_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_middle_m",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_middle_m_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_senior_f",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_senior_m",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_young_f",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_sch_young_m",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_tanpan",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    }
+  ]
+}

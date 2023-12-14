@@ -1,777 +1,777 @@
 {
   "Table": [
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 0,
         "DevId": 953,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 1,
         "DevId": 228,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 2,
         "DevId": 229,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 3,
         "DevId": 757,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 4,
         "DevId": 758,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 5,
         "DevId": 324,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 6,
         "DevId": 322,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 7,
         "DevId": 323,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 8,
         "DevId": 837,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 9,
         "DevId": 838,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 10,
         "DevId": 839,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 11,
         "DevId": 938,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 12,
         "DevId": 939,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 13,
         "DevId": 58,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 14,
         "DevId": 59,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 15,
         "DevId": 667,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 16,
         "DevId": 668,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 17,
         "DevId": 1003,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 18,
         "DevId": 1004,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 19,
         "DevId": 1005,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 20,
         "DevId": 661,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 21,
         "DevId": 662,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 22,
         "DevId": 663,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 101,
         "DevId": 228,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 102,
         "DevId": 229,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 103,
         "DevId": 198,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 104,
         "DevId": 430,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 105,
         "DevId": 434,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 106,
         "DevId": 435,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 107,
         "DevId": 215,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 108,
         "DevId": 461,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 109,
         "DevId": 570,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 110,
         "DevId": 571,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 111,
         "DevId": 302,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 112,
         "DevId": 624,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 113,
         "DevId": 625,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 114,
         "DevId": 1008,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 115,
         "DevId": 551,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 116,
         "DevId": 552,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 117,
         "DevId": 553,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 118,
         "DevId": 331,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 119,
         "DevId": 332,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 120,
         "DevId": 920,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 121,
         "DevId": 921,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 122,
         "DevId": 633,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 123,
         "DevId": 634,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 201,
         "DevId": 968,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 202,
         "DevId": 969,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 203,
         "DevId": 92,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 204,
         "DevId": 93,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 205,
         "DevId": 94,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 206,
         "DevId": 48,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 207,
         "DevId": 49,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 208,
         "DevId": 336,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 209,
         "DevId": 211,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 210,
         "DevId": 316,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 211,
         "DevId": 317,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 212,
         "DevId": 194,
         "FormNo": 1
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 213,
         "DevId": 1009,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 214,
         "DevId": 590,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 215,
         "DevId": 591,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 216,
         "DevId": 747,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 217,
         "DevId": 748,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 218,
         "DevId": 690,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 219,
         "DevId": 691,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 220,
         "DevId": 849,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 221,
         "DevId": 942,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 222,
         "DevId": 943,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 223,
         "DevId": 88,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 224,
         "DevId": 89,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 301,
         "DevId": 56,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 302,
         "DevId": 57,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 303,
         "DevId": 1010,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 304,
         "DevId": 214,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 305,
         "DevId": 286,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 306,
         "DevId": 296,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 307,
         "DevId": 297,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 308,
         "DevId": 307,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 309,
         "DevId": 308,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 310,
         "DevId": 453,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 311,
         "DevId": 454,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 312,
         "DevId": 475,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 313,
         "DevId": 701,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 314,
         "DevId": 739,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 315,
         "DevId": 740,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 316,
         "DevId": 766,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 317,
         "DevId": 870,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 318,
         "DevId": 961,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 401,
         "DevId": 39,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 402,
         "DevId": 40,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 403,
         "DevId": 183,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 404,
         "DevId": 184,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 405,
         "DevId": 280,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 406,
         "DevId": 281,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 407,
         "DevId": 282,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 408,
         "DevId": 669,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 409,
         "DevId": 670,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 410,
         "DevId": 671,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 411,
         "DevId": 702,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 412,
         "DevId": 707,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 413,
         "DevId": 778,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 414,
         "DevId": 859,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 415,
         "DevId": 860,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 416,
         "DevId": 861,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 417,
         "DevId": 945,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 418,
         "DevId": 946,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 419,
         "DevId": 970,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 420,
         "DevId": 971,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 421,
         "DevId": 1000,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 422,
         "DevId": 1001,
         "FormNo": 0
       }
     },
     {
-      "AjitoPokemonTable": {
+      "Table": {
         "PokemonId": 423,
         "DevId": 1002,
         "FormNo": 0

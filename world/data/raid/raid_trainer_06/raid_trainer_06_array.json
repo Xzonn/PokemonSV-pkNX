@@ -1,0 +1,54 @@
+{
+  "Table": [
+    {
+      "RaidTrainerInfo": "area04_trainer_tanpan_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_waiter",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area04_trainer_waitress",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_backpacker",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_backpacker_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_deliverer",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_deliverer_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_karate",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_karate_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_karate_2",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    }
+  ]
+}

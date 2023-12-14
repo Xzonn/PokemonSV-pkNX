@@ -193,22 +193,22 @@
       "RaidFrameLength": -1
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee032/ee032",
+      "TemplatePath": "effect/battle_ee/ee032/ee032",
+      "RaidFrameLength": 60
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee032_1/ee032_1",
+      "TemplatePath": "effect/battle_ee/ee032_1/ee032_1",
+      "RaidFrameLength": 60
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee055/ee055",
+      "TemplatePath": "effect/battle_ee/ee055/ee055",
+      "RaidFrameLength": 130
     },
     {
       "Enable": false,
@@ -655,9 +655,9 @@
       "RaidFrameLength": -1
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0690/ew0690_charge",
+      "TemplatePath": "effect/battle_ew/ew0690/ew0690",
       "RaidFrameLength": -1
     },
     {
@@ -841,16 +841,16 @@
       "RaidFrameLength": 200
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee045_1/ee045_1",
+      "TemplatePath": "effect/battle_ee/ee045_1/ee045_1",
+      "RaidFrameLength": 0
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee045_2/ee045_2",
+      "TemplatePath": "effect/battle_ee/ee045_2/ee045_2",
+      "RaidFrameLength": 0
     },
     {
       "Enable": true,
@@ -883,28 +883,28 @@
       "RaidFrameLength": 120
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee047/ee047",
+      "TemplatePath": "effect/battle_ee/ee047/ee047",
+      "RaidFrameLength": 0
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ee/ee047_1/ee047_1",
+      "TemplatePath": "effect/battle_ee/ee047_1/ee047_1",
+      "RaidFrameLength": 0
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0903/ew0903_turn",
+      "TemplatePath": "effect/battle_ew/ew0903/ew0903",
+      "RaidFrameLength": 0
     },
     {
-      "Enable": false,
-      "TimelinePath": "",
-      "TemplatePath": "",
-      "RaidFrameLength": -1
+      "Enable": true,
+      "TimelinePath": "effect/battle_ew/ew0903/ew0903_turn_rare",
+      "TemplatePath": "effect/battle_ew/ew0903/ew0903",
+      "RaidFrameLength": 0
     },
     {
       "Enable": true,

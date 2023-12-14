@@ -1,0 +1,12 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "PopRateBase": 0,
+        "PopRateAdd": 2,
+        "OblationPopTimingMin": 45,
+        "OblationPopTimingMax": 50
+      }
+    }
+  ]
+}

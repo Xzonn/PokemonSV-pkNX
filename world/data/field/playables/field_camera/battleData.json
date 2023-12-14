@@ -3,13 +3,13 @@
   "TopDistance": 0,
   "BottomDistance": 0,
   "GazeOffset": {
-    "X": 0,
-    "Y": 0,
-    "Z": 0,
     "IsOne": false,
     "IsZero": true,
     "Magnitude": 0,
-    "MagnitudeSqr": 0
+    "MagnitudeSqr": 0,
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
   "RotationTurn": 0,
   "RotationPitch": 0,
@@ -32,13 +32,13 @@
   },
   "Tracking": {
     "TrackingOffset": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0,
       "IsOne": false,
       "IsZero": true,
       "Magnitude": 0,
-      "MagnitudeSqr": 0
+      "MagnitudeSqr": 0,
+      "X": 0,
+      "Y": 0,
+      "Z": 0
     }
   },
   "Orbit": {

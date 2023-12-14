@@ -1,0 +1,59 @@
+{
+  "Table": [
+    {
+      "RaidTrainerInfo": "area05_trainer_mania",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_mountain",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_mountain_1",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_mountain_2",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_sch_boy",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_sch_girl",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_sch_infant_f",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_sch_infant_m",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_sch_middle_f",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_sch_middle_m",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    },
+    {
+      "RaidTrainerInfo": "area05_trainer_sch_young_f",
+      "NpcPresetIndex": 0,
+      "NameTextLabel": null
+    }
+  ]
+}

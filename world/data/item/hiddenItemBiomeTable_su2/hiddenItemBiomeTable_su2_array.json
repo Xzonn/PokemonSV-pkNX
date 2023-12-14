@@ -1,0 +1,102 @@
+{
+  "Table": [
+    {
+      "Key": {
+        "Area": 1,
+        "Biome": "lake"
+      },
+      "TableId": "20001"
+    },
+    {
+      "Key": {
+        "Area": 1,
+        "Biome": "prairie"
+      },
+      "TableId": "20002"
+    },
+    {
+      "Key": {
+        "Area": 1,
+        "Biome": "rocky_area"
+      },
+      "TableId": "20003"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "bamboo_forest"
+      },
+      "TableId": "20014"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "desert"
+      },
+      "TableId": "20004"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "ocean"
+      },
+      "TableId": "20005"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "prairie"
+      },
+      "TableId": "20006"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "riverside"
+      },
+      "TableId": "20007"
+    },
+    {
+      "Key": {
+        "Area": 2,
+        "Biome": "rocky_area"
+      },
+      "TableId": "20008"
+    },
+    {
+      "Key": {
+        "Area": 3,
+        "Biome": "prairie"
+      },
+      "TableId": "20009"
+    },
+    {
+      "Key": {
+        "Area": 3,
+        "Biome": "riverside"
+      },
+      "TableId": "20010"
+    },
+    {
+      "Key": {
+        "Area": 3,
+        "Biome": "rocky_area"
+      },
+      "TableId": "20011"
+    },
+    {
+      "Key": {
+        "Area": 4,
+        "Biome": "ocean"
+      },
+      "TableId": "20012"
+    },
+    {
+      "Key": {
+        "Area": 4,
+        "Biome": "snowfield"
+      },
+      "TableId": "20013"
+    }
+  ]
+}

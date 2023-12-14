@@ -1,0 +1,139 @@
+{
+  "Table": [
+    {
+      "DanBossCarBattleStruct": {
+        "Type": 1,
+        "Difficulty": 0,
+        "Level": 20,
+        "ActualValue": {
+          "HP": 80,
+          "ATK": 36,
+          "DEF": 47,
+          "SPA": 35,
+          "SPD": 38,
+          "SPE": 30
+        },
+        "HpCoef": 2,
+        "Waza1": 897,
+        "Waza2": 129,
+        "Waza3": 319,
+        "Waza4": 555,
+        "Radio": 1,
+        "PokemonId": 0,
+        "TrainerId": "dan_aku_boss_01",
+        "EventId": "dan_aku_boss_01",
+        "TokuseiId": 22,
+        "Type1": 16,
+        "Type2": 16
+      }
+    },
+    {
+      "DanBossCarBattleStruct": {
+        "Type": 2,
+        "Difficulty": 0,
+        "Level": 50,
+        "ActualValue": {
+          "HP": 190,
+          "ATK": 90,
+          "DEF": 120,
+          "SPA": 70,
+          "SPD": 90,
+          "SPE": 100
+        },
+        "HpCoef": 2,
+        "Waza1": 900,
+        "Waza2": 859,
+        "Waza3": 798,
+        "Waza4": 109,
+        "Radio": 1,
+        "PokemonId": 0,
+        "TrainerId": "dan_fairy_boss_01",
+        "EventId": "dan_fairy_boss_01",
+        "TokuseiId": 228,
+        "Type1": 17,
+        "Type2": 17
+      }
+    },
+    {
+      "DanBossCarBattleStruct": {
+        "Type": 3,
+        "Difficulty": 0,
+        "Level": 56,
+        "ActualValue": {
+          "HP": 204,
+          "ATK": 95,
+          "DEF": 120,
+          "SPA": 80,
+          "SPD": 85,
+          "SPE": 100
+        },
+        "HpCoef": 2,
+        "Waza1": 899,
+        "Waza2": 859,
+        "Waza3": 508,
+        "Waza4": 667,
+        "Radio": 1,
+        "PokemonId": 0,
+        "TrainerId": "dan_kakutou_boss_01",
+        "EventId": "dan_kakutou_boss_01",
+        "TokuseiId": 192,
+        "Type1": 1,
+        "Type2": 1
+      }
+    },
+    {
+      "DanBossCarBattleStruct": {
+        "Type": 0,
+        "Difficulty": 0,
+        "Level": 26,
+        "ActualValue": {
+          "HP": 102,
+          "ATK": 49,
+          "DEF": 60,
+          "SPA": 29,
+          "SPD": 51,
+          "SPE": 25
+        },
+        "HpCoef": 2,
+        "Waza1": 896,
+        "Waza2": 103,
+        "Waza3": 129,
+        "Waza4": 315,
+        "Radio": 1,
+        "PokemonId": 0,
+        "TrainerId": "dan_hono_boss_01",
+        "EventId": "dan_honoo_boss_01",
+        "TokuseiId": 3,
+        "Type1": 9,
+        "Type2": 9
+      }
+    },
+    {
+      "DanBossCarBattleStruct": {
+        "Type": 4,
+        "Difficulty": 0,
+        "Level": 32,
+        "ActualValue": {
+          "HP": 126,
+          "ATK": 60,
+          "DEF": 80,
+          "SPA": 50,
+          "SPD": 70,
+          "SPE": 70
+        },
+        "HpCoef": 2,
+        "Waza1": 898,
+        "Waza2": 859,
+        "Waza3": 123,
+        "Waza4": 488,
+        "Radio": 1,
+        "PokemonId": 0,
+        "TrainerId": "dan_doku_boss_01",
+        "EventId": "dan_doku_boss_01",
+        "TokuseiId": 295,
+        "Type1": 3,
+        "Type2": 3
+      }
+    }
+  ]
+}

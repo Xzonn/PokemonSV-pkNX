@@ -1,0 +1,746 @@
+{
+  "Table": [
+    {
+      "TableId": "20001",
+      "Item1": {
+        "ItemId": 565,
+        "EmergePercent": 130,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 566,
+        "EmergePercent": 130,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 567,
+        "EmergePercent": 130,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 568,
+        "EmergePercent": 130,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 569,
+        "EmergePercent": 130,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 570,
+        "EmergePercent": 130,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 90,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 229,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2517,
+        "EmergePercent": 70,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      }
+    },
+    {
+      "TableId": "20002",
+      "Item1": {
+        "ItemId": 154,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 149,
+        "EmergePercent": 110,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 150,
+        "EmergePercent": 110,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 151,
+        "EmergePercent": 110,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 152,
+        "EmergePercent": 110,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 153,
+        "EmergePercent": 110,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 156,
+        "EmergePercent": 110,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 571,
+        "EmergePercent": 90,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2486,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 2488,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    },
+    {
+      "TableId": "20003",
+      "Item1": {
+        "ItemId": 571,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 90,
+        "EmergePercent": 80,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 154,
+        "EmergePercent": 200,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 158,
+        "EmergePercent": 180,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 238,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 539,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 229,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 106,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2490,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 2493,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    },
+    {
+      "TableId": "20014",
+      "Item1": {
+        "ItemId": 1581,
+        "EmergePercent": 800,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 1581,
+        "EmergePercent": 150,
+        "DropCount": 2
+      },
+      "Item3": {
+        "ItemId": 1581,
+        "EmergePercent": 50,
+        "DropCount": 3
+      },
+      "Item4": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      },
+      "Item5": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      },
+      "Item6": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      },
+      "Item7": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      },
+      "Item8": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      },
+      "Item9": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      },
+      "Item10": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      }
+    },
+    {
+      "TableId": "20004",
+      "Item1": {
+        "ItemId": 86,
+        "EmergePercent": 200,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 571,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 154,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 90,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 237,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 539,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 229,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 84,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2515,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 2516,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    },
+    {
+      "TableId": "20005",
+      "Item1": {
+        "ItemId": 565,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 566,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 567,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 568,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 569,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 570,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 2485,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 2515,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      },
+      "Item10": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      }
+    },
+    {
+      "TableId": "20006",
+      "Item1": {
+        "ItemId": 154,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 158,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 159,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 160,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 161,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 162,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 163,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 571,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2484,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 2488,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    },
+    {
+      "TableId": "20007",
+      "Item1": {
+        "ItemId": 86,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 571,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 90,
+        "EmergePercent": 75,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 155,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 154,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 158,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 106,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 2491,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2517,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      }
+    },
+    {
+      "TableId": "20008",
+      "Item1": {
+        "ItemId": 571,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 90,
+        "EmergePercent": 75,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 154,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 158,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 154,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 155,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 158,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 157,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 106,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 238,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    },
+    {
+      "TableId": "20009",
+      "Item1": {
+        "ItemId": 571,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 154,
+        "EmergePercent": 200,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 169,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 170,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 171,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 172,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 173,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 174,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2499,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 2489,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    },
+    {
+      "TableId": "20010",
+      "Item1": {
+        "ItemId": 86,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 571,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 90,
+        "EmergePercent": 75,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 155,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 154,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 158,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 106,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 2496,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2491,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      }
+    },
+    {
+      "TableId": "20011",
+      "Item1": {
+        "ItemId": 238,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 539,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 229,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 109,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 90,
+        "EmergePercent": 75,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 91,
+        "EmergePercent": 25,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 571,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 106,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2507,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 0,
+        "EmergePercent": 0,
+        "DropCount": 0
+      }
+    },
+    {
+      "TableId": "20012",
+      "Item1": {
+        "ItemId": 565,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 566,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 567,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 568,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 569,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 570,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 571,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 84,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 2487,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 2494,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    },
+    {
+      "TableId": "20013",
+      "Item1": {
+        "ItemId": 86,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item2": {
+        "ItemId": 571,
+        "EmergePercent": 75,
+        "DropCount": 1
+      },
+      "Item3": {
+        "ItemId": 90,
+        "EmergePercent": 50,
+        "DropCount": 1
+      },
+      "Item4": {
+        "ItemId": 155,
+        "EmergePercent": 175,
+        "DropCount": 1
+      },
+      "Item5": {
+        "ItemId": 154,
+        "EmergePercent": 150,
+        "DropCount": 1
+      },
+      "Item6": {
+        "ItemId": 158,
+        "EmergePercent": 125,
+        "DropCount": 1
+      },
+      "Item7": {
+        "ItemId": 282,
+        "EmergePercent": 75,
+        "DropCount": 1
+      },
+      "Item8": {
+        "ItemId": 649,
+        "EmergePercent": 75,
+        "DropCount": 1
+      },
+      "Item9": {
+        "ItemId": 246,
+        "EmergePercent": 100,
+        "DropCount": 1
+      },
+      "Item10": {
+        "ItemId": 849,
+        "EmergePercent": 50,
+        "DropCount": 1
+      }
+    }
+  ]
+}

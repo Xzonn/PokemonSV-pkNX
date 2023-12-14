@@ -1,0 +1,17 @@
+{
+  "Field0": {
+    "AreaNum": 23,
+    "LotMin": 4,
+    "LotMax": 8
+  },
+  "Field1": {
+    "AreaNum": 11,
+    "LotMin": 2,
+    "LotMax": 4
+  },
+  "Field2": {
+    "AreaNum": 4,
+    "LotMin": 3,
+    "LotMax": 5
+  }
+}

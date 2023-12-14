@@ -17,6 +17,22 @@
       "OutOfRangeUpperZ": -1460
     },
     {
+      "OutOfRangeLowerX": 100,
+      "OutOfRangeLowerY": -50,
+      "OutOfRangeLowerZ": -1900,
+      "OutOfRangeUpperX": 1900,
+      "OutOfRangeUpperY": 1000,
+      "OutOfRangeUpperZ": -100
+    },
+    {
+      "OutOfRangeLowerX": 50,
+      "OutOfRangeLowerY": -50,
+      "OutOfRangeLowerZ": -1950,
+      "OutOfRangeUpperX": 1950,
+      "OutOfRangeUpperY": 1200,
+      "OutOfRangeUpperZ": -50
+    },
+    {
       "OutOfRangeLowerX": -350,
       "OutOfRangeLowerY": -50,
       "OutOfRangeLowerZ": -5500,

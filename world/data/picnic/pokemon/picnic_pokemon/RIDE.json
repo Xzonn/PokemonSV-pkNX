@@ -98,11 +98,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint1": {
@@ -111,11 +107,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint2": {
@@ -124,11 +116,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint3": {
@@ -137,11 +125,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint4": {
@@ -150,11 +134,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint5": {
@@ -163,11 +143,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint6": {
@@ -176,11 +152,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint7": {
@@ -189,11 +161,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint8": {
@@ -202,11 +170,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint9": {
@@ -215,11 +179,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint10": {
@@ -228,11 +188,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint11": {
@@ -241,11 +197,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint12": {
@@ -254,11 +206,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint13": {
@@ -267,11 +215,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint14": {
@@ -280,11 +224,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint15": {
@@ -293,11 +233,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint16": {
@@ -306,11 +242,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint17": {
@@ -319,11 +251,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint18": {
@@ -332,11 +260,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       },
       "Joint19": {
@@ -345,11 +269,7 @@
         "Offset": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         }
       }
     },

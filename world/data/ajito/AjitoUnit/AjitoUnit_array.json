@@ -1,9 +1,9 @@
 {
   "Table": [
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 112,
         "PokemonId2": 112,
         "PokemonId3": 112,
@@ -17,9 +17,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 103,
         "PokemonId2": 103,
         "PokemonId3": 103,
@@ -33,9 +33,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 105,
         "PokemonId2": 105,
         "PokemonId3": 105,
@@ -49,9 +49,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 107,
         "PokemonId2": 107,
         "PokemonId3": -1,
@@ -65,9 +65,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 109,
         "PokemonId2": 109,
         "PokemonId3": 109,
@@ -81,9 +81,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 111,
         "PokemonId2": 111,
         "PokemonId3": -1,
@@ -97,9 +97,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 112,
         "PokemonId2": 112,
         "PokemonId3": 112,
@@ -113,9 +113,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 115,
         "PokemonId2": 115,
         "PokemonId3": 115,
@@ -129,9 +129,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 120,
         "PokemonId2": 120,
         "PokemonId3": 120,
@@ -145,9 +145,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 103,
         "PokemonId2": 103,
         "PokemonId3": 103,
@@ -161,9 +161,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 105,
         "PokemonId2": 105,
         "PokemonId3": 105,
@@ -177,9 +177,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 107,
         "PokemonId2": 107,
         "PokemonId3": -1,
@@ -193,9 +193,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 109,
         "PokemonId2": 109,
         "PokemonId3": 109,
@@ -209,9 +209,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 111,
         "PokemonId2": 111,
         "PokemonId3": -1,
@@ -225,9 +225,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 112,
         "PokemonId2": 112,
         "PokemonId3": 112,
@@ -241,9 +241,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 115,
         "PokemonId2": 115,
         "PokemonId3": 115,
@@ -257,9 +257,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 0,
         "PokemonId1": 120,
         "PokemonId2": 120,
         "PokemonId3": 120,
@@ -273,9 +273,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 0,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -289,9 +289,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 103,
         "PokemonId2": 104,
         "PokemonId3": -1,
@@ -305,9 +305,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 105,
         "PokemonId2": 105,
         "PokemonId3": 105,
@@ -321,9 +321,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 107,
         "PokemonId2": 108,
         "PokemonId3": -1,
@@ -337,9 +337,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 109,
         "PokemonId2": 109,
         "PokemonId3": 109,
@@ -353,9 +353,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 111,
         "PokemonId2": 111,
         "PokemonId3": 111,
@@ -369,9 +369,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 112,
         "PokemonId2": 112,
         "PokemonId3": 112,
@@ -385,9 +385,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 115,
         "PokemonId2": 115,
         "PokemonId3": 115,
@@ -401,9 +401,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 120,
         "PokemonId2": 120,
         "PokemonId3": 120,
@@ -417,9 +417,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 103,
         "PokemonId2": 103,
         "PokemonId3": 104,
@@ -433,9 +433,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 105,
         "PokemonId2": 105,
         "PokemonId3": 105,
@@ -449,9 +449,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 107,
         "PokemonId2": 107,
         "PokemonId3": 108,
@@ -465,9 +465,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 109,
         "PokemonId2": 109,
         "PokemonId3": 109,
@@ -481,9 +481,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 111,
         "PokemonId2": 111,
         "PokemonId3": 111,
@@ -497,9 +497,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 112,
         "PokemonId2": 112,
         "PokemonId3": 112,
@@ -513,9 +513,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 115,
         "PokemonId2": 115,
         "PokemonId3": 115,
@@ -529,9 +529,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 1,
         "PokemonId1": 120,
         "PokemonId2": 120,
         "PokemonId3": 120,
@@ -545,9 +545,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 0,
         "PokemonId2": 0,
         "PokemonId3": -1,
@@ -561,9 +561,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 104,
         "PokemonId2": 104,
         "PokemonId3": -1,
@@ -577,9 +577,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 106,
         "PokemonId2": 106,
         "PokemonId3": -1,
@@ -593,9 +593,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 108,
         "PokemonId2": 108,
         "PokemonId3": -1,
@@ -609,9 +609,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 110,
         "PokemonId2": 110,
         "PokemonId3": -1,
@@ -625,9 +625,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 111,
         "PokemonId2": 111,
         "PokemonId3": -1,
@@ -641,9 +641,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 113,
         "PokemonId2": 113,
         "PokemonId3": -1,
@@ -657,9 +657,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 116,
         "PokemonId2": 116,
         "PokemonId3": 117,
@@ -673,9 +673,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 121,
         "PokemonId2": 121,
         "PokemonId3": -1,
@@ -689,9 +689,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 119,
         "PokemonId2": 119,
         "PokemonId3": -1,
@@ -705,9 +705,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 104,
         "PokemonId2": 104,
         "PokemonId3": 104,
@@ -721,9 +721,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 105,
         "PokemonId2": 105,
         "PokemonId3": 106,
@@ -737,9 +737,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 1,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 1,
+        "Difficulty": 2,
         "PokemonId1": 107,
         "PokemonId2": 107,
         "PokemonId3": 108,
@@ -753,9 +753,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 421,
         "PokemonId2": 421,
         "PokemonId3": 422,
@@ -769,9 +769,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 401,
         "PokemonId2": 401,
         "PokemonId3": 402,
@@ -785,9 +785,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 403,
         "PokemonId2": 403,
         "PokemonId3": 404,
@@ -801,9 +801,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 406,
         "PokemonId2": 406,
         "PokemonId3": 407,
@@ -817,9 +817,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 410,
         "PokemonId2": 410,
         "PokemonId3": -1,
@@ -833,9 +833,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 413,
         "PokemonId2": 413,
         "PokemonId3": 413,
@@ -849,9 +849,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 414,
         "PokemonId2": 415,
         "PokemonId3": 416,
@@ -865,9 +865,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 419,
         "PokemonId2": 419,
         "PokemonId3": 420,
@@ -881,9 +881,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 421,
         "PokemonId2": 421,
         "PokemonId3": 422,
@@ -897,9 +897,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 401,
         "PokemonId2": 401,
         "PokemonId3": 401,
@@ -913,9 +913,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 403,
         "PokemonId2": 403,
         "PokemonId3": 403,
@@ -929,9 +929,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 406,
         "PokemonId2": 406,
         "PokemonId3": 407,
@@ -945,9 +945,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 410,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -961,9 +961,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 413,
         "PokemonId2": 413,
         "PokemonId3": 413,
@@ -977,9 +977,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 415,
         "PokemonId2": 415,
         "PokemonId3": 415,
@@ -993,9 +993,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 421,
         "PokemonId2": 421,
         "PokemonId3": 422,
@@ -1009,9 +1009,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 419,
         "PokemonId2": 419,
         "PokemonId3": 420,
@@ -1025,9 +1025,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 0,
         "PokemonId1": 421,
         "PokemonId2": 421,
         "PokemonId3": 422,
@@ -1041,9 +1041,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 0,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1057,9 +1057,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 401,
         "PokemonId2": 401,
         "PokemonId3": 402,
@@ -1073,9 +1073,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 403,
         "PokemonId2": 403,
         "PokemonId3": 404,
@@ -1089,9 +1089,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 406,
         "PokemonId2": 406,
         "PokemonId3": 407,
@@ -1105,9 +1105,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 410,
         "PokemonId2": 410,
         "PokemonId3": -1,
@@ -1121,9 +1121,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 413,
         "PokemonId2": 413,
         "PokemonId3": 413,
@@ -1137,9 +1137,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 415,
         "PokemonId2": 415,
         "PokemonId3": 416,
@@ -1153,9 +1153,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 419,
         "PokemonId2": 419,
         "PokemonId3": 420,
@@ -1169,9 +1169,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 422,
         "PokemonId2": 422,
         "PokemonId3": -1,
@@ -1185,9 +1185,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 402,
         "PokemonId2": 402,
         "PokemonId3": -1,
@@ -1201,9 +1201,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 404,
         "PokemonId2": 404,
         "PokemonId3": -1,
@@ -1217,9 +1217,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 407,
         "PokemonId2": 407,
         "PokemonId3": -1,
@@ -1233,9 +1233,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 410,
         "PokemonId2": 410,
         "PokemonId3": -1,
@@ -1249,9 +1249,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 420,
         "PokemonId2": 420,
         "PokemonId3": -1,
@@ -1265,9 +1265,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 422,
         "PokemonId2": 422,
         "PokemonId3": -1,
@@ -1281,9 +1281,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 419,
         "PokemonId2": 419,
         "PokemonId3": 420,
@@ -1297,9 +1297,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 421,
         "PokemonId2": 421,
         "PokemonId3": 422,
@@ -1313,9 +1313,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 1,
         "PokemonId1": 413,
         "PokemonId2": 413,
         "PokemonId3": 413,
@@ -1329,9 +1329,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 0,
         "PokemonId2": 0,
         "PokemonId3": -1,
@@ -1345,9 +1345,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 401,
         "PokemonId2": 401,
         "PokemonId3": 402,
@@ -1361,9 +1361,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 403,
         "PokemonId2": 403,
         "PokemonId3": 404,
@@ -1377,9 +1377,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 406,
         "PokemonId2": 406,
         "PokemonId3": 407,
@@ -1393,9 +1393,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 410,
         "PokemonId2": 410,
         "PokemonId3": 410,
@@ -1409,9 +1409,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 413,
         "PokemonId2": 413,
         "PokemonId3": 413,
@@ -1425,9 +1425,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 415,
         "PokemonId2": 415,
         "PokemonId3": 416,
@@ -1441,9 +1441,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 419,
         "PokemonId2": 419,
         "PokemonId3": 420,
@@ -1457,9 +1457,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 402,
         "PokemonId2": 402,
         "PokemonId3": 402,
@@ -1473,9 +1473,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 404,
         "PokemonId2": 404,
         "PokemonId3": 404,
@@ -1489,9 +1489,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 407,
         "PokemonId2": 407,
         "PokemonId3": 407,
@@ -1505,9 +1505,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 419,
         "PokemonId2": 419,
         "PokemonId3": 420,
@@ -1521,9 +1521,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 422,
         "PokemonId2": 422,
         "PokemonId3": 423,
@@ -1537,9 +1537,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 2,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 2,
+        "Difficulty": 2,
         "PokemonId1": 413,
         "PokemonId2": 413,
         "PokemonId3": 413,
@@ -1553,9 +1553,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 301,
         "PokemonId2": 302,
         "PokemonId3": -1,
@@ -1569,9 +1569,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 301,
         "PokemonId2": 301,
         "PokemonId3": 302,
@@ -1585,9 +1585,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 304,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1601,9 +1601,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 305,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1617,9 +1617,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 307,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1633,9 +1633,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 309,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1649,9 +1649,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 311,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1665,9 +1665,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 312,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1681,9 +1681,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 313,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1697,9 +1697,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 315,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1713,9 +1713,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 316,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1729,9 +1729,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 317,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1745,9 +1745,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 318,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1761,9 +1761,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 313,
         "PokemonId2": 318,
         "PokemonId3": -1,
@@ -1777,9 +1777,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 317,
         "PokemonId2": 316,
         "PokemonId3": -1,
@@ -1793,9 +1793,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 307,
         "PokemonId2": 307,
         "PokemonId3": -1,
@@ -1809,9 +1809,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 309,
         "PokemonId2": 309,
         "PokemonId3": -1,
@@ -1825,9 +1825,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 311,
         "PokemonId2": 311,
         "PokemonId3": -1,
@@ -1841,9 +1841,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 315,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1857,9 +1857,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 0,
         "PokemonId1": 302,
         "PokemonId2": 302,
         "PokemonId3": -1,
@@ -1873,9 +1873,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 0,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1889,9 +1889,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 301,
         "PokemonId2": 301,
         "PokemonId3": 302,
@@ -1905,9 +1905,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 303,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -1921,9 +1921,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 304,
         "PokemonId2": 304,
         "PokemonId3": -1,
@@ -1937,9 +1937,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 305,
         "PokemonId2": 305,
         "PokemonId3": -1,
@@ -1953,9 +1953,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 307,
         "PokemonId2": 307,
         "PokemonId3": -1,
@@ -1969,9 +1969,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 309,
         "PokemonId2": 309,
         "PokemonId3": -1,
@@ -1985,9 +1985,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 311,
         "PokemonId2": 311,
         "PokemonId3": -1,
@@ -2001,9 +2001,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 312,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -2017,9 +2017,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 313,
         "PokemonId2": 313,
         "PokemonId3": 313,
@@ -2033,9 +2033,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 315,
         "PokemonId2": 315,
         "PokemonId3": -1,
@@ -2049,9 +2049,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 316,
         "PokemonId2": 316,
         "PokemonId3": 316,
@@ -2065,9 +2065,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 317,
         "PokemonId2": 317,
         "PokemonId3": -1,
@@ -2081,9 +2081,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 318,
         "PokemonId2": 318,
         "PokemonId3": -1,
@@ -2097,9 +2097,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 301,
         "PokemonId2": 301,
         "PokemonId3": 301,
@@ -2113,9 +2113,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 302,
         "PokemonId2": 302,
         "PokemonId3": 303,
@@ -2129,9 +2129,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 303,
         "PokemonId2": 303,
         "PokemonId3": 304,
@@ -2145,9 +2145,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 311,
         "PokemonId2": 311,
         "PokemonId3": -1,
@@ -2161,9 +2161,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 315,
         "PokemonId2": 315,
         "PokemonId3": -1,
@@ -2177,9 +2177,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 1,
         "PokemonId1": 318,
         "PokemonId2": 318,
         "PokemonId3": -1,
@@ -2193,9 +2193,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 0,
         "PokemonId2": 0,
         "PokemonId3": -1,
@@ -2209,9 +2209,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 302,
         "PokemonId2": 302,
         "PokemonId3": 302,
@@ -2225,9 +2225,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 303,
         "PokemonId2": 303,
         "PokemonId3": 303,
@@ -2241,9 +2241,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 304,
         "PokemonId2": 304,
         "PokemonId3": -1,
@@ -2257,9 +2257,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 305,
         "PokemonId2": 305,
         "PokemonId3": -1,
@@ -2273,9 +2273,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 307,
         "PokemonId2": 307,
         "PokemonId3": -1,
@@ -2289,9 +2289,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 309,
         "PokemonId2": 309,
         "PokemonId3": -1,
@@ -2305,9 +2305,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 311,
         "PokemonId2": 311,
         "PokemonId3": -1,
@@ -2321,9 +2321,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 312,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -2337,9 +2337,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 313,
         "PokemonId2": 313,
         "PokemonId3": 313,
@@ -2353,9 +2353,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 315,
         "PokemonId2": 315,
         "PokemonId3": -1,
@@ -2369,9 +2369,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 316,
         "PokemonId2": 316,
         "PokemonId3": 316,
@@ -2385,9 +2385,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 317,
         "PokemonId2": 317,
         "PokemonId3": -1,
@@ -2401,9 +2401,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 318,
         "PokemonId2": 318,
         "PokemonId3": -1,
@@ -2417,9 +2417,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 318,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -2433,9 +2433,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 3,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 3,
+        "Difficulty": 2,
         "PokemonId1": 303,
         "PokemonId2": 303,
         "PokemonId3": -1,
@@ -2449,9 +2449,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": 1,
@@ -2465,9 +2465,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": -1,
@@ -2481,9 +2481,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": 1,
@@ -2497,9 +2497,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 5,
         "PokemonId2": 5,
         "PokemonId3": 5,
@@ -2513,9 +2513,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 6,
         "PokemonId2": 6,
         "PokemonId3": 6,
@@ -2529,9 +2529,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 13,
         "PokemonId2": 13,
         "PokemonId3": 13,
@@ -2545,9 +2545,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 15,
         "PokemonId2": 15,
         "PokemonId3": 15,
@@ -2561,9 +2561,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 17,
         "PokemonId2": 5,
         "PokemonId3": 5,
@@ -2577,9 +2577,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 5,
         "PokemonId2": 13,
         "PokemonId3": 13,
@@ -2593,9 +2593,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": 1,
@@ -2609,9 +2609,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": -1,
@@ -2625,9 +2625,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": 1,
@@ -2641,9 +2641,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 5,
         "PokemonId2": 5,
         "PokemonId3": 5,
@@ -2657,9 +2657,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 6,
         "PokemonId2": 6,
         "PokemonId3": 6,
@@ -2673,9 +2673,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 13,
         "PokemonId2": 13,
         "PokemonId3": 13,
@@ -2689,9 +2689,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 0,
         "PokemonId1": 15,
         "PokemonId2": 15,
         "PokemonId3": 15,
@@ -2705,9 +2705,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 0,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -2721,9 +2721,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": -1,
@@ -2737,9 +2737,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": 1,
@@ -2753,9 +2753,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": 1,
@@ -2769,9 +2769,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 5,
         "PokemonId2": 5,
         "PokemonId3": 5,
@@ -2785,9 +2785,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 6,
         "PokemonId2": 6,
         "PokemonId3": 6,
@@ -2801,9 +2801,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 9,
         "PokemonId2": 9,
         "PokemonId3": 9,
@@ -2817,9 +2817,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 13,
         "PokemonId2": 13,
         "PokemonId3": 13,
@@ -2833,9 +2833,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 15,
         "PokemonId2": 15,
         "PokemonId3": 15,
@@ -2849,9 +2849,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 17,
         "PokemonId2": 17,
         "PokemonId3": 17,
@@ -2865,9 +2865,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 21,
         "PokemonId2": 21,
         "PokemonId3": 21,
@@ -2881,9 +2881,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 5,
         "PokemonId2": 5,
         "PokemonId3": 13,
@@ -2897,9 +2897,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 9,
         "PokemonId2": 9,
         "PokemonId3": -1,
@@ -2913,9 +2913,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 6,
         "PokemonId2": 6,
         "PokemonId3": -1,
@@ -2929,9 +2929,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 15,
         "PokemonId2": 15,
         "PokemonId3": -1,
@@ -2945,9 +2945,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 21,
         "PokemonId2": 21,
         "PokemonId3": -1,
@@ -2961,9 +2961,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 1,
         "PokemonId1": 17,
         "PokemonId2": 17,
         "PokemonId3": -1,
@@ -2977,9 +2977,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 0,
         "PokemonId2": 0,
         "PokemonId3": -1,
@@ -2993,9 +2993,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 1,
         "PokemonId2": 1,
         "PokemonId3": 2,
@@ -3009,9 +3009,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 2,
         "PokemonId2": 2,
         "PokemonId3": 2,
@@ -3025,9 +3025,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 5,
         "PokemonId2": 5,
         "PokemonId3": 5,
@@ -3041,9 +3041,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 6,
         "PokemonId2": 6,
         "PokemonId3": 7,
@@ -3057,9 +3057,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 7,
         "PokemonId2": 7,
         "PokemonId3": -1,
@@ -3073,9 +3073,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 9,
         "PokemonId2": 9,
         "PokemonId3": 10,
@@ -3089,9 +3089,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 12,
         "PokemonId2": 12,
         "PokemonId3": 12,
@@ -3105,9 +3105,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 13,
         "PokemonId2": 13,
         "PokemonId3": 14,
@@ -3121,9 +3121,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 15,
         "PokemonId2": 15,
         "PokemonId3": 16,
@@ -3137,9 +3137,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 17,
         "PokemonId2": 17,
         "PokemonId3": 18,
@@ -3153,9 +3153,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 21,
         "PokemonId2": 21,
         "PokemonId3": 22,
@@ -3169,9 +3169,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 14,
         "PokemonId2": 14,
         "PokemonId3": -1,
@@ -3185,9 +3185,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 16,
         "PokemonId2": 16,
         "PokemonId3": -1,
@@ -3201,9 +3201,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 0,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 0,
+        "Difficulty": 2,
         "PokemonId1": 2,
         "PokemonId2": 2,
         "PokemonId3": -1,
@@ -3217,9 +3217,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 201,
         "PokemonId2": 201,
         "PokemonId3": 202,
@@ -3233,9 +3233,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 210,
         "PokemonId2": 210,
         "PokemonId3": -1,
@@ -3249,9 +3249,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 201,
         "PokemonId2": 201,
         "PokemonId3": 202,
@@ -3265,9 +3265,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 203,
         "PokemonId2": 203,
         "PokemonId3": -1,
@@ -3281,9 +3281,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 206,
         "PokemonId2": 206,
         "PokemonId3": -1,
@@ -3297,9 +3297,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 208,
         "PokemonId2": 223,
         "PokemonId3": 223,
@@ -3313,9 +3313,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 212,
         "PokemonId2": 212,
         "PokemonId3": 213,
@@ -3329,9 +3329,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 214,
         "PokemonId2": 214,
         "PokemonId3": 214,
@@ -3345,9 +3345,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 202,
         "PokemonId2": 202,
         "PokemonId3": 202,
@@ -3361,9 +3361,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 221,
         "PokemonId2": 221,
         "PokemonId3": 221,
@@ -3377,9 +3377,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 210,
         "PokemonId2": 210,
         "PokemonId3": 211,
@@ -3393,9 +3393,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 201,
         "PokemonId2": 201,
         "PokemonId3": 201,
@@ -3409,9 +3409,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 203,
         "PokemonId2": 203,
         "PokemonId3": 204,
@@ -3425,9 +3425,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 206,
         "PokemonId2": 206,
         "PokemonId3": 207,
@@ -3441,9 +3441,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 208,
         "PokemonId2": 208,
         "PokemonId3": 223,
@@ -3457,9 +3457,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 212,
         "PokemonId2": 213,
         "PokemonId3": -1,
@@ -3473,9 +3473,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 214,
         "PokemonId2": 214,
         "PokemonId3": 214,
@@ -3489,9 +3489,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 0,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 0,
         "PokemonId1": 202,
         "PokemonId2": 202,
         "PokemonId3": 202,
@@ -3505,9 +3505,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 0,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -3521,9 +3521,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 201,
         "PokemonId2": 201,
         "PokemonId3": 202,
@@ -3537,9 +3537,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 202,
         "PokemonId2": 202,
         "PokemonId3": -1,
@@ -3553,9 +3553,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 202,
         "PokemonId2": 202,
         "PokemonId3": 202,
@@ -3569,9 +3569,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 204,
         "PokemonId2": 204,
         "PokemonId3": 205,
@@ -3585,9 +3585,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 205,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -3601,9 +3601,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 206,
         "PokemonId2": 206,
         "PokemonId3": 207,
@@ -3617,9 +3617,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 207,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -3633,9 +3633,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 208,
         "PokemonId2": 208,
         "PokemonId3": 208,
@@ -3649,9 +3649,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 210,
         "PokemonId2": 210,
         "PokemonId3": 211,
@@ -3665,9 +3665,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 212,
         "PokemonId2": 212,
         "PokemonId3": 213,
@@ -3681,9 +3681,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 213,
         "PokemonId2": 213,
         "PokemonId3": -1,
@@ -3697,9 +3697,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 214,
         "PokemonId2": 214,
         "PokemonId3": 214,
@@ -3713,9 +3713,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 215,
         "PokemonId2": 215,
         "PokemonId3": 215,
@@ -3729,9 +3729,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 221,
         "PokemonId2": 221,
         "PokemonId3": 222,
@@ -3745,9 +3745,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 222,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -3761,9 +3761,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 223,
         "PokemonId2": 223,
         "PokemonId3": 224,
@@ -3777,9 +3777,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 1,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 1,
         "PokemonId1": 224,
         "PokemonId2": -1,
         "PokemonId3": -1,
@@ -3793,9 +3793,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 0,
         "PokemonId2": 0,
         "PokemonId3": -1,
@@ -3809,9 +3809,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 202,
         "PokemonId2": 202,
         "PokemonId3": 202,
@@ -3825,9 +3825,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 204,
         "PokemonId2": 204,
         "PokemonId3": 205,
@@ -3841,9 +3841,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 207,
         "PokemonId2": 207,
         "PokemonId3": 207,
@@ -3857,9 +3857,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 208,
         "PokemonId2": 208,
         "PokemonId3": 208,
@@ -3873,9 +3873,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 223,
         "PokemonId2": 223,
         "PokemonId3": 224,
@@ -3889,9 +3889,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 221,
         "PokemonId2": 221,
         "PokemonId3": 222,
@@ -3905,9 +3905,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 222,
         "PokemonId2": 222,
         "PokemonId3": -1,
@@ -3921,9 +3921,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 213,
         "PokemonId2": 213,
         "PokemonId3": 213,
@@ -3937,9 +3937,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 201,
         "PokemonId2": 201,
         "PokemonId3": 202,
@@ -3953,9 +3953,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 215,
         "PokemonId2": 215,
         "PokemonId3": 215,
@@ -3969,9 +3969,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 202,
         "PokemonId2": 202,
         "PokemonId3": 202,
@@ -3985,9 +3985,9 @@
       }
     },
     {
-      "AjitoUnitTable": {
-        "AjitoTypeEnum": 4,
-        "AjitoDifficultEnum": 2,
+      "Inner": {
+        "Type": 4,
+        "Difficulty": 2,
         "PokemonId1": 211,
         "PokemonId2": 211,
         "PokemonId3": 211,

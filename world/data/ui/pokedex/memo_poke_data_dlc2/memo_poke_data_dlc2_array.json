@@ -1,0 +1,1204 @@
+{
+  "Table": [
+    {
+      "DevNo": 1,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 2,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 3,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 4,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 5,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 6,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 7,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 8,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 9,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 27,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 28,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 37,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 38,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 43,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 44,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 45,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 48,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 49,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 50,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 51,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 72,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 73,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 74,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 75,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 76,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 79,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 80,
+      "Sex": 0,
+      "FormNo": 2
+    },
+    {
+      "DevNo": 81,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 82,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 84,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 85,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 86,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 87,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 88,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 89,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 102,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 103,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 106,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 107,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 111,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 112,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 113,
+      "Sex": 1,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 116,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 117,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 123,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 125,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 126,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 128,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 131,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 137,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 152,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 153,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 154,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 155,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 156,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 157,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 158,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 159,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 160,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 170,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 171,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 182,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 199,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 203,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 209,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 210,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 211,
+      "Sex": 0,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 212,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 227,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 230,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 233,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 235,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 236,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 237,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 239,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 240,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 242,
+      "Sex": 1,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 252,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 253,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 254,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 255,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 256,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 257,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 258,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 259,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 260,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 287,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 288,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 289,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 311,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 312,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 322,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 323,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 324,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 328,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 329,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 330,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 333,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 334,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 335,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 336,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 370,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 374,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 375,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 376,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 387,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 388,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 389,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 390,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 391,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 392,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 393,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 394,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 395,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 408,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 409,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 410,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 411,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 440,
+      "Sex": 1,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 456,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 457,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 459,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 460,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 462,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 464,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 466,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 467,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 474,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 479,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 495,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 496,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 497,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 498,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 499,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 500,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 501,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 502,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 503,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 522,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 523,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 529,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 530,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 546,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 547,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 551,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 552,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 553,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 559,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 560,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 572,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 573,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 574,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 575,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 576,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 577,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 578,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 579,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 585,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 586,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 594,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 595,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 596,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 602,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 603,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 604,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 610,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 611,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 612,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 613,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 614,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 622,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 623,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 627,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 628,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 629,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 630,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 650,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 651,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 652,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 653,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 654,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 655,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 656,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 657,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 658,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 661,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 662,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 663,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 667,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 668,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 677,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 678,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 686,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 687,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 722,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 723,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 724,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 725,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 726,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 727,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 728,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 729,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 730,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 731,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 732,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 733,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 739,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 740,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 741,
+      "Sex": 0,
+      "FormNo": 2
+    },
+    {
+      "DevNo": 751,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 752,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 764,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 774,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 779,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 810,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 811,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 812,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 813,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 814,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 815,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 816,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 817,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 818,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 854,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 855,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 868,
+      "Sex": 1,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 869,
+      "Sex": 1,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 884,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 900,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 904,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 922,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 923,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 928,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1013,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1017,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1018,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1019,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1020,
+      "Sex": 2,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1021,
+      "Sex": 0,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1023,
+      "Sex": 0,
+      "FormNo": 0
+    }
+  ]
+}

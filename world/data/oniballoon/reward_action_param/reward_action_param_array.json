@@ -1,0 +1,242 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "ActionRewardRate": 30,
+        "LotteryCrashBalloonCountRate": 100,
+        "LotteryOblationCountRate": 50,
+        "RemainTimeRewardRate": 50,
+        "RewardItems": [
+          {
+            "ItemId": 169,
+            "Rate": 30
+          },
+          {
+            "ItemId": 170,
+            "Rate": 30
+          },
+          {
+            "ItemId": 171,
+            "Rate": 30
+          },
+          {
+            "ItemId": 172,
+            "Rate": 30
+          },
+          {
+            "ItemId": 173,
+            "Rate": 30
+          },
+          {
+            "ItemId": 174,
+            "Rate": 30
+          },
+          {
+            "ItemId": 208,
+            "Rate": 25
+          },
+          {
+            "ItemId": 209,
+            "Rate": 25
+          },
+          {
+            "ItemId": 210,
+            "Rate": 25
+          },
+          {
+            "ItemId": 211,
+            "Rate": 25
+          },
+          {
+            "ItemId": 212,
+            "Rate": 25
+          },
+          {
+            "ItemId": 687,
+            "Rate": 25
+          },
+          {
+            "ItemId": 688,
+            "Rate": 25
+          },
+          {
+            "ItemId": 1862,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1863,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1864,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1865,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1866,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1867,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1868,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1869,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1870,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1871,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1872,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1873,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1874,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1875,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1876,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1877,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1878,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1879,
+            "Rate": 12
+          },
+          {
+            "ItemId": 1231,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1232,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1233,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1234,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1235,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1236,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1237,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1238,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1239,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1240,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1241,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1242,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1243,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1244,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1245,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1246,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1247,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1248,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1249,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1250,
+            "Rate": 3
+          },
+          {
+            "ItemId": 1251,
+            "Rate": 3
+          },
+          {
+            "ItemId": 2403,
+            "Rate": 20
+          },
+          {
+            "ItemId": 2404,
+            "Rate": 4
+          },
+          {
+            "ItemId": 537,
+            "Rate": 20
+          },
+          {
+            "ItemId": 327,
+            "Rate": 20
+          },
+          {
+            "ItemId": 325,
+            "Rate": 20
+          }
+        ]
+      }
+    }
+  ]
+}

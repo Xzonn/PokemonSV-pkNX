@@ -1,0 +1,40 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "TimeLimit": 120,
+        "PlayerHoldFruitsMax": 30,
+        "BaseFruitsNeedNum": 10,
+        "RoarDistance": 8,
+        "RoarAngle": 75,
+        "RoarBaseFrontPos": 4,
+        "RoarRangeType": 0,
+        "BalloonAutoRepopTime": 45,
+        "CountupAnimeSeconds": 1,
+        "SeOblationResetSeconds": 1,
+        "DifficultyLevelMax": [
+          3,
+          6,
+          10
+        ],
+        "AdjustMemberNums": [
+          1,
+          1.6,
+          1.8,
+          2
+        ],
+        "RewardDangoNumsAtDifficulty": [
+          {
+            "Value_Length": 4
+          },
+          {
+            "Value_Length": 4
+          },
+          {
+            "Value_Length": 4
+          }
+        ]
+      }
+    }
+  ]
+}

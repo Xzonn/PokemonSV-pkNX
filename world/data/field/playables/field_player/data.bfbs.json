@@ -3193,6 +3193,99 @@
           }
         },
         {
+          "Key": "SelfieStickChangeBottomOffset",
+          "Value": {
+            "Name": "SelfieStickChangeBottomOffset",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 17,
+            "Offset": 38,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "0.3"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "SelfieStickChangeCheckHeight",
+          "Value": {
+            "Name": "SelfieStickChangeCheckHeight",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 16,
+            "Offset": 36,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1.7"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "SelfieStickChangeShapeRadius",
+          "Value": {
+            "Name": "SelfieStickChangeShapeRadius",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 15,
+            "Offset": 34,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "1.7"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
           "Key": "SlideDropFwdAngle",
           "Value": {
             "Name": "SlideDropFwdAngle",

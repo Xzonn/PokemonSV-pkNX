@@ -4,6 +4,44 @@
       "Name": "AreaInfo",
       "Fields": [
         {
+          "Key": "adjustEncLv",
+          "Value": {
+            "Name": "adjustEncLv",
+            "Type": {
+              "BaseType": 7,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 22,
+            "Offset": 48,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": [
+              {
+                "Key": "fbe_default_value",
+                "Value": {
+                  "Key": "fbe_default_value",
+                  "Value": "0"
+                }
+              },
+              {
+                "Key": "fbe_display_name",
+                "Value": {
+                  "Key": "fbe_display_name",
+                  "Value": "\u30AF\u30EA\u30A2\u5F8C\u30A8\u30F3\u30AB\u30A6\u30F3\u30C8Lv\u88DC\u6B63\u5024"
+                }
+              }
+            ],
+            "Documentation": null
+          }
+        },
+        {
           "Key": "baseBiome",
           "Value": {
             "Name": "baseBiome",
@@ -15,8 +53,8 @@
               "BaseSize": 4,
               "ElementSize": 0
             },
-            "Id": 22,
-            "Offset": 48,
+            "Id": 23,
+            "Offset": 50,
             "DefaultInteger": 0,
             "DefaultDouble": 0,
             "Deprecated": false,
@@ -611,8 +649,8 @@
               "BaseSize": 4,
               "ElementSize": 0
             },
-            "Id": 24,
-            "Offset": 52,
+            "Id": 25,
+            "Offset": 54,
             "DefaultInteger": 0,
             "DefaultDouble": 0,
             "Deprecated": false,
@@ -711,8 +749,8 @@
               "BaseSize": 4,
               "ElementSize": 0
             },
-            "Id": 23,
-            "Offset": 50,
+            "Id": 24,
+            "Offset": 52,
             "DefaultInteger": 0,
             "DefaultDouble": 0,
             "Deprecated": false,
@@ -1717,6 +1755,91 @@
           "Value": {
             "Key": "dummy",
             "Value": 18,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 19,
+          "Value": {
+            "Key": "jari",
+            "Value": 19,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 20,
+          "Value": {
+            "Key": "kawara",
+            "Value": 20,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 21,
+          "Value": {
+            "Key": "kawasuna",
+            "Value": 21,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 22,
+          "Value": {
+            "Key": "hate_kusa",
+            "Value": 22,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 23,
+          "Value": {
+            "Key": "hate_iwa",
+            "Value": 23,
             "Object": false,
             "UnionType": {
               "BaseType": 0,
@@ -2788,6 +2911,91 @@
           "Value": {
             "Key": "takara",
             "Value": 37,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 38,
+          "Value": {
+            "Key": "tanbo",
+            "Value": 38,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 40,
+          "Value": {
+            "Key": "kawasuna",
+            "Value": 40,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 41,
+          "Value": {
+            "Key": "hate_kusa",
+            "Value": 41,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 42,
+          "Value": {
+            "Key": "hate_iwa",
+            "Value": 42,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 43,
+          "Value": {
+            "Key": "hate_tsuchi",
+            "Value": 43,
             "Object": false,
             "UnionType": {
               "BaseType": 0,

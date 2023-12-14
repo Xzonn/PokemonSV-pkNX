@@ -2,7 +2,9 @@
   "Table": [
     {
       "Name": "loc_desert_east",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -25,23 +27,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_desert_west",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -64,23 +67,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_lake_east",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -103,23 +107,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_lake_south",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -142,23 +147,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_lhrooftop01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -181,23 +187,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_lhrooftop02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -220,23 +227,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_lhrooftop03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -259,23 +267,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_lhrooftop04",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -298,23 +307,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "loc_snowymountain_01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 0,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -337,18 +347,17 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     }
   ]

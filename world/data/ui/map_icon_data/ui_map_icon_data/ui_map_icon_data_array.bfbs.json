@@ -1212,8 +1212,25 @@
         {
           "Key": 3,
           "Value": {
-            "Key": "UTIL",
+            "Key": "TOMOKKO",
             "Value": 3,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 4,
+          "Value": {
+            "Key": "UTIL",
+            "Value": 4,
             "Object": false,
             "UnionType": {
               "BaseType": 0,
@@ -1605,6 +1622,74 @@
           "Value": {
             "Key": "FLY_POINT",
             "Value": 16,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 17,
+          "Value": {
+            "Key": "TOMOKKO",
+            "Value": 17,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 18,
+          "Value": {
+            "Key": "ONI_MONUMENT",
+            "Value": 18,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 19,
+          "Value": {
+            "Key": "ONI_BALLON",
+            "Value": 19,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 20,
+          "Value": {
+            "Key": "DAN_BATTLE",
+            "Value": 20,
             "Object": false,
             "UnionType": {
               "BaseType": 0,

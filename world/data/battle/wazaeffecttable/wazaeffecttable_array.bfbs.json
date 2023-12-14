@@ -16133,6 +16133,74 @@
             },
             "Documentation": null
           }
+        },
+        {
+          "Key": 901,
+          "Value": {
+            "Key": "WAZA_BURADDOMUN",
+            "Value": 901,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 902,
+          "Value": {
+            "Key": "WAZA_SHAKASHAKAHO",
+            "Value": 902,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 903,
+          "Value": {
+            "Key": "WAZA_MITSUAMEKOTO",
+            "Value": 903,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 904,
+          "Value": {
+            "Key": "WAZA_ONIKANABOO",
+            "Value": 904,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
         }
       ],
       "IsUnion": false,

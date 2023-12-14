@@ -149,6 +149,96 @@
         "Rotom": false,
         "OtherPlayerThings": false
       }
+    },
+    {
+      "Id": "fieldwork_kuma",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": true,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": true,
+        "Picnic": true,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    },
+    {
+      "Id": "oni_walk",
+      "Content": {
+        "RaidGem": false,
+        "Item": false,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": false,
+        "CoinPokemon": false,
+        "PartnerPokemon": false,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    },
+    {
+      "Id": "oniballoon",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": true,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": true,
+        "Picnic": true,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    },
+    {
+      "Id": "su1_3gods",
+      "Content": {
+        "RaidGem": false,
+        "Item": false,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": false,
+        "CoinPokemon": false,
+        "PartnerPokemon": false,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
+    },
+    {
+      "Id": "honoo_challenge",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": true,
+        "CoinPokemon": true,
+        "PartnerPokemon": false,
+        "Picnic": true,
+        "Rotom": false,
+        "OtherPlayerThings": true
+      }
+    },
+    {
+      "Id": "s2_sub_041",
+      "Content": {
+        "RaidGem": true,
+        "Item": true,
+        "SymbolPokemon": true,
+        "CommonNpc": false,
+        "TrafficNpc": false,
+        "CoinPokemon": true,
+        "PartnerPokemon": false,
+        "Picnic": false,
+        "Rotom": false,
+        "OtherPlayerThings": false
+      }
     }
   ]
 }

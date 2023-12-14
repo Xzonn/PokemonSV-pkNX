@@ -194,7 +194,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 6,
+              "Index": 7,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -539,7 +539,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 4,
+              "Index": 5,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -562,7 +562,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 5,
+              "Index": 6,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -873,8 +873,111 @@
       "DeclarationFile": null
     },
     {
+      "Name": "FieldCameraOrbitPropertyData",
+      "Fields": [
+        {
+          "Key": "autoBackRotationEnable",
+          "Value": {
+            "Name": "autoBackRotationEnable",
+            "Type": {
+              "BaseType": 2,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 0,
+            "Offset": 4,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        }
+      ],
+      "IsStruct": false,
+      "MinAlign": 1,
+      "ByteSize": 0,
+      "Attributes": null,
+      "Documentation": null,
+      "DeclarationFile": null
+    },
+    {
       "Name": "FieldCameraOrbitRotationData",
       "Fields": [
+        {
+          "Key": "autoBackRotationAngle",
+          "Value": {
+            "Name": "autoBackRotationAngle",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 9,
+            "Offset": 22,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "autoBackRotationTimeTolerance",
+          "Value": {
+            "Name": "autoBackRotationTimeTolerance",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 8,
+            "Offset": 20,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "autoBackRotationYawSpeed",
+          "Value": {
+            "Name": "autoBackRotationYawSpeed",
+            "Type": {
+              "BaseType": 11,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 10,
+            "Offset": 24,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
         {
           "Key": "autoRotationPitchSpeed",
           "Value": {
@@ -991,6 +1094,144 @@
           }
         },
         {
+          "Key": "ride_climbing_long",
+          "Value": {
+            "Name": "ride_climbing_long",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 4,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 15,
+            "Offset": 34,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "ride_climbing_long_drunk",
+          "Value": {
+            "Name": "ride_climbing_long_drunk",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 4,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 16,
+            "Offset": 36,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "ride_climbing_middle",
+          "Value": {
+            "Name": "ride_climbing_middle",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 4,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 13,
+            "Offset": 30,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "ride_climbing_middle_drunk",
+          "Value": {
+            "Name": "ride_climbing_middle_drunk",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 4,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 14,
+            "Offset": 32,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "ride_climbing_short",
+          "Value": {
+            "Name": "ride_climbing_short",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 4,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 11,
+            "Offset": 26,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
+          "Key": "ride_climbing_short_drunk",
+          "Value": {
+            "Name": "ride_climbing_short_drunk",
+            "Type": {
+              "BaseType": 15,
+              "ElementType": 0,
+              "Index": 4,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Id": 12,
+            "Offset": 28,
+            "DefaultInteger": 0,
+            "DefaultDouble": 0,
+            "Deprecated": false,
+            "Required": false,
+            "Key": false,
+            "Attributes": null,
+            "Documentation": null
+          }
+        },
+        {
           "Key": "rotationPitchSpeed",
           "Value": {
             "Name": "rotationPitchSpeed",
@@ -1077,7 +1318,7 @@
             "Type": {
               "BaseType": 15,
               "ElementType": 0,
-              "Index": 6,
+              "Index": 7,
               "FixedLength": 0,
               "BaseSize": 4,
               "ElementSize": 0
@@ -1379,7 +1620,7 @@
           "Type": {
             "BaseType": 15,
             "ElementType": 0,
-            "Index": 6,
+            "Index": 7,
             "FixedLength": 0,
             "BaseSize": 4,
             "ElementSize": 0
@@ -1724,7 +1965,7 @@
           "Type": {
             "BaseType": 15,
             "ElementType": 0,
-            "Index": 4,
+            "Index": 5,
             "FixedLength": 0,
             "BaseSize": 4,
             "ElementSize": 0
@@ -1747,7 +1988,7 @@
           "Type": {
             "BaseType": 15,
             "ElementType": 0,
-            "Index": 5,
+            "Index": 6,
             "FixedLength": 0,
             "BaseSize": 4,
             "ElementSize": 0

@@ -9525,10 +9525,44 @@
           }
         },
         {
+          "Key": 325,
+          "Value": {
+            "Key": "ITEMID_REIKAINONUNO",
+            "Value": 325,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
           "Key": 326,
           "Value": {
             "Key": "ITEMID_SURUDOITUME",
             "Value": 326,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 327,
+          "Value": {
+            "Key": "ITEMID_SURUDOIKIBA",
+            "Value": 327,
             "Object": false,
             "UnionType": {
               "BaseType": 0,
@@ -11106,6 +11140,23 @@
           }
         },
         {
+          "Key": 466,
+          "Value": {
+            "Key": "ITEMID_GURASIDEANOHANA",
+            "Value": 466,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
           "Key": 492,
           "Value": {
             "Key": "ITEMID_SUPIIDOBOORU",
@@ -11229,6 +11280,23 @@
           "Value": {
             "Key": "ITEMID_KONPEBOORU",
             "Value": 499,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 537,
+          "Value": {
+            "Key": "ITEMID_KIREINAUROKO",
+            "Value": 537,
             "Object": false,
             "UnionType": {
               "BaseType": 0,
@@ -12891,6 +12959,23 @@
           }
         },
         {
+          "Key": 1267,
+          "Value": {
+            "Key": "ITEMID_HOKAKUOMAMORI",
+            "Value": 1267,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
           "Key": 1278,
           "Value": {
             "Key": "ITEMID_ROTOMUNOKATAROGU",
@@ -12912,6 +12997,23 @@
           "Value": {
             "Key": "ITEMID_GARANATUBURESU",
             "Value": 1582,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1587,
+          "Value": {
+            "Key": "ITEMID_KEIKENOMAMORI",
+            "Value": 1587,
             "Object": false,
             "UnionType": {
               "BaseType": 0,
@@ -18977,6 +19079,516 @@
           }
         },
         {
+          "Key": 2232,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN172",
+            "Value": 2232,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2233,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN173",
+            "Value": 2233,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2234,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN174",
+            "Value": 2234,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2235,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN175",
+            "Value": 2235,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2236,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN176",
+            "Value": 2236,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2237,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN177",
+            "Value": 2237,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2238,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN178",
+            "Value": 2238,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2239,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN179",
+            "Value": 2239,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2240,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN180",
+            "Value": 2240,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2241,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN181",
+            "Value": 2241,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2242,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN182",
+            "Value": 2242,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2243,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN183",
+            "Value": 2243,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2244,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN184",
+            "Value": 2244,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2245,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN185",
+            "Value": 2245,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2246,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN186",
+            "Value": 2246,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2247,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN187",
+            "Value": 2247,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2248,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN188",
+            "Value": 2248,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2249,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN189",
+            "Value": 2249,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2250,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN190",
+            "Value": 2250,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2251,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN191",
+            "Value": 2251,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2252,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN192",
+            "Value": 2252,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2253,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN193",
+            "Value": 2253,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2254,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN194",
+            "Value": 2254,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2255,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN195",
+            "Value": 2255,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2256,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN196",
+            "Value": 2256,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2257,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN197",
+            "Value": 2257,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2258,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN198",
+            "Value": 2258,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2259,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN199",
+            "Value": 2259,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2260,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN200",
+            "Value": 2260,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2261,
+          "Value": {
+            "Key": "ITEMID_WAZAMASIN201",
+            "Value": 2261,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
           "Key": 2311,
           "Value": {
             "Key": "ITEMID_PIKUNIKKUSETTO",
@@ -20324,6 +20936,1383 @@
           "Value": {
             "Key": "ITEMID_SARA2",
             "Value": 2396,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2401,
+          "Value": {
+            "Key": "ITEMID_YOUSEINOHANE",
+            "Value": 2401,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2402,
+          "Value": {
+            "Key": "ITEMID_MITSUIRIRINGO",
+            "Value": 2402,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2403,
+          "Value": {
+            "Key": "ITEMID_BONSAKUNOCHAWAN",
+            "Value": 2403,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2404,
+          "Value": {
+            "Key": "ITEMID_KESSAKUNOCHAWAN",
+            "Value": 2404,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2405,
+          "Value": {
+            "Key": "ITEMID_MIDORINOMEN",
+            "Value": 2405,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2406,
+          "Value": {
+            "Key": "ITEMID_ISHIDUENOMEN",
+            "Value": 2406,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2407,
+          "Value": {
+            "Key": "ITEMID_IDONOMEN",
+            "Value": 2407,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2408,
+          "Value": {
+            "Key": "ITEMID_KAMADONOMEN",
+            "Value": 2408,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2409,
+          "Value": {
+            "Key": "ITEMID_OSYAREKAADO1",
+            "Value": 2409,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2410,
+          "Value": {
+            "Key": "ITEMID_KESSHOUNOKAKERA",
+            "Value": 2410,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2411,
+          "Value": {
+            "Key": "ITEMID_KIBIDANGO1",
+            "Value": 2411,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2412,
+          "Value": {
+            "Key": "ITEMID_KIBIDANGO2",
+            "Value": 2412,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2413,
+          "Value": {
+            "Key": "ITEMID_KIBIDANGO3",
+            "Value": 2413,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2414,
+          "Value": {
+            "Key": "ITEMID_KIBIDANGO4",
+            "Value": 2414,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2415,
+          "Value": {
+            "Key": "ITEMID_KIBIDANGO5",
+            "Value": 2415,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2416,
+          "Value": {
+            "Key": "ITEMID_KIBIDANGO6",
+            "Value": 2416,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2417,
+          "Value": {
+            "Key": "ITEMID_ISU1",
+            "Value": 2417,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2418,
+          "Value": {
+            "Key": "ITEMID_ISU2",
+            "Value": 2418,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2419,
+          "Value": {
+            "Key": "ITEMID_ISU3",
+            "Value": 2419,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2420,
+          "Value": {
+            "Key": "ITEMID_ISU4",
+            "Value": 2420,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2421,
+          "Value": {
+            "Key": "ITEMID_ISU5",
+            "Value": 2421,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2422,
+          "Value": {
+            "Key": "ITEMID_ISU6",
+            "Value": 2422,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2423,
+          "Value": {
+            "Key": "ITEMID_ISU7",
+            "Value": 2423,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2424,
+          "Value": {
+            "Key": "ITEMID_ISU8",
+            "Value": 2424,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2425,
+          "Value": {
+            "Key": "ITEMID_ISU9",
+            "Value": 2425,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2426,
+          "Value": {
+            "Key": "ITEMID_ISU10",
+            "Value": 2426,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2427,
+          "Value": {
+            "Key": "ITEMID_ISU11",
+            "Value": 2427,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2428,
+          "Value": {
+            "Key": "ITEMID_ISU12",
+            "Value": 2428,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2429,
+          "Value": {
+            "Key": "ITEMID_ISU13",
+            "Value": 2429,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2430,
+          "Value": {
+            "Key": "ITEMID_ISU14",
+            "Value": 2430,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2431,
+          "Value": {
+            "Key": "ITEMID_ISU15",
+            "Value": 2431,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2432,
+          "Value": {
+            "Key": "ITEMID_ISU16",
+            "Value": 2432,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2433,
+          "Value": {
+            "Key": "ITEMID_ISU17",
+            "Value": 2433,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2434,
+          "Value": {
+            "Key": "ITEMID_ISU18",
+            "Value": 2434,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2435,
+          "Value": {
+            "Key": "ITEMID_ISU19",
+            "Value": 2435,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2436,
+          "Value": {
+            "Key": "ITEMID_ISU20",
+            "Value": 2436,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2437,
+          "Value": {
+            "Key": "ITEMID_ISU21",
+            "Value": 2437,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2438,
+          "Value": {
+            "Key": "ITEMID_SOZAI240",
+            "Value": 2438,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2439,
+          "Value": {
+            "Key": "ITEMID_SOZAI241",
+            "Value": 2439,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2440,
+          "Value": {
+            "Key": "ITEMID_SOZAI242",
+            "Value": 2440,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2441,
+          "Value": {
+            "Key": "ITEMID_SOZAI243",
+            "Value": 2441,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2442,
+          "Value": {
+            "Key": "ITEMID_SOZAI244",
+            "Value": 2442,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2443,
+          "Value": {
+            "Key": "ITEMID_SOZAI245",
+            "Value": 2443,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2444,
+          "Value": {
+            "Key": "ITEMID_SOZAI246",
+            "Value": 2444,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2445,
+          "Value": {
+            "Key": "ITEMID_SOZAI247",
+            "Value": 2445,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2446,
+          "Value": {
+            "Key": "ITEMID_SOZAI248",
+            "Value": 2446,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2447,
+          "Value": {
+            "Key": "ITEMID_SOZAI249",
+            "Value": 2447,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2448,
+          "Value": {
+            "Key": "ITEMID_SOZAI250",
+            "Value": 2448,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2449,
+          "Value": {
+            "Key": "ITEMID_SOZAI251",
+            "Value": 2449,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2450,
+          "Value": {
+            "Key": "ITEMID_SOZAI252",
+            "Value": 2450,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2451,
+          "Value": {
+            "Key": "ITEMID_SOZAI253",
+            "Value": 2451,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2452,
+          "Value": {
+            "Key": "ITEMID_SOZAI254",
+            "Value": 2452,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2453,
+          "Value": {
+            "Key": "ITEMID_SOZAI255",
+            "Value": 2453,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2454,
+          "Value": {
+            "Key": "ITEMID_SOZAI256",
+            "Value": 2454,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2455,
+          "Value": {
+            "Key": "ITEMID_SOZAI257",
+            "Value": 2455,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2456,
+          "Value": {
+            "Key": "ITEMID_SOZAI258",
+            "Value": 2456,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2457,
+          "Value": {
+            "Key": "ITEMID_SOZAI259",
+            "Value": 2457,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2458,
+          "Value": {
+            "Key": "ITEMID_SOZAI260",
+            "Value": 2458,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2459,
+          "Value": {
+            "Key": "ITEMID_SOZAI261",
+            "Value": 2459,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2460,
+          "Value": {
+            "Key": "ITEMID_SOZAI262",
+            "Value": 2460,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2461,
+          "Value": {
+            "Key": "ITEMID_SOZAI263",
+            "Value": 2461,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2462,
+          "Value": {
+            "Key": "ITEMID_SOZAI264",
+            "Value": 2462,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2463,
+          "Value": {
+            "Key": "ITEMID_SOZAI265",
+            "Value": 2463,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2464,
+          "Value": {
+            "Key": "ITEMID_SOZAI266",
+            "Value": 2464,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2465,
+          "Value": {
+            "Key": "ITEMID_SOZAI267",
+            "Value": 2465,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2466,
+          "Value": {
+            "Key": "ITEMID_SOZAI268",
+            "Value": 2466,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2467,
+          "Value": {
+            "Key": "ITEMID_SOZAI269",
+            "Value": 2467,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2468,
+          "Value": {
+            "Key": "ITEMID_SOZAI270",
+            "Value": 2468,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2469,
+          "Value": {
+            "Key": "ITEMID_SOZAI271",
+            "Value": 2469,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2470,
+          "Value": {
+            "Key": "ITEMID_SOZAI272",
+            "Value": 2470,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2471,
+          "Value": {
+            "Key": "ITEMID_SOZAI273",
+            "Value": 2471,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2472,
+          "Value": {
+            "Key": "ITEMID_SOZAI274",
+            "Value": 2472,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2473,
+          "Value": {
+            "Key": "ITEMID_SOZAI275",
+            "Value": 2473,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2474,
+          "Value": {
+            "Key": "ITEMID_SOZAI276",
+            "Value": 2474,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2475,
+          "Value": {
+            "Key": "ITEMID_SOZAI277",
+            "Value": 2475,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2476,
+          "Value": {
+            "Key": "ITEMID_SOZAI278",
+            "Value": 2476,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2477,
+          "Value": {
+            "Key": "ITEMID_SOZAI279",
+            "Value": 2477,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2478,
+          "Value": {
+            "Key": "ITEMID_SOZAI280",
+            "Value": 2478,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2479,
+          "Value": {
+            "Key": "ITEMID_KIBIDANGO9",
+            "Value": 2479,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2480,
+          "Value": {
+            "Key": "ITEMID_ZIDORIBOU",
+            "Value": 2480,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 2481,
+          "Value": {
+            "Key": "ITEMID_TERAOMAMORI",
+            "Value": 2481,
             "Object": false,
             "UnionType": {
               "BaseType": 0,
@@ -40786,6 +42775,125 @@
             },
             "Documentation": null
           }
+        },
+        {
+          "Key": 1011,
+          "Value": {
+            "Key": "DEV_KAMENONI",
+            "Value": 1011,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1012,
+          "Value": {
+            "Key": "DEV_KAZITTYU2",
+            "Value": 1012,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1014,
+          "Value": {
+            "Key": "DEV_DOKUINU",
+            "Value": 1014,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1015,
+          "Value": {
+            "Key": "DEV_DOKUZARU",
+            "Value": 1015,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1016,
+          "Value": {
+            "Key": "DEV_DOKUKIZI",
+            "Value": 1016,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1024,
+          "Value": {
+            "Key": "DEV_MATCHA1",
+            "Value": 1024,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 1025,
+          "Value": {
+            "Key": "DEV_MATCHA2",
+            "Value": 1025,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
         }
       ],
       "IsUnion": false,
@@ -56120,6 +58228,74 @@
             },
             "Documentation": null
           }
+        },
+        {
+          "Key": 901,
+          "Value": {
+            "Key": "WAZA_BURADDOMUN",
+            "Value": 901,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 902,
+          "Value": {
+            "Key": "WAZA_SHAKASHAKAHO",
+            "Value": 902,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 903,
+          "Value": {
+            "Key": "WAZA_MITSUAMEKOTO",
+            "Value": 903,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
+        },
+        {
+          "Key": 904,
+          "Value": {
+            "Key": "WAZA_ONIKANABOO",
+            "Value": 904,
+            "Object": false,
+            "UnionType": {
+              "BaseType": 0,
+              "ElementType": 0,
+              "Index": -1,
+              "FixedLength": 0,
+              "BaseSize": 4,
+              "ElementSize": 0
+            },
+            "Documentation": null
+          }
         }
       ],
       "IsUnion": false,
@@ -59813,7 +61989,7 @@
         {
           "Key": 216,
           "Value": {
-            "Key": "DUMMY_216",
+            "Key": "AFTER_BATTLE_REACTION_NORTH",
             "Value": 216,
             "Object": false,
             "UnionType": {
@@ -68721,7 +70897,7 @@
         {
           "Key": 740,
           "Value": {
-            "Key": "DUMMY_740",
+            "Key": "PHOTO_BGM",
             "Value": 740,
             "Object": false,
             "UnionType": {
@@ -69962,7 +72138,7 @@
         {
           "Key": 813,
           "Value": {
-            "Key": "DUMMY_813",
+            "Key": "SYMBOL_EX_FRIENDSHIP",
             "Value": 813,
             "Object": false,
             "UnionType": {
@@ -69979,7 +72155,7 @@
         {
           "Key": 814,
           "Value": {
-            "Key": "DUMMY_814",
+            "Key": "SYMBOL_EX_FRIENDSHIP_MYSELF",
             "Value": 814,
             "Object": false,
             "UnionType": {
@@ -69996,7 +72172,7 @@
         {
           "Key": 815,
           "Value": {
-            "Key": "DUMMY_815",
+            "Key": "SYMBOL_EX_FRIENDSHIP_ANOTHER",
             "Value": 815,
             "Object": false,
             "UnionType": {
@@ -70302,7 +72478,7 @@
         {
           "Key": 833,
           "Value": {
-            "Key": "DUMMY_833",
+            "Key": "BEFORE_BATTLE_REACTION_EQUAL_ACTIONPOINT_TREE_HANGING_AIR",
             "Value": 833,
             "Object": false,
             "UnionType": {
@@ -71764,7 +73940,7 @@
         {
           "Key": 919,
           "Value": {
-            "Key": "DUMMY_919",
+            "Key": "SPECIAL_DISAPPER_FADE_LAND_WHIM_INAVTIVE",
             "Value": 919,
             "Object": false,
             "UnionType": {
@@ -73073,7 +75249,7 @@
         {
           "Key": 996,
           "Value": {
-            "Key": "DUMMY_996",
+            "Key": "RETURN_SUCCESS_IGNORE_AIR",
             "Value": 996,
             "Object": false,
             "UnionType": {
@@ -73379,7 +75555,7 @@
         {
           "Key": 1014,
           "Value": {
-            "Key": "DUMMY_1014",
+            "Key": "RETURN_SUCCESS_IGNORE_GRABITY_ENCOUNT",
             "Value": 1014,
             "Object": false,
             "UnionType": {
@@ -77629,7 +79805,7 @@
         {
           "Key": 1264,
           "Value": {
-            "Key": "DUMMY_1264",
+            "Key": "RANDOM_TURN_THEN_MOVE_RUN_GPDISTANSE_HORIZONTAL_AIR",
             "Value": 1264,
             "Object": false,
             "UnionType": {
@@ -77646,7 +79822,7 @@
         {
           "Key": 1265,
           "Value": {
-            "Key": "DUMMY_1265",
+            "Key": "RANDOM_TURN_THEN_MOVE_WALK_GPDISTANSE_HORIZONTAL_AIR",
             "Value": 1265,
             "Object": false,
             "UnionType": {
@@ -77663,7 +79839,7 @@
         {
           "Key": 1266,
           "Value": {
-            "Key": "DUMMY_1266",
+            "Key": "RANDOM_TURN_THEN_MOVE_RUN_MIDDLE_HORIZONTAL_AIR",
             "Value": 1266,
             "Object": false,
             "UnionType": {
@@ -77680,7 +79856,7 @@
         {
           "Key": 1267,
           "Value": {
-            "Key": "DUMMY_1267",
+            "Key": "RANDOM_TURN_THEN_MOVE_WALK_MIDDLE_HORIZONTAL_AIR",
             "Value": 1267,
             "Object": false,
             "UnionType": {
@@ -77697,7 +79873,7 @@
         {
           "Key": 1268,
           "Value": {
-            "Key": "DUMMY_1268",
+            "Key": "RANDOM_TURN_THEN_MOVE_RUN_GPDISTANSE_LEVITATION_OFFSET_AIR",
             "Value": 1268,
             "Object": false,
             "UnionType": {
@@ -77714,7 +79890,7 @@
         {
           "Key": 1269,
           "Value": {
-            "Key": "DUMMY_1269",
+            "Key": "RANDOM_TURN_THEN_MOVE_WALK_GPDISTANSE_LEVITATION_OFFSET_AIR",
             "Value": 1269,
             "Object": false,
             "UnionType": {
@@ -77731,7 +79907,7 @@
         {
           "Key": 1270,
           "Value": {
-            "Key": "DUMMY_1270",
+            "Key": "RANDOM_TURN_THEN_MOVE_RUN_MIDDLE_LEVITATION_OFFSET_AIR",
             "Value": 1270,
             "Object": false,
             "UnionType": {
@@ -77748,7 +79924,7 @@
         {
           "Key": 1271,
           "Value": {
-            "Key": "DUMMY_1271",
+            "Key": "RANDOM_TURN_THEN_MOVE_WALK_MIDDLE_LEVITATION_OFFSET_AIR",
             "Value": 1271,
             "Object": false,
             "UnionType": {
@@ -77952,7 +80128,7 @@
         {
           "Key": 1283,
           "Value": {
-            "Key": "DUMMY_1283",
+            "Key": "RANDOM_WALK_GPDISTANSE_LOTAD_WATER",
             "Value": 1283,
             "Object": false,
             "UnionType": {
@@ -77969,7 +80145,7 @@
         {
           "Key": 1284,
           "Value": {
-            "Key": "DUMMY_1284",
+            "Key": "RANDOM_RUN_GPDISTANSE_LOTAD_WATER",
             "Value": 1284,
             "Object": false,
             "UnionType": {
@@ -77986,7 +80162,7 @@
         {
           "Key": 1285,
           "Value": {
-            "Key": "DUMMY_1285",
+            "Key": "RANDOM_WALK_GROUP_MIDDLE_LOTAD_WATER",
             "Value": 1285,
             "Object": false,
             "UnionType": {
@@ -78003,7 +80179,7 @@
         {
           "Key": 1286,
           "Value": {
-            "Key": "DUMMY_1286",
+            "Key": "RANDOM_RUN_GROUP_MIDDLE_LOTAD_WATER",
             "Value": 1286,
             "Object": false,
             "UnionType": {
@@ -81743,7 +83919,7 @@
         {
           "Key": 1506,
           "Value": {
-            "Key": "DUMMY_1506",
+            "Key": "TRUN_SPEED2_180",
             "Value": 1506,
             "Object": false,
             "UnionType": {
@@ -82219,7 +84395,7 @@
         {
           "Key": 1534,
           "Value": {
-            "Key": "DUMMY_1534",
+            "Key": "TURN_NORTH",
             "Value": 1534,
             "Object": false,
             "UnionType": {
@@ -82797,7 +84973,7 @@
         {
           "Key": 1568,
           "Value": {
-            "Key": "DUMMY_1568",
+            "Key": "RANDOM_WAIT_LONG_UNIQUE_AIR",
             "Value": 1568,
             "Object": false,
             "UnionType": {
@@ -82814,7 +84990,7 @@
         {
           "Key": 1569,
           "Value": {
-            "Key": "DUMMY_1569",
+            "Key": "RANDOM_WAIT_LONG_UNIQUE_IGNORE_GRABITY_ENCOUNT",
             "Value": 1569,
             "Object": false,
             "UnionType": {
@@ -89784,7 +91960,7 @@
         {
           "Key": 1979,
           "Value": {
-            "Key": "DUMMY_1979",
+            "Key": "JUMP_DOWN_AIR_ACTION_POINT_OCCUPY_RELEASE_STAN",
             "Value": 1979,
             "Object": false,
             "UnionType": {
@@ -89801,7 +91977,7 @@
         {
           "Key": 1980,
           "Value": {
-            "Key": "DUMMY_1980",
+            "Key": "JUMP_DOWN_AIR_ACTION_POINT_OCCUPY_RELEASE",
             "Value": 1980,
             "Object": false,
             "UnionType": {
@@ -89818,7 +91994,7 @@
         {
           "Key": 1981,
           "Value": {
-            "Key": "DUMMY_1981",
+            "Key": "JUMP_DOWN_AIR",
             "Value": 1981,
             "Object": false,
             "UnionType": {
@@ -102823,7 +104999,7 @@
         {
           "Key": 2746,
           "Value": {
-            "Key": "DUMMY_2746",
+            "Key": "LAND_CLEFAIRY_ACTIVATED_MOON",
             "Value": 2746,
             "Object": false,
             "UnionType": {
@@ -102840,7 +105016,7 @@
         {
           "Key": 2747,
           "Value": {
-            "Key": "DUMMY_2747",
+            "Key": "LAND_CLEFAIRY_ACTIVATED_MOON_EQUAL_MOON",
             "Value": 2747,
             "Object": false,
             "UnionType": {
@@ -102857,7 +105033,7 @@
         {
           "Key": 2748,
           "Value": {
-            "Key": "DUMMY_2748",
+            "Key": "LAND_CLEFAIRY_ACTIVATED_MOON_NOT_MOON",
             "Value": 2748,
             "Object": false,
             "UnionType": {
@@ -103214,7 +105390,7 @@
         {
           "Key": 2769,
           "Value": {
-            "Key": "DUMMY_2769",
+            "Key": "POP_YORUNOZUKU",
             "Value": 2769,
             "Object": false,
             "UnionType": {
@@ -103231,7 +105407,7 @@
         {
           "Key": 2770,
           "Value": {
-            "Key": "DUMMY_2770",
+            "Key": "YORUNOZUKU_TREE",
             "Value": 2770,
             "Object": false,
             "UnionType": {
@@ -103248,7 +105424,7 @@
         {
           "Key": 2771,
           "Value": {
-            "Key": "DUMMY_2771",
+            "Key": "YORUNOZUKU_LAND",
             "Value": 2771,
             "Object": false,
             "UnionType": {
@@ -103265,7 +105441,7 @@
         {
           "Key": 2772,
           "Value": {
-            "Key": "DUMMY_2772",
+            "Key": "POP_TONBO_MOVE_POSITIVE_ACTIVE",
             "Value": 2772,
             "Object": false,
             "UnionType": {
@@ -103282,7 +105458,7 @@
         {
           "Key": 2773,
           "Value": {
-            "Key": "DUMMY_2773",
+            "Key": "POP_TONBO_MOVE_POSITIVE_INACTIVE",
             "Value": 2773,
             "Object": false,
             "UnionType": {
@@ -103299,7 +105475,7 @@
         {
           "Key": 2774,
           "Value": {
-            "Key": "DUMMY_2774",
+            "Key": "POP_LOTAD_POSITIVE_ACTIVE",
             "Value": 2774,
             "Object": false,
             "UnionType": {
@@ -103316,7 +105492,7 @@
         {
           "Key": 2775,
           "Value": {
-            "Key": "DUMMY_2775",
+            "Key": "POP_LOTAD_POSITIVE_INACTIVE",
             "Value": 2775,
             "Object": false,
             "UnionType": {
@@ -103333,7 +105509,7 @@
         {
           "Key": 2776,
           "Value": {
-            "Key": "DUMMY_2776",
+            "Key": "POP_CHIMECHO",
             "Value": 2776,
             "Object": false,
             "UnionType": {
@@ -103350,7 +105526,7 @@
         {
           "Key": 2777,
           "Value": {
-            "Key": "DUMMY_2777",
+            "Key": "CHIMECHO_TREE",
             "Value": 2777,
             "Object": false,
             "UnionType": {
@@ -103367,7 +105543,7 @@
         {
           "Key": 2778,
           "Value": {
-            "Key": "DUMMY_2778",
+            "Key": "CHIMECHO_AIR",
             "Value": 2778,
             "Object": false,
             "UnionType": {
@@ -103384,7 +105560,7 @@
         {
           "Key": 2779,
           "Value": {
-            "Key": "DUMMY_2779",
+            "Key": "POP_NOSEPASS",
             "Value": 2779,
             "Object": false,
             "UnionType": {
@@ -103401,7 +105577,7 @@
         {
           "Key": 2780,
           "Value": {
-            "Key": "DUMMY_2780",
+            "Key": "POP_TERRITORY_NOSEPASS",
             "Value": 2780,
             "Object": false,
             "UnionType": {
@@ -103418,7 +105594,7 @@
         {
           "Key": 2781,
           "Value": {
-            "Key": "DUMMY_2781",
+            "Key": "RANDOM_GAZE_WAIT_HEAD_20m_LOOP_FIELD_TREE_BRANCH",
             "Value": 2781,
             "Object": false,
             "UnionType": {
@@ -103435,7 +105611,7 @@
         {
           "Key": 2782,
           "Value": {
-            "Key": "DUMMY_2782",
+            "Key": "POP_HOHO",
             "Value": 2782,
             "Object": false,
             "UnionType": {
@@ -103452,7 +105628,7 @@
         {
           "Key": 2783,
           "Value": {
-            "Key": "DUMMY_2783",
+            "Key": "HOHO_TREE",
             "Value": 2783,
             "Object": false,
             "UnionType": {
@@ -103469,7 +105645,7 @@
         {
           "Key": 2784,
           "Value": {
-            "Key": "DUMMY_2784",
+            "Key": "HOHO_LAND",
             "Value": 2784,
             "Object": false,
             "UnionType": {
@@ -103486,7 +105662,7 @@
         {
           "Key": 2785,
           "Value": {
-            "Key": "DUMMY_2785",
+            "Key": "LOTAD_POSITIVE_ACTIVE_SWIM",
             "Value": 2785,
             "Object": false,
             "UnionType": {
@@ -103503,7 +105679,7 @@
         {
           "Key": 2786,
           "Value": {
-            "Key": "DUMMY_2786",
+            "Key": "LOTAD_POSITIVE_INACTIVE_SWIM",
             "Value": 2786,
             "Object": false,
             "UnionType": {
@@ -103520,7 +105696,7 @@
         {
           "Key": 2787,
           "Value": {
-            "Key": "DUMMY_2787",
+            "Key": "LOTAD_POSITIVE_ACTIVE",
             "Value": 2787,
             "Object": false,
             "UnionType": {
@@ -103537,7 +105713,7 @@
         {
           "Key": 2788,
           "Value": {
-            "Key": "DUMMY_2788",
+            "Key": "LOTAD_POSITIVE_INACTIVE",
             "Value": 2788,
             "Object": false,
             "UnionType": {
@@ -106444,7 +108620,7 @@
         {
           "Key": 2959,
           "Value": {
-            "Key": "DUMMY_2959",
+            "Key": "JUDGE_TIME_GREATER_THAN_20f",
             "Value": 2959,
             "Object": false,
             "UnionType": {
@@ -106461,7 +108637,7 @@
         {
           "Key": 2960,
           "Value": {
-            "Key": "DUMMY_2960",
+            "Key": "JUDGE_TIME_GREATER_THAN_38f",
             "Value": 2960,
             "Object": false,
             "UnionType": {
@@ -106478,7 +108654,7 @@
         {
           "Key": 2961,
           "Value": {
-            "Key": "DUMMY_2961",
+            "Key": "JUDGE_TIME_GREATER_THAN_50f",
             "Value": 2961,
             "Object": false,
             "UnionType": {
@@ -106495,7 +108671,7 @@
         {
           "Key": 2962,
           "Value": {
-            "Key": "DUMMY_2962",
+            "Key": "JUDGE_TIME_GREATER_THAN_56f",
             "Value": 2962,
             "Object": false,
             "UnionType": {
@@ -106512,7 +108688,7 @@
         {
           "Key": 2963,
           "Value": {
-            "Key": "DUMMY_2963",
+            "Key": "JUDGE_TIME_GREATER_THAN_80f",
             "Value": 2963,
             "Object": false,
             "UnionType": {
@@ -106529,7 +108705,7 @@
         {
           "Key": 2964,
           "Value": {
-            "Key": "DUMMY_2964",
+            "Key": "JUDGE_TIME_GREATER_THAN_100f",
             "Value": 2964,
             "Object": false,
             "UnionType": {
@@ -106546,7 +108722,7 @@
         {
           "Key": 2965,
           "Value": {
-            "Key": "DUMMY_2965",
+            "Key": "JUDGE_TIME_GREATER_THAN_20f_PARTS_LOOP",
             "Value": 2965,
             "Object": false,
             "UnionType": {
@@ -106563,7 +108739,7 @@
         {
           "Key": 2966,
           "Value": {
-            "Key": "DUMMY_2966",
+            "Key": "JUDGE_TIME_GREATER_THAN_38f_PARTS_LOOP",
             "Value": 2966,
             "Object": false,
             "UnionType": {
@@ -106580,7 +108756,7 @@
         {
           "Key": 2967,
           "Value": {
-            "Key": "DUMMY_2967",
+            "Key": "JUDGE_TIME_GREATER_THAN_50f_PARTS_LOOP",
             "Value": 2967,
             "Object": false,
             "UnionType": {
@@ -106597,7 +108773,7 @@
         {
           "Key": 2968,
           "Value": {
-            "Key": "DUMMY_2968",
+            "Key": "JUDGE_TIME_GREATER_THAN_56f_PARTS_LOOP",
             "Value": 2968,
             "Object": false,
             "UnionType": {
@@ -106614,7 +108790,7 @@
         {
           "Key": 2969,
           "Value": {
-            "Key": "DUMMY_2969",
+            "Key": "JUDGE_TIME_GREATER_THAN_80f_PARTS_LOOP",
             "Value": 2969,
             "Object": false,
             "UnionType": {
@@ -106631,7 +108807,7 @@
         {
           "Key": 2970,
           "Value": {
-            "Key": "DUMMY_2970",
+            "Key": "JUDGE_TIME_GREATER_THAN_100f_PARTS_LOOP",
             "Value": 2970,
             "Object": false,
             "UnionType": {
@@ -106648,7 +108824,7 @@
         {
           "Key": 2971,
           "Value": {
-            "Key": "DUMMY_2971",
+            "Key": "JUDGE_TIME_GREATER_THAN_56f_6",
             "Value": 2971,
             "Object": false,
             "UnionType": {
@@ -106665,7 +108841,7 @@
         {
           "Key": 2972,
           "Value": {
-            "Key": "DUMMY_2972",
+            "Key": "JUDGE_TIME_GREATER_THAN_80f_6",
             "Value": 2972,
             "Object": false,
             "UnionType": {
@@ -106682,7 +108858,7 @@
         {
           "Key": 2973,
           "Value": {
-            "Key": "DUMMY_2973",
+            "Key": "JUDGE_TIME_GREATER_THAN_100f_6",
             "Value": 2973,
             "Object": false,
             "UnionType": {
@@ -106699,7 +108875,7 @@
         {
           "Key": 2974,
           "Value": {
-            "Key": "DUMMY_2974",
+            "Key": "JUDGE_TIME_GREATER_THAN_56f_N",
             "Value": 2974,
             "Object": false,
             "UnionType": {
@@ -106716,7 +108892,7 @@
         {
           "Key": 2975,
           "Value": {
-            "Key": "DUMMY_2975",
+            "Key": "JUDGE_TIME_GREATER_THAN_80f_N",
             "Value": 2975,
             "Object": false,
             "UnionType": {
@@ -106733,7 +108909,7 @@
         {
           "Key": 2976,
           "Value": {
-            "Key": "DUMMY_2976",
+            "Key": "JUDGE_TIME_GREATER_THAN_100f_N",
             "Value": 2976,
             "Object": false,
             "UnionType": {
@@ -106750,7 +108926,7 @@
         {
           "Key": 2977,
           "Value": {
-            "Key": "DUMMY_2977",
+            "Key": "CLEFFA_DANCE",
             "Value": 2977,
             "Object": false,
             "UnionType": {
@@ -106767,7 +108943,7 @@
         {
           "Key": 2978,
           "Value": {
-            "Key": "DUMMY_2978",
+            "Key": "CLEFAIRY_DANCE",
             "Value": 2978,
             "Object": false,
             "UnionType": {
@@ -106784,7 +108960,7 @@
         {
           "Key": 2979,
           "Value": {
-            "Key": "DUMMY_2979",
+            "Key": "CLEFABLE_DANCE",
             "Value": 2979,
             "Object": false,
             "UnionType": {
@@ -106835,7 +109011,7 @@
         {
           "Key": 2982,
           "Value": {
-            "Key": "DUMMY_2982",
+            "Key": "LAND_CLEFFA_ACTIVATED_MOON",
             "Value": 2982,
             "Object": false,
             "UnionType": {
@@ -106852,7 +109028,7 @@
         {
           "Key": 2983,
           "Value": {
-            "Key": "DUMMY_2983",
+            "Key": "LAND_CLEFFA_ACTIVATED_MOON_EQUAL_MOON",
             "Value": 2983,
             "Object": false,
             "UnionType": {
@@ -106869,7 +109045,7 @@
         {
           "Key": 2984,
           "Value": {
-            "Key": "DUMMY_2984",
+            "Key": "LAND_CLEFABLE_ACTIVATED_MOON",
             "Value": 2984,
             "Object": false,
             "UnionType": {
@@ -106886,7 +109062,7 @@
         {
           "Key": 2985,
           "Value": {
-            "Key": "DUMMY_2985",
+            "Key": "LAND_CLEFABLE_ACTIVATED_MOON_EQUAL_MOON",
             "Value": 2985,
             "Object": false,
             "UnionType": {
@@ -112207,7 +114383,7 @@
         {
           "Key": 3298,
           "Value": {
-            "Key": "DUMMY_3298",
+            "Key": "EXCL_ESCAPE_REVERSAL_RUN_LOW_STAMINA_VS_VIGILANT",
             "Value": 3298,
             "Object": false,
             "UnionType": {
@@ -112224,7 +114400,7 @@
         {
           "Key": 3299,
           "Value": {
-            "Key": "DUMMY_3299",
+            "Key": "EXCL_ESCAPE_REVERSAL_TURN_SPEED2_RUN_LOW_STAMINA_VS_VIGILANT",
             "Value": 3299,
             "Object": false,
             "UnionType": {
@@ -113550,7 +115726,7 @@
         {
           "Key": 3377,
           "Value": {
-            "Key": "DUMMY_3377",
+            "Key": "EXCL_NOT_TREE_HANGING_LOOK_AT_THE_GLANCE_AIR",
             "Value": 3377,
             "Object": false,
             "UnionType": {
@@ -113567,7 +115743,7 @@
         {
           "Key": 3378,
           "Value": {
-            "Key": "DUMMY_3378",
+            "Key": "EXCL_TREE_GAZE_NOT_TREE_OLD_VIGILANCE_PETRIFICATION",
             "Value": 3378,
             "Object": false,
             "UnionType": {
@@ -113686,7 +115862,7 @@
         {
           "Key": 3385,
           "Value": {
-            "Key": "DUMMY_3385",
+            "Key": "NOT_TREE_HANGING_AIR_ESCAPE_RUN_ESCAPE_RANGE",
             "Value": 3385,
             "Object": false,
             "UnionType": {

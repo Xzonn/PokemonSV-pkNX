@@ -3,7 +3,7 @@
   "WalkReleaseRange": 120,
   "BoxFetchRange": 100,
   "BoxReleaseRange": 120,
-  "BoxRevival": {
+  "Box": {
     "RevivalRate": 500,
     "QuantityData": {
       "Lottery00": {
@@ -66,7 +66,7 @@
       }
     }
   },
-  "WalkRevival": {
+  "Walk": {
     "RevivalRate": 5000,
     "QuantityData": {
       "Lottery00": {

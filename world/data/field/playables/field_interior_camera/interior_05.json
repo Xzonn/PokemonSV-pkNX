@@ -12,12 +12,12 @@
   "Distance": 11.6,
   "DelayFactor": 0.4,
   "Offset": {
-    "X": 0,
-    "Y": 1.3,
-    "Z": 0,
     "IsOne": false,
     "IsZero": false,
     "Magnitude": 1.3,
-    "MagnitudeSqr": 1.6899998
+    "MagnitudeSqr": 1.6899998,
+    "X": 0,
+    "Y": 1.3,
+    "Z": 0
   }
 }

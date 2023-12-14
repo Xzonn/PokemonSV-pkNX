@@ -2,7 +2,9 @@
   "Table": [
     {
       "Name": "a_c01_hairsalon",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01_01",
         "LocationNameSub": "PLACENAME_subarea_c01_02",
@@ -25,23 +27,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c01_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01_01",
         "LocationNameSub": "PLACENAME_subarea_c01_02",
@@ -64,23 +67,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c01_sandwich02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01_01",
         "LocationNameSub": "PLACENAME_subarea_c01_02",
@@ -103,23 +107,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c01_sandwich03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01_01",
         "LocationNameSub": "PLACENAME_subarea_c01_02",
@@ -142,23 +147,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c01_sandwich04",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01_01",
         "LocationNameSub": "PLACENAME_subarea_c01_02",
@@ -181,23 +187,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c01_sandwich05",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01_01",
         "LocationNameSub": "PLACENAME_subarea_c01_02",
@@ -220,23 +227,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c01_sandwich06",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01_01",
         "LocationNameSub": "PLACENAME_subarea_c01_02",
@@ -259,23 +267,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c02_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c02_01",
         "LocationNameSub": "PLACENAME_subarea_c02_02",
@@ -298,23 +307,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c02_hairsalon01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c02_01",
         "LocationNameSub": "PLACENAME_subarea_c02_02",
@@ -337,23 +347,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c02_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c02_01",
         "LocationNameSub": "PLACENAME_subarea_c02_02",
@@ -376,23 +387,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c03_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c03_01",
         "LocationNameSub": "PLACENAME_subarea_c03_02",
@@ -415,23 +427,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c03_hairsalon01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c03_01",
         "LocationNameSub": "PLACENAME_subarea_c03_02",
@@ -454,23 +467,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c03_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c03_01",
         "LocationNameSub": "PLACENAME_subarea_c03_02",
@@ -493,23 +507,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_c03_sandwich02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c03_01",
         "LocationNameSub": "PLACENAME_subarea_c03_02",
@@ -532,23 +547,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_com_building_a01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -571,23 +587,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_com_building_b01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -610,23 +627,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_com_hairsalon01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -649,23 +667,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_com_house_a01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -688,23 +707,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_com_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -727,23 +747,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_pl02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w03_01",
         "LocationNameSub": "PLACENAME_a_w03_02",
@@ -766,23 +787,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_pl11",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w03_01",
         "LocationNameSub": "PLACENAME_a_w03_02",
@@ -805,23 +827,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_raid_col",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -844,23 +867,24 @@
         "NoOcclusionCulling": true,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_cafe01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -883,23 +907,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_class1a",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -922,23 +947,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_class1d",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -961,23 +987,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_class2g",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1000,23 +1027,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_dorm01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1039,23 +1067,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_dorm02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1078,23 +1107,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_dorm03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1117,23 +1147,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_dorm04",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1156,23 +1187,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_entrance01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1195,23 +1227,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_ground01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1234,23 +1267,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_office01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1273,23 +1307,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_office02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1312,23 +1347,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_office03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1351,23 +1387,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_room01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1390,23 +1427,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_room02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1429,23 +1467,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_room03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1468,23 +1507,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_sch_shop01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_c01school_02",
         "LocationNameSub": "PLACENAME_subarea_c01school_01",
@@ -1507,23 +1547,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t01_i01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t01_01",
         "LocationNameSub": "PLACENAME_subarea_t01_02",
@@ -1546,23 +1587,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t01_i02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t01_01",
         "LocationNameSub": "PLACENAME_subarea_t01_02",
@@ -1585,23 +1627,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1624,23 +1667,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1663,23 +1707,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1702,23 +1747,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i04",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1741,23 +1787,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i05",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1780,23 +1827,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i06",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1819,23 +1867,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i07",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1858,23 +1907,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i08",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1897,23 +1947,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t02_i09",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -1936,23 +1987,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t03_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t03_01",
         "LocationNameSub": "PLACENAME_subarea_t03_02",
@@ -1975,23 +2027,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t03_i01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2014,23 +2067,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t03_i02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2053,23 +2107,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t03_i03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2092,23 +2147,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t03_i04",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2131,23 +2187,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t03_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t03_01",
         "LocationNameSub": "PLACENAME_subarea_t03_02",
@@ -2170,23 +2227,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t04_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t04_01",
         "LocationNameSub": "PLACENAME_subarea_t04_02",
@@ -2209,23 +2267,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t04_i01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2248,23 +2307,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t04_i02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2287,23 +2347,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t04_i03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2326,23 +2387,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t04_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t04_01",
         "LocationNameSub": "PLACENAME_subarea_t04_02",
@@ -2365,23 +2427,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t05_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t05_01",
         "LocationNameSub": "PLACENAME_subarea_t05_02",
@@ -2404,23 +2467,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t06_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t06_01",
         "LocationNameSub": "PLACENAME_subarea_t06_02",
@@ -2443,23 +2507,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t06_g10",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t06_01",
         "LocationNameSub": "PLACENAME_subarea_t06_02",
@@ -2482,23 +2547,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t06_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t06_01",
         "LocationNameSub": "PLACENAME_subarea_t06_02",
@@ -2521,23 +2587,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t07_i01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -2560,23 +2627,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t07_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t07_01",
         "LocationNameSub": "PLACENAME_subarea_t07_02",
@@ -2599,23 +2667,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t08_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t08_01",
         "LocationNameSub": "PLACENAME_subarea_t08_02",
@@ -2638,23 +2707,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t08_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t08_01",
         "LocationNameSub": "PLACENAME_subarea_t08_02",
@@ -2677,23 +2747,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t09_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t09_01",
         "LocationNameSub": "PLACENAME_subarea_t09_02",
@@ -2716,23 +2787,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_t09_sandwich01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t09_01",
         "LocationNameSub": "PLACENAME_subarea_t09_02",
@@ -2755,23 +2827,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w01_i01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_r01_01",
         "LocationNameSub": "PLACENAME_subarea_r01_02",
@@ -2794,23 +2867,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w08_nushi",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "PLACENAME_a_w08_01",
         "LocationNameSub": "PLACENAME_a_w08_02",
@@ -2833,23 +2907,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w09_nushi",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "PLACENAME_a_w09_01",
         "LocationNameSub": "PLACENAME_a_w09_02",
@@ -2872,23 +2947,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w10_nushi",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "PLACENAME_a_w10_01",
         "LocationNameSub": "PLACENAME_a_w10_02",
@@ -2911,23 +2987,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w14_nushi",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "PLACENAME_a_w14_01",
         "LocationNameSub": "PLACENAME_a_w14_02",
@@ -2950,23 +3027,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w17_g01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w17_01",
         "LocationNameSub": "PLACENAME_a_w17_02",
@@ -2989,23 +3067,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w18_nushi",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "PLACENAME_a_w18_01",
         "LocationNameSub": "PLACENAME_a_w18_02",
@@ -3028,23 +3107,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_d01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -3067,23 +3147,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 13,
+        "AdjustEncLv": 0,
+        "BiomeBase": 13,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_d02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -3106,23 +3187,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 13,
+        "AdjustEncLv": 0,
+        "BiomeBase": 13,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_d03",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -3145,23 +3227,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 13,
+        "AdjustEncLv": 0,
+        "BiomeBase": 13,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_d04",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 3,
         "LocationNameMain": "",
         "LocationNameSub": "",
@@ -3184,23 +3267,144 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 13,
+        "AdjustEncLv": 0,
+        "BiomeBase": 13,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
+        }
+      }
+    },
+    {
+      "Name": "a_w23_d10",
+      "Info": {
+        "ActualMinLevel": 65,
+        "ActualMaxLevel": 74,
+        "Type": 3,
+        "LocationNameMain": "PLACENAME_a_w23_d10_01",
+        "LocationNameSub": "PLACENAME_a_w23_d10_02",
+        "Bgm": "A_W23_D10",
+        "EnvBaseSound": "A_W23_D10",
+        "WeatherTable": "weather_table_room_default",
+        "LightFileP1": "fel_su2_a_w23_cave01",
+        "LightFileP2": "",
+        "LightFileP3": "",
+        "ShadowClipHeightOffset": 3,
+        "ShadowClipHeightMinOffset": -3,
+        "DisableLightOffset": true,
+        "NoDisplayLocationName": false,
+        "NoRide": false,
+        "NoFly": false,
+        "NoPicnic": false,
+        "NoPartner": false,
+        "NoSpawnSection": false,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 65,
+        "MaxEncLv": 74,
+        "AdjustEncLv": 0,
+        "BiomeBase": 13,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
+      }
+    },
+    {
+      "Name": "a_w23_d10_subarea",
+      "Info": {
         "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        "ActualMaxLevel": 100,
+        "Type": 3,
+        "LocationNameMain": "PLACENAME_a_w23_d10_01",
+        "LocationNameSub": "PLACENAME_a_w23_d10_02",
+        "Bgm": "A_W23_D10",
+        "EnvBaseSound": "A_W23_D10_SUBAREA",
+        "WeatherTable": "weather_table_room_default",
+        "LightFileP1": "fel_su2_a_w23_cave01",
+        "LightFileP2": "fel_su2_a_w23_cave01_1",
+        "LightFileP3": "",
+        "ShadowClipHeightOffset": 3,
+        "ShadowClipHeightMinOffset": -3,
+        "DisableLightOffset": true,
+        "NoDisplayLocationName": false,
+        "NoRide": false,
+        "NoFly": false,
+        "NoPicnic": false,
+        "NoPartner": false,
+        "NoSpawnSection": false,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 0,
+        "MaxEncLv": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 13,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
+      }
+    },
+    {
+      "Name": "a_w23_d11",
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
+        "Type": 3,
+        "LocationNameMain": "PLACENAME_a_w23_d11_01",
+        "LocationNameSub": "PLACENAME_a_w23_d11_02",
+        "Bgm": "A_W23_D11",
+        "EnvBaseSound": "A_W23_D11",
+        "WeatherTable": "weather_table_room_default",
+        "LightFileP1": "fel_su2_w23_d11_0",
+        "LightFileP2": "",
+        "LightFileP3": "",
+        "ShadowClipHeightOffset": 3,
+        "ShadowClipHeightMinOffset": -3,
+        "DisableLightOffset": true,
+        "NoDisplayLocationName": false,
+        "NoRide": true,
+        "NoFly": false,
+        "NoPicnic": false,
+        "NoPartner": false,
+        "NoSpawnSection": false,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 0,
+        "MaxEncLv": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 13,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
       }
     },
     {
       "Name": "a_w23_field_1",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 52,
+        "ActualMaxLevel": 56,
         "Type": 1,
         "LocationNameMain": "PLACENAME_a_w23_field_1_01",
         "LocationNameSub": "PLACENAME_a_w23_field_1_02",
@@ -3223,23 +3427,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 52,
         "MaxEncLv": 56,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 52,
-        "ActualMaxLevel": 56
+        }
       }
     },
     {
       "Name": "a_w23_field_2",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 55,
+        "ActualMaxLevel": 59,
         "Type": 1,
         "LocationNameMain": "PLACENAME_a_w23_field_1_01",
         "LocationNameSub": "PLACENAME_a_w23_field_1_02",
@@ -3262,23 +3467,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 55,
         "MaxEncLv": 59,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 55,
-        "ActualMaxLevel": 59
+        }
       }
     },
     {
       "Name": "a_w23_field_3",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 57,
+        "ActualMaxLevel": 62,
         "Type": 3,
         "LocationNameMain": "PLACENAME_a_w23_field_1_01",
         "LocationNameSub": "PLACENAME_a_w23_field_1_02",
@@ -3301,23 +3507,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 57,
         "MaxEncLv": 62,
-        "BaseBiome": 11,
+        "AdjustEncLv": 0,
+        "BiomeBase": 11,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 57,
-        "ActualMaxLevel": 62
+        }
       }
     },
     {
       "Name": "a_w23_i01",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i01_01",
         "LocationNameSub": "PLACENAME_a_w23_i01_02",
@@ -3340,23 +3547,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_i02",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i01_01",
         "LocationNameSub": "PLACENAME_a_w23_i01_02",
@@ -3379,23 +3587,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_i11",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i11_02",
         "LocationNameSub": "PLACENAME_a_w23_i11_01",
@@ -3418,23 +3627,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_i12",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i12_02",
         "LocationNameSub": "PLACENAME_a_w23_i12_01",
@@ -3457,23 +3667,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_i13",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i13_02",
         "LocationNameSub": "PLACENAME_a_w23_i13_01",
@@ -3496,23 +3707,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_i14",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i14_02",
         "LocationNameSub": "PLACENAME_a_w23_i14_01",
@@ -3535,23 +3747,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "a_w23_i21",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i21_01",
         "LocationNameSub": "PLACENAME_a_w23_i21_02",
@@ -3574,23 +3787,64 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
+        }
+      }
+    },
+    {
+      "Name": "a_w23_i21_2",
+      "Info": {
         "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        "ActualMaxLevel": 100,
+        "Type": 4,
+        "LocationNameMain": "PLACENAME_a_w23_i21_01",
+        "LocationNameSub": "PLACENAME_a_w23_i21_02",
+        "Bgm": "A_W23_I21",
+        "EnvBaseSound": "A_W23_I21",
+        "WeatherTable": "weather_table_room_default",
+        "LightFileP1": "fel_interior",
+        "LightFileP2": "fel_su2_a_w23_i21_2",
+        "LightFileP3": "",
+        "ShadowClipHeightOffset": 330,
+        "ShadowClipHeightMinOffset": -330,
+        "DisableLightOffset": true,
+        "NoDisplayLocationName": true,
+        "NoRide": true,
+        "NoFly": true,
+        "NoPicnic": true,
+        "NoPartner": true,
+        "NoSpawnSection": false,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 0,
+        "MaxEncLv": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
       }
     },
     {
       "Name": "a_w23_i22",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i21_01",
         "LocationNameSub": "PLACENAME_a_w23_i21_02",
@@ -3613,23 +3867,64 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
+        }
+      }
+    },
+    {
+      "Name": "a_w23_i22_2",
+      "Info": {
         "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        "ActualMaxLevel": 100,
+        "Type": 4,
+        "LocationNameMain": "PLACENAME_a_w23_i21_01",
+        "LocationNameSub": "PLACENAME_a_w23_i21_02",
+        "Bgm": "A_W23_I22",
+        "EnvBaseSound": "A_W23_I22",
+        "WeatherTable": "weather_table_room_default",
+        "LightFileP1": "fel_interior",
+        "LightFileP2": "fel_a_w23_i22",
+        "LightFileP3": "fel_su2_a_w23_i22_2_pointlight",
+        "ShadowClipHeightOffset": 3,
+        "ShadowClipHeightMinOffset": -3,
+        "DisableLightOffset": true,
+        "NoDisplayLocationName": true,
+        "NoRide": true,
+        "NoFly": true,
+        "NoPicnic": true,
+        "NoPartner": true,
+        "NoSpawnSection": false,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 0,
+        "MaxEncLv": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
       }
     },
     {
       "Name": "a_w23_i23",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_a_w23_i21_01",
         "LocationNameSub": "PLACENAME_a_w23_i21_02",
@@ -3652,23 +3947,24 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     },
     {
       "Name": "battlebg_a_t06_g10",
-      "AreaInfo": {
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
         "Type": 4,
         "LocationNameMain": "PLACENAME_subarea_t06_01",
         "LocationNameSub": "PLACENAME_subarea_t06_02",
@@ -3691,18 +3987,17 @@
         "NoOcclusionCulling": false,
         "MinEncLv": 0,
         "MaxEncLv": 0,
-        "BaseBiome": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
         "Tag": 0,
-        "OverrideBiome": {
+        "BiomeOverride": {
           "Attr1": 99,
           "Biome1": 0,
           "Attr2": 99,
           "Biome2": 0,
           "Attr3": 99,
           "Biome3": 0
-        },
-        "ActualMinLevel": 1,
-        "ActualMaxLevel": 100
+        }
       }
     }
   ]

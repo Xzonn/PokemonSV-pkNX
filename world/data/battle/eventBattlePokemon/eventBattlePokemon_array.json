@@ -3022,6 +3022,3540 @@
       "EventEncount": true
     },
     {
+      "Label": "SDC01_dokuzaru_01",
+      "PokeData": {
+        "DevId": 1015,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 30,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 93,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 60,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 180,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 499,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_dokuzaru_01_strong",
+      "PokeData": {
+        "DevId": 1015,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 94,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 398,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 417,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 180,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_get_dokuinu",
+      "PokeData": {
+        "DevId": 1014,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC01_get_dokukizi",
+      "PokeData": {
+        "DevId": 1016,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC01_get_dokuzaru",
+      "PokeData": {
+        "DevId": 1015,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC01_kamenoni_1",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 2,
+        "Sex": 1,
+        "Level": 20,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 74,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 22,
+          "PointUp": 0
+        },
+        "GemType": 11,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC01_kamenoni_1_strong",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 2,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 67,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 580,
+          "PointUp": 0
+        },
+        "GemType": 11,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC01_kamenoni_2",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 1,
+        "Sex": 1,
+        "Level": 20,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 74,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 22,
+          "PointUp": 0
+        },
+        "GemType": 12,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_kamenoni_2_strong",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 1,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 67,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 580,
+          "PointUp": 0
+        },
+        "GemType": 12,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_kamenoni_3",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 3,
+        "Sex": 1,
+        "Level": 20,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 74,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 22,
+          "PointUp": 0
+        },
+        "GemType": 7,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_kamenoni_3_strong",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 3,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 67,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 580,
+          "PointUp": 0
+        },
+        "GemType": 7,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_kamenoni_4",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 20,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 74,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 22,
+          "PointUp": 0
+        },
+        "GemType": 13,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_kamenoni_4_strong",
+      "PokeData": {
+        "DevId": 1011,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 31,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 2,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 904,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 67,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 21,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 580,
+          "PointUp": 0
+        },
+        "GemType": 13,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_midoriikenushi",
+      "PokeData": {
+        "DevId": 350,
+        "FormId": 0,
+        "Sex": 2,
+        "Level": 30,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 239,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 352,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 574,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 240,
+          "PointUp": 0
+        },
+        "GemType": 9,
+        "ScaleType": 6,
+        "ScaleValue": 255,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_midoriikenushi_strong",
+      "PokeData": {
+        "DevId": 350,
+        "FormId": 0,
+        "Sex": 2,
+        "Level": 73,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 406,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 57,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 58,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 240,
+          "PointUp": 0
+        },
+        "GemType": 9,
+        "ScaleType": 6,
+        "ScaleValue": 255,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_onitaizi_dokuinu",
+      "PokeData": {
+        "DevId": 1014,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 35,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 0,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 44,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 305,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 67,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 693,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_onitaizi_dokuinu_strong",
+      "PokeData": {
+        "DevId": 1014,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 85,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 201,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 242,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 370,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 693,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 398,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_onitaizi_bird",
+      "PokeData": {
+        "DevId": 1016,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 35,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 0,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 98,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 17,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 398,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 605,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_onitaizi_bird_strong",
+      "PokeData": {
+        "DevId": 1016,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 85,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 440,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 583,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 814,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 605,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_onitaizi_monkey",
+      "PokeData": {
+        "DevId": 1015,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 35,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 0,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 93,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 499,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 60,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 180,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC01_onitaizi_monkey_strong",
+      "PokeData": {
+        "DevId": 1015,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 85,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 252,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 94,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 482,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 247,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 417,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "S1_SIDE02_ariados",
+      "PokeData": {
+        "DevId": 168,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 65,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 8,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "S1_SIDE02_himeguma3B",
+      "PokeData": {
+        "DevId": 901,
+        "FormId": 1,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 901,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 414,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 163,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 347,
+          "PointUp": 0
+        },
+        "GemType": 2,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_sub_Aentei",
+      "PokeData": {
+        "DevId": 1017,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 75,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 11,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_sub_Araikou",
+      "PokeData": {
+        "DevId": 1018,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 75,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 239,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 352,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 574,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 240,
+          "PointUp": 0
+        },
+        "GemType": 14,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_area0_gaburiasu",
+      "PokeData": {
+        "DevId": 445,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 80,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 101,
+        "ScaleType": 6,
+        "ScaleValue": 254,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_area0_kirafuroru",
+      "PokeData": {
+        "DevId": 967,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 78,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 101,
+        "ScaleType": 6,
+        "ScaleValue": 254,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_area0_onbaan",
+      "PokeData": {
+        "DevId": 715,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 78,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 101,
+        "ScaleType": 6,
+        "ScaleValue": 254,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_area0_sio",
+      "PokeData": {
+        "DevId": 965,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 80,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 359,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 484,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 89,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 444,
+          "PointUp": 0
+        },
+        "GemType": 101,
+        "ScaleType": 6,
+        "ScaleValue": 254,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_area0_sunanokegawa",
+      "PokeData": {
+        "DevId": 981,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 79,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 101,
+        "ScaleType": 6,
+        "ScaleValue": 254,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_area0_tetunoibara",
+      "PokeData": {
+        "DevId": 991,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 79,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 101,
+        "ScaleType": 6,
+        "ScaleValue": 254,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_sub_Bkobaruon",
+      "PokeData": {
+        "DevId": 1019,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 75,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 239,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 352,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 574,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 240,
+          "PointUp": 0
+        },
+        "GemType": 10,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_sub_Bterakion",
+      "PokeData": {
+        "DevId": 1020,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 75,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 239,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 352,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 574,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 240,
+          "PointUp": 0
+        },
+        "GemType": 7,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_dokutarou",
+      "PokeData": {
+        "DevId": 1022,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 88,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 11,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 417,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 92,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 919,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 247,
+          "PointUp": 0
+        },
+        "GemType": 5,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "SDC02_0310_kodaikame",
+      "PokeData": {
+        "DevId": 1021,
+        "FormId": 1,
+        "Sex": 1,
+        "Level": 90,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 239,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 352,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 574,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 240,
+          "PointUp": 0
+        },
+        "GemType": 12,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "SDC02_0330_kodaikame",
+      "PokeData": {
+        "DevId": 1021,
+        "FormId": 2,
+        "Sex": 1,
+        "Level": 85,
+        "RareType": 1,
+        "TalentType": 2,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 31,
+          "ATK": 15,
+          "DEF": 31,
+          "SPA": 31,
+          "SPD": 31,
+          "SPE": 31
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 1,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 906,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 428,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 414,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 352,
+          "PointUp": 0
+        },
+        "GemType": 101,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": false
+    },
+    {
+      "Label": "su2_legend_Cobalion",
+      "PokeData": {
+        "DevId": 638,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 3,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Dkuma",
+      "PokeData": {
+        "DevId": 891,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 30,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 3,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Entei",
+      "PokeData": {
+        "DevId": 244,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 11,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_freezer",
+      "PokeData": {
+        "DevId": 144,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 16,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Glastrier",
+      "PokeData": {
+        "DevId": 896,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 16,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Groudon",
+      "PokeData": {
+        "DevId": 383,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 11,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Houou",
+      "PokeData": {
+        "DevId": 250,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 11,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Kyogre",
+      "PokeData": {
+        "DevId": 382,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 12,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Kyurem",
+      "PokeData": {
+        "DevId": 646,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 17,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Latias",
+      "PokeData": {
+        "DevId": 380,
+        "FormId": 0,
+        "Sex": 2,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 15,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Latios",
+      "PokeData": {
+        "DevId": 381,
+        "FormId": 0,
+        "Sex": 1,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 295,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 406,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 428,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 225,
+          "PointUp": 0
+        },
+        "GemType": 15,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Lugia",
+      "PokeData": {
+        "DevId": 249,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 12,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Lunala",
+      "PokeData": {
+        "DevId": 792,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 15,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Moltres",
+      "PokeData": {
+        "DevId": 146,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 11,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Necrozma",
+      "PokeData": {
+        "DevId": 800,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 15,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Raikou",
+      "PokeData": {
+        "DevId": 243,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 14,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Rayquaza",
+      "PokeData": {
+        "DevId": 384,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 4,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Reshiram",
+      "PokeData": {
+        "DevId": 643,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 17,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Solgaleo",
+      "PokeData": {
+        "DevId": 791,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 15,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Spectrier",
+      "PokeData": {
+        "DevId": 897,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 9,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Suicune",
+      "PokeData": {
+        "DevId": 245,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 12,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Terrakion",
+      "PokeData": {
+        "DevId": 639,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 3,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Virizion",
+      "PokeData": {
+        "DevId": 640,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 3,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Zapdos",
+      "PokeData": {
+        "DevId": 145,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 14,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_legend_Zekrom",
+      "PokeData": {
+        "DevId": 644,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 0,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 0,
+        "Waza1": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 0,
+          "PointUp": 0
+        },
+        "GemType": 17,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
+      "Label": "su2_sub_Meloetta",
+      "PokeData": {
+        "DevId": 648,
+        "FormId": 0,
+        "Sex": 0,
+        "Level": 70,
+        "RareType": 1,
+        "TalentType": 1,
+        "TalentVnum": 3,
+        "TalentValue": {
+          "HP": 20,
+          "ATK": 20,
+          "DEF": 20,
+          "SPA": 20,
+          "SPD": 20,
+          "SPE": 20
+        },
+        "EffortValue": {
+          "HP": 0,
+          "ATK": 0,
+          "DEF": 0,
+          "SPA": 0,
+          "SPD": 0,
+          "SPE": 0
+        },
+        "Item": 0,
+        "DropItem": 0,
+        "DropItemNum": 0,
+        "Seikaku": 0,
+        "SeikakuHosei": 0,
+        "Tokusei": 2,
+        "WazaType": 1,
+        "Waza1": {
+          "WazaId": 547,
+          "PointUp": 0
+        },
+        "Waza2": {
+          "WazaId": 304,
+          "PointUp": 0
+        },
+        "Waza3": {
+          "WazaId": 47,
+          "PointUp": 0
+        },
+        "Waza4": {
+          "WazaId": 94,
+          "PointUp": 0
+        },
+        "GemType": 3,
+        "ScaleType": 6,
+        "ScaleValue": 128,
+        "SetRibbon": 0
+      },
+      "DisableBattleOut": true,
+      "EventEncount": true
+    },
+    {
       "Label": "sub018_AIGUANA",
       "PokeData": {
         "DevId": 998,

@@ -3423,6 +3423,1926 @@
       "ItemCondkind": 3,
       "ItemCondvalue": "BADGE8",
       "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 1,
+      "Item": 30,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 2,
+      "Item": 31,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 3,
+      "Item": 32,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 4,
+      "Item": 33,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 5,
+      "Item": 17,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 6,
+      "Item": 26,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 7,
+      "Item": 25,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 8,
+      "Item": 24,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 9,
+      "Item": 23,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 10,
+      "Item": 4,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 11,
+      "Item": 3,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 12,
+      "Item": 2,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 13,
+      "Item": 14,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 14,
+      "Item": 6,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 15,
+      "Item": 9,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 16,
+      "Item": 8,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 17,
+      "Item": 11,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 18,
+      "Item": 7,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 19,
+      "Item": 15,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 20,
+      "Item": 13,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 21,
+      "Item": 10,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE8",
+      "GymBadgeNum": 8
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 22,
+      "Item": 18,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 23,
+      "Item": 19,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 24,
+      "Item": 20,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 25,
+      "Item": 21,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 26,
+      "Item": 22,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 27,
+      "Item": 27,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 28,
+      "Item": 28,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 29,
+      "Item": 63,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 30,
+      "Item": 34,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 31,
+      "Item": 35,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 32,
+      "Item": 36,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 33,
+      "Item": 37,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 34,
+      "Item": 1889,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 35,
+      "Item": 1890,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 36,
+      "Item": 1892,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 37,
+      "Item": 1895,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 38,
+      "Item": 1896,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 39,
+      "Item": 1909,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 40,
+      "Item": 1910,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 41,
+      "Item": 1938,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 42,
+      "Item": 1921,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 43,
+      "Item": 1914,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 44,
+      "Item": 1934,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 45,
+      "Item": 1900,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 46,
+      "Item": 1902,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 47,
+      "Item": 1911,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 48,
+      "Item": 1912,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 49,
+      "Item": 1897,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 50,
+      "Item": 1919,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE2",
+      "GymBadgeNum": 2
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 51,
+      "Item": 1916,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE3",
+      "GymBadgeNum": 3
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 52,
+      "Item": 1901,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE4",
+      "GymBadgeNum": 4
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 53,
+      "Item": 1931,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 54,
+      "Item": 1932,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 55,
+      "Item": 1933,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE5",
+      "GymBadgeNum": 5
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 56,
+      "Item": 1924,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 57,
+      "Item": 1942,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE6",
+      "GymBadgeNum": 6
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 58,
+      "Item": 1943,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE7",
+      "GymBadgeNum": 7
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 59,
+      "Item": 2335,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 60,
+      "Item": 2336,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 61,
+      "Item": 2342,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 62,
+      "Item": 2385,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 63,
+      "Item": 2386,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 64,
+      "Item": 2338,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 65,
+      "Item": 2340,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_syouten_lineup",
+      "Sortnum": 66,
+      "Item": 2337,
+      "ItemCondkind": 3,
+      "ItemCondvalue": "BADGE1",
+      "GymBadgeNum": 1
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 1,
+      "Item": 29,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 2,
+      "Item": 38,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 3,
+      "Item": 39,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 4,
+      "Item": 40,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 5,
+      "Item": 41,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 6,
+      "Item": 45,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 7,
+      "Item": 46,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 8,
+      "Item": 47,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 9,
+      "Item": 48,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 10,
+      "Item": 49,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 11,
+      "Item": 52,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 12,
+      "Item": 51,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 13,
+      "Item": 1126,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 14,
+      "Item": 1127,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 15,
+      "Item": 50,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 16,
+      "Item": 235,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 17,
+      "Item": 252,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 18,
+      "Item": 321,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 19,
+      "Item": 322,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 20,
+      "Item": 323,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 21,
+      "Item": 324,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 22,
+      "Item": 2482,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 23,
+      "Item": 329,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 24,
+      "Item": 334,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 25,
+      "Item": 356,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 26,
+      "Item": 357,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 27,
+      "Item": 361,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 28,
+      "Item": 366,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 29,
+      "Item": 368,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 30,
+      "Item": 371,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 31,
+      "Item": 387,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 32,
+      "Item": 391,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 33,
+      "Item": 401,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 34,
+      "Item": 402,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 35,
+      "Item": 403,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 36,
+      "Item": 408,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 37,
+      "Item": 409,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 38,
+      "Item": 413,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 39,
+      "Item": 414,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 40,
+      "Item": 415,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 41,
+      "Item": 416,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 42,
+      "Item": 2160,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 43,
+      "Item": 2163,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 44,
+      "Item": 2164,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 45,
+      "Item": 2167,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 46,
+      "Item": 2168,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 47,
+      "Item": 2169,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 48,
+      "Item": 2170,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 49,
+      "Item": 2171,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 50,
+      "Item": 2172,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 51,
+      "Item": 2173,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 52,
+      "Item": 2175,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 53,
+      "Item": 2177,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 54,
+      "Item": 2178,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 55,
+      "Item": 2179,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 56,
+      "Item": 2184,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 57,
+      "Item": 2185,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 58,
+      "Item": 2186,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 59,
+      "Item": 2187,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 60,
+      "Item": 2189,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 61,
+      "Item": 2190,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 62,
+      "Item": 2193,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 63,
+      "Item": 2195,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 64,
+      "Item": 2200,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 65,
+      "Item": 2201,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 66,
+      "Item": 2202,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 67,
+      "Item": 2203,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 68,
+      "Item": 2208,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 69,
+      "Item": 2209,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 70,
+      "Item": 2210,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 71,
+      "Item": 2216,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 72,
+      "Item": 2217,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 73,
+      "Item": 2218,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 74,
+      "Item": 2219,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 75,
+      "Item": 2220,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 76,
+      "Item": 2221,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 77,
+      "Item": 2222,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 78,
+      "Item": 2223,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 79,
+      "Item": 2224,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 80,
+      "Item": 2225,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 81,
+      "Item": 2226,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 82,
+      "Item": 2231,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 83,
+      "Item": 2247,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 84,
+      "Item": 2256,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 85,
+      "Item": 2257,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbkoubai_lineup",
+      "Sortnum": 86,
+      "Item": 2260,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 1,
+      "Item": 30,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 2,
+      "Item": 31,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 3,
+      "Item": 32,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 4,
+      "Item": 33,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 5,
+      "Item": 17,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 6,
+      "Item": 26,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 7,
+      "Item": 25,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 8,
+      "Item": 24,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 9,
+      "Item": 23,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 10,
+      "Item": 4,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 11,
+      "Item": 3,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 12,
+      "Item": 2,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 13,
+      "Item": 14,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 14,
+      "Item": 6,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 15,
+      "Item": 9,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 16,
+      "Item": 8,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 17,
+      "Item": 11,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 18,
+      "Item": 7,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 19,
+      "Item": 15,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 20,
+      "Item": 13,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 21,
+      "Item": 10,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 22,
+      "Item": 18,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 23,
+      "Item": 19,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 24,
+      "Item": 20,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 25,
+      "Item": 21,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 26,
+      "Item": 22,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 27,
+      "Item": 27,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 28,
+      "Item": 28,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 29,
+      "Item": 55,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 30,
+      "Item": 56,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 31,
+      "Item": 57,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 32,
+      "Item": 58,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 33,
+      "Item": 59,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 34,
+      "Item": 60,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 35,
+      "Item": 61,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 36,
+      "Item": 62,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 37,
+      "Item": 63,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 38,
+      "Item": 1889,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 39,
+      "Item": 1890,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 40,
+      "Item": 1891,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 41,
+      "Item": 1892,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 42,
+      "Item": 1893,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 43,
+      "Item": 1894,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 44,
+      "Item": 1895,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 45,
+      "Item": 1896,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 46,
+      "Item": 1897,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 47,
+      "Item": 1898,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 48,
+      "Item": 1899,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 49,
+      "Item": 1903,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 50,
+      "Item": 1909,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 51,
+      "Item": 1910,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 52,
+      "Item": 1911,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 53,
+      "Item": 1912,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 54,
+      "Item": 1913,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 55,
+      "Item": 1915,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 56,
+      "Item": 1917,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 57,
+      "Item": 1918,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 58,
+      "Item": 1920,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 59,
+      "Item": 1922,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 60,
+      "Item": 1923,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 61,
+      "Item": 1925,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 62,
+      "Item": 1926,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 63,
+      "Item": 1927,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 64,
+      "Item": 1928,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 65,
+      "Item": 1929,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 66,
+      "Item": 1930,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 67,
+      "Item": 1932,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 68,
+      "Item": 1933,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 69,
+      "Item": 1935,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 70,
+      "Item": 1936,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 71,
+      "Item": 1937,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 72,
+      "Item": 1938,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 73,
+      "Item": 1939,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 74,
+      "Item": 1940,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 75,
+      "Item": 1941,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 76,
+      "Item": 1944,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 77,
+      "Item": 1945,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 78,
+      "Item": 1946,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 79,
+      "Item": 2335,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 80,
+      "Item": 2336,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 81,
+      "Item": 2337,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 82,
+      "Item": 2342,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 83,
+      "Item": 2385,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 84,
+      "Item": 2386,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 85,
+      "Item": 2338,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 86,
+      "Item": 2340,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 87,
+      "Item": 2548,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
+    },
+    {
+      "Lineupid": "shop_bbzihanki_lineup",
+      "Sortnum": 88,
+      "Item": 2551,
+      "ItemCondkind": 0,
+      "ItemCondvalue": "",
+      "GymBadgeNum": 0
     }
   ]
 }

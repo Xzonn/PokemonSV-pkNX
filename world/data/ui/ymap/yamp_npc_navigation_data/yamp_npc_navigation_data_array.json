@@ -4,13 +4,13 @@
       "ID": "NAVI_TEST_SCENE",
       "Type": 2,
       "Position": {
-        "X": 0,
-        "Y": 0,
-        "Z": 0,
         "IsOne": false,
         "IsZero": true,
         "Magnitude": 0,
-        "MagnitudeSqr": 0
+        "MagnitudeSqr": 0,
+        "X": 0,
+        "Y": 0,
+        "Z": 0
       },
       "MapIconID": "",
       "SceneName": "ter_04_02_resident",
@@ -21,13 +21,13 @@
       "ID": "NAVI_TEST_MAPICON",
       "Type": 1,
       "Position": {
-        "X": 0,
-        "Y": 0,
-        "Z": 0,
         "IsOne": false,
         "IsZero": true,
         "Magnitude": 0,
-        "MagnitudeSqr": 0
+        "MagnitudeSqr": 0,
+        "X": 0,
+        "Y": 0,
+        "Z": 0
       },
       "MapIconID": "DAN_AKU",
       "SceneName": "",
@@ -38,13 +38,13 @@
       "ID": "NAVI_TEST_POS",
       "Type": 0,
       "Position": {
-        "X": 2528.951,
-        "Y": 68.376,
-        "Z": 1042.752,
         "IsOne": false,
         "IsZero": false,
         "Magnitude": 2736.348,
-        "MagnitudeSqr": 7487600
+        "MagnitudeSqr": 7487600,
+        "X": 2528.951,
+        "Y": 68.376,
+        "Z": 1042.752
       },
       "MapIconID": "",
       "SceneName": "",

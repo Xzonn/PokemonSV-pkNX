@@ -1,0 +1,128 @@
+{
+  "Table": [
+    {
+      "DevNo": 26,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 27,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 28,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 37,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 38,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 58,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 59,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 74,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 75,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 76,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 94,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 110,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 130,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 194,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 215,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 229,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 282,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 362,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 445,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 448,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 475,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 549,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 550,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 550,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 705,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 706,
+      "FormNo": 1
+    },
+    {
+      "DevNo": 901,
+      "FormNo": 0
+    },
+    {
+      "DevNo": 1011,
+      "FormNo": 4
+    },
+    {
+      "DevNo": 1011,
+      "FormNo": 5
+    },
+    {
+      "DevNo": 1011,
+      "FormNo": 6
+    },
+    {
+      "DevNo": 1011,
+      "FormNo": 7
+    }
+  ]
+}

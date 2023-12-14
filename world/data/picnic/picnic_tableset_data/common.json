@@ -4,58 +4,34 @@
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 135.00002,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 135.00002,
-        "MagnitudeSqr": 18225.004
+        "Z": 0
       },
       "Translate": {
         "X": 0.10082747,
         "Y": 0.741,
-        "Z": -0.046147317,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.74925077,
-        "MagnitudeSqr": 0.5613767
+        "Z": -0.046147317
       }
     },
     "LanternPos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 0,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": true,
-        "Magnitude": 0,
-        "MagnitudeSqr": 0
+        "Z": 0
       },
       "Translate": {
         "X": -0.24639829,
         "Y": 0.756,
-        "Z": 0.176,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.8143857,
-        "MagnitudeSqr": 0.66322404
+        "Z": 0.176
       }
     },
     "Player0": {
@@ -63,87 +39,51 @@
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": 1,
           "Y": 0,
-          "Z": -0.5,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.118034,
-          "MagnitudeSqr": 1.25
+          "Z": -0.5
         }
       },
       "WaterBottlePos": {
         "Scale": {
           "X": 0.9999997,
           "Y": 1,
-          "Z": 0.9999997,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320504,
-          "MagnitudeSqr": 2.9999988
+          "Z": 0.9999997
         },
         "Rotate": {
           "X": -1.5434252E-05,
           "Y": 62.38448,
-          "Z": 0.0001276509,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 62.38448,
-          "MagnitudeSqr": 3891.8232
+          "Z": 0.0001276509
         },
         "Translate": {
           "X": 0.19,
           "Y": 0.753,
-          "Z": -0.451,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.898059,
-          "MagnitudeSqr": 0.80651
+          "Z": -0.451
         }
       },
       "TumblerPos": {
         "Scale": {
           "X": 0.9999999,
           "Y": 1,
-          "Z": 0.9999999,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320507,
-          "MagnitudeSqr": 2.9999995
+          "Z": 0.9999999
         },
         "Rotate": {
           "X": 0.00027343084,
           "Y": 86.47091,
-          "Z": -0.00016950138,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 86.47091,
-          "MagnitudeSqr": 7477.2183
+          "Z": -0.00016950138
         },
         "Translate": {
           "X": 0.40851343,
           "Y": 0.753,
-          "Z": -0.632,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.0645733,
-          "MagnitudeSqr": 1.1333163
+          "Z": -0.632
         }
       }
     },
@@ -152,87 +92,51 @@
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.9894489,
           "Y": 0,
-          "Z": -0.488,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.1032467,
-          "MagnitudeSqr": 1.2171532
+          "Z": -0.488
         }
       },
       "WaterBottlePos": {
         "Scale": {
           "X": 0.99999964,
           "Y": 1,
-          "Z": 0.99999964,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320504,
-          "MagnitudeSqr": 2.9999986
+          "Z": 0.99999964
         },
         "Rotate": {
           "X": -0.00025572738,
           "Y": -97.08383,
-          "Z": 6.171322E-05,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 97.08383,
-          "MagnitudeSqr": 9425.2705
+          "Z": 6.171322E-05
         },
         "Translate": {
           "X": -0.254,
           "Y": 0.753,
-          "Z": -0.33989036,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.8643209,
-          "MagnitudeSqr": 0.7470505
+          "Z": -0.33989036
         }
       },
       "TumblerPos": {
         "Scale": {
           "X": 0.9999994,
           "Y": 1,
-          "Z": 0.9999994,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320501,
-          "MagnitudeSqr": 2.9999976
+          "Z": 0.9999994
         },
         "Rotate": {
           "X": 0.00081736094,
           "Y": 160.80098,
-          "Z": -0.0002274801,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 160.80098,
-          "MagnitudeSqr": 25856.955
+          "Z": -0.0002274801
         },
         "Translate": {
           "X": -0.33855414,
           "Y": 0.753,
-          "Z": -0.6780392,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.0683469,
-          "MagnitudeSqr": 1.141365
+          "Z": -0.6780392
         }
       }
     },
@@ -241,87 +145,51 @@
         "Scale": {
           "X": 0.99999994,
           "Y": 1,
-          "Z": 0.99999994,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 2.9999998
+          "Z": 0.99999994
         },
         "Rotate": {
           "X": 0,
           "Y": -2.1479998,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 2.1479998,
-          "MagnitudeSqr": 4.613903
+          "Z": 0
         },
         "Translate": {
           "X": 1,
           "Y": 0,
-          "Z": 0.4657973,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.1031623,
-          "MagnitudeSqr": 1.2169671
+          "Z": 0.4657973
         }
       },
       "WaterBottlePos": {
         "Scale": {
           "X": 0.9999998,
           "Y": 1,
-          "Z": 0.9999998,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320507,
-          "MagnitudeSqr": 2.9999993
+          "Z": 0.9999998
         },
         "Rotate": {
           "X": -0.00068416994,
           "Y": 101.51099,
-          "Z": 0.00028249418,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 101.51099,
-          "MagnitudeSqr": 10304.48
+          "Z": 0.00028249418
         },
         "Translate": {
           "X": 0.1804543,
           "Y": 0.753,
-          "Z": 0.471,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.9063188,
-          "MagnitudeSqr": 0.82141376
+          "Z": 0.471
         }
       },
       "TumblerPos": {
         "Scale": {
           "X": 0.9999997,
           "Y": 1,
-          "Z": 0.9999997,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320504,
-          "MagnitudeSqr": 2.9999988
+          "Z": 0.9999997
         },
         "Rotate": {
           "X": 0.00090573844,
           "Y": 73.3384,
-          "Z": -0.0006889052,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 73.3384,
-          "MagnitudeSqr": 5378.521
+          "Z": -0.0006889052
         },
         "Translate": {
           "X": 0.325,
           "Y": 0.753,
-          "Z": 0.6227065,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.029756,
-          "MagnitudeSqr": 1.0603974
+          "Z": 0.6227065
         }
       }
     },
@@ -330,87 +198,51 @@
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 2.000792,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 2.000792,
-          "MagnitudeSqr": 4.0031686
+          "Z": 0
         },
         "Translate": {
           "X": -1,
           "Y": 0,
-          "Z": 0.5,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.118034,
-          "MagnitudeSqr": 1.25
+          "Z": 0.5
         }
       },
       "WaterBottlePos": {
         "Scale": {
           "X": 0.99999994,
           "Y": 1,
-          "Z": 0.99999994,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 2.9999998
+          "Z": 0.99999994
         },
         "Rotate": {
           "X": -0.001541451,
           "Y": -56.855988,
-          "Z": 0.00055622705,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 56.855988,
-          "MagnitudeSqr": 3232.6033
+          "Z": 0.00055622705
         },
         "Translate": {
           "X": -0.194,
           "Y": 0.753,
-          "Z": 0.426008,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.88663846,
-          "MagnitudeSqr": 0.7861278
+          "Z": 0.426008
         }
       },
       "TumblerPos": {
         "Scale": {
           "X": 0.9999995,
           "Y": 1,
-          "Z": 0.9999995,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.7320503,
-          "MagnitudeSqr": 2.999998
+          "Z": 0.9999995
         },
         "Rotate": {
           "X": 0.00087915064,
           "Y": -113.39346,
-          "Z": -0.000768186,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 113.39346,
-          "MagnitudeSqr": 12858.077
+          "Z": -0.000768186
         },
         "Translate": {
           "X": -0.38811323,
           "Y": 0.753,
-          "Z": 0.6988658,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.098205,
-          "MagnitudeSqr": 1.2060542
+          "Z": 0.6988658
         }
       }
     }
@@ -420,87 +252,51 @@
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 0,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": true,
-        "Magnitude": 0,
-        "MagnitudeSqr": 0
+        "Z": 0
       },
       "Translate": {
         "X": 0.2,
         "Y": 0.756,
-        "Z": 0.0044988543,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.7820206,
-        "MagnitudeSqr": 0.61155623
+        "Z": 0.0044988543
       }
     },
     "BucketPos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 135.00002,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 135.00002,
-        "MagnitudeSqr": 18225.004
+        "Z": 0
       },
       "Translate": {
         "X": -0.439,
         "Y": 0.741,
-        "Z": 0.29393268,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.910054,
-        "MagnitudeSqr": 0.8281984
+        "Z": 0.29393268
       }
     },
     "LanternPos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 0,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": true,
-        "Magnitude": 0,
-        "MagnitudeSqr": 0
+        "Z": 0
       },
       "Translate": {
         "X": -0.39299494,
         "Y": 0.756,
-        "Z": -0.37,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.9289139,
-        "MagnitudeSqr": 0.862881
+        "Z": -0.37
       }
     },
     "Ingredient": {
@@ -508,290 +304,170 @@
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7509999,
-          "Z": 1.375,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.5713134,
-          "MagnitudeSqr": 2.4690259
+          "Z": 1.375
         }
       },
       "Pos1": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7511836,
-          "Z": 1.1,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.3374143,
-          "MagnitudeSqr": 1.788677
+          "Z": 1.1
         }
       },
       "Pos2": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7511836,
-          "Z": 0.82500005,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.1221862,
-          "MagnitudeSqr": 1.2593019
+          "Z": 0.82500005
         }
       },
       "Pos3": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7511836,
-          "Z": 0.55,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.9387102,
-          "MagnitudeSqr": 0.8811769
+          "Z": 0.55
         }
       },
       "Pos4": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7509999,
-          "Z": 0.27499998,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.8087187,
-          "MagnitudeSqr": 0.6540259
+          "Z": 0.27499998
         }
       },
       "Pos5": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7509999,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.7605267,
-          "MagnitudeSqr": 0.5784009
+          "Z": 0
         }
       },
       "Pos6": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7509999,
-          "Z": -0.275,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.8087187,
-          "MagnitudeSqr": 0.6540259
+          "Z": -0.275
         }
       },
       "Pos7": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7509999,
-          "Z": -0.55,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.9385632,
-          "MagnitudeSqr": 0.8809009
+          "Z": -0.55
         }
       },
       "Pos8": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7511836,
-          "Z": -0.825,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.1221862,
-          "MagnitudeSqr": 1.2593019
+          "Z": -0.825
         }
       },
       "Pos9": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": -0.12,
           "Y": 0.7511836,
-          "Z": -1.1,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 1.3374143,
-          "MagnitudeSqr": 1.788677
+          "Z": -1.1
         }
       }
     },
@@ -800,116 +476,68 @@
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": 0.045,
           "Y": 0.7555953,
-          "Z": 0.2,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.7829108,
-          "MagnitudeSqr": 0.6129493
+          "Z": 0.2
         }
       },
       "Pos1": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": 0.055,
           "Y": 0.7555953,
-          "Z": -0.2,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.7835492,
-          "MagnitudeSqr": 0.6139493
+          "Z": -0.2
         }
       },
       "Pos2": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": 0.32,
           "Y": 0.7555953,
-          "Z": -0.17,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.83798826,
-          "MagnitudeSqr": 0.7022243
+          "Z": -0.17
         }
       },
       "Pos3": {
         "Scale": {
           "X": 1,
           "Y": 1,
-          "Z": 1,
-          "IsOne": true,
-          "IsZero": false,
-          "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "Z": 1
         },
         "Rotate": {
           "X": 0,
           "Y": 0,
-          "Z": 0,
-          "IsOne": false,
-          "IsZero": true,
-          "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "Z": 0
         },
         "Translate": {
           "X": 0.32,
           "Y": 0.7555953,
-          "Z": 0.17,
-          "IsOne": false,
-          "IsZero": false,
-          "Magnitude": 0.83798826,
-          "MagnitudeSqr": 0.7022243
+          "Z": 0.17
         }
       }
     }
@@ -919,29 +547,17 @@
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": -15.475,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 15.475,
-        "MagnitudeSqr": 239.47563
+        "Z": 0
       },
       "Translate": {
         "X": 0.05,
         "Y": 0.75593215,
-        "Z": 0.21032593,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.78623813,
-        "MagnitudeSqr": 0.61817044
+        "Z": 0.21032593
       }
     },
     "Berryjam02Pos": null,
@@ -949,145 +565,85 @@
       "Scale": {
         "X": 0.9999996,
         "Y": 1,
-        "Z": 0.9999996,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320503,
-        "MagnitudeSqr": 2.9999983
+        "Z": 0.9999996
       },
       "Rotate": {
         "X": -1.3618115E-06,
         "Y": 99.269966,
-        "Z": 1.6797321E-05,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 99.269966,
-        "MagnitudeSqr": 9854.526
+        "Z": 1.6797321E-05
       },
       "Translate": {
         "X": -0.09013705,
         "Y": 0.756,
-        "Z": -0.01,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.7614202,
-        "MagnitudeSqr": 0.5797607
+        "Z": -0.01
       }
     },
     "BottleYellowPos": {
       "Scale": {
         "X": 0.9999997,
         "Y": 1,
-        "Z": 0.9999997,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320504,
-        "MagnitudeSqr": 2.9999988
+        "Z": 0.9999997
       },
       "Rotate": {
         "X": -0.00042447852,
         "Y": -118.29063,
-        "Z": 0.00017240489,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 118.29063,
-        "MagnitudeSqr": 13992.672
+        "Z": 0.00017240489
       },
       "Translate": {
         "X": -0.167,
         "Y": 0.756,
-        "Z": 0.059208564,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.77648604,
-        "MagnitudeSqr": 0.6029306
+        "Z": 0.059208564
       }
     },
     "BucketPos": {
       "Scale": {
         "X": 0.99999946,
         "Y": 1,
-        "Z": 0.99999946,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320502,
-        "MagnitudeSqr": 2.9999979
+        "Z": 0.99999946
       },
       "Rotate": {
         "X": 4.0389943E-05,
         "Y": 142.21797,
-        "Z": -8.241304E-05,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 142.21797,
-        "MagnitudeSqr": 20225.951
+        "Z": -8.241304E-05
       },
       "Translate": {
         "X": -0.09971902,
         "Y": 0.755,
-        "Z": 0.408,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.8639635,
-        "MagnitudeSqr": 0.7464329
+        "Z": 0.408
       }
     },
     "Butter01Pos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": -47.260002,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 47.260002,
-        "MagnitudeSqr": 2233.5078
+        "Z": 0
       },
       "Translate": {
         "X": 0.34018204,
         "Y": 0.756,
-        "Z": 0.225,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.8590022,
-        "MagnitudeSqr": 0.73788476
+        "Z": 0.225
       }
     },
     "Butter02Pos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": -7.2098765,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 7.2098765,
-        "MagnitudeSqr": 51.98232
+        "Z": 0
       },
       "Translate": {
         "X": 0.099,
         "Y": 0.755,
-        "Z": -0.43281254,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.8758725,
-        "MagnitudeSqr": 0.76715267
+        "Z": -0.43281254
       }
     },
     "Creamcheese01Pos": null,
@@ -1095,406 +651,238 @@
       "Scale": {
         "X": 0.99999994,
         "Y": 1,
-        "Z": 0.99999994,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 2.9999998
+        "Z": 0.99999994
       },
       "Rotate": {
         "X": 0,
         "Y": 70.08991,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 70.08991,
-        "MagnitudeSqr": 4912.5957
+        "Z": 0
       },
       "Translate": {
         "X": 0.2,
         "Y": 0.756,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.78200763,
-        "MagnitudeSqr": 0.61153597
+        "Z": 0
       }
     },
     "LanternPos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 28.069,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 28.069,
-        "MagnitudeSqr": 787.8688
+        "Z": 0
       },
       "Translate": {
         "X": -0.182,
         "Y": 0.755,
-        "Z": -0.21890765,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.8068888,
-        "MagnitudeSqr": 0.6510695
+        "Z": -0.21890765
       }
     },
     "Marmalade04Pos": {
       "Scale": {
         "X": 0.9999997,
         "Y": 1,
-        "Z": 0.9999997,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320504,
-        "MagnitudeSqr": 2.9999988
+        "Z": 0.9999997
       },
       "Rotate": {
         "X": 0.0007113621,
         "Y": 152.21397,
-        "Z": -9.225084E-05,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 152.21397,
-        "MagnitudeSqr": 23169.094
+        "Z": -9.225084E-05
       },
       "Translate": {
         "X": 0.337,
         "Y": 0.756,
-        "Z": -0.266,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.86940265,
-        "MagnitudeSqr": 0.755861
+        "Z": -0.266
       }
     },
     "Oliveoil03Pos": {
       "Scale": {
         "X": 0.99999994,
         "Y": 1,
-        "Z": 0.99999994,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 2.9999998
+        "Z": 0.99999994
       },
       "Rotate": {
         "X": 0,
         "Y": 30.034658,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 30.034658,
-        "MagnitudeSqr": 902.0807
+        "Z": 0
       },
       "Translate": {
         "X": 0.064,
         "Y": 0.755,
-        "Z": -0.318,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.8217329,
-        "MagnitudeSqr": 0.6752449
+        "Z": -0.318
       }
     },
     "Smallbowl01OliveoilPos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 0,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": true,
-        "Magnitude": 0,
-        "MagnitudeSqr": 0
+        "Z": 0
       },
       "Translate": {
         "X": 0.383,
         "Y": 0.756,
-        "Z": -0.186,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.86765254,
-        "MagnitudeSqr": 0.75282097
+        "Z": -0.186
       }
     },
     "Smallbowl01VinegarPos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": 0,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": true,
-        "Magnitude": 0,
-        "MagnitudeSqr": 0
+        "Z": 0
       },
       "Translate": {
         "X": 0.401,
         "Y": 0.756,
-        "Z": 0.12284897,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.8645397,
-        "MagnitudeSqr": 0.74742883
+        "Z": 0.12284897
       }
     },
     "Watercress01Pos": {
       "Scale": {
         "X": 2.22,
         "Y": 2.22,
-        "Z": 2.22,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 3.8451529,
-        "MagnitudeSqr": 14.7852
+        "Z": 2.22
       },
       "Rotate": {
         "X": 20.732828,
         "Y": 111.410645,
-        "Z": 31.265026,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 117.55715,
-        "MagnitudeSqr": 13819.685
+        "Z": 31.265026
       },
       "Translate": {
         "X": -0.025,
         "Y": 0.794,
-        "Z": -0.204,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.820169,
-        "MagnitudeSqr": 0.6726771
+        "Z": -0.204
       }
     },
     "Watercress02Pos": {
       "Scale": {
         "X": 1.1399995,
         "Y": 1.14,
-        "Z": 1.1399994,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.9745373,
-        "MagnitudeSqr": 3.8987975
+        "Z": 1.1399994
       },
       "Rotate": {
         "X": 2.6910897E-05,
         "Y": 98.47809,
-        "Z": -0.00036242502,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 98.47809,
-        "MagnitudeSqr": 9697.934
+        "Z": -0.00036242502
       },
       "Translate": {
         "X": 0.0050716326,
         "Y": 0.7649888,
-        "Z": -0.22924677,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.79861605,
-        "MagnitudeSqr": 0.63778764
+        "Z": -0.22924677
       }
     },
     "Watercress03Pos": {
       "Scale": {
         "X": 2.9999998,
         "Y": 3.0000002,
-        "Z": 2.9999998,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 5.196152,
-        "MagnitudeSqr": 27
+        "Z": 2.9999998
       },
       "Rotate": {
         "X": 2.2951653,
         "Y": -34.039696,
-        "Z": 2.3389573,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 34.197067,
-        "MagnitudeSqr": 1169.4395
+        "Z": 2.3389573
       },
       "Translate": {
         "X": 0.28196195,
         "Y": 0.78030956,
-        "Z": 0.41293186,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.92676765,
-        "MagnitudeSqr": 0.8588983
+        "Z": 0.41293186
       }
     },
     "Watercress01Shadow01Pos": {
       "Scale": {
         "X": 3,
         "Y": 3,
-        "Z": 3,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 5.196152,
-        "MagnitudeSqr": 27
+        "Z": 3
       },
       "Rotate": {
         "X": 0,
         "Y": -34.029907,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 34.029907,
-        "MagnitudeSqr": 1158.0345
+        "Z": 0
       },
       "Translate": {
         "X": 0.2817487,
         "Y": 0.76135445,
-        "Z": 0.40693185,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.90809494,
-        "MagnitudeSqr": 0.82463646
+        "Z": 0.40693185
       }
     },
     "Watercress01Shadow02Pos": {
       "Scale": {
         "X": 2.9999993,
         "Y": 3,
-        "Z": 2.9999993,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 5.1961517,
-        "MagnitudeSqr": 26.999992
+        "Z": 2.9999993
       },
       "Rotate": {
         "X": 1.1923766E-05,
         "Y": 102.77035,
-        "Z": -0.00022849091,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 102.77035,
-        "MagnitudeSqr": 10561.744
+        "Z": -0.00022849091
       },
       "Translate": {
         "X": -0.055452023,
         "Y": 0.75621617,
-        "Z": -0.21207505,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.78734595,
-        "MagnitudeSqr": 0.61991364
+        "Z": -0.21207505
       }
     },
     "Cocotteplate06WhippedcreamPos": {
       "Scale": {
         "X": 1,
         "Y": 1,
-        "Z": 1,
-        "IsOne": true,
-        "IsZero": false,
-        "Magnitude": 1.7320508,
-        "MagnitudeSqr": 3
+        "Z": 1
       },
       "Rotate": {
         "X": 0,
         "Y": -127.74598,
-        "Z": 0,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 127.74598,
-        "MagnitudeSqr": 16319.035
+        "Z": 0
       },
       "Translate": {
         "X": 0.019,
         "Y": 0.757,
-        "Z": -0.17469804,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.777129,
-        "MagnitudeSqr": 0.6039295
+        "Z": -0.17469804
       }
     },
     "Marmalade01Pos": {
       "Scale": {
         "X": 0.9999996,
         "Y": 1,
-        "Z": 0.9999996,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320503,
-        "MagnitudeSqr": 2.9999983
+        "Z": 0.9999996
       },
       "Rotate": {
         "X": 2.307362E-05,
         "Y": 115.28899,
-        "Z": -0.00010285951,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 115.28899,
-        "MagnitudeSqr": 13291.551
+        "Z": -0.00010285951
       },
       "Translate": {
         "X": -0.044954177,
         "Y": 0.7563326,
-        "Z": 0.157,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.7737628,
-        "MagnitudeSqr": 0.59870887
+        "Z": 0.157
       }
     },
     "Chilisauce01Pos": {
       "Scale": {
         "X": 0.99999964,
         "Y": 1,
-        "Z": 0.99999964,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 1.7320504,
-        "MagnitudeSqr": 2.9999986
+        "Z": 0.99999964
       },
       "Rotate": {
         "X": 0.0006166311,
         "Y": 143.01012,
-        "Z": -0.000999828,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 143.01012,
-        "MagnitudeSqr": 20451.893
+        "Z": -0.000999828
       },
       "Translate": {
         "X": 0.19351044,
         "Y": 0.76417065,
-        "Z": 0.50115,
-        "IsOne": false,
-        "IsZero": false,
-        "Magnitude": 0.93410623,
-        "MagnitudeSqr": 0.8725544
+        "Z": 0.50115
       }
     }
   }

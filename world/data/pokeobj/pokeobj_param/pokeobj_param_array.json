@@ -2,33 +2,33 @@
   "Table": [
     {
       "DevId": 0,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -37,31 +37,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -78,33 +78,33 @@
     },
     {
       "DevId": 55,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -113,31 +113,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -154,33 +154,33 @@
     },
     {
       "DevId": 81,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -189,31 +189,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         }
       },
       "Poke": {
@@ -230,33 +230,33 @@
     },
     {
       "DevId": 82,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.3,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.3,
-          "MagnitudeSqr": 0.09
+          "MagnitudeSqr": 0.09,
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.3,
         "Radius": 0.5
       },
@@ -265,31 +265,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -306,33 +306,33 @@
     },
     {
       "DevId": 94,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.7,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.7,
-          "MagnitudeSqr": 0.48999998
+          "MagnitudeSqr": 0.48999998,
+          "X": 0,
+          "Y": 0.7,
+          "Z": 0
         },
         "Radius": 0.8
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.7,
         "Radius": 1
       },
@@ -341,31 +341,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -382,33 +382,33 @@
     },
     {
       "DevId": 96,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 1
       },
@@ -417,31 +417,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -458,33 +458,33 @@
     },
     {
       "DevId": 129,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.4,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.4,
-          "MagnitudeSqr": 0.16000001
+          "MagnitudeSqr": 0.16000001,
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
         },
         "Radius": 0.4
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.4,
         "Radius": 1
       },
@@ -493,31 +493,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -534,33 +534,33 @@
     },
     {
       "DevId": 130,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 1.5,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 1.5,
-          "MagnitudeSqr": 2.25
+          "MagnitudeSqr": 2.25,
+          "X": 0,
+          "Y": 1.5,
+          "Z": 0
         },
         "Radius": 1.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 1.5,
         "Radius": 2
       },
@@ -569,31 +569,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -610,33 +610,33 @@
     },
     {
       "DevId": 156,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.4,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.4,
-          "MagnitudeSqr": 0.16000001
+          "MagnitudeSqr": 0.16000001,
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.15,
         "Radius": 1
       },
@@ -645,31 +645,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -686,33 +686,33 @@
     },
     {
       "DevId": 198,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 1
       },
@@ -721,31 +721,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -762,33 +762,33 @@
     },
     {
       "DevId": 278,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0,
         "Radius": 0
       },
@@ -797,31 +797,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -838,33 +838,33 @@
     },
     {
       "DevId": 286,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0,
         "Radius": 1
       },
@@ -873,31 +873,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -914,33 +914,33 @@
     },
     {
       "DevId": 340,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.3
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 1
       },
@@ -949,31 +949,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -990,33 +990,33 @@
     },
     {
       "DevId": 361,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 1
       },
@@ -1025,31 +1025,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1066,33 +1066,33 @@
     },
     {
       "DevId": 362,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0,
         "Radius": 1
       },
@@ -1101,31 +1101,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1142,33 +1142,33 @@
     },
     {
       "DevId": 396,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 1
       },
@@ -1177,31 +1177,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1218,33 +1218,33 @@
     },
     {
       "DevId": 397,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.3,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.3,
-          "MagnitudeSqr": 0.09
+          "MagnitudeSqr": 0.09,
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
         },
         "Radius": 0.3
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.3,
         "Radius": 1
       },
@@ -1253,31 +1253,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1294,33 +1294,33 @@
     },
     {
       "DevId": 398,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.5,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.5,
-          "MagnitudeSqr": 0.25
+          "MagnitudeSqr": 0.25,
+          "X": 0,
+          "Y": 0.5,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.5,
         "Radius": 1
       },
@@ -1329,31 +1329,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1370,33 +1370,33 @@
     },
     {
       "DevId": 403,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -1405,31 +1405,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1446,33 +1446,33 @@
     },
     {
       "DevId": 405,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.6,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.6,
-          "MagnitudeSqr": 0.36
+          "MagnitudeSqr": 0.36,
+          "X": 0,
+          "Y": 0.6,
+          "Z": 0
         },
         "Radius": 0.6
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.6,
         "Radius": 1
       },
@@ -1481,31 +1481,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1522,33 +1522,33 @@
     },
     {
       "DevId": 415,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 0.5
       },
@@ -1557,31 +1557,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1598,33 +1598,33 @@
     },
     {
       "DevId": 417,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 1
       },
@@ -1633,31 +1633,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1674,33 +1674,33 @@
     },
     {
       "DevId": 418,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.3,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.3,
-          "MagnitudeSqr": 0.09
+          "MagnitudeSqr": 0.09,
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
         },
         "Radius": 0.4
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.3,
         "Radius": 1
       },
@@ -1709,31 +1709,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1750,33 +1750,33 @@
     },
     {
       "DevId": 425,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 0.5
       },
@@ -1785,31 +1785,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1826,33 +1826,33 @@
     },
     {
       "DevId": 426,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.6,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.6,
-          "MagnitudeSqr": 0.36
+          "MagnitudeSqr": 0.36,
+          "X": 0,
+          "Y": 0.6,
+          "Z": 0
         },
         "Radius": 0.6
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.6,
         "Radius": 1
       },
@@ -1861,31 +1861,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1902,33 +1902,33 @@
     },
     {
       "DevId": 430,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.4,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.4,
-          "MagnitudeSqr": 0.16000001
+          "MagnitudeSqr": 0.16000001,
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.5,
         "Radius": 1
       },
@@ -1937,31 +1937,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -1978,33 +1978,33 @@
     },
     {
       "DevId": 436,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0,
         "Radius": 1
       },
@@ -2013,31 +2013,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2054,33 +2054,33 @@
     },
     {
       "DevId": 437,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0,
         "Radius": 1
       },
@@ -2089,31 +2089,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2130,33 +2130,33 @@
     },
     {
       "DevId": 445,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.3,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.3,
-          "MagnitudeSqr": 0.09
+          "MagnitudeSqr": 0.09,
+          "X": 0,
+          "Y": 0.3,
+          "Z": 0
         },
         "Radius": 0.3
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.5,
         "Radius": 1
       },
@@ -2165,31 +2165,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2206,33 +2206,33 @@
     },
     {
       "DevId": 447,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 1
       },
@@ -2241,31 +2241,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2282,33 +2282,33 @@
     },
     {
       "DevId": 448,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -2317,31 +2317,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0.1,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.1,
-          "MagnitudeSqr": 0.010000001
+          "MagnitudeSqr": 0.010000001,
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 11,
-          "Z": -90,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 90.66973,
-          "MagnitudeSqr": 8221
+          "MagnitudeSqr": 8221,
+          "X": 0,
+          "Y": 11,
+          "Z": -90
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2358,33 +2358,33 @@
     },
     {
       "DevId": 459,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.5,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.5,
-          "MagnitudeSqr": 0.25
+          "MagnitudeSqr": 0.25,
+          "X": 0,
+          "Y": 0.5,
+          "Z": 0
         },
         "Radius": 0.6
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.5,
         "Radius": 1
       },
@@ -2393,31 +2393,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2434,33 +2434,33 @@
     },
     {
       "DevId": 470,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.4,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.4,
-          "MagnitudeSqr": 0.16000001
+          "MagnitudeSqr": 0.16000001,
+          "X": 0,
+          "Y": 0.4,
+          "Z": 0
         },
         "Radius": 0.4
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.4,
         "Radius": 1
       },
@@ -2469,31 +2469,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2510,33 +2510,33 @@
     },
     {
       "DevId": 501,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.25,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.25,
-          "MagnitudeSqr": 0.0625
+          "MagnitudeSqr": 0.0625,
+          "X": 0,
+          "Y": 0.25,
+          "Z": 0
         },
         "Radius": 0.25
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.25,
         "Radius": 1
       },
@@ -2545,31 +2545,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2586,33 +2586,33 @@
     },
     {
       "DevId": 548,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.2,
         "Radius": 0.2
       },
@@ -2621,31 +2621,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2662,33 +2662,33 @@
     },
     {
       "DevId": 571,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.12,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.12,
-          "MagnitudeSqr": 0.0144
+          "MagnitudeSqr": 0.0144,
+          "X": 0,
+          "Y": 0.12,
+          "Z": 0
         },
         "Radius": 0.5
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.5,
         "Radius": 1
       },
@@ -2697,31 +2697,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": true,
           "Magnitude": 0,
-          "MagnitudeSqr": 0
+          "MagnitudeSqr": 0,
+          "X": 0,
+          "Y": 0,
+          "Z": 0
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2738,33 +2738,33 @@
     },
     {
       "DevId": 906,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -2773,31 +2773,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0.1,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.1,
-          "MagnitudeSqr": 0.010000001
+          "MagnitudeSqr": 0.010000001,
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 11,
-          "Z": -90,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 90.66973,
-          "MagnitudeSqr": 8221
+          "MagnitudeSqr": 8221,
+          "X": 0,
+          "Y": 11,
+          "Z": -90
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2814,33 +2814,33 @@
     },
     {
       "DevId": 909,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -2849,31 +2849,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0.1,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.1,
-          "MagnitudeSqr": 0.010000001
+          "MagnitudeSqr": 0.010000001,
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 11,
-          "Z": -90,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 90.66973,
-          "MagnitudeSqr": 8221
+          "MagnitudeSqr": 8221,
+          "X": 0,
+          "Y": 11,
+          "Z": -90
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {
@@ -2890,33 +2890,33 @@
     },
     {
       "DevId": 912,
-      "BodyCollision": {
+      "Body": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "CharaCollision": {
+      "Chara": {
         "Shape": 1,
         "Pos": {
-          "X": 0,
-          "Y": 0.2,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.2,
-          "MagnitudeSqr": 0.040000003
+          "MagnitudeSqr": 0.040000003,
+          "X": 0,
+          "Y": 0.2,
+          "Z": 0
         },
         "Radius": 0.2
       },
-      "GrassCollision": {
+      "Grass": {
         "OffsetY": 0.1,
         "Radius": 1
       },
@@ -2925,31 +2925,31 @@
       },
       "GemParam": {
         "Pos": {
-          "X": 0.1,
-          "Y": 0,
-          "Z": 0,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 0.1,
-          "MagnitudeSqr": 0.010000001
+          "MagnitudeSqr": 0.010000001,
+          "X": 0.1,
+          "Y": 0,
+          "Z": 0
         },
         "Rot": {
-          "X": 0,
-          "Y": 11,
-          "Z": -90,
           "IsOne": false,
           "IsZero": false,
           "Magnitude": 90.66973,
-          "MagnitudeSqr": 8221
+          "MagnitudeSqr": 8221,
+          "X": 0,
+          "Y": 11,
+          "Z": -90
         },
         "Scale": {
-          "X": 1,
-          "Y": 1,
-          "Z": 1,
           "IsOne": true,
           "IsZero": false,
           "Magnitude": 1.7320508,
-          "MagnitudeSqr": 3
+          "MagnitudeSqr": 3,
+          "X": 1,
+          "Y": 1,
+          "Z": 1
         }
       },
       "Poke": {

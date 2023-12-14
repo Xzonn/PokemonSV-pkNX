@@ -206,6 +206,33 @@
       "PayKind": 0,
       "Lineup": "shop_suupaa_00_lineup",
       "Clerktype": 1
+    },
+    {
+      "Id": "shop_syouten",
+      "ShopName": "shop_name_10",
+      "ShopSubName": "shop_subtitle_0",
+      "SellType": 0,
+      "PayKind": 0,
+      "Lineup": "shop_syouten_lineup",
+      "Clerktype": 0
+    },
+    {
+      "Id": "shop_bbkoubai",
+      "ShopName": "shop_name_11",
+      "ShopSubName": "",
+      "SellType": 1,
+      "PayKind": 2,
+      "Lineup": "shop_bbkoubai_lineup",
+      "Clerktype": 0
+    },
+    {
+      "Id": "shop_bbzihanki",
+      "ShopName": "shop_name_12",
+      "ShopSubName": "",
+      "SellType": 1,
+      "PayKind": 0,
+      "Lineup": "shop_bbzihanki_lineup",
+      "Clerktype": 0
     }
   ]
 }

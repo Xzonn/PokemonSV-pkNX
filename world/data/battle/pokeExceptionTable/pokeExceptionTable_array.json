@@ -6,14 +6,29 @@
       "DefaultBattleState": 1
     },
     {
+      "DevId": 207,
+      "Formno": 0,
+      "DefaultBattleState": 3
+    },
+    {
       "DevId": 212,
       "Formno": 0,
       "DefaultBattleState": 1
     },
     {
+      "DevId": 249,
+      "Formno": 0,
+      "DefaultBattleState": 3
+    },
+    {
       "DevId": 445,
       "Formno": 0,
       "DefaultBattleState": 1
+    },
+    {
+      "DevId": 472,
+      "Formno": 0,
+      "DefaultBattleState": 3
     },
     {
       "DevId": 985,

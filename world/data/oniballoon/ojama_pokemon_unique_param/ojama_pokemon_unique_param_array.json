@@ -1,0 +1,44 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "PopRatePerLevel_Length": 10,
+        "EatCount": 10,
+        "Type": 2,
+        "TargetRadius": 1.5,
+        "StartEatSeconds": 3,
+        "EatLimitNum": 10
+      }
+    },
+    {
+      "Param": {
+        "PopRatePerLevel_Length": 10,
+        "EatCount": 30,
+        "Type": 0,
+        "TargetRadius": 1.5,
+        "StartEatSeconds": 3,
+        "EatLimitNum": 3
+      }
+    },
+    {
+      "Param": {
+        "PopRatePerLevel_Length": 10,
+        "EatCount": 1,
+        "Type": 3,
+        "TargetRadius": 3,
+        "StartEatSeconds": 3,
+        "EatLimitNum": 15
+      }
+    },
+    {
+      "Param": {
+        "PopRatePerLevel_Length": 10,
+        "EatCount": 20,
+        "Type": 1,
+        "TargetRadius": 2.2,
+        "StartEatSeconds": 3,
+        "EatLimitNum": 6
+      }
+    }
+  ]
+}

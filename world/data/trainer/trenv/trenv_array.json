@@ -1,6 +1,266 @@
 {
   "Table": [
     {
+      "TrEnvId": "S1_SIDE02_himeguma3B",
+      "TalkData1": {
+        "EventName": "ee_bk_akatuki_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_akatuki_01_01_02",
+        "Category": 2,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_akatuki_01_01_03",
+        "Category": 3,
+        "ValueA": 0,
+        "ValueB": 50,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "S1_SIDE02_ariados",
+      "TalkData1": {
+        "EventName": "ee_bk_ariados_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_ariados_01_01_02",
+        "Category": 2,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_ariados_01_01_03",
+        "Category": 3,
+        "ValueA": 0,
+        "ValueB": 50,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
       "TrEnvId": "botan_01",
       "TalkData1": {
         "EventName": "ee_bk_botan_01_01",
@@ -259,6 +519,786 @@
       "IntroObjectName": "",
       "LoseObjectName": "",
       "bgmEventName": "VS_TRAINER_TYPE_SCH_FES"
+    },
+    {
+      "TrEnvId": "brother_01_01",
+      "TalkData1": {
+        "EventName": "ee_bk_brother_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_brother_01_01_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_brother_01_01_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_brother_01_01_04",
+        "Category": 20,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_brother_01_01_05",
+        "Category": 4,
+        "ValueA": 1,
+        "ValueB": 314,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_brother_01_01_06",
+        "Category": 4,
+        "ValueA": 1,
+        "ValueB": 405,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "brother_01_02",
+      "TalkData1": {
+        "EventName": "ee_bk_brother_01_02_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_brother_01_02_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_brother_01_02_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_brother_01_02_04",
+        "Category": 4,
+        "ValueA": 2,
+        "ValueB": 98,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_brother_01_02_05",
+        "Category": 4,
+        "ValueA": 2,
+        "ValueB": 36,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "brother_01_03",
+      "TalkData1": {
+        "EventName": "ee_bk_brother_01_03_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_brother_01_03_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_brother_01_03_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_brother_01_03_04",
+        "Category": 1,
+        "ValueA": 1,
+        "ValueB": 1,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_brother_01_03_05",
+        "Category": 4,
+        "ValueA": 3,
+        "ValueB": 903,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "brother_01_04",
+      "TalkData1": {
+        "EventName": "ee_bk_brother_01_04_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_brother_01_04_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_brother_01_04_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_brother_01_04_04",
+        "Category": 6,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_brother_01_04_05",
+        "Category": 8,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_brother_01_04_06",
+        "Category": 4,
+        "ValueA": 4,
+        "ValueB": 710,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "ee_bk_brother_01_04_07",
+        "Category": 4,
+        "ValueA": 4,
+        "ValueB": 56,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "brother_01_05",
+      "TalkData1": {
+        "EventName": "ee_bk_brother_01_05_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_brother_01_05_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_brother_01_05_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_brother_01_05_04",
+        "Category": 1,
+        "ValueA": 1,
+        "ValueB": 1,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_brother_01_05_05",
+        "Category": 4,
+        "ValueA": 5,
+        "ValueB": 332,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_brother_01_05_06",
+        "Category": 4,
+        "ValueA": 5,
+        "ValueB": 814,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "camera_01_01",
+      "TalkData1": {
+        "EventName": "ee_bk_camera_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_camera_01_01_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_camera_01_01_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_camera_01_01_04",
+        "Category": 1,
+        "ValueA": 1,
+        "ValueB": 1,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_camera_01_01_05",
+        "Category": 4,
+        "ValueA": 1,
+        "ValueB": 348,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
     },
     {
       "TrEnvId": "chairperson_01",
@@ -2724,6 +3764,136 @@
       },
       "IntroTml": "",
       "ThrowTml": "ee402",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "SDC01_dokuzaru_01",
+      "TalkData1": {
+        "EventName": "ee_bk_dokuzaru_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_dokuzaru_01_01_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_dokuzaru_01_01_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_dokuzaru_01_01_04",
+        "Category": 2,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
       "CameraObjectName": "",
       "LoseTml": "",
       "IntroObjectName": "",
@@ -5946,6 +7116,136 @@
       "bgmEventName": ""
     },
     {
+      "TrEnvId": "SDC01_kamenoni_1",
+      "TalkData1": {
+        "EventName": "ee_bk_kamenoni_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_kamenoni_01_01_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_kamenoni_01_01_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_kamenoni_01_01_04",
+        "Category": 25,
+        "ValueA": 1011,
+        "ValueB": 4,
+        "ValueC": 50,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_kamenoni_01_01_06",
+        "Category": 23,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
       "TrEnvId": "kihada_01",
       "TalkData1": {
         "EventName": "ee_bk_kihada_01_01",
@@ -6204,6 +7504,266 @@
       "IntroObjectName": "",
       "LoseObjectName": "",
       "bgmEventName": "VS_TRAINER_TYPE_SCH_FES"
+    },
+    {
+      "TrEnvId": "kodaikame_02_01",
+      "TalkData1": {
+        "EventName": "ee_bk_kodaikame_02_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "SDC01_midoriikenushi",
+      "TalkData1": {
+        "EventName": "ee_bk_midoriikenushi_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_midoriikenushi_01_01_02",
+        "Category": 3,
+        "ValueA": 0,
+        "ValueB": 50,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_midoriikenushi_01_01_03",
+        "Category": 4,
+        "ValueA": 0,
+        "ValueB": 239,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
     },
     {
       "TrEnvId": "mimoza_01",
@@ -7302,6 +8862,396 @@
         "ValueB": 0,
         "ValueC": 0,
         "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "SDC01_onitaizi_dokuinu",
+      "TalkData1": {
+        "EventName": "ee_bk_onitaizi_dokuinu_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_onitaizi_dokuinu_01_01_02",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_onitaizi_dokuinu_01_01_03",
+        "Category": 30,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_onitaizi_dokuinu_01_01_04",
+        "Category": 28,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_onitaizi_dokuinu_01_01_05",
+        "Category": 27,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_onitaizi_dokuinu_01_01_06",
+        "Category": 17,
+        "ValueA": 0,
+        "ValueB": 50,
+        "ValueC": 1,
+        "RankEffect": 1
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "SDC01_onitaizi_dokukizi",
+      "TalkData1": {
+        "EventName": "ee_bk_onitaizi_dokukizi_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_onitaizi_dokukizi_01_01_02",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_onitaizi_dokukizi_01_01_03",
+        "Category": 30,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_onitaizi_dokukizi_01_01_04",
+        "Category": 28,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_onitaizi_dokukizi_01_01_05",
+        "Category": 27,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_onitaizi_dokukizi_01_01_06",
+        "Category": 17,
+        "ValueA": 0,
+        "ValueB": 50,
+        "ValueC": 1,
+        "RankEffect": 5
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "SDC01_onitaizi_dokuzaru",
+      "TalkData1": {
+        "EventName": "ee_bk_onitaizi_dokuzaru_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_onitaizi_dokuzaru_01_01_02",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_onitaizi_dokuzaru_01_01_03",
+        "Category": 30,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_onitaizi_dokuzaru_01_01_04",
+        "Category": 28,
+        "ValueA": 2,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_onitaizi_dokuzaru_01_01_05",
+        "Category": 27,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "ee_bk_onitaizi_dokuzaru_01_01_06",
+        "Category": 17,
+        "ValueA": 0,
+        "ValueB": 50,
+        "ValueC": 1,
+        "RankEffect": 3
       },
       "TalkData8": {
         "EventName": "",
@@ -11984,6 +13934,396 @@
       "IntroObjectName": "",
       "LoseObjectName": "",
       "bgmEventName": "VS_TRAINER_TYPE_SCH_FES"
+    },
+    {
+      "TrEnvId": "sister_01_01",
+      "TalkData1": {
+        "EventName": "ee_bk_sister_01_01_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_sister_01_01_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_sister_01_01_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_sister_01_01_04",
+        "Category": 20,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_sister_01_01_05",
+        "Category": 2,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_sister_01_01_06",
+        "Category": 4,
+        "ValueA": 2,
+        "ValueB": 72,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "ee_bk_sister_01_01_07",
+        "Category": 4,
+        "ValueA": 2,
+        "ValueB": 247,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "sister_01_02",
+      "TalkData1": {
+        "EventName": "ee_bk_sister_01_02_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_sister_01_02_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_sister_01_02_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_sister_01_02_04",
+        "Category": 1,
+        "ValueA": 1,
+        "ValueB": 1,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_sister_01_02_05",
+        "Category": 4,
+        "ValueA": 3,
+        "ValueB": 72,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "ee_bk_sister_01_02_06",
+        "Category": 4,
+        "ValueA": 3,
+        "ValueB": 247,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
+    },
+    {
+      "TrEnvId": "sister_01_03",
+      "TalkData1": {
+        "EventName": "ee_bk_sister_01_03_01",
+        "Category": 10,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData2": {
+        "EventName": "ee_bk_sister_01_03_02",
+        "Category": 6,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData3": {
+        "EventName": "ee_bk_sister_01_03_03",
+        "Category": 8,
+        "ValueA": 1,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData4": {
+        "EventName": "ee_bk_sister_01_03_04",
+        "Category": 22,
+        "ValueA": 0,
+        "ValueB": 1011,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData5": {
+        "EventName": "ee_bk_sister_01_03_05",
+        "Category": 4,
+        "ValueA": 4,
+        "ValueB": 902,
+        "ValueC": 1,
+        "RankEffect": 0
+      },
+      "TalkData6": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData7": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData8": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData9": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData10": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData11": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData12": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData13": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData14": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "TalkData15": {
+        "EventName": "",
+        "Category": 0,
+        "ValueA": 0,
+        "ValueB": 0,
+        "ValueC": 0,
+        "RankEffect": 0
+      },
+      "IntroTml": "",
+      "ThrowTml": "",
+      "CameraObjectName": "",
+      "LoseTml": "",
+      "IntroObjectName": "",
+      "LoseObjectName": "",
+      "bgmEventName": ""
     },
     {
       "TrEnvId": "taimu_01",

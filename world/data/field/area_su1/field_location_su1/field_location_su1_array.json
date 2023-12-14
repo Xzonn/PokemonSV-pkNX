@@ -1,0 +1,44 @@
+{
+  "Table": [
+    {
+      "Name": "",
+      "Info": {
+        "ActualMinLevel": 1,
+        "ActualMaxLevel": 100,
+        "Type": 1,
+        "LocationNameMain": "",
+        "LocationNameSub": "",
+        "Bgm": "",
+        "EnvBaseSound": "",
+        "WeatherTable": "",
+        "LightFileP1": "",
+        "LightFileP2": "",
+        "LightFileP3": "",
+        "ShadowClipHeightOffset": 0,
+        "ShadowClipHeightMinOffset": 0,
+        "DisableLightOffset": false,
+        "NoDisplayLocationName": false,
+        "NoRide": false,
+        "NoFly": false,
+        "NoPicnic": false,
+        "NoPartner": false,
+        "NoSpawnSection": false,
+        "NoPokeExchange": false,
+        "NoOcclusionCulling": false,
+        "MinEncLv": 0,
+        "MaxEncLv": 0,
+        "AdjustEncLv": 0,
+        "BiomeBase": 0,
+        "Tag": 0,
+        "BiomeOverride": {
+          "Attr1": 99,
+          "Biome1": 0,
+          "Attr2": 99,
+          "Biome2": 0,
+          "Attr3": 99,
+          "Biome3": 0
+        }
+      }
+    }
+  ]
+}

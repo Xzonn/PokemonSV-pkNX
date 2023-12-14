@@ -229,7 +229,7 @@
       "BgmEventCallName": "",
       "SoundCallName": "",
       "TextLabel": "msg_ui_btl_bgm_select_random",
-      "SortNum": 26,
+      "SortNum": 99,
       "IsInitialRelease": true,
       "ReleaseFlagName": "",
       "BgmSelectType": 1
@@ -238,10 +238,280 @@
       "BgmEventCallName": "VS_SELECT_NO_BGM",
       "SoundCallName": "VS_SELECT_NO_BGM_PLAY",
       "TextLabel": "msg_ui_btl_bgm_select_vs27",
-      "SortNum": 27,
+      "SortNum": 100,
       "IsInitialRelease": true,
       "ReleaseFlagName": "",
       "BgmSelectType": 2
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_28",
+      "SoundCallName": "VS_SELECT_28_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs28",
+      "SortNum": 26,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_28",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_29",
+      "SoundCallName": "VS_SELECT_29_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs29",
+      "SortNum": 27,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_29",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_30",
+      "SoundCallName": "VS_SELECT_30_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs30",
+      "SortNum": 28,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_30",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_31",
+      "SoundCallName": "VS_SELECT_31_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs31",
+      "SortNum": 29,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_31",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_32",
+      "SoundCallName": "VS_SELECT_32_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs32",
+      "SortNum": 30,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_32",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_33",
+      "SoundCallName": "VS_SELECT_33_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs33",
+      "SortNum": 31,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_33",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_34",
+      "SoundCallName": "VS_SELECT_34_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs34",
+      "SortNum": 32,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_34",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_35",
+      "SoundCallName": "VS_SELECT_35_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs35",
+      "SortNum": 33,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_35",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_36",
+      "SoundCallName": "VS_SELECT_36_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs36",
+      "SortNum": 35,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_36",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_37",
+      "SoundCallName": "VS_SELECT_37_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs37",
+      "SortNum": 36,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_37",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_38",
+      "SoundCallName": "VS_SELECT_38_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs38",
+      "SortNum": 37,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_38",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_39",
+      "SoundCallName": "VS_SELECT_39_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs39",
+      "SortNum": 38,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_39",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_40",
+      "SoundCallName": "VS_SELECT_40_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs40",
+      "SortNum": 39,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_40",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_41",
+      "SoundCallName": "VS_SELECT_41_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs41",
+      "SortNum": 41,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_41",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_42",
+      "SoundCallName": "VS_SELECT_42_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs42",
+      "SortNum": 42,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_42",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_43",
+      "SoundCallName": "VS_SELECT_43_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs43",
+      "SortNum": 43,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_43",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_44",
+      "SoundCallName": "VS_SELECT_44_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs44",
+      "SortNum": 44,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_44",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_45",
+      "SoundCallName": "VS_SELECT_45_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs45",
+      "SortNum": 45,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_45",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_46",
+      "SoundCallName": "VS_SELECT_46_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs46",
+      "SortNum": 46,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_46",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_47",
+      "SoundCallName": "VS_SELECT_47_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs47",
+      "SortNum": 47,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_47",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_48",
+      "SoundCallName": "VS_SELECT_48_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs48",
+      "SortNum": 48,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_48",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_49",
+      "SoundCallName": "VS_SELECT_49_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs49",
+      "SortNum": 49,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_49",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_50",
+      "SoundCallName": "VS_SELECT_50_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs50",
+      "SortNum": 50,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_50",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_51",
+      "SoundCallName": "VS_SELECT_51_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs51",
+      "SortNum": 51,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_51",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_52",
+      "SoundCallName": "VS_SELECT_52_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs52",
+      "SortNum": 52,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_52",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_53",
+      "SoundCallName": "VS_SELECT_53_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs53",
+      "SortNum": 53,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_53",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_54",
+      "SoundCallName": "VS_SELECT_54_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs54",
+      "SortNum": 54,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_54",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_55",
+      "SoundCallName": "VS_SELECT_55_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs55",
+      "SortNum": 55,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_55",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_56",
+      "SoundCallName": "VS_SELECT_56_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs56",
+      "SortNum": 40,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_56",
+      "BgmSelectType": 0
+    },
+    {
+      "BgmEventCallName": "VS_SELECT_57",
+      "SoundCallName": "VS_SELECT_57_PLAY",
+      "TextLabel": "msg_ui_btl_bgm_select_vs57",
+      "SortNum": 34,
+      "IsInitialRelease": false,
+      "ReleaseFlagName": "FSYS_BGM_VS_SELECT_57",
+      "BgmSelectType": 0
     }
   ]
 }

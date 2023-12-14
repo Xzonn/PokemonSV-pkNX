@@ -1,0 +1,76 @@
+{
+  "Table": [
+    {
+      "PokedexType": 0,
+      "CaptureNum": 90,
+      "ItemId": 51,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 100,
+      "ItemId": 795,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 110,
+      "ItemId": 327,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 120,
+      "ItemId": 496,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 130,
+      "ItemId": 91,
+      "ItemNum": 5
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 140,
+      "ItemId": 537,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 150,
+      "ItemId": 583,
+      "ItemNum": 3
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 160,
+      "ItemId": 497,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 170,
+      "ItemId": 325,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 180,
+      "ItemId": 495,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 190,
+      "ItemId": 53,
+      "ItemNum": 1
+    },
+    {
+      "PokedexType": 0,
+      "CaptureNum": 200,
+      "ItemId": 498,
+      "ItemNum": 1
+    }
+  ]
+}
