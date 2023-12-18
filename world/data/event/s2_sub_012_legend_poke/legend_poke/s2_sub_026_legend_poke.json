@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_026_STATE",
+  "ReleaseItemId": 2535,
+  "ReactionMessage": "s2_sub_026_poke_01",
+  "EscapeMessage": "s2_sub_026_system_01",
+  "BattleEnemyId": "su2_legend_Cobalion",
+  "BattlePlayerPosName": "event_pos_s2_sub_026_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_49"
+}

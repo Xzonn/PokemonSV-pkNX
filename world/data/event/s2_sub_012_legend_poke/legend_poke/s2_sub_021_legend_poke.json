@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_021_STATE",
+  "ReleaseItemId": 2530,
+  "ReactionMessage": "s2_sub_021_poke_01",
+  "EscapeMessage": "s2_sub_021_system_01",
+  "BattleEnemyId": "su2_legend_Latias",
+  "BattlePlayerPosName": "event_pos_s2_sub_021_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": true,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_47"
+}

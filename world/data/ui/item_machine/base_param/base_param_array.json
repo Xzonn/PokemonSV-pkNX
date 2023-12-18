@@ -1,0 +1,35 @@
+{
+  "Table": [
+    {
+      "NeedLotteryBP": 5,
+      "MaterialPointPercent": 30,
+      "NeedRankupInfos": {
+        "LotteryCount": [
+          25,
+          75,
+          175
+        ],
+        "NeedBP": [
+          200,
+          500,
+          1000
+        ]
+      },
+      "RankupBonusInfos": {
+        "BPDownRate": [
+          0,
+          20,
+          40,
+          40
+        ],
+        "MaterialPointUpRate": [
+          0,
+          20,
+          50,
+          50
+        ]
+      },
+      "FluctuationCount": 10
+    }
+  ]
+}

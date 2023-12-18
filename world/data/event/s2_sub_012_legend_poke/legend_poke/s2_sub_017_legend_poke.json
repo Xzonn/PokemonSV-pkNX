@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_017_STATE",
+  "ReleaseItemId": 2526,
+  "ReactionMessage": "s2_sub_017_poke_01",
+  "EscapeMessage": "s2_sub_017_system_01",
+  "BattleEnemyId": "su2_legend_Entei",
+  "BattlePlayerPosName": "event_pos_s2_sub_017_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_43"
+}

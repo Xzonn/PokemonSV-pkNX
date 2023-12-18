@@ -1,0 +1,254 @@
+{
+  "Table": [
+    {
+      "EventId": 13,
+      "StateWorkName": "WEVT_S2_SUB_013_STATE",
+      "ReleasePokeId": 144,
+      "ReleaseItemId": 2522,
+      "MissionA": true,
+      "MissionB": true,
+      "TeamMissionA": false,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 14,
+      "StateWorkName": "WEVT_S2_SUB_014_STATE",
+      "ReleasePokeId": 145,
+      "ReleaseItemId": 2523,
+      "MissionA": true,
+      "MissionB": true,
+      "TeamMissionA": false,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 15,
+      "StateWorkName": "WEVT_S2_SUB_015_STATE",
+      "ReleasePokeId": 146,
+      "ReleaseItemId": 2524,
+      "MissionA": true,
+      "MissionB": true,
+      "TeamMissionA": false,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 16,
+      "StateWorkName": "WEVT_S2_SUB_016_STATE",
+      "ReleasePokeId": 243,
+      "ReleaseItemId": 2525,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 17,
+      "StateWorkName": "WEVT_S2_SUB_017_STATE",
+      "ReleasePokeId": 244,
+      "ReleaseItemId": 2526,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 18,
+      "StateWorkName": "WEVT_S2_SUB_018_STATE",
+      "ReleasePokeId": 245,
+      "ReleaseItemId": 2527,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 19,
+      "StateWorkName": "WEVT_S2_SUB_019_STATE",
+      "ReleasePokeId": 249,
+      "ReleaseItemId": 2528,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 20,
+      "StateWorkName": "WEVT_S2_SUB_020_STATE",
+      "ReleasePokeId": 250,
+      "ReleaseItemId": 2529,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 21,
+      "StateWorkName": "WEVT_S2_SUB_021_STATE",
+      "ReleasePokeId": 380,
+      "ReleaseItemId": 2530,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 22,
+      "StateWorkName": "WEVT_S2_SUB_022_STATE",
+      "ReleasePokeId": 381,
+      "ReleaseItemId": 2531,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 23,
+      "StateWorkName": "WEVT_S2_SUB_023_STATE",
+      "ReleasePokeId": 382,
+      "ReleaseItemId": 2532,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 24,
+      "StateWorkName": "WEVT_S2_SUB_024_STATE",
+      "ReleasePokeId": 383,
+      "ReleaseItemId": 2533,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 25,
+      "StateWorkName": "WEVT_S2_SUB_025_STATE",
+      "ReleasePokeId": 384,
+      "ReleaseItemId": 2534,
+      "MissionA": false,
+      "MissionB": false,
+      "TeamMissionA": true,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 26,
+      "StateWorkName": "WEVT_S2_SUB_026_STATE",
+      "ReleasePokeId": 638,
+      "ReleaseItemId": 2535,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 27,
+      "StateWorkName": "WEVT_S2_SUB_027_STATE",
+      "ReleasePokeId": 639,
+      "ReleaseItemId": 2536,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 28,
+      "StateWorkName": "WEVT_S2_SUB_028_STATE",
+      "ReleasePokeId": 640,
+      "ReleaseItemId": 2537,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 29,
+      "StateWorkName": "WEVT_S2_SUB_029_STATE",
+      "ReleasePokeId": 643,
+      "ReleaseItemId": 2538,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 30,
+      "StateWorkName": "WEVT_S2_SUB_030_STATE",
+      "ReleasePokeId": 644,
+      "ReleaseItemId": 2539,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 31,
+      "StateWorkName": "WEVT_S2_SUB_031_STATE",
+      "ReleasePokeId": 646,
+      "ReleaseItemId": 2540,
+      "MissionA": false,
+      "MissionB": false,
+      "TeamMissionA": true,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 32,
+      "StateWorkName": "WEVT_S2_SUB_032_STATE",
+      "ReleasePokeId": 791,
+      "ReleaseItemId": 2541,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 33,
+      "StateWorkName": "WEVT_S2_SUB_033_STATE",
+      "ReleasePokeId": 792,
+      "ReleaseItemId": 2542,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 34,
+      "StateWorkName": "WEVT_S2_SUB_034_STATE",
+      "ReleasePokeId": 800,
+      "ReleaseItemId": 2543,
+      "MissionA": false,
+      "MissionB": false,
+      "TeamMissionA": true,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 35,
+      "StateWorkName": "WEVT_S2_SUB_035_STATE",
+      "ReleasePokeId": 891,
+      "ReleaseItemId": 2544,
+      "MissionA": true,
+      "MissionB": true,
+      "TeamMissionA": false,
+      "TeamMissionB": false
+    },
+    {
+      "EventId": 36,
+      "StateWorkName": "WEVT_S2_SUB_036_STATE",
+      "ReleasePokeId": 896,
+      "ReleaseItemId": 2545,
+      "MissionA": true,
+      "MissionB": false,
+      "TeamMissionA": false,
+      "TeamMissionB": true
+    },
+    {
+      "EventId": 37,
+      "StateWorkName": "WEVT_S2_SUB_037_STATE",
+      "ReleasePokeId": 897,
+      "ReleaseItemId": 2546,
+      "MissionA": false,
+      "MissionB": true,
+      "TeamMissionA": true,
+      "TeamMissionB": false
+    }
+  ]
+}

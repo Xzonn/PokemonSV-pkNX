@@ -1,26 +1,26 @@
 {
-  "PushBallPower": {
+  "Ball": {
     "Forward": 1,
     "Upper": 0.2,
     "RideForward": 0.8,
     "RideUpper": 0.2
   },
-  "BoundOutsideFence": {
+  "Fence": {
     "Add": 2.5,
     "Magnification": 1
   },
   "BallStartHeightOffset": 0.04,
-  "FreeMoveParam": {
+  "FreeMove": {
     "FadeOutTime": 0.5,
     "FadeInTime": 0.2,
     "GoalBallVelocity": 0.5,
     "GoalTimeOut": 3
   },
-  "EventCommonParam": {
+  "CommonEvent": {
     "GoalBallVelocity": 0.5,
     "PlayerWaitTime": 2
   },
-  "SubEventParam": {
+  "SubEvent": {
     "ItemID": 4,
     "ItemNum": 0
   }

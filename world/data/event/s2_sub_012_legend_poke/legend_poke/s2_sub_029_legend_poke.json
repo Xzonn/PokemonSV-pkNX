@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_029_STATE",
+  "ReleaseItemId": 2538,
+  "ReactionMessage": "s2_sub_029_poke_01",
+  "EscapeMessage": "s2_sub_029_system_01",
+  "BattleEnemyId": "su2_legend_Reshiram",
+  "BattlePlayerPosName": "event_pos_s2_sub_029_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_50"
+}

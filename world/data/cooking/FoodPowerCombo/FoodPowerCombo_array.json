@@ -2,16 +2,8 @@
   "Table": [
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 8,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 17,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -48,16 +40,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 0,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 4,
-        "Ingredient1": 4,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -94,16 +78,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 15,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -140,16 +116,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 22,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 15,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -186,16 +154,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 19,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 15,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 85,
           "CAPTURE": 0,
@@ -232,16 +192,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 20,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 15,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -278,16 +230,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 21,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 15,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -324,16 +268,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 23,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 15,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -370,16 +306,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 22,
-        "Seasoning1": 8,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 3,
-        "Ingredient1": 14,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -416,16 +344,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 20,
-        "Seasoning1": 8,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 3,
-        "Ingredient1": 14,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -462,16 +382,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 19,
-        "Seasoning1": 8,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 3,
-        "Ingredient1": 14,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 85,
           "CAPTURE": 0,
@@ -508,16 +420,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 21,
-        "Seasoning1": 8,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 3,
-        "Ingredient1": 14,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -554,16 +458,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 23,
-        "Seasoning1": 8,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 3,
-        "Ingredient1": 14,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -600,16 +496,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 12,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 31,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 90,
@@ -646,16 +534,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 12,
-        "Seasoning1": 9,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 31,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -692,16 +572,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 12,
-        "Seasoning1": 9,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 31,
-        "Ingredient1": 34,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 90,
@@ -738,16 +610,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 12,
-        "Seasoning1": 9,
-        "Seasoning2": 19,
-        "Seasoning3": 0,
-        "Ingredient0": 31,
-        "Ingredient1": 34,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -784,16 +648,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 5,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -830,16 +686,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 5,
-        "Seasoning1": 4,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -876,16 +724,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 5,
-        "Seasoning1": 12,
-        "Seasoning2": 4,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -922,16 +762,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 5,
-        "Seasoning1": 12,
-        "Seasoning2": 23,
-        "Seasoning3": 4,
-        "Ingredient0": 30,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -968,16 +800,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -1014,16 +838,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 36,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -1060,16 +876,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 36,
-        "Ingredient2": 37,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 85,
           "CAPTURE": 80,
@@ -1106,16 +914,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 21,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 36,
-        "Ingredient2": 37,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 0,
@@ -1152,16 +952,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 29,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 85,
@@ -1198,16 +990,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 4,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 29,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -1244,16 +1028,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 11,
-        "Seasoning2": 4,
-        "Seasoning3": 0,
-        "Ingredient0": 29,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -1290,16 +1066,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 11,
-        "Seasoning2": 20,
-        "Seasoning3": 4,
-        "Ingredient0": 29,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1336,16 +1104,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 2,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 18,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1382,16 +1142,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 2,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 18,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1428,16 +1180,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 2,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 18,
-        "Ingredient1": 3,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1474,16 +1218,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 2,
-        "Seasoning1": 3,
-        "Seasoning2": 22,
-        "Seasoning3": 0,
-        "Ingredient0": 18,
-        "Ingredient1": 3,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1520,16 +1256,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 17,
-        "Seasoning1": 1,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 26,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1566,16 +1294,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 17,
-        "Seasoning1": 1,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 26,
-        "Ingredient1": 35,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1612,16 +1332,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 17,
-        "Seasoning1": 1,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 26,
-        "Ingredient1": 35,
-        "Ingredient2": 4,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1658,16 +1370,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 17,
-        "Seasoning1": 1,
-        "Seasoning2": 23,
-        "Seasoning3": 0,
-        "Ingredient0": 26,
-        "Ingredient1": 35,
-        "Ingredient2": 4,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -1704,16 +1408,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 9,
-        "Seasoning1": 10,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 32,
-        "Ingredient1": 32,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 90,
@@ -1750,16 +1446,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 9,
-        "Seasoning1": 10,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 32,
-        "Ingredient1": 32,
-        "Ingredient2": 33,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 90,
@@ -1796,16 +1484,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 9,
-        "Seasoning1": 10,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 32,
-        "Ingredient1": 32,
-        "Ingredient2": 33,
-        "Ingredient3": 31,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 85,
@@ -1842,16 +1522,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 9,
-        "Seasoning1": 10,
-        "Seasoning2": 19,
-        "Seasoning3": 0,
-        "Ingredient0": 32,
-        "Ingredient1": 32,
-        "Ingredient2": 33,
-        "Ingredient3": 31,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -1888,16 +1560,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 20,
-        "Ingredient1": 13,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 80,
@@ -1934,16 +1598,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 20,
-        "Ingredient1": 13,
-        "Ingredient2": 34,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -1980,16 +1636,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 20,
-        "Ingredient1": 13,
-        "Ingredient2": 34,
-        "Ingredient3": 35,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -2026,16 +1674,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 21,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 20,
-        "Ingredient1": 13,
-        "Ingredient2": 34,
-        "Ingredient3": 35,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -2072,16 +1712,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 13,
-        "Ingredient1": 21,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -2118,16 +1750,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 13,
-        "Ingredient1": 21,
-        "Ingredient2": 4,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -2164,16 +1788,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 13,
-        "Ingredient1": 21,
-        "Ingredient2": 4,
-        "Ingredient3": 3,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -2210,16 +1826,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 20,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 13,
-        "Ingredient1": 21,
-        "Ingredient2": 4,
-        "Ingredient3": 3,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2256,16 +1864,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 2,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 27,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2302,16 +1902,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 2,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 27,
-        "Ingredient1": 3,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2348,16 +1940,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 2,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 27,
-        "Ingredient1": 3,
-        "Ingredient2": 17,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2394,16 +1978,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 2,
-        "Seasoning2": 22,
-        "Seasoning3": 0,
-        "Ingredient0": 27,
-        "Ingredient1": 3,
-        "Ingredient2": 17,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2440,16 +2016,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 28,
-        "Ingredient1": 6,
-        "Ingredient2": 11,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -2486,16 +2054,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 28,
-        "Ingredient1": 6,
-        "Ingredient2": 11,
-        "Ingredient3": 13,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -2532,16 +2092,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 28,
-        "Ingredient1": 6,
-        "Ingredient2": 11,
-        "Ingredient3": 13,
-        "Ingredient4": 9,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -2578,16 +2130,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 19,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 28,
-        "Ingredient1": 6,
-        "Ingredient2": 11,
-        "Ingredient3": 13,
-        "Ingredient4": 9,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -2624,16 +2168,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 6,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 35,
-        "Ingredient1": 8,
-        "Ingredient2": 18,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2670,16 +2206,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 6,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 35,
-        "Ingredient1": 8,
-        "Ingredient2": 18,
-        "Ingredient3": 10,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2716,16 +2244,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 6,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 35,
-        "Ingredient1": 8,
-        "Ingredient2": 18,
-        "Ingredient3": 10,
-        "Ingredient4": 36,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2762,16 +2282,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 6,
-        "Seasoning1": 21,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 35,
-        "Ingredient1": 8,
-        "Ingredient2": 18,
-        "Ingredient3": 10,
-        "Ingredient4": 36,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2808,16 +2320,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 1,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 23,
-        "Ingredient1": 6,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2854,16 +2358,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 1,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 23,
-        "Ingredient1": 6,
-        "Ingredient2": 9,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2900,16 +2396,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 1,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 23,
-        "Ingredient1": 6,
-        "Ingredient2": 9,
-        "Ingredient3": 29,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2946,16 +2434,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 1,
-        "Seasoning2": 20,
-        "Seasoning3": 0,
-        "Ingredient0": 23,
-        "Ingredient1": 6,
-        "Ingredient2": 9,
-        "Ingredient3": 29,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -2992,16 +2472,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 29,
-        "Ingredient2": 24,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -3038,16 +2510,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 17,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 29,
-        "Ingredient2": 24,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -3084,16 +2548,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 17,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 29,
-        "Ingredient2": 24,
-        "Ingredient3": 13,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -3130,16 +2586,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 17,
-        "Seasoning2": 22,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 29,
-        "Ingredient2": 24,
-        "Ingredient3": 13,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -3176,16 +2624,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 7,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 5,
-        "Ingredient1": 13,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -3222,16 +2662,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 7,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 5,
-        "Ingredient1": 13,
-        "Ingredient2": 33,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -3268,16 +2700,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 7,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 5,
-        "Ingredient1": 13,
-        "Ingredient2": 33,
-        "Ingredient3": 7,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -3314,16 +2738,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 13,
-        "Seasoning1": 7,
-        "Seasoning2": 23,
-        "Seasoning3": 0,
-        "Ingredient0": 5,
-        "Ingredient1": 13,
-        "Ingredient2": 33,
-        "Ingredient3": 7,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -3360,16 +2776,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 14,
-        "Ingredient1": 3,
-        "Ingredient2": 4,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -3406,16 +2814,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 14,
-        "Ingredient1": 3,
-        "Ingredient2": 4,
-        "Ingredient3": 37,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -3452,16 +2852,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 14,
-        "Ingredient1": 3,
-        "Ingredient2": 4,
-        "Ingredient3": 37,
-        "Ingredient4": 29,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -3498,16 +2890,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 19,
-        "Seasoning3": 0,
-        "Ingredient0": 14,
-        "Ingredient1": 3,
-        "Ingredient2": 4,
-        "Ingredient3": 37,
-        "Ingredient4": 29,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -3544,16 +2928,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 2,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 22,
-        "Ingredient1": 28,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -3590,16 +2966,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 2,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 22,
-        "Ingredient1": 28,
-        "Ingredient2": 3,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -3636,16 +3004,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 2,
-        "Seasoning2": 16,
-        "Seasoning3": 0,
-        "Ingredient0": 22,
-        "Ingredient1": 28,
-        "Ingredient2": 3,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -3682,16 +3042,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 2,
-        "Seasoning2": 16,
-        "Seasoning3": 23,
-        "Ingredient0": 22,
-        "Ingredient1": 28,
-        "Ingredient2": 3,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -3728,16 +3080,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 15,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -3774,16 +3118,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 15,
-        "Ingredient2": 16,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -3820,16 +3156,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 15,
-        "Ingredient2": 16,
-        "Ingredient3": 35,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -3866,16 +3194,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 1,
-        "Seasoning1": 3,
-        "Seasoning2": 20,
-        "Seasoning3": 0,
-        "Ingredient0": 7,
-        "Ingredient1": 15,
-        "Ingredient2": 16,
-        "Ingredient3": 35,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -3912,16 +3232,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 11,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 29,
-        "Ingredient1": 0,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -3958,16 +3270,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 11,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 29,
-        "Ingredient1": 13,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4004,16 +3308,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 11,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 29,
-        "Ingredient1": 13,
-        "Ingredient2": 37,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -4050,16 +3346,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 11,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 20,
-        "Ingredient0": 29,
-        "Ingredient1": 13,
-        "Ingredient2": 37,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4096,16 +3384,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 8,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -4142,16 +3422,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 16,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 8,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -4188,16 +3460,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 16,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 8,
-        "Ingredient2": 36,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -4234,16 +3498,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 16,
-        "Seasoning3": 19,
-        "Ingredient0": 19,
-        "Ingredient1": 8,
-        "Ingredient2": 36,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4280,16 +3536,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 21,
-        "Ingredient1": 36,
-        "Ingredient2": 0,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4326,16 +3574,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 21,
-        "Ingredient1": 36,
-        "Ingredient2": 9,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4372,16 +3612,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 21,
-        "Ingredient1": 36,
-        "Ingredient2": 9,
-        "Ingredient3": 37,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4418,16 +3650,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 8,
-        "Seasoning2": 7,
-        "Seasoning3": 20,
-        "Ingredient0": 21,
-        "Ingredient1": 36,
-        "Ingredient2": 9,
-        "Ingredient3": 37,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4464,16 +3688,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 0,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 34,
-        "Ingredient3": 33,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 85,
@@ -4510,16 +3726,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 13,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 34,
-        "Ingredient3": 33,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 85,
@@ -4556,16 +3764,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 13,
-        "Seasoning2": 9,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 34,
-        "Ingredient3": 33,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 80,
           "CAPTURE": 85,
@@ -4602,16 +3802,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 13,
-        "Seasoning2": 9,
-        "Seasoning3": 19,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 34,
-        "Ingredient3": 33,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -4648,16 +3840,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 5,
-        "Ingredient2": 21,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -4694,16 +3878,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 5,
-        "Ingredient2": 21,
-        "Ingredient3": 28,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -4740,16 +3916,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 5,
-        "Ingredient2": 21,
-        "Ingredient3": 28,
-        "Ingredient4": 19,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -4786,16 +3954,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 22,
-        "Seasoning3": 0,
-        "Ingredient0": 16,
-        "Ingredient1": 5,
-        "Ingredient2": 21,
-        "Ingredient3": 28,
-        "Ingredient4": 19,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -4832,16 +3992,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 20,
-        "Ingredient1": 4,
-        "Ingredient2": 3,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -4878,16 +4030,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 18,
-        "Seasoning3": 0,
-        "Ingredient0": 20,
-        "Ingredient1": 4,
-        "Ingredient2": 3,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -4924,16 +4068,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 18,
-        "Seasoning3": 0,
-        "Ingredient0": 20,
-        "Ingredient1": 4,
-        "Ingredient2": 3,
-        "Ingredient3": 12,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -4970,16 +4106,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 18,
-        "Seasoning3": 23,
-        "Ingredient0": 20,
-        "Ingredient1": 4,
-        "Ingredient2": 3,
-        "Ingredient3": 12,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -5016,16 +4144,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 4,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 29,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -5062,16 +4182,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 4,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 29,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -5108,16 +4220,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 4,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 29,
-        "Ingredient3": 37,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 90,
           "CAPTURE": 0,
@@ -5154,16 +4258,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 10,
-        "Seasoning1": 4,
-        "Seasoning2": 7,
-        "Seasoning3": 21,
-        "Ingredient0": 30,
-        "Ingredient1": 32,
-        "Ingredient2": 29,
-        "Ingredient3": 37,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -5200,16 +4296,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 15,
-        "Seasoning3": 0,
-        "Ingredient0": 10,
-        "Ingredient1": 5,
-        "Ingredient2": 6,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5246,16 +4334,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 15,
-        "Seasoning3": 0,
-        "Ingredient0": 10,
-        "Ingredient1": 5,
-        "Ingredient2": 6,
-        "Ingredient3": 9,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5292,16 +4372,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 15,
-        "Seasoning3": 0,
-        "Ingredient0": 10,
-        "Ingredient1": 5,
-        "Ingredient2": 6,
-        "Ingredient3": 9,
-        "Ingredient4": 36,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5338,16 +4410,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 14,
-        "Seasoning2": 15,
-        "Seasoning3": 20,
-        "Ingredient0": 10,
-        "Ingredient1": 5,
-        "Ingredient2": 6,
-        "Ingredient3": 9,
-        "Ingredient4": 36,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5384,16 +4448,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 5,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 24,
-        "Ingredient1": 22,
-        "Ingredient2": 16,
-        "Ingredient3": 28,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5430,16 +4486,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 5,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 24,
-        "Ingredient1": 22,
-        "Ingredient2": 16,
-        "Ingredient3": 28,
-        "Ingredient4": 18,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5476,16 +4524,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 5,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 24,
-        "Ingredient1": 22,
-        "Ingredient2": 16,
-        "Ingredient3": 28,
-        "Ingredient4": 18,
-        "Ingredient5": 19,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -5522,16 +4562,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 5,
-        "Seasoning2": 21,
-        "Seasoning3": 0,
-        "Ingredient0": 24,
-        "Ingredient1": 22,
-        "Ingredient2": 16,
-        "Ingredient3": 28,
-        "Ingredient4": 18,
-        "Ingredient5": 19,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5568,16 +4600,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 3,
-        "Seasoning1": 6,
-        "Seasoning2": 8,
-        "Seasoning3": 0,
-        "Ingredient0": 17,
-        "Ingredient1": 8,
-        "Ingredient2": 10,
-        "Ingredient3": 0,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -5614,16 +4638,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 3,
-        "Seasoning1": 6,
-        "Seasoning2": 8,
-        "Seasoning3": 0,
-        "Ingredient0": 17,
-        "Ingredient1": 8,
-        "Ingredient2": 10,
-        "Ingredient3": 37,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -5660,16 +4676,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 3,
-        "Seasoning1": 6,
-        "Seasoning2": 8,
-        "Seasoning3": 0,
-        "Ingredient0": 17,
-        "Ingredient1": 8,
-        "Ingredient2": 10,
-        "Ingredient3": 37,
-        "Ingredient4": 35,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -5706,16 +4714,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 3,
-        "Seasoning1": 6,
-        "Seasoning2": 8,
-        "Seasoning3": 23,
-        "Ingredient0": 17,
-        "Ingredient1": 8,
-        "Ingredient2": 10,
-        "Ingredient3": 37,
-        "Ingredient4": 35,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -5752,16 +4752,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 18,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 36,
-        "Ingredient1": 12,
-        "Ingredient2": 8,
-        "Ingredient3": 4,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5798,16 +4790,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 18,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 36,
-        "Ingredient1": 12,
-        "Ingredient2": 8,
-        "Ingredient3": 4,
-        "Ingredient4": 6,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5844,16 +4828,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 18,
-        "Seasoning2": 1,
-        "Seasoning3": 0,
-        "Ingredient0": 36,
-        "Ingredient1": 12,
-        "Ingredient2": 8,
-        "Ingredient3": 4,
-        "Ingredient4": 6,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -5890,16 +4866,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 18,
-        "Seasoning2": 1,
-        "Seasoning3": 19,
-        "Ingredient0": 36,
-        "Ingredient1": 12,
-        "Ingredient2": 8,
-        "Ingredient3": 4,
-        "Ingredient4": 6,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -5936,16 +4904,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 16,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 4,
-        "Ingredient2": 33,
-        "Ingredient3": 34,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -5982,16 +4942,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 16,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 4,
-        "Ingredient2": 33,
-        "Ingredient3": 34,
-        "Ingredient4": 13,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -6028,16 +4980,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 16,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 4,
-        "Ingredient2": 33,
-        "Ingredient3": 34,
-        "Ingredient4": 13,
-        "Ingredient5": 29,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 90,
@@ -6074,16 +5018,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 4,
-        "Seasoning1": 16,
-        "Seasoning2": 22,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 4,
-        "Ingredient2": 33,
-        "Ingredient3": 34,
-        "Ingredient4": 13,
-        "Ingredient5": 29,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -6120,16 +5056,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 14,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 21,
-        "Ingredient1": 20,
-        "Ingredient2": 36,
-        "Ingredient3": 37,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -6166,16 +5094,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 14,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 21,
-        "Ingredient1": 20,
-        "Ingredient2": 36,
-        "Ingredient3": 37,
-        "Ingredient4": 25,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6212,16 +5132,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 14,
-        "Seasoning2": 7,
-        "Seasoning3": 0,
-        "Ingredient0": 21,
-        "Ingredient1": 20,
-        "Ingredient2": 36,
-        "Ingredient3": 37,
-        "Ingredient4": 25,
-        "Ingredient5": 9,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6258,16 +5170,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 15,
-        "Seasoning1": 14,
-        "Seasoning2": 7,
-        "Seasoning3": 23,
-        "Ingredient0": 21,
-        "Ingredient1": 20,
-        "Ingredient2": 36,
-        "Ingredient3": 37,
-        "Ingredient4": 25,
-        "Ingredient5": 9,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -6304,16 +5208,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 18,
-        "Seasoning1": 7,
-        "Seasoning2": 0,
-        "Seasoning3": 0,
-        "Ingredient0": 25,
-        "Ingredient1": 25,
-        "Ingredient2": 26,
-        "Ingredient3": 3,
-        "Ingredient4": 13,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 85,
           "CAPTURE": 80,
@@ -6350,16 +5246,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 18,
-        "Seasoning1": 7,
-        "Seasoning2": 16,
-        "Seasoning3": 0,
-        "Ingredient0": 25,
-        "Ingredient1": 25,
-        "Ingredient2": 26,
-        "Ingredient3": 3,
-        "Ingredient4": 13,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6396,16 +5284,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 18,
-        "Seasoning1": 7,
-        "Seasoning2": 16,
-        "Seasoning3": 0,
-        "Ingredient0": 25,
-        "Ingredient1": 25,
-        "Ingredient2": 26,
-        "Ingredient3": 3,
-        "Ingredient4": 13,
-        "Ingredient5": 36,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6442,16 +5322,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 18,
-        "Seasoning1": 7,
-        "Seasoning2": 16,
-        "Seasoning3": 20,
-        "Ingredient0": 25,
-        "Ingredient1": 25,
-        "Ingredient2": 26,
-        "Ingredient3": 3,
-        "Ingredient4": 13,
-        "Ingredient5": 36,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6488,16 +5360,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 0,
-        "Ingredient0": 27,
-        "Ingredient1": 11,
-        "Ingredient2": 14,
-        "Ingredient3": 12,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6534,16 +5398,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 0,
-        "Ingredient0": 27,
-        "Ingredient1": 11,
-        "Ingredient2": 14,
-        "Ingredient3": 12,
-        "Ingredient4": 35,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6580,16 +5436,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 0,
-        "Ingredient0": 27,
-        "Ingredient1": 11,
-        "Ingredient2": 14,
-        "Ingredient3": 12,
-        "Ingredient4": 35,
-        "Ingredient5": 23,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6626,16 +5474,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 19,
-        "Ingredient0": 27,
-        "Ingredient1": 11,
-        "Ingredient2": 14,
-        "Ingredient3": 12,
-        "Ingredient4": 35,
-        "Ingredient5": 23,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 85,
           "CAPTURE": 0,
@@ -6672,16 +5512,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 27,
-        "Ingredient2": 28,
-        "Ingredient3": 26,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -6718,16 +5550,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 27,
-        "Ingredient2": 28,
-        "Ingredient3": 26,
-        "Ingredient4": 20,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -6764,16 +5588,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 0,
-        "Ingredient0": 19,
-        "Ingredient1": 27,
-        "Ingredient2": 28,
-        "Ingredient3": 26,
-        "Ingredient4": 20,
-        "Ingredient5": 25,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6810,16 +5626,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 14,
-        "Seasoning1": 7,
-        "Seasoning2": 17,
-        "Seasoning3": 22,
-        "Ingredient0": 19,
-        "Ingredient1": 27,
-        "Ingredient2": 28,
-        "Ingredient3": 26,
-        "Ingredient4": 20,
-        "Ingredient5": 25,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,
@@ -6856,16 +5664,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 18,
-        "Seasoning3": 0,
-        "Ingredient0": 26,
-        "Ingredient1": 21,
-        "Ingredient2": 21,
-        "Ingredient3": 20,
-        "Ingredient4": 0,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -6902,16 +5702,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 18,
-        "Seasoning3": 0,
-        "Ingredient0": 26,
-        "Ingredient1": 21,
-        "Ingredient2": 21,
-        "Ingredient3": 20,
-        "Ingredient4": 36,
-        "Ingredient5": 0,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 80,
@@ -6948,16 +5740,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 18,
-        "Seasoning3": 0,
-        "Ingredient0": 26,
-        "Ingredient1": 21,
-        "Ingredient2": 21,
-        "Ingredient3": 20,
-        "Ingredient4": 36,
-        "Ingredient5": 20,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 85,
@@ -6994,16 +5778,8 @@
     },
     {
       "Param": {
-        "Seasoning0": 7,
-        "Seasoning1": 15,
-        "Seasoning2": 18,
-        "Seasoning3": 21,
-        "Ingredient0": 26,
-        "Ingredient1": 21,
-        "Ingredient2": 21,
-        "Ingredient3": 20,
-        "Ingredient4": 36,
-        "Ingredient5": 20,
+        "Seasoning_Length": 4,
+        "Ingredient_Length": 6,
         "FoodPower": {
           "EGG": 0,
           "CAPTURE": 0,

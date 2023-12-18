@@ -1,0 +1,16 @@
+{
+  "Fetch": 50,
+  "Release": 60,
+  "PopNumEasy": 15,
+  "GetMiniEasy": 1,
+  "GetMaxEasy": 1,
+  "PopNumNormal": 15,
+  "GetMiniNormal": 2,
+  "GetMaxNormal": 3,
+  "PopNumHard": 15,
+  "GetMiniHard": 4,
+  "GetMaxHard": 5,
+  "ChangeAnimationMin": 5,
+  "ChangeAnimationMax": 7,
+  "RareMetamonRate": 100
+}

@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_022_STATE",
+  "ReleaseItemId": 2531,
+  "ReactionMessage": "s2_sub_022_poke_01",
+  "EscapeMessage": "s2_sub_022_system_01",
+  "BattleEnemyId": "su2_legend_Latios",
+  "BattlePlayerPosName": "event_pos_s2_sub_022_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": true,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_47"
+}

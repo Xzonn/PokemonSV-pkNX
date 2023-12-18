@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_018_STATE",
+  "ReleaseItemId": 2527,
+  "ReactionMessage": "s2_sub_018_poke_01",
+  "EscapeMessage": "s2_sub_018_system_01",
+  "BattleEnemyId": "su2_legend_Suicune",
+  "BattlePlayerPosName": "event_pos_s2_sub_018_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_44"
+}

@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_023_STATE",
+  "ReleaseItemId": 2532,
+  "ReactionMessage": "s2_sub_023_poke_01",
+  "EscapeMessage": "s2_sub_023_system_01",
+  "BattleEnemyId": "su2_legend_Kyogre",
+  "BattlePlayerPosName": "event_pos_s2_sub_023_battle_player",
+  "BattlePokePosName": "event_pos_s2_sub_023_battle_poke",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_48"
+}

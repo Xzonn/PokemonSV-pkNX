@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_033_STATE",
+  "ReleaseItemId": 2542,
+  "ReactionMessage": "s2_sub_033_poke_01",
+  "EscapeMessage": "s2_sub_033_system_01",
+  "BattleEnemyId": "su2_legend_Lunala",
+  "BattlePlayerPosName": "event_pos_s2_sub_033_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": true,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_53"
+}

@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_036_STATE",
+  "ReleaseItemId": 2545,
+  "ReactionMessage": "s2_sub_036_poke_01",
+  "EscapeMessage": "s2_sub_036_system_01",
+  "BattleEnemyId": "su2_legend_Glastrier",
+  "BattlePlayerPosName": "event_pos_s2_sub_036_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_55"
+}

@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_037_STATE",
+  "ReleaseItemId": 2546,
+  "ReactionMessage": "s2_sub_037_poke_01",
+  "EscapeMessage": "s2_sub_037_system_01",
+  "BattleEnemyId": "su2_legend_Spectrier",
+  "BattlePlayerPosName": "event_pos_s2_sub_037_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_55"
+}

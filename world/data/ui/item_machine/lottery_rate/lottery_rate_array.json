@@ -1,0 +1,25 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "Table": [
+          {
+            "DefaultRate": 980,
+            "BonusRate": 1000,
+            "SpecialRate": 0
+          },
+          {
+            "DefaultRate": 20,
+            "BonusRate": 0,
+            "SpecialRate": 0
+          },
+          {
+            "DefaultRate": 0,
+            "BonusRate": 0,
+            "SpecialRate": 1000
+          }
+        ]
+      }
+    }
+  ]
+}

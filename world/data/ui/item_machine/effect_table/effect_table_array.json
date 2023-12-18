@@ -1,0 +1,104 @@
+{
+  "Table": [
+    {
+      "Param": {
+        "Default": [
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 30,
+            "Gold": 70,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 0,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          }
+        ],
+        "Special": [
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 30,
+            "Gold": 70,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 0,
+            "Gold": 30,
+            "Rainbow": 70,
+            "Fluctuation": 0
+          }
+        ],
+        "Bonus": [
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 100,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 30,
+            "Gold": 70,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          },
+          {
+            "Default": 0,
+            "Gold": 0,
+            "Rainbow": 0,
+            "Fluctuation": 0
+          }
+        ]
+      }
+    }
+  ]
+}

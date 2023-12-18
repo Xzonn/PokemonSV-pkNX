@@ -1,0 +1,769 @@
+{
+  "Table": [
+    {
+      "EventID": "sdc01_0040",
+      "MapIconMode": 0,
+      "IconID": "ONI_BALLOON",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0040",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0010",
+      "MapIconMode": 1,
+      "IconID": "S1_SIDE02_0010",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0020",
+      "MapIconMode": 0,
+      "IconID": "S1_SIDE02_0010",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0020",
+      "MapIconMode": 1,
+      "IconID": "S1_SIDE02_0020",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0020",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0030",
+      "MapIconMode": 0,
+      "IconID": "S1_SIDE02_0020",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0020",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0030",
+      "MapIconMode": 1,
+      "IconID": "S1_SIDE02_0030",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0030",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0035",
+      "MapIconMode": 0,
+      "IconID": "S1_SIDE02_0030",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0030",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0035",
+      "MapIconMode": 1,
+      "IconID": "S1_SIDE02_0035",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0035",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0040",
+      "MapIconMode": 0,
+      "IconID": "S1_SIDE02_0035",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0035",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0040",
+      "MapIconMode": 1,
+      "IconID": "S1_SIDE02_0040",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0040",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0050",
+      "MapIconMode": 0,
+      "IconID": "S1_SIDE02_0040",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0040",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0050",
+      "MapIconMode": 1,
+      "IconID": "S1_SIDE02_0050",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0050",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "s1_side02_0060",
+      "MapIconMode": 0,
+      "IconID": "S1_SIDE02_0050",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_S1_SIDE02_0050",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0040",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0040",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0040",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0050",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0040",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0040",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0050",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0050",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0050",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0070",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0050",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0050",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0070",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0070",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0070",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0090",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0070",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0070",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0090",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0090",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0090",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0100",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0090",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0090",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0100",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0100",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0100",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_side01_010",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0100",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0100",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0105",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0105",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0105",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0110",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0105",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0105",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0110",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0110",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0110",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0120",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0110",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0110",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0120",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0120",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0120",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0130",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0120",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0120",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0170",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0170",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0170",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0190",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0170",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0170",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0190",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0190",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0190",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0200",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0190",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0190",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0200",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0200",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0200",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0210",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0200",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0200",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0210",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0210",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0210",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0220",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0210",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0210",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0220",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0220",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0220",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0260",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0220",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0220",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0260",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0260",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0260",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0270",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0260",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0260",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0270",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0270",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0270",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_side01_030",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0270",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0270",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0280",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0280",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0280",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0290",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0280",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0280",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0290",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0290",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0290",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0300",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0290",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0290",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0300",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0300",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0300",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0310",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0300",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0300",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0310",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0310",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0310",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0340",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0310",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0310",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0340",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0340",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0340",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0350",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0340",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0340",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0350",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0350",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0350",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0360",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0350",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0350",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0360",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0360",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0360",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0370",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0360",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0360",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0370",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0370",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0370",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0390",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0370",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0370",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0420",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0420",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0420",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0430",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0420",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0420",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0430",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0430",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0430",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0440",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0430",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0430",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0440",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0440",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0440",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0450",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0440",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0440",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0450",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0450",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0450",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0470",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0450",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0450",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0470",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0470",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0470",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0480",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0470",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0470",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0480",
+      "MapIconMode": 1,
+      "IconID": "SDC01_0480",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0480",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0490",
+      "MapIconMode": 0,
+      "IconID": "SDC01_0480",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_0480",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_side01_010",
+      "MapIconMode": 1,
+      "IconID": "SDC01_SIDE01_010",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_SIDE01_010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_side01_020",
+      "MapIconMode": 0,
+      "IconID": "SDC01_SIDE01_010",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_SIDE01_010",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_side01_020",
+      "MapIconMode": 1,
+      "IconID": "SDC01_SIDE01_020",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_SIDE01_020",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0105",
+      "MapIconMode": 0,
+      "IconID": "SDC01_SIDE01_020",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_SIDE01_020",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_side01_030",
+      "MapIconMode": 1,
+      "IconID": "SDC01_SIDE01_030",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_SIDE01_030",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0280",
+      "MapIconMode": 0,
+      "IconID": "SDC01_SIDE01_030",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_SDC01_SIDE01_030",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0390",
+      "MapIconMode": 1,
+      "IconID": "TOMOKKO_INU",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_inu",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_3gods_a",
+      "MapIconMode": 0,
+      "IconID": "TOMOKKO_INU",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_inu",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0390",
+      "MapIconMode": 1,
+      "IconID": "TOMOKKO_KIJI_00",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_kiji",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_3gods_c_before",
+      "MapIconMode": 0,
+      "IconID": "TOMOKKO_KIJI_00",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_kiji",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_3gods_c_before",
+      "MapIconMode": 1,
+      "IconID": "TOMOKKO_KIJI_01",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_kiji",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_3gods_c",
+      "MapIconMode": 0,
+      "IconID": "TOMOKKO_KIJI_01",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_kiji",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_0390",
+      "MapIconMode": 1,
+      "IconID": "TOMOKKO_SARU",
+      "IsNotice": true,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_saru",
+      "SubDestinationName": ""
+    },
+    {
+      "EventID": "sdc01_3gods_b",
+      "MapIconMode": 0,
+      "IconID": "TOMOKKO_SARU",
+      "IsNotice": false,
+      "ChapterTitle": "",
+      "DestinationName": "ymap_title_tomokko_saru",
+      "SubDestinationName": ""
+    }
+  ]
+}

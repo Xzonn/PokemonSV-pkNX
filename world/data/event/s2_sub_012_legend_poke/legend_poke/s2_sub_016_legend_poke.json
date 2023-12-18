@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_016_STATE",
+  "ReleaseItemId": 2525,
+  "ReactionMessage": "s2_sub_016_poke_01",
+  "EscapeMessage": "s2_sub_016_system_01",
+  "BattleEnemyId": "su2_legend_Raikou",
+  "BattlePlayerPosName": "event_pos_s2_sub_016_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_42"
+}

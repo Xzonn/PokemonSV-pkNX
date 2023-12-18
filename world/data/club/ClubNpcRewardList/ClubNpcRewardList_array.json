@@ -1,0 +1,634 @@
+{
+  "Table": [
+    {
+      "Coach": 0,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 1904,
+        "RewardIdF": -1,
+        "Count": 3
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 1,
+      "Reward01": {
+        "RewardType": 1,
+        "RewardId": 8073,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 2,
+      "Reward01": {
+        "RewardType": 1,
+        "RewardId": 8074,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 3,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 1908,
+        "RewardIdF": -1,
+        "Count": 3
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 4,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 1905,
+        "RewardIdF": -1,
+        "Count": 3
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 5,
+      "Reward01": {
+        "RewardType": 2,
+        "RewardId": 4212,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 6,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 207,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 7,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 48,
+        "RewardIdF": -1,
+        "Count": 5
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 8,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 1606,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 9,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 50,
+        "RewardIdF": -1,
+        "Count": 10
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 10,
+      "Reward01": {
+        "RewardType": 2,
+        "RewardId": 5575,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 11,
+      "Reward01": {
+        "RewardType": 2,
+        "RewardId": 1165,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 12,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 583,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 13,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 1907,
+        "RewardIdF": -1,
+        "Count": 3
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 14,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 51,
+        "RewardIdF": -1,
+        "Count": 5
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 15,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 46,
+        "RewardIdF": -1,
+        "Count": 5
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 16,
+      "Reward01": {
+        "RewardType": 3,
+        "RewardId": 25,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 17,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 1906,
+        "RewardIdF": -1,
+        "Count": 3
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 18,
+      "Reward01": {
+        "RewardType": 3,
+        "RewardId": 111,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 19,
+      "Reward01": {
+        "RewardType": 2,
+        "RewardId": 2153,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 20,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 275,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 21,
+      "Reward01": {
+        "RewardType": 1,
+        "RewardId": 8069,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": 1,
+        "RewardId": 8070,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": 1,
+        "RewardId": 8071,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 22,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 2341,
+        "RewardIdF": -1,
+        "Count": 20
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 23,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 2548,
+        "RewardIdF": -1,
+        "Count": 20
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 24,
+      "Reward01": {
+        "RewardType": 3,
+        "RewardId": 110,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 25,
+      "Reward01": {
+        "RewardType": 2,
+        "RewardId": 8076,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 26,
+      "Reward01": {
+        "RewardType": 2,
+        "RewardId": 7036,
+        "RewardIdF": 7037,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 27,
+      "Reward01": {
+        "RewardType": 2,
+        "RewardId": 1224,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 28,
+      "Reward01": {
+        "RewardType": 1,
+        "RewardId": 8077,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    },
+    {
+      "Coach": 29,
+      "Reward01": {
+        "RewardType": 0,
+        "RewardId": 583,
+        "RewardIdF": -1,
+        "Count": 3
+      },
+      "Reward02": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      },
+      "Reward03": {
+        "RewardType": -1,
+        "RewardId": 0,
+        "RewardIdF": -1,
+        "Count": 1
+      }
+    }
+  ]
+}

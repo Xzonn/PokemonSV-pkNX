@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_019_STATE",
+  "ReleaseItemId": 2528,
+  "ReactionMessage": "s2_sub_019_poke_01",
+  "EscapeMessage": "s2_sub_019_system_01",
+  "BattleEnemyId": "su2_legend_Lugia",
+  "BattlePlayerPosName": "event_pos_s2_sub_019_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": true,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_45"
+}

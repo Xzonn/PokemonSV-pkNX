@@ -2,41 +2,31 @@
   "Table": [
     {
       "Param": {
-        "TakaraSeasoning0": 19,
-        "TakaraSeasoning1": 0,
-        "TakaraSeasoning2": 0,
+        "TakaraSeasonings_Length": 3,
         "SkillType": 1
       }
     },
     {
       "Param": {
-        "TakaraSeasoning0": 20,
-        "TakaraSeasoning1": 0,
-        "TakaraSeasoning2": 0,
+        "TakaraSeasonings_Length": 3,
         "SkillType": 3
       }
     },
     {
       "Param": {
-        "TakaraSeasoning0": 21,
-        "TakaraSeasoning1": 0,
-        "TakaraSeasoning2": 0,
+        "TakaraSeasonings_Length": 3,
         "SkillType": 3
       }
     },
     {
       "Param": {
-        "TakaraSeasoning0": 22,
-        "TakaraSeasoning1": 0,
-        "TakaraSeasoning2": 0,
+        "TakaraSeasonings_Length": 3,
         "SkillType": 3
       }
     },
     {
       "Param": {
-        "TakaraSeasoning0": 23,
-        "TakaraSeasoning1": 0,
-        "TakaraSeasoning2": 0,
+        "TakaraSeasonings_Length": 3,
         "SkillType": 6
       }
     }

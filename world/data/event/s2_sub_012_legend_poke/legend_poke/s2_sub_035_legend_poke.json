@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_035_STATE",
+  "ReleaseItemId": 2544,
+  "ReactionMessage": "s2_sub_035_poke_01",
+  "EscapeMessage": "s2_sub_035_system_01",
+  "BattleEnemyId": "su2_legend_Dkuma",
+  "BattlePlayerPosName": "event_pos_s2_sub_035_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": false,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_54"
+}

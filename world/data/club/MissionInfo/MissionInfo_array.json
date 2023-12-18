@@ -1,0 +1,900 @@
+{
+  "Table": [
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 10,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 200,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 8
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 1,
+        "MissionId": 3,
+        "Goal": 30,
+        "RewardBp": 130,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 1,
+        "Weight": 13
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 1,
+        "MissionId": 4,
+        "Goal": 30,
+        "RewardBp": 130,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 9
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 8,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 100,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 1,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 8,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 100,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 8
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 27,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 150,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 0,
+        "Weight": 5
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 27,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 150,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 1,
+        "Weight": 25
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 27,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 150,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 15
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 6,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 150,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 15
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 7,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 130,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 1,
+        "Weight": 25
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 7,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 130,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 15
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 21,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 150,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 15
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 30,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 100,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 0,
+        "Weight": 95
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 30,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 100,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 1,
+        "Weight": 25
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 30,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 100,
+        "ReloadBp": 50,
+        "MissionReleaseType": 0,
+        "MissionGrade": 1,
+        "Difficulty": 2,
+        "Weight": 15
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 9,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 0,
+        "Weight": 17
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 9,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 14
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 9,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 34,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 0,
+        "Weight": 17
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 34,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 6
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 34,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 5
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 32,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 40,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 11
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 32,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 40,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 14
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 11,
+        "MissionId": 0,
+        "Goal": 10,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 0,
+        "Weight": 17
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 11,
+        "MissionId": 1,
+        "Goal": 10,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 14
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 11,
+        "MissionId": 2,
+        "Goal": 10,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 1,
+        "MissionId": 0,
+        "Goal": 10,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 0,
+        "Weight": 17
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 1,
+        "MissionId": 1,
+        "Goal": 10,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 14
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 1,
+        "MissionId": 2,
+        "Goal": 10,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 2,
+        "MissionId": 0,
+        "Goal": 500,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 0,
+        "Weight": 17
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 2,
+        "MissionId": 1,
+        "Goal": 500,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 14
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 2,
+        "MissionId": 2,
+        "Goal": 500,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 13
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 22,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 6
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 22,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 6
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 33,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 6
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 33,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 6
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 23,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 0,
+        "Weight": 7
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 23,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 6
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 23,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 6
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 31,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 30,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 9
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 29,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 0,
+        "Weight": 8
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 29,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 1,
+        "Weight": 9
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 29,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 20,
+        "ReloadBp": 10,
+        "MissionReleaseType": 0,
+        "MissionGrade": 0,
+        "Difficulty": 2,
+        "Weight": 5
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 0,
+        "Goal": 3,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 0,
+        "Weight": 11
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 1,
+        "Goal": 4,
+        "RewardBp": 550,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 0,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 2,
+        "Goal": 5,
+        "RewardBp": 600,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 0,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 6,
+        "Goal": 3,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 2,
+        "Weight": 11
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 7,
+        "Goal": 4,
+        "RewardBp": 550,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 2,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 8,
+        "Goal": 5,
+        "RewardBp": 600,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 2,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 3,
+        "Goal": 3,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 1,
+        "Weight": 11
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 4,
+        "Goal": 4,
+        "RewardBp": 550,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 1,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 15,
+        "MissionId": 5,
+        "Goal": 5,
+        "RewardBp": 600,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 1,
+        "Weight": 12
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 14,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 0,
+        "Weight": 35
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 14,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 1,
+        "Weight": 35
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 1,
+        "MissionType": 14,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 600,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 2,
+        "Weight": 35
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 5,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 0,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 5,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 1,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 2,
+        "MissionType": 5,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 500,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 2,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 25,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 400,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 0,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 25,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 400,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 1,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 25,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 400,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 2,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 3,
+        "MissionId": 0,
+        "Goal": 1,
+        "RewardBp": 400,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 0,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 3,
+        "MissionId": 1,
+        "Goal": 1,
+        "RewardBp": 400,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 1,
+        "Weight": 10
+      }
+    },
+    {
+      "MissionInfo": {
+        "MissionCategory": 3,
+        "MissionType": 3,
+        "MissionId": 2,
+        "Goal": 1,
+        "RewardBp": 400,
+        "ReloadBp": 99,
+        "MissionReleaseType": 0,
+        "MissionGrade": 2,
+        "Difficulty": 2,
+        "Weight": 10
+      }
+    }
+  ]
+}

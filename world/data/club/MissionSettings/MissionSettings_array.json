@@ -1,0 +1,799 @@
+{
+  "Table": [
+    {
+      "MissionType": 13,
+      "Variation": 3,
+      "Text": "bbmission_mission_02_04"
+    },
+    {
+      "MissionType": 13,
+      "Variation": 1,
+      "Text": "bbmission_mission_02_02"
+    },
+    {
+      "MissionType": 13,
+      "Variation": 0,
+      "Text": "bbmission_mission_02_01"
+    },
+    {
+      "MissionType": 13,
+      "Variation": 2,
+      "Text": "bbmission_mission_02_03"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 0,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 1,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 2,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 3,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 4,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 5,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 6,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 7,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 8,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 9,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 10,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 11,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 12,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 13,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 14,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 15,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 16,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 12,
+      "Variation": 17,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 0,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 1,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 2,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 3,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 4,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 5,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 6,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 7,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 8,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 9,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 10,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 11,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 12,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 13,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 14,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 15,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 16,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 32,
+      "Variation": 17,
+      "Text": "bbmission_mission_01_01"
+    },
+    {
+      "MissionType": 7,
+      "Variation": 3,
+      "Text": "bbmission_mission_06_04"
+    },
+    {
+      "MissionType": 15,
+      "Variation": 0,
+      "Text": "bbmission_mission_57_01"
+    },
+    {
+      "MissionType": 15,
+      "Variation": 2,
+      "Text": "bbmission_mission_57_03"
+    },
+    {
+      "MissionType": 15,
+      "Variation": 1,
+      "Text": "bbmission_mission_57_02"
+    },
+    {
+      "MissionType": 14,
+      "Variation": 0,
+      "Text": "bbmission_mission_56_01"
+    },
+    {
+      "MissionType": 14,
+      "Variation": 2,
+      "Text": "bbmission_mission_56_01"
+    },
+    {
+      "MissionType": 14,
+      "Variation": 1,
+      "Text": "bbmission_mission_56_01"
+    },
+    {
+      "MissionType": 6,
+      "Variation": 0,
+      "Text": "bbmission_mission_07_01"
+    },
+    {
+      "MissionType": 6,
+      "Variation": 4,
+      "Text": "bbmission_mission_07_05"
+    },
+    {
+      "MissionType": 6,
+      "Variation": 2,
+      "Text": "bbmission_mission_07_03"
+    },
+    {
+      "MissionType": 6,
+      "Variation": 3,
+      "Text": "bbmission_mission_07_04"
+    },
+    {
+      "MissionType": 6,
+      "Variation": 1,
+      "Text": "bbmission_mission_07_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 70,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 66,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 57,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 69,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 67,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 71,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 61,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 62,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 56,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 63,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 59,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 58,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 55,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 68,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 65,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 64,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 60,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 54,
+      "Text": "bbmission_mission_59_04"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 16,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 12,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 3,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 15,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 13,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 17,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 7,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 8,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 2,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 9,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 5,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 4,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 1,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 14,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 11,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 10,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 6,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 0,
+      "Text": "bbmission_mission_59_01"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 34,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 30,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 21,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 33,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 31,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 35,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 25,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 26,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 20,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 27,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 23,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 22,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 19,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 32,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 29,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 28,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 24,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 18,
+      "Text": "bbmission_mission_59_02"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 52,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 48,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 39,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 51,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 49,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 53,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 43,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 44,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 38,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 45,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 41,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 40,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 37,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 50,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 47,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 46,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 42,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 26,
+      "Variation": 36,
+      "Text": "bbmission_mission_59_03"
+    },
+    {
+      "MissionType": 22,
+      "Variation": 0,
+      "Text": "bbmission_mission_14_02"
+    },
+    {
+      "MissionType": 33,
+      "Variation": 4,
+      "Text": "bbmission_mission_64_04"
+    },
+    {
+      "MissionType": 33,
+      "Variation": 1,
+      "Text": "bbmission_mission_64_01"
+    },
+    {
+      "MissionType": 33,
+      "Variation": 2,
+      "Text": "bbmission_mission_64_02"
+    },
+    {
+      "MissionType": 33,
+      "Variation": 3,
+      "Text": "bbmission_mission_64_03"
+    },
+    {
+      "MissionType": 19,
+      "Variation": 2,
+      "Text": "bbmission_mission_12_02"
+    },
+    {
+      "MissionType": 19,
+      "Variation": 1,
+      "Text": "bbmission_mission_12_01"
+    },
+    {
+      "MissionType": 24,
+      "Variation": 0,
+      "Text": "bbmission_mission_14_04"
+    },
+    {
+      "MissionType": 23,
+      "Variation": 0,
+      "Text": "bbmission_mission_14_03"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 16,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 12,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 3,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 15,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 13,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 17,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 7,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 8,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 2,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 9,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 5,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 4,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 1,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 14,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 11,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 10,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 6,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 21,
+      "Variation": 0,
+      "Text": "bbmission_mission_14_01"
+    },
+    {
+      "MissionType": 20,
+      "Variation": 0,
+      "Text": "bbmission_mission_13_01"
+    },
+    {
+      "MissionType": 25,
+      "Variation": 4,
+      "Text": "bbmission_mission_58_04"
+    },
+    {
+      "MissionType": 25,
+      "Variation": 1,
+      "Text": "bbmission_mission_58_01"
+    },
+    {
+      "MissionType": 25,
+      "Variation": 2,
+      "Text": "bbmission_mission_58_02"
+    },
+    {
+      "MissionType": 25,
+      "Variation": 3,
+      "Text": "bbmission_mission_58_03"
+    },
+    {
+      "MissionType": 3,
+      "Variation": 0,
+      "Text": "bbmission_mission_11_01"
+    },
+    {
+      "MissionType": 3,
+      "Variation": 6,
+      "Text": "bbmission_mission_11_06"
+    },
+    {
+      "MissionType": 3,
+      "Variation": 7,
+      "Text": "bbmission_mission_11_07"
+    }
+  ]
+}

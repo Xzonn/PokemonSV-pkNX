@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_020_STATE",
+  "ReleaseItemId": 2529,
+  "ReactionMessage": "s2_sub_020_poke_01",
+  "EscapeMessage": "s2_sub_020_system_01",
+  "BattleEnemyId": "su2_legend_Houou",
+  "BattlePlayerPosName": "event_pos_s2_sub_020_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": true,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_46"
+}

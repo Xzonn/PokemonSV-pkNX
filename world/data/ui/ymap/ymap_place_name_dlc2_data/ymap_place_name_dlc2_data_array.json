@@ -1,0 +1,180 @@
+{
+  "Table": [
+    {
+      "ID": "su2bigfourdragon",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su2bigfourdragon",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1527.9631,
+        "MagnitudeSqr": 2334671.2,
+        "X": 379.413,
+        "Y": 0,
+        "Z": 1480.107
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su2bigfourfairy",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su2bigfourfairy",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2011.7302,
+        "MagnitudeSqr": 4047058.5,
+        "X": 1194.741,
+        "Y": 0,
+        "Z": 1618.534
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su2bigfourfire",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su2bigfourfire",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1206.4608,
+        "MagnitudeSqr": 1455547.8,
+        "X": 1148.461,
+        "Y": 0,
+        "Z": 369.574
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su2bigfoursteel",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su2bigfoursteel",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 718.8184,
+        "MagnitudeSqr": 516699.9,
+        "X": 483.07,
+        "Y": 0,
+        "Z": 532.3
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su2city",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su2city",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1443.6935,
+        "MagnitudeSqr": 2084250.8,
+        "X": 1018.404,
+        "Y": 0,
+        "Z": 1023.281
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su02d01",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su02d01",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1353.9336,
+        "MagnitudeSqr": 1833136.2,
+        "X": 659.463,
+        "Y": 0,
+        "Z": 1182.474
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "su02d02",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su02d02",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1698.1836,
+        "MagnitudeSqr": 2883827.5,
+        "X": 1228.142,
+        "Y": 0,
+        "Z": 1172.815
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "su0201",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su0201",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1536.208,
+        "MagnitudeSqr": 2359935,
+        "X": 1400.266,
+        "Y": 0,
+        "Z": 631.815
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su0202",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su0202",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1939.6793,
+        "MagnitudeSqr": 3762355.8,
+        "X": 1400.266,
+        "Y": 0,
+        "Z": 1342.241
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su0203",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su0203",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 898.7806,
+        "MagnitudeSqr": 807806.5,
+        "X": 639.231,
+        "Y": 0,
+        "Z": 631.815
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su0204",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su0204",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1486.6833,
+        "MagnitudeSqr": 2210227.2,
+        "X": 639.231,
+        "Y": 0,
+        "Z": 1342.241
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    }
+  ]
+}

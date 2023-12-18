@@ -1,0 +1,276 @@
+{
+  "Table": [
+    {
+      "ID": "su01center",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su01center",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1628.0996,
+        "MagnitudeSqr": 2650708.2,
+        "X": 1410.092,
+        "Y": 0,
+        "Z": 813.848
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su01d03",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su01d03",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1220.1183,
+        "MagnitudeSqr": 1488688.6,
+        "X": 927.484,
+        "Y": 0,
+        "Z": 792.756
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "su01d0401",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su01d0401",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1442.2028,
+        "MagnitudeSqr": 2079948.9,
+        "X": 1135.278,
+        "Y": 0,
+        "Z": 889.434
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "su01forest",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su01forest",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 2163.6528,
+        "MagnitudeSqr": 4681393.5,
+        "X": 1486.928,
+        "Y": 0,
+        "Z": 1571.763
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su01t10",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su01t10",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1263.4261,
+        "MagnitudeSqr": 1596245.8,
+        "X": 1140.052,
+        "Y": 0,
+        "Z": 544.543
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su01w02",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su01w02",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1081.2853,
+        "MagnitudeSqr": 1169177.8,
+        "X": 918.551,
+        "Y": 0,
+        "Z": 570.475
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su01w05",
+      "PlaceNameMstxtLabl": "ymap_place_name_subarea_su01w05",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1351.8646,
+        "MagnitudeSqr": 1827538,
+        "X": 688.06,
+        "Y": 0,
+        "Z": 1163.663
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su101",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su101",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1173.0631,
+        "MagnitudeSqr": 1376077,
+        "X": 1106.924,
+        "Y": 0,
+        "Z": 388.325
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "su102",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su102",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1033.8156,
+        "MagnitudeSqr": 1068774.6,
+        "X": 936.529,
+        "Y": 0,
+        "Z": 437.822
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su103",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su103",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1536.8655,
+        "MagnitudeSqr": 2361955.5,
+        "X": 1435.954,
+        "Y": 0,
+        "Z": 547.715
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "su104",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su104",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1386.0471,
+        "MagnitudeSqr": 1921126.6,
+        "X": 1137.691,
+        "Y": 0,
+        "Z": 791.698
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su106",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su106",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1393.3185,
+        "MagnitudeSqr": 1941336.5,
+        "X": 966.322,
+        "Y": 0,
+        "Z": 1003.772
+      },
+      "IsDisplayInZoomOut": false,
+      "IsDisplayInZoomNormal": true,
+      "IsDisplayInZoomIn": true
+    },
+    {
+      "ID": "su107",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su107",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 911.26654,
+        "MagnitudeSqr": 830406.7,
+        "X": 428.401,
+        "Y": 0,
+        "Z": 804.288
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su108",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su108",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1694.5109,
+        "MagnitudeSqr": 2871367.2,
+        "X": 1644.051,
+        "Y": 0,
+        "Z": 410.443
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su109",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su109",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1897.3209,
+        "MagnitudeSqr": 3599826.5,
+        "X": 1612.771,
+        "Y": 0,
+        "Z": 999.398
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su110",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su110",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1627.3776,
+        "MagnitudeSqr": 2648357.8,
+        "X": 571.925,
+        "Y": 0,
+        "Z": 1523.568
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    },
+    {
+      "ID": "su111",
+      "PlaceNameMstxtLabl": "ymap_place_name_a_su111",
+      "Field3DPos": {
+        "IsOne": false,
+        "IsZero": false,
+        "Magnitude": 1942.6862,
+        "MagnitudeSqr": 3774029.5,
+        "X": 1122.431,
+        "Y": 0,
+        "Z": 1585.616
+      },
+      "IsDisplayInZoomOut": true,
+      "IsDisplayInZoomNormal": false,
+      "IsDisplayInZoomIn": false
+    }
+  ]
+}

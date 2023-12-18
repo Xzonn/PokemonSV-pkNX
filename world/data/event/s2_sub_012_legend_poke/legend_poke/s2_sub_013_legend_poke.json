@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_013_STATE",
+  "ReleaseItemId": 2522,
+  "ReactionMessage": "s2_sub_013_poke_01",
+  "EscapeMessage": "s2_sub_013_system_01",
+  "BattleEnemyId": "su2_legend_freezer",
+  "BattlePlayerPosName": "event_pos_s2_sub_013_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": true,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_41"
+}

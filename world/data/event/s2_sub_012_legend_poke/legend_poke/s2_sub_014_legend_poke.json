@@ -1,0 +1,11 @@
+{
+  "StateWorkName": "WEVT_S2_SUB_014_STATE",
+  "ReleaseItemId": 2523,
+  "ReactionMessage": "s2_sub_014_poke_01",
+  "EscapeMessage": "s2_sub_014_system_01",
+  "BattleEnemyId": "su2_legend_Zapdos",
+  "BattlePlayerPosName": "event_pos_s2_sub_014_battle_player",
+  "BattlePokePosName": "",
+  "DisableGrounding": true,
+  "ReleaseBgmFlagName": "FSYS_BGM_VS_SELECT_41"
+}
